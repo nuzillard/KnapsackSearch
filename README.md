@@ -34,7 +34,9 @@
  
  Install a [Java runtime environment](https://www.java.com/fr/download/) (jre) if not already done.
  
- Change the first part of the first command in file predictSdf.bat so that what is written between double quotes is the path the java executable. It may be simply "java" if Java was installed by the default way. A non-default way can be to install first Java by the default way, copy the jre folder at the place you like and uninstall Java. This non-default Java installation may be desired to avoid being regularly warned by the messages sent by the Java updating service.
+ Windows: Change the first part of the command in file predictSdf.bat, so that what is written between double quotes is the path to the java executable. It may be simply "java" if Java was installed by the default way. A non-default way can be to install first Java by the default way, copy the jre folder at the place you like and uninstall Java. This non-default Java installation may be desired to avoid being regularly warned by the messages sent by the Java updating service.
+ 
+ Linux and Mac: Copy the files in the MacLinux folder to the main folder. Ensure that file predictSdf has execution permission.
  
  [Notepad++](https://notepad-plus-plus.org/downloads/) is recommended for text edition works.
  
