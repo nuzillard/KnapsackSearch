@@ -1,0 +1,36 @@
+family_from_web.py:
+	reads: familyname_genera.txt
+	writes: familyname_cid_species.txt
+
+family_cids.py:
+	reads: familyname_cid_species.txt
+	writes: familyname_cids.txt
+	writes: familyname_cid_all_species.txt
+
+compounds.py:
+	reads: familyname_cids.txt
+	writes: familyname_pickled
+
+make_2D_sdf.py:
+	reads: familyname_pickled
+	writes: familyname_2D.sdf
+
+basic_tags.py:
+	reads: familyname_2D.sdf
+	reads: familyname_pickled
+	reads: familyname_cid_all_species.txt
+	writes: familyname_2D_tagged.sdf
+
+predict_sdf.bat
+	reads: familyname_2D_tagged.sdf
+	writes: standard output, redirected to familyname_2D_nmr.txt
+	writes: standard error, redirected to errorlog.txt
+
+molsort.py:
+	reads: familyname_2D_nmr.txt
+	writes: familyname_2D_nmr_sorted.txt
+
+nmr_tags.py:
+	reads: familyname_2D_tagged.sdf
+	reads: familyname_2D_nmr_sorted.txt
+	writes: familyname.nmredata.sdf
