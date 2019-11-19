@@ -40,8 +40,6 @@
  
  [Notepad++](https://notepad-plus-plus.org/downloads/) is recommended for text edition works.
  
- The predictSdf.bat file has to be edited in order to work with Linux/Mac. Windows uses ';' as separator between file name where Linux/Mac require ','.
- 
  ## Usage
  
  Enter command `python process.py familyname` from the rdkit environment. As an example run `python process.py papaver` to collect data about compounds reported in KNApSAcK from Papaveracea, according to the list of genera written in file papaver_genera.txt. On November 19, 2019, the resulting papaver.nmredata.sdf file contained 476 molecules.
