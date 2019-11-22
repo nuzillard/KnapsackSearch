@@ -20,9 +20,9 @@
  
  The SMILES character strings are processed by [RDKit](https://www.rdkit.org/) to create a single SDF file that also contains 2D atomic coordinates.
  
- Each compound is associated to a list of carbon-13 NMR chemical shifts predicted by [nmrshiftdb2](https://nmrshiftdb.nmr.uni-koeln.de/) and presented as NMREDATA_ASSIGNMENT tags according to [NMReDATA](https://nmredata.org/).
+ Each compound is associated to a list of carbon-13 NMR chemical shifts predicted by [nmrshiftdb2](https://nmrshiftdb.nmr.uni-koeln.de/) under the NMRSHIFTDB2_ASSIGNMENT SDF tag.
  
- The whole KnapsackSearch process transforms the file *familyname*_genera.txt into the file *familyname*.nmredata.sdf. See file data_flow.txt and comments in the python scripts for the content of the eight intermediate files.
+ The whole KnapsackSearch process transforms the file *familyname*_genera.txt into the file *familyname*_knapsack.sdf. See file data_flow.txt and comments in the python scripts for the content of the eight intermediate files.
  
  The molecules built from SMILES strings are converted to InChI strings. The molecules for which this recalculated InChI string is different from the original one are discarded from the final result file. Discrepancies seem to arise from atom configuration differences.
  
