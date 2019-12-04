@@ -97,5 +97,5 @@ run_command(command)
 nmr_tags.py:
 	reads: familyname_2D_tagged.sdf
 	reads: familyname_2D_nmr_sorted.txt
-	writes: familyname.nmredata.sdf
+	writes: familyname_knapsack.sdf
 """

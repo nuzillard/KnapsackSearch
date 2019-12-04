@@ -20,6 +20,7 @@ and with structural data from file familyname_pickled.
 
 import pickle
 from rdkit import Chem
+from rdkit.Chem.rdMolDescriptors import CalcMolFormula
 import sys
 
 family = sys.argv[1]
@@ -56,6 +57,9 @@ for m in reader:
 	nitrogens = [a for a in m.GetAtoms() if a.GetSymbol() == 'N']
 	m.SetProp('Contains_Nitrogen', 'True' if nitrogens else 'False')
 # append a new SDF tag with True/False value for the presence of at least one nitrogen atom
+	formula = CalcMolFormula(m)
+	m.SetProp('Formula', formula)
+# replace formula fom KNApSAcK by the one from RDKit, because the former might be wrong (4 Dec 2019)
 	if cid in cids_all_species_dict:
 		m.SetProp('In_Species', cids_all_species_dict[cid])
 # append a new SDF tag for the presence of the compound in organism binomial_name
