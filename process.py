@@ -56,7 +56,10 @@ compounds.py:
 	writes: familyname_pickled
 """
 
+# comment first command line below, uncomment second command line below for alternative 2D coordinates calculations
+# uncomment first command line below, comment second command line below for standard 2D coordinates calculations
 command = "python make_2D_sdf.py " + family
+# command = "python alt_make_2D_sdf.py " + family
 run_command(command)
 """
 make_2D_sdf.py:
