@@ -16,7 +16,14 @@ described only with 2D MolBlocks, including 3D geometry hints.
 
 import pickle
 from rdkit import Chem
-from rdkit.Chem import rdCoordGen
+try:
+	from rdkit.Chem import rdCoordGen
+	drawingFunction = rdCoordGen.AddCoords
+# recent, nice (slow?) 2D coordinates generator
+except:
+	from rdkit.Chem import AllChem
+	drawingFunction = AllChem.Compute2DCoords
+# historical 2D coordinates generator
 import sys
 
 family = sys.argv[1]
@@ -56,7 +63,7 @@ with open(inputfilename, "rb") as fpin, open(outputfilename, 'w') as sdfile:
 		m.SetProp("_Name", cid)
 # give the compound_id as title to the MolBlock
 		try:
-			rdCoordGen.AddCoords(m)
+			drawingFunction(m)
 # calculate 2D coordinates
 		except:
 			print("Cannot generate structure diagram for molecule")
