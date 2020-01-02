@@ -1,0 +1,480 @@
+C00002949 | Cratoxylum formosanum
+C00002949 | Cratoxylum maingayi
+C00002961 | Cratoxylum cochinchinense (Lour.) Blume
+C00002961 | Cratoxylum formosum
+C00002963 | Cratoxylum cochinchinense
+C00002968 | Cratoxylum formosum ssp.pruniflorum
+C00002968 | Cratoxylum prumiflorum
+C00002968 | Cratoxylum pruniflorum
+C00002968 | Cratoxylum prunifolium
+C00005372 | Cratoxylum formosum ssp.pruniflorum
+C00005374 | Cratoxylum formosum ssp.pruniflorum
+C00029359 | Cratoxylum cochinchinense
+C00029379 | Cratoxylum cochinchinense
+C00029569 | Cratoxylum cochinchinense
+C00029819 | Cratoxylum cochinchinense
+C00029920 | Cratoxylum celebicum
+C00029920 | Cratoxylum cochinchinense
+C00029995 | Cratoxylum cochinchinense
+C00029996 | Cratoxylum cochinchinense
+C00030356 | Cratoxylum cochinchinense (Lour.) Blume
+C00030358 | Cratoxylum cochinchinense (Lour.) Blume
+C00032493 | Cratoxylum formosum
+C00032517 | Cratoxylum formosum
+C00034819 | Cratoxylum cochinchinense (Lour.) Blume
+C00034820 | Cratoxylum cochinchinense (Lour.) Blume
+C00034842 | Cratoxylum formosum
+C00034843 | Cratoxylum formosum
+C00034844 | Cratoxylum formosum
+C00034872 | Cratoxylum formosum
+C00035077 | Cratoxylum sumatranum
+C00035281 | Cratoxylum cochinchinense
+C00036394 | Cratoxylum formosanum
+C00036394 | Cratoxylum maingayi
+C00036468 | Cratoxylum formosanum
+C00036527 | Cratoxylum formosanum
+C00036594 | Cratoxylum cochinchinense
+C00040749 | Cratoxylum cochinchinense
+C00040795 | Cratoxylum formosanum
+C00040795 | Cratoxylum maingayi
+C00041015 | Cratoxylum formosum ssp.pruniflorum
+C00044660 | Cratoxylum sumatranum
+C00044661 | Cratoxylum sumatranum
+C00044662 | Cratoxylum sumatranum
+C00044663 | Cratoxylum sumatranum
+C00044664 | Cratoxylum sumatranum
+C00044665 | Cratoxylum sumatranum
+C00044666 | Cratoxylum sumatranum
+C00044667 | Cratoxylum sumatranum
+C00045136 | Cratoxylum sumatranum
+C00000555 | Hypericum sampsonii
+C00000569 | Hypericum perforatum
+C00000615 | Hypericum laricifolium
+C00000956 | Hypericum perforatum
+C00001015 | Hypericum perforatum
+C00001071 | Hypericum hirsutum
+C00001071 | Hypericum scabrum
+C00001203 | Hypericum beanii
+C00001429 | Hypericum perforatum
+C00001434 | Hypericum perforatum
+C00002425 | Hypericum drummondii
+C00002460 | Hypericum japonicum
+C00002526 | Hypericum scabrum
+C00002724 | Hypericum perforatum
+C00002829 | Hypericum barbatum Jacq.
+C00002829 | Hypericum erectum
+C00002829 | Hypericum faberi
+C00002829 | Hypericum hirsutum L.
+C00002829 | Hypericum linarioides BOSSE
+C00002829 | Hypericum maculatum Crantz
+C00002829 | Hypericum perforatum
+C00002829 | Hypericum rumeliacum BOISS.
+C00002829 | Hypericum sampsonii
+C00002829 | Hypericum spp.
+C00002829 | Hypericum tetrapterum Fries
+C00002829 | Hypericum wightianum
+C00002855 | Hypericum barbatum Jacq.
+C00002855 | Hypericum maculatum Crantz
+C00002855 | Hypericum perforatum
+C00002855 | Hypericum rumeliacum BOISS.
+C00002855 | Hypericum tetrapterum Fries
+C00002855 | Hypericum triquetrifolium
+C00002949 | Hypericum ascyron
+C00002949 | Hypericum beanii
+C00002949 | Hypericum chinense
+C00002949 | Hypericum geminiflorum
+C00002949 | Hypericum henryi
+C00002949 | Hypericum scabrum
+C00002953 | Hypericum degenii
+C00002962 | Hypericum ancherii
+C00002962 | Hypericum sampsonii
+C00002962 | Hypericum spp.
+C00002968 | Hypericum androsaemum
+C00002968 | Hypericum aucheri
+C00002968 | Hypericum chinense
+C00002968 | Hypericum perforatum L.
+C00002968 | Hypericum sampsonii
+C00002997 | Hypericum ascyron
+C00002997 | Hypericum calycinum
+C00002997 | Hypericum calycunum
+C00003017 | Hypericum japonicum
+C00003647 | Hypericum carinatum
+C00003672 | Hypericum carinatum
+C00003672 | Hypericum japonicum
+C00003674 | Hypericum beanii
+C00003674 | Hypericum carinatum
+C00003866 | Hypericum perforatum
+C00003986 | Hypericum ericoides
+C00004261 | Hypericum perforatum var.angustifolium
+C00004273 | Hypericum erectum Thunb.
+C00004273 | Hypericum perforatum var.angustifolium
+C00004276 | Hypericum erectum Thunb.
+C00004565 | Hypericum ascyron
+C00004565 | Hypericum japonicum
+C00004565 | Hypericum sampsonii
+C00004631 | Hypericum perforatum
+C00004631 | Hypericum perforatum var.angustifolium
+C00004631 | Hypericum sampsonii
+C00004958 | Hypericum elodes
+C00005080 | Hypericum japonicum
+C00005137 | Hypericum erectum Thunb.
+C00005138 | Hypericum erectum Thunb.
+C00005138 | Hypericum sampsonii
+C00005157 | Hypericum spp.
+C00005367 | Hypericum scabrum
+C00005368 | Hypericum erectum Thunb.
+C00005372 | Hypericum ascyron
+C00005372 | Hypericum barbatum Jacq.
+C00005372 | Hypericum curvisepalum
+C00005372 | Hypericum elodioides
+C00005372 | Hypericum faberi
+C00005372 | Hypericum forrestii
+C00005372 | Hypericum hirsutum L.
+C00005372 | Hypericum japonicum
+C00005372 | Hypericum lancasteri
+C00005372 | Hypericum linarioides BOSSE
+C00005372 | Hypericum maculatum Crantz
+C00005372 | Hypericum patulum
+C00005372 | Hypericum perforatum
+C00005372 | Hypericum rumeliacum BOISS.
+C00005372 | Hypericum sampsonii
+C00005372 | Hypericum scabrum
+C00005372 | Hypericum subsessile
+C00005372 | Hypericum tetrapterum Fries
+C00005372 | Hypericum wightianum subsp.axillare
+C00005373 | Hypericum ascyron
+C00005373 | Hypericum japonicum
+C00005373 | Hypericum perforatum
+C00005373 | Hypericum perforatum L.
+C00005373 | Hypericum sampsonii
+C00005373 | Hypericum thasium
+C00005374 | Hypericum ascyron
+C00005374 | Hypericum barbatum Jacq.
+C00005374 | Hypericum hirsutum L.
+C00005374 | Hypericum japonicum
+C00005374 | Hypericum lancasteri
+C00005374 | Hypericum laricifolium
+C00005374 | Hypericum maculatum Crantz
+C00005374 | Hypericum patulum
+C00005374 | Hypericum perforatum
+C00005374 | Hypericum rumeliacum BOISS.
+C00005374 | Hypericum sampsonii
+C00005374 | Hypericum scabrum
+C00005374 | Hypericum subsessile
+C00005374 | Hypericum tetrapterum Fries
+C00005374 | Hypericum thasium
+C00005374 | Hypericum wightianum
+C00005376 | Hypericum perforatum
+C00005383 | Hypericum japonicum
+C00005413 | Hypericum ascyron
+C00005413 | Hypericum curvisepalum
+C00005413 | Hypericum elodeoides
+C00005413 | Hypericum faberi
+C00005413 | Hypericum patulum
+C00005413 | Hypericum perforatum var.angustifolium
+C00005413 | Hypericum wightianum
+C00006070 | Hypericum elodes
+C00006140 | Hypericum hirsutum
+C00006431 | Hypericum aucheri
+C00006431 | Hypericum maculatum
+C00006431 | Hypericum perforatum
+C00006431 | Hypericum thasium
+C00008703 | Hypericum perforatum
+C00008709 | Hypericum erectum Thunb.
+C00008710 | Hypericum japonicum
+C00008846 | Hypericum erectum Thunb.
+C00008847 | Hypericum erectum Thunb.
+C00009765 | Hypericum erectum
+C00011509 | Hypericum chinense
+C00011509 | Hypericum chinese L.
+C00013419 | Hypericum perforatum
+C00013597 | Hypericum ericoides
+C00013865 | Hypericum perforatum
+C00014411 | Hypericum japonicum
+C00014451 | Hypericum geminiflorum
+C00014452 | Hypericum geminiflorum
+C00014453 | Hypericum geminiflorum
+C00014483 | Hypericum geminiflorum
+C00019029 | Hypericum erectum Thunb.
+C00019030 | Hypericum erectum Thunb.
+C00024190 | Hypericum mysorense HEYNE
+C00024191 | Hypericum mysorense HEYNE
+C00024215 | Hypericum mysorense HEYNE
+C00024216 | Hypericum mysorense HEYNE
+C00024217 | Hypericum mysorense HEYNE
+C00026397 | Hypericum perforatum
+C00029358 | Hypericum chinense
+C00029436 | Hypericum chinense
+C00029482 | Hypericum chinense
+C00029483 | Hypericum chinense
+C00029500 | Hypericum chinense
+C00029500 | Hypericum erectum Thunb.
+C00029501 | Hypericum erectum Thunb.
+C00029511 | Hypericum perforatum
+C00029521 | Hypericum chinense
+C00029522 | Hypericum chinense
+C00029574 | Hypericum chinense
+C00029882 | Hypericum perforatum var.angustifolium
+C00029882 | Hypericum roeperanum
+C00030332 | Hypericum perforatum var.angustifolium
+C00030348 | Hypericum paturum
+C00030348 | Hypericum perforatum L.
+C00030356 | Hypericum patulum
+C00030500 | Hypericum perforatum var.angustifolium
+C00030500 | Hypericum scabrum
+C00030501 | Hypericum oblongifolium
+C00030502 | Hypericum oblongifolium
+C00030503 | Hypericum erectum Thunb.
+C00030503 | Hypericum sampsonii
+C00030898 | Hypericum erectum Thunb.
+C00031274 | Hypericum erectum Thunb.
+C00031483 | Hypericum sampsonii
+C00031484 | Hypericum androsaemum
+C00031484 | Hypericum chinense
+C00031484 | Hypericum patulum
+C00031484 | Hypericum sampsonii
+C00031484 | Hypericum scabrum
+C00031487 | Hypericum sampsonii
+C00031793 | Hypericum ascyron
+C00032065 | Hypericum sampsonii
+C00032105 | Hypericum patulum
+C00032105 | Hypericum sampsonii
+C00032117 | Hypericum paturum
+C00032117 | Hypericum perforatum var.angustifolium
+C00032369 | Hypericum androsaemum
+C00032369 | Hypericum ascyron
+C00032369 | Hypericum chinense
+C00032369 | Hypericum paturum
+C00032369 | Hypericum sampsonii
+C00032369 | Hypericum scabrum
+C00032471 | Hypericum erectum Thunb.
+C00032586 | Hypericum chinense
+C00033938 | Hypericum ascyron
+C00033957 | Hypericum roeperanum
+C00034317 | Hypericum ascyron
+C00034318 | Hypericum ascyron
+C00034319 | Hypericum ascyron
+C00034320 | Hypericum ascyron
+C00034321 | Hypericum ascyron
+C00034322 | Hypericum ascyron
+C00034323 | Hypericum ascyron
+C00034324 | Hypericum ascyron
+C00034406 | Hypericum perforatum
+C00034542 | Hypericum ascyron
+C00034542 | Hypericum barbatum Jacq.
+C00034542 | Hypericum curvisepalum
+C00034542 | Hypericum elodioides
+C00034542 | Hypericum faberi
+C00034542 | Hypericum hirsutum L.
+C00034542 | Hypericum japonicum
+C00034542 | Hypericum lancasteri
+C00034542 | Hypericum linarioides BOSSE
+C00034542 | Hypericum maculatum Crantz
+C00034542 | Hypericum patulum
+C00034542 | Hypericum perforatum
+C00034542 | Hypericum rumeliacum BOISS.
+C00034542 | Hypericum sampsonii
+C00034542 | Hypericum subsessile
+C00034542 | Hypericum tetrapterum Fries
+C00034542 | Hypericum wightianum
+C00034650 | Hypericum perforatum
+C00034651 | Hypericum perforatum
+C00034684 | Hypericum sinaicum
+C00034758 | Hypericum perforatum L.
+C00034926 | Hypericum japonicum
+C00034990 | Hypericum chinense
+C00034991 | Hypericum chinense
+C00034993 | Hypericum chinense
+C00035000 | Hypericum chinense
+C00035003 | Hypericum chinense
+C00035012 | Hypericum chinense
+C00035014 | Hypericum chinense
+C00035014 | Hypericum spp.
+C00035017 | Hypericum chinense
+C00035094 | Hypericum carinatum
+C00036375 | Hypericum androsaemum
+C00036375 | Hypericum ascyron
+C00036379 | Hypericum geminiflorum
+C00036394 | Hypericum scabrum
+C00036494 | Hypericum ericoides
+C00036601 | Hypericum patulum
+C00036601 | Hypericum roeperanum
+C00036601 | Hypericum styphelioides
+C00036731 | Hypericum annulatum
+C00036732 | Hypericum annulatum
+C00036855 | Hypericum chinense
+C00037289 | Hypericum annulatum
+C00037516 | Hypericum patulum
+C00037602 | Hypericum patulum
+C00037603 | Hypericum patulum
+C00037745 | Hypericum roeperanum
+C00038112 | Hypericum geminiflorum
+C00038114 | Hypericum geminiflorum
+C00038190 | Hypericum ascyron
+C00038192 | Hypericum geminiflorum
+C00038200 | Hypericum geminiflorum
+C00038230 | Hypericum ascyron
+C00038230 | Hypericum spp.
+C00038318 | Hypericum sampsonii
+C00038318 | Hypericum scabrum
+C00038677 | Hypericum geminiflorum
+C00039391 | Hypericum geminiflorum
+C00039392 | Hypericum geminiflorum
+C00039393 | Hypericum geminiflorum
+C00039394 | Hypericum geminiflorum
+C00040205 | Hypericum sampsonii
+C00040206 | Hypericum sampsonii
+C00040207 | Hypericum sampsonii
+C00040208 | Hypericum sampsonii
+C00040209 | Hypericum sampsonii
+C00040210 | Hypericum sampsonii
+C00041015 | Hypericum sampsonii
+C00041789 | Hypericum prolificum L.
+C00041790 | Hypericum prolificum L.
+C00041791 | Hypericum prolificum L.
+C00042024 | Hypericum henryi
+C00042148 | Hypericum japonicum
+C00042284 | Hypericum japonicum
+C00042336 | Hypericum carinatum
+C00042337 | Hypericum carinatum
+C00043098 | Hypericum carinatum
+C00043098 | Hypericum uliginosum
+C00043579 | Hypericum scabrum
+C00043580 | Hypericum scabrum
+C00043581 | Hypericum scabrum
+C00043582 | Hypericum scabrum
+C00043583 | Hypericum scabrum
+C00043584 | Hypericum scabrum
+C00043585 | Hypericum scabrum
+C00043586 | Hypericum scabrum
+C00043587 | Hypericum scabrum
+C00043588 | Hypericum scabrum
+C00043589 | Hypericum scabrum
+C00043590 | Hypericum jovis
+C00043591 | Hypericum jovis
+C00043592 | Hypericum chinese L.
+C00043593 | Hypericum chinese L.
+C00043594 | Hypericum scabrum
+C00043595 | Hypericum scabrum
+C00043596 | Hypericum scabrum
+C00043597 | Hypericum scabrum
+C00043598 | Hypericum scabrum
+C00043599 | Hypericum scabrum
+C00044814 | Hypericum atomarium ssp. degenii
+C00046025 | Hypericum papuanum
+C00046273 | Hypericum papuanum
+C00046274 | Hypericum papuanum
+C00046275 | Hypericum papuanum
+C00046276 | Hypericum papuanum
+C00046277 | Hypericum papuanum
+C00046772 | Hypericum papuanum
+C00046773 | Hypericum papuanum
+C00046774 | Hypericum papuanum
+C00046775 | Hypericum papuanum
+C00046776 | Hypericum papuanum
+C00046843 | Hypericum perforatum
+C00047762 | Hypericum chinense
+C00048249 | Hypericum chinense
+C00048275 | Hypericum chinense
+C00048278 | Hypericum chinense
+C00048290 | Hypericum chinense
+C00048352 | Hypericum chinense
+C00048548 | Hypericum chinense
+C00049557 | Hypericum geminiflorum
+C00049558 | Hypericum geminiflorum
+C00049588 | Hypericum geminiflorum
+C00049662 | Hypericum patulum
+C00049663 | Hypericum patulum
+C00050676 | Hypericum perforatum
+C00050741 | Hypericum polyanthemum
+C00050798 | Hypericum papuanum
+C00050799 | Hypericum papuanum
+C00051023 | Hypericum japonicum
+C00051024 | Hypericum japonicum
+C00051701 | Hypericum erectum
+C00051985 | Hypericum perforatum
+C00052006 | Hypericum perforatum
+C00003741 | Harungana madagascariensis
+C00003747 | Harungana madagascariensis
+C00003749 | Harungana madagascariensis
+C00029801 | Harungana madagascariensis
+C00030456 | Harungana madagascariensis
+C00030457 | Harungana madagascariensis
+C00030458 | Harungana madagascariensis
+C00035324 | Harungana madagascariensis
+C00039337 | Harungana madagascariensis Lam.ex.Poir.
+C00039338 | Harungana madagascariensis Lam.ex.Poir.
+C00041612 | Harungana madagascariensis
+C00041613 | Harungana madagascariensis
+C00041614 | Harungana madagascariensis
+C00041615 | Harungana madagascariensis
+C00000555 | Psorospermum glaberrimum
+C00001250 | Psorospermum androsaemifolium BAKER
+C00002832 | Psorospermum febrifugum
+C00002832 | Psorospermum glaberrimum
+C00002972 | Psorospermum spp.
+C00003022 | Psorospermum febrifugum
+C00003738 | Psorospermum androsaemifolium BAKER
+C00003741 | Psorospermum glaberrimum
+C00003747 | Psorospermum glaberrimum
+C00004631 | Psorospermum androsaemifolium BAKER
+C00029385 | Psorospermum androsaemifolium BAKER
+C00029457 | Psorospermum glaberrimum
+C00029497 | Psorospermum glaberrimum
+C00029514 | Psorospermum glaberrimum
+C00029617 | Psorospermum androsaemifolium BAKER
+C00029825 | Psorospermum glaberrimum
+C00030404 | Psorospermum glaberrimum
+C00031484 | Psorospermum febrifugum
+C00032493 | Psorospermum androsaemifolium BAKER
+C00036854 | Psorospermum febrifugum
+C00036855 | Psorospermum febrifugum
+C00037324 | Psorospermum febrifugum
+C00040099 | Psorospermum cf. molluscum
+C00000555 | Vismia laurentii
+C00000555 | Vismia orientalis
+C00000601 | Vismia guaramirangae
+C00002631 | Vismia guaramirangae
+C00002832 | Vismia guaramirangae
+C00002949 | Vismia laurentii
+C00003022 | Vismia orientalis
+C00003674 | Vismia laurentii
+C00003747 | Vismia laurentii
+C00004565 | Vismia laurentii
+C00019420 | Vismia laurentii
+C00029497 | Vismia laurentii
+C00029514 | Vismia guineensis
+C00030456 | Vismia macrophylla
+C00030645 | Vismia laurentii
+C00030646 | Vismia laurentii
+C00032493 | Vismia baccifera
+C00032493 | Vismia laurentii
+C00032517 | Vismia guineensis
+C00032517 | Vismia laurentii
+C00033962 | Vismia laurentii
+C00034028 | Vismia laurentii
+C00034458 | Vismia orientalis
+C00034926 | Vismia laurentii
+C00034932 | Vismia baccifera
+C00034932 | Vismia laurentii
+C00034966 | Vismia laurentii
+C00036851 | Vismia guaramirangae
+C00036852 | Vismia guaramirangae
+C00036853 | Vismia guaramirangae
+C00037995 | Vismia guianensis
+C00037996 | Vismia guianensis
+C00037997 | Vismia guianensis
+C00037998 | Vismia guianensis
+C00037999 | Vismia guianensis
+C00038000 | Vismia guianensis
+C00044695 | Vismia baccifera
+C00044695 | Vismia jefensis
+C00044756 | Vismia macrophylla
+C00044757 | Vismia macrophylla
+C00044758 | Vismia macrophylla
+C00045135 | Vismia macrophylla
+C00045136 | Vismia baccifera
+C00049331 | Vismia cayennensis
+C00049332 | Vismia cayennensis
+C00049333 | Vismia cayennensis
+C00049334 | Vismia cayennensis

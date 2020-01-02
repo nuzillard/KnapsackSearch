@@ -1,0 +1,2532 @@
+C00003633 | Acokanthera ouabaio
+C00003616 | Adenium honghel
+C00002682 | Aganosma caryophyllata
+C00002743 | Aganosma caryophyllata
+C00003672 | Aganosma caryophyllata
+C00005372 | Aganosma caryophyllata
+C00005373 | Aganosma caryophyllata
+C00005374 | Aganosma caryophyllata
+C00005413 | Aganosma caryophyllata
+C00029633 | Aganosma caryophyllata
+C00000659 | Allamanda neriifolia
+C00002601 | Allamanda neriifolia
+C00002631 | Allamanda neriifolia
+C00003069 | Allamanda cathartica
+C00007190 | Allamanda neriifolia
+C00007190 | Allamanda schottii
+C00010730 | Allamanda neriifolia
+C00010731 | Allamanda cathartica
+C00010732 | Allamanda neriifolia
+C00010733 | Allamanda neriifolia
+C00010734 | Allamanda cathartica
+C00010735 | Allamanda cathartica
+C00010738 | Allamanda neriifolia
+C00010739 | Allamanda neriifolia
+C00010740 | Allamanda neriifolia
+C00001676 | Alstonia angustifolia
+C00001676 | Alstonia angustifolia var.latifolia
+C00001676 | Alstonia macrophylla
+C00001680 | Alstonia scholaris
+C00001681 | Alstonia scholaris
+C00001683 | Alstonia constricta
+C00001715 | Alstonia congensis
+C00001715 | Alstonia scholaris
+C00001715 | Alstonia spatulata
+C00001715 | Alstonia spectabilis
+C00001763 | Alstonia yunnanensis
+C00001767 | Alstonia mairei
+C00001767 | Alstonia yunnanensis
+C00001773 | Alstonia yunnanensis
+C00001916 | Alstonia scholaris
+C00001965 | Alstonia scholaris
+C00002493 | Alstonia moirei
+C00003674 | Alstonia scholaris
+C00003737 | Alstonia boonei
+C00003749 | Alstonia boonei
+C00003750 | Alstonia scholaris
+C00008283 | Alstonia scholaris
+C00010617 | Alstonia boonei
+C00024279 | Alstonia yunnanensis
+C00024281 | Alstonia angustifolia
+C00024281 | Alstonia angustifolia var.latifolia
+C00024281 | Alstonia constricta
+C00024281 | Alstonia macrophylla
+C00024281 | Alstonia muelleriana
+C00024281 | Alstonia odontophora
+C00024281 | Alstonia spectabilis
+C00024281 | Alstonia sphaerocapitata
+C00024282 | Alstonia venenata
+C00024282 | Alstonia yunnanensis
+C00024291 | Alstonia yunnanensis
+C00024295 | Alstonia macrophylla
+C00024295 | Alstonia vieillardii
+C00024296 | Alstonia constricta
+C00024296 | Alstonia deplanchei
+C00024296 | Alstonia sphaerocapitata
+C00024296 | Alstonia undulata
+C00024312 | Alstonia macrophylla
+C00024324 | Alstonia sphaerocapitata
+C00024325 | Alstonia sphaerocapitata
+C00024326 | Alstonia pittieri
+C00024327 | Alstonia pittieri
+C00024328 | Alstonia pittieri
+C00024331 | Alstonia constricta
+C00024331 | Alstonia lanceolifera
+C00024335 | Alstonia angustifolia
+C00024335 | Alstonia constricta
+C00024335 | Alstonia coriacea
+C00024335 | Alstonia deplanchei
+C00024335 | Alstonia legouixiae
+C00024335 | Alstonia macrophylla
+C00024335 | Alstonia odontophora
+C00024335 | Alstonia quaternata
+C00024335 | Alstonia spectabilis
+C00024343 | Alstonia macrophylla
+C00024453 | Alstonia venenata
+C00024453 | Alstonia yunnanensis
+C00024454 | Alstonia venenata
+C00024457 | Alstonia lanceolifera
+C00024457 | Alstonia lenormandii var.lenormandii
+C00024457 | Alstonia lenormandii var.minutifolia
+C00024457 | Alstonia yunnanensis
+C00024458 | Alstonia yunnanensis
+C00024481 | Alstonia yunnanensis
+C00024496 | Alstonia venenata
+C00024499 | Alstonia yunnanensis
+C00024567 | Alstonia scholaris
+C00024568 | Alstonia scholaris
+C00025138 | Alstonia yunnanensis
+C00025152 | Alstonia lenormandii var.lenormandii
+C00025152 | Alstonia lenormandii var.minutifolia
+C00025152 | Alstonia scholaris
+C00025176 | Alstonia scholaris R.Br.
+C00025192 | Alstonia scholaris R.Br.
+C00025193 | Alstonia angustifolia
+C00025193 | Alstonia angustifolia var.latifolia
+C00025193 | Alstonia yunnanensis
+C00025196 | Alstonia scholaris R.Br.
+C00025196 | Alstonia yunnanensis
+C00025198 | Alstonia scholaris R.Br.
+C00025198 | Alstonia yunnanensis
+C00025214 | Alstonia mairei
+C00025214 | Alstonia restricta
+C00025214 | Alstonia scholaris
+C00025214 | Alstonia yunnanensis
+C00025216 | Alstonia scholaris R.Br.
+C00025658 | Alstonia scholaris
+C00025767 | Alstonia venenata R.Br
+C00025822 | Alstonia angustiloba
+C00025912 | Alstonia angustifolia
+C00025912 | Alstonia angustifolia var.latifolia
+C00025912 | Alstonia angustiloba
+C00025960 | Alstonia angustifolia
+C00025960 | Alstonia angustifolia var.latifolia
+C00026022 | Alstonia quaternata
+C00026041 | Alstonia angustiloba
+C00026041 | Alstonia scholaris
+C00026073 | Alstonia scholaris
+C00026074 | Alstonia scholaris
+C00026075 | Alstonia venenata R.Br
+C00026076 | Alstonia venenata R.Br
+C00026090 | Alstonia scholaris
+C00026149 | Alstonia scholaris
+C00026585 | Alstonia angustiloba
+C00026665 | Alstonia macrophylla
+C00026666 | Alstonia macrophylla
+C00026667 | Alstonia angustifolia
+C00026667 | Alstonia angustifolia var.latifolia
+C00026668 | Alstonia macrophylla
+C00026669 | Alstonia macrophylla
+C00026670 | Alstonia angustifolia
+C00026670 | Alstonia angustifolia var.latifolia
+C00026670 | Alstonia macrophylla
+C00026671 | Alstonia macrophylla
+C00026672 | Alstonia macrophylla
+C00026673 | Alstonia macrophylla
+C00026674 | Alstonia macrophylla
+C00026687 | Alstonia undulata
+C00026830 | Alstonia angustifolia Wall
+C00026830 | Alstonia angustifolia var.latifolia
+C00026830 | Alstonia macrophylla
+C00026830 | Alstonia muelleriana Domin
+C00027045 | Alstonia angustifolia
+C00027045 | Alstonia angustifolia var.latifolia
+C00027045 | Alstonia macrophylla
+C00027047 | Alstonia angustifolia
+C00027047 | Alstonia angustifolia var.latifolia
+C00027047 | Alstonia macrophylla
+C00027050 | Alstonia angustifolia
+C00027050 | Alstonia angustifolia var.latifolia
+C00027051 | Alstonia angustifolia
+C00027051 | Alstonia angustifolia var.latifolia
+C00027052 | Alstonia angustifolia
+C00027052 | Alstonia angustifolia var.latifolia
+C00027053 | Alstonia angustifolia
+C00027053 | Alstonia angustifolia var.latifolia
+C00027053 | Alstonia macrophylla
+C00027054 | Alstonia angustifolia
+C00027054 | Alstonia angustifolia var.latifolia
+C00027059 | Alstonia angustifolia
+C00027059 | Alstonia angustifolia var.latifolia
+C00027061 | Alstonia angustifolia
+C00027061 | Alstonia angustifolia var.latifolia
+C00027064 | Alstonia angustifolia
+C00027064 | Alstonia angustifolia var.latifolia
+C00027064 | Alstonia macrophylla
+C00027065 | Alstonia angustifolia
+C00027065 | Alstonia angustifolia var.latifolia
+C00027065 | Alstonia macrophylla
+C00027065 | Alstonia muelleriana
+C00027066 | Alstonia angustifolia
+C00027066 | Alstonia angustifolia var.latifolia
+C00027066 | Alstonia macrophylla
+C00027068 | Alstonia angustifolia
+C00027068 | Alstonia angustifolia var.latifolia
+C00027068 | Alstonia macrophylla
+C00027069 | Alstonia angustifolia
+C00027069 | Alstonia angustifolia var.latifolia
+C00027069 | Alstonia macrophylla
+C00027070 | Alstonia angustifolia
+C00027070 | Alstonia angustifolia var.latifolia
+C00027071 | Alstonia angustifolia
+C00027071 | Alstonia angustifolia var.latifolia
+C00027071 | Alstonia macrophylla
+C00027072 | Alstonia angustifolia
+C00027072 | Alstonia angustifolia var.latifolia
+C00027073 | Alstonia angustifolia
+C00027073 | Alstonia angustifolia var.latifolia
+C00027074 | Alstonia angustifolia
+C00027074 | Alstonia angustifolia var.latifolia
+C00027075 | Alstonia angustifolia
+C00027075 | Alstonia angustifolia var.latifolia
+C00027075 | Alstonia macrophylla
+C00027076 | Alstonia angustifolia
+C00027076 | Alstonia angustifolia var.latifolia
+C00027077 | Alstonia angustifolia
+C00027077 | Alstonia angustifolia var.latifolia
+C00027078 | Alstonia angustifolia
+C00027078 | Alstonia angustifolia var.latifolia
+C00027078 | Alstonia lenormandii var.lenormandii
+C00027078 | Alstonia lenormandii var.minutifolia
+C00027079 | Alstonia angustifolia
+C00027079 | Alstonia angustifolia var.latifolia
+C00027089 | Alstonia macrophylla
+C00027090 | Alstonia macrophylla
+C00027091 | Alstonia macrophylla
+C00027092 | Alstonia macrophylla
+C00027094 | Alstonia macrophylla
+C00027095 | Alstonia macrophylla
+C00027095 | Alstonia quaternata
+C00027096 | Alstonia macrophylla
+C00027097 | Alstonia macrophylla
+C00027701 | Alstonia angustifolia
+C00028082 | Alstonia yunnanensis
+C00028132 | Alstonia scholaris
+C00029058 | Alstonia angustiloba
+C00029058 | Alstonia scholaris
+C00029221 | Alstonia angustifolia
+C00029221 | Alstonia macrophylla Wall.
+C00029221 | Alstonia somersetensis
+C00029221 | Alstonia villosa
+C00035229 | Alstonia scholaris
+C00035340 | Alstonia scholaris
+C00035456 | Alstonia angustifolia
+C00035456 | Alstonia macrophylla
+C00035694 | Alstonia angustifolia
+C00035756 | Alstonia angustifolia
+C00035822 | Alstonia scholaris
+C00041510 | Alstonia congensis
+C00041510 | Alstonia scholaris R.Br.
+C00043220 | Alstonia macrophylla
+C00043258 | Alstonia scholaris
+C00043259 | Alstonia scholaris
+C00043476 | Alstonia scholaris
+C00043477 | Alstonia scholaris
+C00043478 | Alstonia scholaris
+C00043754 | Alstonia scholaris
+C00045433 | Alstonia yunnanensis
+C00047165 | Alstonia macrophylla
+C00047166 | Alstonia macrophylla
+C00047167 | Alstonia macrophylla
+C00047168 | Alstonia macrophylla
+C00047645 | Alstonia yunnanensis
+C00047707 | Alstonia yunnanensis
+C00047708 | Alstonia yunnanensis
+C00047709 | Alstonia yunnanensis
+C00047710 | Alstonia yunnanensis
+C00047711 | Alstonia yunnanensis
+C00047712 | Alstonia yunnanensis
+C00047713 | Alstonia yunnanensis
+C00047714 | Alstonia yunnanensis
+C00047853 | Alstonia yunnanensis
+C00048064 | Alstonia lenormandii var.lenormandii
+C00048064 | Alstonia lenormandii var.minutifolia
+C00048064 | Alstonia scholaris
+C00048064 | Alstonia yunnanensis
+C00048316 | Alstonia scholaris
+C00048317 | Alstonia scholaris
+C00050934 | Alstonia scholaris
+C00051782 | Alstonia angustiloba
+C00051782 | Alstonia scholaris
+C00051792 | Alstonia angustiloba
+C00051792 | Alstonia scholaris
+C00051968 | Alstonia angustiloba
+C00051968 | Alstonia scholaris
+C00002460 | Alyxia lucida
+C00002499 | Alyxia lucida
+C00019143 | Alyxia lucida
+C00045576 | Alyxia lucida
+C00001713 | Amsonia tabernaemontana
+C00001773 | Amsonia angustifolia
+C00001773 | Amsonia illustris
+C00001773 | Amsonia tabernaemontana
+C00003672 | Amsonia angustifolia
+C00003738 | Amsonia angustifolia
+C00005137 | Amsonia ciliata
+C00005372 | Amsonia ciliata
+C00005524 | Amsonia ciliata
+C00005590 | Amsonia ciliata
+C00024457 | Amsonia sinensis
+C00024459 | Amsonia sinensis
+C00024463 | Amsonia sinensis
+C00024508 | Amsonia elliptica
+C00024605 | Amsonia elliptica
+C00024611 | Amsonia tabernaemontana
+C00025047 | Amsonia angustifolia
+C00025059 | Amsonia elliptica
+C00025061 | Amsonia illustris
+C00027628 | Amsonia angustifolia
+C00027628 | Amsonia illustris
+C00001111 | Anodendron affine
+C00029692 | Anodendron affine
+C00039845 | Anodendron affine
+C00000947 | Apocynum venetum
+C00001157 | Apocynum spp.
+C00002689 | Apocynum androsaemifolium
+C00002689 | Apocynum cannabinum
+C00002698 | Apocynum cannabinum
+C00004565 | Apocynum venetum
+C00005372 | Apocynum venetum
+C00005373 | Apocynum lancifolium
+C00005373 | Apocynum venetum
+C00005374 | Apocynum lancifolium
+C00005374 | Apocynum venetum
+C00013263 | Apocynum venetum
+C00013264 | Apocynum venetum
+C00032213 | Apocynum venetum
+C00028289 | Araujia sericifera
+C00030960 | Araujia sericifera
+C00031197 | Araujia sericifera
+C00031497 | Araujia sericifera
+C00031498 | Araujia sericifera
+C00031659 | Araujia sericifera
+C00031715 | Araujia sericifera
+C00031879 | Araujia sericifera
+C00031884 | Araujia sericifera
+C00031955 | Araujia sericifera
+C00001240 | Asclepias syriaca
+C00002057 | Asclepias syriaca
+C00002631 | Asclepias curassavica L.
+C00003603 | Asclepias curassavica L.
+C00003603 | Asclepias fruticosa R.Br.
+C00003603 | Asclepias spp.
+C00003604 | Asclepias speciosa
+C00003604 | Asclepias syriaca
+C00003608 | Asclepias curassavica
+C00003608 | Asclepias fruticosa R.Br.
+C00003609 | Asclepias curassavica L.
+C00003621 | Asclepias eriocarpa
+C00003621 | Asclepias labriformis
+C00003626 | Asclepias eriocarpa
+C00003626 | Asclepias labriformis
+C00003627 | Asclepias eriocarpa
+C00003627 | Asclepias labriformis
+C00003640 | Asclepias curassavica L.
+C00003640 | Asclepias fruticosa R.Br.
+C00003738 | Asclepias syriaca L.
+C00005081 | Asclepias syriaca
+C00005399 | Asclepias curassavica
+C00005400 | Asclepias curassavica
+C00005444 | Asclepias curassavica
+C00005456 | Asclepias curassavica
+C00013912 | Asclepias syriaca
+C00029329 | Asclepias fruticosa
+C00029402 | Asclepias curassavica L.
+C00029403 | Asclepias curassavica L.
+C00029404 | Asclepias curassavica L.
+C00029405 | Asclepias curassavica L.
+C00029406 | Asclepias curassavica L.
+C00029413 | Asclepias curassavica L.
+C00029581 | Asclepias curassavica L.
+C00030013 | Asclepias curassavica L.
+C00030037 | Asclepias curassavica
+C00030038 | Asclepias curassavica
+C00030039 | Asclepias curassavica
+C00030040 | Asclepias curassavica
+C00030041 | Asclepias curassavica
+C00030042 | Asclepias curassavica
+C00030043 | Asclepias curassavica
+C00030044 | Asclepias curassavica
+C00030045 | Asclepias curassavica
+C00030046 | Asclepias curassavica
+C00030047 | Asclepias curassavica
+C00030048 | Asclepias curassavica
+C00030049 | Asclepias curassavica
+C00030050 | Asclepias curassavica
+C00030051 | Asclepias curassavica
+C00030052 | Asclepias curassavica
+C00030053 | Asclepias curassavica
+C00030054 | Asclepias curassavica
+C00030055 | Asclepias curassavica
+C00030056 | Asclepias curassavica
+C00030057 | Asclepias curassavica
+C00030058 | Asclepias curassavica
+C00030059 | Asclepias curassavica
+C00030060 | Asclepias curassavica
+C00030061 | Asclepias curassavica
+C00030416 | Asclepias curassavica L.
+C00030416 | Asclepias incarnata L.
+C00031498 | Asclepias incarnata L.
+C00031879 | Asclepias tuberosa
+C00032466 | Asclepias curassavica L.
+C00032466 | Asclepias fruticosa R.Br.
+C00032469 | Asclepias albicans
+C00032469 | Asclepias curassavica L.
+C00032536 | Asclepias curassavica L.
+C00032596 | Asclepias incarnata L.
+C00032597 | Asclepias incarnata L.
+C00032737 | Asclepias fruticosa L.
+C00032738 | Asclepias fruticosa L.
+C00032739 | Asclepias fruticosa L.
+C00032740 | Asclepias fruticosa L.
+C00032741 | Asclepias fruticosa L.
+C00032853 | Asclepias curassavica
+C00032853 | Asclepias fruticosa
+C00032985 | Asclepias incarnata L.
+C00033063 | Asclepias incarnata L.
+C00033120 | Asclepias incarnata
+C00033120 | Asclepias tuberosa
+C00033321 | Asclepias tuberosa
+C00041055 | Asclepias incarnata
+C00041246 | Asclepias curassavica
+C00042053 | Asclepias curassavica
+C00042202 | Asclepias curassavica
+C00001679 | Aspidosperma spegazzinii
+C00001681 | Aspidosperma dasycarpon A.DC.
+C00001681 | Aspidosperma spp.
+C00001689 | Aspidosperma dasycarpon
+C00001689 | Aspidosperma eburneum
+C00001689 | Aspidosperma gomezianum
+C00001689 | Aspidosperma multiflorum
+C00001689 | Aspidosperma olivaceum
+C00001690 | Aspidosperma marcgravianum
+C00001703 | Aspidosperma carapanauba
+C00001716 | Aspidosperma subincanum
+C00001755 | Aspidosperma campus-belus
+C00001755 | Aspidosperma nigricans
+C00001755 | Aspidosperma olivaceum
+C00001761 | Aspidosperma quebracho
+C00001761 | Aspidosperma quebracho-blanco
+C00002173 | Aspidosperma marcgravianum
+C00024281 | Aspidosperma quebracho-blanco
+C00024452 | Aspidosperma pyrifolium
+C00024452 | Aspidosperma quebracho-blanco
+C00024452 | Aspidosperma rhombeosignatum
+C00024454 | Aspidosperma multiflorum
+C00024454 | Aspidosperma populifolium
+C00024464 | Aspidosperma album
+C00024464 | Aspidosperma rhombeosignatum
+C00024467 | Aspidosperma album
+C00024492 | Aspidosperma marcgravianum
+C00024512 | Aspidosperma album
+C00024515 | Aspidosperma marcgravianum
+C00024515 | Aspidosperma megalocarpon Muell.Arg.
+C00024516 | Aspidosperma quebracho-blanco
+C00024516 | Aspidosperma quebrachoblanco
+C00024518 | Aspidosperma album
+C00024518 | Aspidosperma limae
+C00024518 | Aspidosperma marcgravianum
+C00024536 | Aspidosperma marcgravianum
+C00024543 | Aspidosperma duckei
+C00024543 | Aspidosperma macrocarpon
+C00024569 | Aspidosperma marcgravianum
+C00024570 | Aspidosperma rhombeinsignatum
+C00024570 | Aspidosperma rhombeosignatum
+C00024571 | Aspidosperma album
+C00024571 | Aspidosperma limae
+C00024583 | Aspidosperma album
+C00024583 | Aspidosperma excelsum
+C00024585 | Aspidosperma cruenta
+C00024585 | Aspidosperma obscurinervum
+C00024586 | Aspidosperma cruenta
+C00024586 | Aspidosperma obscurinervum
+C00024595 | Aspidosperma marcgravianum
+C00024606 | Aspidosperma marcgravianum
+C00025061 | Aspidosperma quebracho-blanco
+C00025183 | Aspidosperma discolor
+C00025193 | Aspidosperma polyneuron
+C00025197 | Aspidosperma dasycarpon A.DC.
+C00025197 | Aspidosperma polyneuron
+C00025706 | Aspidosperma oblongum
+C00025707 | Aspidosperma oblongum
+C00025708 | Aspidosperma oblongum
+C00025722 | Aspidosperma oblongum
+C00025725 | Aspidosperma oblongum
+C00025744 | Aspidosperma oblongum
+C00025772 | Aspidosperma oblongum
+C00025834 | Aspidosperma cylindrocarpon
+C00025871 | Aspidosperma excelsum Benth.
+C00025980 | Aspidosperma excelsum Benth.
+C00026721 | Aspidosperma subincanum
+C00026861 | Aspidosperma auriculatum
+C00026861 | Aspidosperma discolor
+C00026861 | Aspidosperma marcgravianum
+C00027654 | Aspidosperma ramiflorum Muell.-Arg.
+C00027935 | Aspidosperma ramiflorum Muell.-Arg.
+C00028082 | Aspidosperma compactinervium
+C00028082 | Aspidosperma limae
+C00028082 | Aspidosperma multiflorum
+C00028082 | Aspidosperma nigricans Handro
+C00028082 | Aspidosperma olivaceum
+C00028082 | Aspidosperma populifolium
+C00028082 | Aspidosperma spruceanum
+C00028894 | Aspidosperma ramiflorum
+C00028895 | Aspidosperma ramiflorum
+C00029037 | Aspidosperma spegazzini
+C00037418 | Aspidosperma formosanum
+C00043569 | Aspidosperma exaltum
+C00002631 | Beaumontia brevituba
+C00002631 | Beaumontia grandiflora
+C00030767 | Beaumontia grandiflora
+C00001696 | Cabucala madagascariensis
+C00024281 | Cabucala erythrocarpa var.erythrocarpa
+C00024281 | Cabucala striolata
+C00024281 | Cabucala torulosa
+C00024335 | Cabucala torulosa
+C00001698 | Callichilia barteria
+C00003608 | Calotropis gigantea
+C00003608 | Calotropis procera
+C00003609 | Calotropis gigantea
+C00003609 | Calotropis procera
+C00003640 | Calotropis procera
+C00003737 | Calotropis gigantea
+C00003738 | Calotropis gigantea
+C00005548 | Calotropis gigantea
+C00005572 | Calotropis gigantea
+C00022684 | Calotropis gigantea
+C00032469 | Calotropis gigantea
+C00041246 | Calotropis gigantea
+C00041405 | Calotropis gigantea
+C00049578 | Calotropis procera
+C00004299 | Caralluma tuberculata
+C00005197 | Caralluma tuberculata
+C00033695 | Caralluma tuberculata
+C00033696 | Caralluma tuberculata
+C00033697 | Caralluma tuberculata
+C00033698 | Caralluma tuberculata
+C00033699 | Caralluma tuberculata
+C00034204 | Caralluma russeliana
+C00034204 | Caralluma tuberculata
+C00034665 | Caralluma russeliana
+C00034666 | Caralluma russeliana
+C00034667 | Caralluma russeliana
+C00037609 | Caralluma penicillata
+C00037610 | Caralluma penicillata
+C00037611 | Caralluma penicillata
+C00041031 | Caralluma lasiantha
+C00041032 | Caralluma lasiantha
+C00046881 | Caralluma russeliana
+C00046882 | Caralluma russeliana
+C00046883 | Caralluma russeliana
+C00046884 | Caralluma russeliana
+C00000599 | Carissa edulis
+C00011733 | Carissa edulis
+C00012692 | Carissa carandas
+C00012692 | Carissa laneolata R.Br.
+C00012695 | Carissa edulis
+C00012700 | Carissa edulis
+C00012701 | Carissa edulis
+C00029478 | Carissa edulis
+C00033700 | Carissa lanceolata
+C00037012 | Carissa laneolata R.Br.
+C00046784 | Carissa macrocarpa
+C00000012 | Catharanthus roseus
+C00000024 | Catharanthus roseus
+C00000091 | Catharanthus roseus
+C00000176 | Catharanthus roseus
+C00000181 | Catharanthus roseus
+C00000206 | Catharanthus roseus
+C00000207 | Catharanthus roseus
+C00000733 | Catharanthus roseus
+C00000734 | Catharanthus roseus
+C00001122 | Catharanthus roseus
+C00001386 | Catharanthus roseus
+C00001678 | Catharanthus roseus
+C00001680 | Catharanthus roseus
+C00001683 | Catharanthus roseus
+C00001686 | Catharanthus longifolius
+C00001743 | Catharanthus roseus
+C00001744 | Catharanthus lanceus
+C00001744 | Catharanthus longifolius
+C00001744 | Catharanthus ovalis
+C00001744 | Catharanthus pusillus
+C00001744 | Catharanthus roseus
+C00001744 | Catharanthus spp.
+C00001752 | Catharanthus roseus
+C00001769 | Catharanthus roseus
+C00001773 | Catharanthus roseus
+C00001781 | Catharanthus roseus (L.) G.DON
+C00001782 | Catharanthus roseus
+C00001783 | Catharanthus roseus
+C00001784 | Catharanthus longifolius
+C00001784 | Catharanthus ovalis
+C00001784 | Catharanthus pusillus
+C00001784 | Catharanthus roseus
+C00003088 | Catharanthus roseus
+C00003098 | Catharanthus roseus
+C00005206 | Catharanthus roseus
+C00005374 | Catharanthus tinctorius
+C00006619 | Catharanthus roseus G.Don.
+C00006722 | Catharanthus roseus
+C00006735 | Catharanthus roseus
+C00006896 | Catharanthus roseus
+C00006903 | Catharanthus roseus
+C00007273 | Catharanthus roseus
+C00007275 | Catharanthus roseus G.Don.
+C00007276 | Catharanthus roseus
+C00007521 | Catharanthus roseus G.Don.
+C00007560 | Catharanthus roseus
+C00007614 | Catharanthus roseus
+C00010604 | Catharanthus roseus
+C00010794 | Catharanthus roseus
+C00013985 | Catharanthus roseus
+C00014875 | Catharanthus roseus
+C00014876 | Catharanthus roseus
+C00020647 | Catharanthus roseus G.Don.
+C00024453 | Catharanthus trichophyllus
+C00024457 | Catharanthus pusillus (Vinca pusilla)
+C00024457 | Catharanthus roseus
+C00024457 | Catharanthus trichophyllus
+C00024458 | Catharanthus roseus
+C00024459 | Catharanthus roseus
+C00024459 | Catharanthus trichophyllus
+C00024461 | Catharanthus ovalis
+C00024462 | Catharanthus ovalis
+C00024462 | Catharanthus roseus
+C00024480 | Catharanthus roseus
+C00024481 | Catharanthus roseus
+C00024486 | Catharanthus roseus
+C00024490 | Catharanthus ovalis
+C00024497 | Catharanthus roseus
+C00024498 | Catharanthus ovalis
+C00024498 | Catharanthus roseus
+C00024498 | Catharanthus trichophyllus
+C00024499 | Catharanthus roseus
+C00024501 | Catharanthus ovalis
+C00024501 | Catharanthus roseus
+C00024505 | Catharanthus ovalis
+C00024521 | Catharanthus roseus
+C00024523 | Catharanthus lanceus Boj.
+C00024523 | Catharanthus ovalis
+C00024523 | Catharanthus roseus
+C00024524 | Catharanthus ovalis
+C00024528 | Catharanthus ovalis
+C00024529 | Catharanthus roseus
+C00024540 | Catharanthus ovalis
+C00024541 | Catharanthus ovalis
+C00024607 | Catharanthus trichophyllus
+C00024612 | Catharanthus roseus
+C00024614 | Catharanthus roseus
+C00024615 | Catharanthus longifolius
+C00024615 | Catharanthus ovalis
+C00024615 | Catharanthus roseus
+C00024615 | Catharanthus trichophyllus
+C00024616 | Catharanthus ovalis
+C00024616 | Catharanthus pusillus (Vinca pusilla)
+C00024616 | Catharanthus roseus
+C00025214 | Catharanthus roseus
+C00025912 | Catharanthus roseus
+C00026009 | Catharanthus roseus
+C00026010 | Catharanthus roseus
+C00026013 | Catharanthus roseus
+C00026041 | Catharanthus roseus
+C00027069 | Catharanthus roseus
+C00027077 | Catharanthus roseus
+C00029058 | Catharanthus roseus
+C00029329 | Catharanthus roseus
+C00050943 | Catharanthus roseus
+C00051307 | Catharanthus roseus
+C00051777 | Catharanthus roseus
+C00051778 | Catharanthus roseus
+C00051779 | Catharanthus roseus
+C00051780 | Catharanthus roseus
+C00051782 | Catharanthus roseus
+C00051784 | Catharanthus roseus
+C00051787 | Catharanthus roseus
+C00051788 | Catharanthus roseus
+C00051792 | Catharanthus roseus
+C00051967 | Catharanthus roseus
+C00051968 | Catharanthus roseus
+C00052000 | Catharanthus roseus
+C00000682 | Cerbera manghas
+C00000682 | Cerbera odollam
+C00000689 | Cerbera odollam
+C00000690 | Cerbera odollam
+C00000691 | Cerbera odollam
+C00003610 | Cerbera odollam
+C00003611 | Cerbera dilatata
+C00003611 | Cerbera floribunda
+C00003632 | Cerbera adollam
+C00003632 | Cerbera manghas L.
+C00003632 | Cerbera odollam
+C00003639 | Cerbera odollam
+C00005219 | Cerbera manghas
+C00005456 | Cerbera manghas
+C00007206 | Cerbera manghas
+C00007206 | Cerbera odollam
+C00010525 | Cerbera manghas
+C00010525 | Cerbera manghes
+C00010526 | Cerbera manghas
+C00010526 | Cerbera manghes
+C00010527 | Cerbera manghas
+C00010527 | Cerbera manghes
+C00031547 | Cerbera adollam
+C00031547 | Cerbera manghas L.
+C00031660 | Cerbera adollam
+C00031660 | Cerbera manghas L.
+C00031724 | Cerbera manghas L.
+C00032285 | Cerbera manghas L.
+C00032285 | Cerbera manghus
+C00035466 | Cerbera adollam
+C00035466 | Cerbera odollam
+C00035559 | Cerbera adollam
+C00028032 | Ceropegia juncea
+C00002145 | Chonemorpha grandiflora
+C00025541 | Chonemorpha macrophylla
+C00029058 | Chonemorpha grandiflora
+C00031110 | Chonemorpha grandiflora
+C00036264 | Chonemorpha grandiflora
+C00038756 | Chonemorpha macrophylla
+C00038756 | Chonemorpha penangensis
+C00025043 | Craspidospermum verticillatum
+C00025060 | Craspidospermum verticillatum
+C00025076 | Craspidospermum verticillatum
+C00025044 | Crioceras dipladeniiflorus
+C00025058 | Crioceras dipladeniiflorus
+C00025059 | Crioceras dipladeniiflorus
+C00025059 | Crioceras longiflorus
+C00025060 | Crioceras dipladeniiflorus
+C00003616 | Cryptostegia grandiflora
+C00036957 | Cryptostegia grandiflora
+C00036958 | Cryptostegia grandiflora
+C00036959 | Cryptostegia grandiflora
+C00036960 | Cryptostegia grandiflora
+C00001713 | Cyclocotyla congoensis
+C00002367 | Cynanchum vincetoxicum
+C00002704 | Cynanchum paniculatum
+C00002743 | Cynanchum thesioides
+C00002776 | Cynanchum thesioides
+C00003672 | Cynanchum taiwanianum
+C00003738 | Cynanchum taiwanianum
+C00005590 | Cynanchum thesioides
+C00005594 | Cynanchum thesioides
+C00013193 | Cynanchum wilfordi hemsl.
+C00024139 | Cynanchum bungei DECNE
+C00024140 | Cynanchum bungei DECNE
+C00024141 | Cynanchum bungei DECNE
+C00024142 | Cynanchum bungei DECNE
+C00028289 | Cynanchum caudatum Max.
+C00028289 | Cynanchum wilfordi Hemsley
+C00029761 | Cynanchum sublanceolatum
+C00029834 | Cynanchum bungei
+C00030079 | Cynanchum sublanceolatum
+C00030080 | Cynanchum sublanceolatum
+C00030407 | Cynanchum glaucescens
+C00030407 | Cynanchum sublanceolatum
+C00030960 | Cynanchum bungei
+C00030960 | Cynanchum caudatum Max.
+C00031197 | Cynanchum otophyllum
+C00031197 | Cynanchum wallichii
+C00031659 | Cynanchum caudatum Max.
+C00031715 | Cynanchum caudatum Max.
+C00031879 | Cynanchum caudatum Max.
+C00031955 | Cynanchum bungei
+C00032219 | Cynanchum sublanceolatum
+C00032220 | Cynanchum sublanceolatum
+C00032221 | Cynanchum sublanceolatum
+C00032222 | Cynanchum sublanceolatum
+C00032223 | Cynanchum sublanceolatum
+C00032224 | Cynanchum sublanceolatum
+C00032225 | Cynanchum sublanceolatum
+C00032226 | Cynanchum sublanceolatum
+C00032227 | Cynanchum sublanceolatum
+C00032228 | Cynanchum sublanceolatum
+C00032229 | Cynanchum sublanceolatum
+C00032230 | Cynanchum sublanceolatum
+C00032231 | Cynanchum sublanceolatum
+C00032232 | Cynanchum sublanceolatum
+C00032233 | Cynanchum sublanceolatum
+C00032234 | Cynanchum sublanceolatum
+C00032235 | Cynanchum sublanceolatum
+C00032236 | Cynanchum sublanceolatum
+C00032237 | Cynanchum sublanceolatum
+C00032238 | Cynanchum sublanceolatum
+C00032239 | Cynanchum sublanceolatum
+C00032240 | Cynanchum sublanceolatum
+C00032241 | Cynanchum sublanceolatum
+C00032242 | Cynanchum sublanceolatum
+C00032243 | Cynanchum sublanceolatum
+C00032244 | Cynanchum sublanceolatum
+C00032245 | Cynanchum sublanceolatum
+C00032246 | Cynanchum sublanceolatum
+C00032247 | Cynanchum sublanceolatum
+C00032853 | Cynanchum liukiuense
+C00032853 | Cynanchum liukiuense WARB
+C00032880 | Cynanchum ascyrifolium
+C00032881 | Cynanchum ascyrifolium
+C00033120 | Cynanchum bungei
+C00033120 | Cynanchum paniculatum
+C00040384 | Cynanchum stauntoi
+C00040384 | Cynanchum stauntonii
+C00040385 | Cynanchum stauntoi
+C00040385 | Cynanchum stauntonii
+C00042437 | Cynanchum ascyrifolium
+C00042438 | Cynanchum ascyrifolium
+C00042439 | Cynanchum ascyrifolium
+C00043760 | Cynanchum paniculatum
+C00043761 | Cynanchum paniculatum
+C00043801 | Cynanchum paniculatum
+C00043802 | Cynanchum paniculatum
+C00045674 | Cynanchum atratum
+C00045675 | Cynanchum atratum
+C00048929 | Cynanchum bungei
+C00050048 | Cynanchum taiwanianum
+C00050049 | Cynanchum taiwanianum
+C00050975 | Cynanchum paniculatum
+C00025193 | Diplorhynchus condylocarpon
+C00025822 | Diplorhynchus condylocarpon
+C00025960 | Diplorhynchus condylocarpon
+C00026041 | Diplorhynchus condylocarpon
+C00001754 | Dyera costulata
+C00002473 | Echites hirsuta
+C00002098 | Funtumia latifolia Stapf.
+C00002249 | Funtumia elastica
+C00002249 | Funtumia latifolia
+C00002252 | Funtumia elastica
+C00001731 | Geissospermum sericeum
+C00001731 | Geissospermum vellosii
+C00001732 | Geissospermum sericeum
+C00001732 | Geissospermum vellosii
+C00024452 | Geissospermum argenteum
+C00024515 | Geissospermum argenteum
+C00024583 | Geissospermum argenteum
+C00025193 | Geissospermum vellosii
+C00026849 | Geissospermum sericeum
+C00026849 | Geissospermum vellosii
+C00045969 | Geissospermum sericeum
+C00024535 | Gonioma malagasy
+C00024594 | Gonioma kamassi
+C00001174 | Gymnema sylvestre
+C00003523 | Gymnema sylvestre
+C00037231 | Gymnema sylvestre
+C00045632 | Gymnema sylvestre
+C00046094 | Gymnema sylvestre
+C00001681 | Haplophyton crooksii
+C00001713 | Haplophyton cimicidum
+C00001789 | Haplophyton crooksii L.Benson
+C00024525 | Haplophyton cimicidum A.DC.
+C00024525 | Haplophyton crooksii
+C00024526 | Haplophyton cimicidum A.DC.
+C00024526 | Haplophyton crooksii
+C00024527 | Haplophyton crooksii
+C00024536 | Haplophyton cimicidum A.DC.
+C00025051 | Haplophyton cimicidum
+C00025062 | Haplophyton cimicidum
+C00025216 | Haplophyton crooksii
+C00027655 | Haplophyton crooksii
+C00027695 | Haplophyton crooksii
+C00027704 | Haplophyton crooksii
+C00027935 | Haplophyton crooksii L.Benson
+C00028103 | Haplophyton crooksii
+C00028334 | Haplophyton cimicidum A.DC.
+C00028334 | Haplophyton crooksii
+C00028446 | Haplophyton crooksii
+C00000606 | Himatanthus fallax
+C00003095 | Himatanthus sucuuba
+C00003750 | Himatanthus sucuuba
+C00007190 | Himatanthus fallax
+C00032700 | Himatanthus sucuuba
+C00033132 | Himatanthus sucuuba
+C00033133 | Himatanthus sucuuba
+C00000892 | Holarrhena floribunda
+C00002243 | Holarrhena africana
+C00002243 | Holarrhena antidysenterica
+C00002243 | Holarrhena congolensis
+C00002243 | Holarrhena febrifuga
+C00002243 | Holarrhena floribunda
+C00002243 | Holarrhena pubescens
+C00002243 | Holarrhena wulfsbergii
+C00002249 | Holarrhena congolensis
+C00002249 | Holarrhena febrifuga
+C00002254 | Holarrhena antidysenterica
+C00002254 | Holarrhena pubescens
+C00002255 | Holarrhena antidysenterica
+C00003196 | Holarrhena floribunda
+C00025496 | Holarrhena antidysenterica
+C00025497 | Holarrhena curtisii
+C00025498 | Holarrhena floribunda
+C00025499 | Holarrhena floribunda
+C00025500 | Holarrhena antidysenterica
+C00025501 | Holarrhena antidysenterica
+C00025502 | Holarrhena antidysenterica
+C00025503 | Holarrhena antidysenterica
+C00025504 | Holarrhena antidysenterica
+C00025505 | Holarrhena antidysenterica
+C00025506 | Holarrhena floribunda
+C00025507 | Holarrhena floribunda
+C00025508 | Holarrhena floribunda
+C00025509 | Holarrhena antidysenterica
+C00025510 | Holarrhena antidysenterica
+C00025511 | Holarrhena floribunda
+C00025512 | Holarrhena floribunda
+C00025513 | Holarrhena antidysenterica
+C00025515 | Holarrhena congolensis
+C00025520 | Holarrhena mitis
+C00025524 | Holarrhena mitis
+C00025525 | Holarrhena crassifolia
+C00028348 | Holarrhena pubescens Buch.Ham
+C00028718 | Holarrhena antidysenterica
+C00028718 | Holarrhena febrifuga
+C00028718 | Holarrhena pubescens Buch.Ham
+C00030488 | Holarrhena antidysenterica L.WALL.
+C00033251 | Holarrhena febrifuga Klotsch.
+C00034649 | Holarrhena floribunda
+C00046801 | Holarrhena floribunda
+C00046802 | Holarrhena floribunda
+C00046880 | Holarrhena floribunda
+C00046956 | Holarrhena floribunda
+C00049922 | Holarrhena curtisii
+C00049923 | Holarrhena curtisii
+C00050120 | Holarrhena curtisii
+C00050121 | Holarrhena curtisii
+C00050121 | Holarrhena floribunda
+C00050174 | Holarrhena curtisii
+C00051172 | Holarrhena antidysenterica
+C00051173 | Holarrhena antidysenterica
+C00051174 | Holarrhena antidysenterica
+C00035629 | Hoodia gordonii
+C00035630 | Hoodia gordonii
+C00035631 | Hoodia gordonii
+C00035632 | Hoodia gordonii
+C00035633 | Hoodia gordonii
+C00035634 | Hoodia gordonii
+C00035635 | Hoodia gordonii
+C00035636 | Hoodia gordonii
+C00035637 | Hoodia gordonii
+C00035644 | Hoodia gordonii
+C00035645 | Hoodia gordonii
+C00035646 | Hoodia gordonii
+C00035647 | Hoodia gordonii
+C00035648 | Hoodia gordonii
+C00035649 | Hoodia gordonii
+C00035650 | Hoodia gordonii
+C00035651 | Hoodia gordonii
+C00035652 | Hoodia gordonii
+C00035653 | Hoodia gordonii
+C00048406 | Hoodia gordonii
+C00048407 | Hoodia gordonii
+C00048408 | Hoodia gordonii
+C00048409 | Hoodia gordonii
+C00048410 | Hoodia gordonii
+C00048411 | Hoodia gordonii
+C00048412 | Hoodia gordonii
+C00048413 | Hoodia gordonii
+C00048414 | Hoodia gordonii
+C00048415 | Hoodia gordonii
+C00048416 | Hoodia gordonii
+C00048417 | Hoodia gordonii
+C00048418 | Hoodia gordonii
+C00048419 | Hoodia gordonii
+C00048420 | Hoodia gordonii
+C00048421 | Hoodia gordonii
+C00001713 | Hunteria congolana
+C00001713 | Hunteria eburnea
+C00001713 | Hunteria elliotii
+C00001713 | Hunteria zeylanica
+C00001714 | Hunteria eburnea Pichon.
+C00001761 | Hunteria elliottii
+C00001786 | Hunteria zeylanica
+C00024454 | Hunteria elliottii
+C00024454 | Hunteria zeylanica
+C00024463 | Hunteria congolana
+C00024463 | Hunteria elliottii
+C00024593 | Hunteria elliottii
+C00024608 | Hunteria zeylanica
+C00025050 | Hunteria zeylanica
+C00025051 | Hunteria zeylanica
+C00025055 | Hunteria congolana
+C00025055 | Hunteria umbellata
+C00025058 | Hunteria elliotii
+C00025061 | Hunteria congolana
+C00025061 | Hunteria eburnea
+C00025061 | Hunteria elliotii
+C00025061 | Hunteria zeylanica
+C00025062 | Hunteria congolana
+C00025062 | Hunteria eburnea
+C00025062 | Hunteria elliotii
+C00025062 | Hunteria zeylanica
+C00026010 | Hunteria zeylanica
+C00026013 | Hunteria eburnea Pichon.
+C00028446 | Hunteria congolense
+C00047662 | Hunteria zeylanica
+C00047664 | Hunteria zeylanica
+C00047761 | Hunteria zeylanica
+C00025494 | Kibatalia gitingensis
+C00025516 | Kibatalia gitingensis
+C00001713 | Kopsia officinalis
+C00001713 | Kopsia pauciflora
+C00001736 | Kopsia griffithii
+C00001761 | Kopsia officinalis L.
+C00008974 | Kopsia dasyrachis
+C00024448 | Kopsia officinalis
+C00024448 | Kopsia pauciflora
+C00024449 | Kopsia officinalis
+C00024451 | Kopsia officinalis
+C00024454 | Kopsia dasyrachis
+C00024454 | Kopsia fruticosa
+C00024454 | Kopsia griffithii
+C00024454 | Kopsia hainanensis
+C00024454 | Kopsia larutensis
+C00024454 | Kopsia longiflora
+C00024454 | Kopsia officinalis
+C00024454 | Kopsia pauciflora
+C00024454 | Kopsia punciflora
+C00024455 | Kopsia hainanensis
+C00024456 | Kopsia lapidilecta
+C00024460 | Kopsia dasyrachis
+C00024460 | Kopsia deverrei
+C00024460 | Kopsia fruticosa
+C00024460 | Kopsia griffithii
+C00024460 | Kopsia officinalis
+C00024460 | Kopsia pauciflora
+C00024462 | Kopsia lapidilecta
+C00024468 | Kopsia deverrei
+C00024469 | Kopsia lapidilecta
+C00024473 | Kopsia sp.
+C00024474 | Kopsia jasminiflora
+C00024476 | Kopsia deverrei
+C00024477 | Kopsia singapurensis
+C00024477 | Kopsia teoi
+C00024484 | Kopsia deverrei
+C00024487 | Kopsia deverrei
+C00024506 | Kopsia jasminiflora
+C00024532 | Kopsia lapidilecta
+C00024539 | Kopsia jasminiflora
+C00024542 | Kopsia officinalis
+C00024542 | Kopsia pauciflora
+C00024543 | Kopsia fruticosa
+C00024543 | Kopsia hainanensis
+C00024543 | Kopsia officinalis
+C00024544 | Kopsia teoi
+C00024545 | Kopsia dasyrachis
+C00024546 | Kopsia dasyrachis
+C00024547 | Kopsia dasyrachis
+C00024548 | Kopsia teoi
+C00024549 | Kopsia teoi
+C00024550 | Kopsia teoi
+C00024551 | Kopsia jasminiflora
+C00024552 | Kopsia jasminiflora
+C00024552 | Kopsia jasminiflora Pitard
+C00024553 | Kopsia teoi
+C00024554 | Kopsia singapurensis
+C00024554 | Kopsia teoi
+C00024556 | Kopsia teoi
+C00024557 | Kopsia teoi
+C00024558 | Kopsia hainanensis
+C00024558 | Kopsia officinalis
+C00024559 | Kopsia teoi
+C00024560 | Kopsia teoi
+C00024561 | Kopsia teoi
+C00024562 | Kopsia teoi
+C00024563 | Kopsia teoi
+C00024564 | Kopsia hainanensis
+C00024565 | Kopsia lapidilecta
+C00024566 | Kopsia lapidilecta
+C00024567 | Kopsia griffithii
+C00024568 | Kopsia dasyrachis
+C00024568 | Kopsia griffithii
+C00024572 | Kopsia tenuis
+C00024573 | Kopsia tenuis
+C00024574 | Kopsia tenuis
+C00024578 | Kopsia teoi
+C00024579 | Kopsia teoi
+C00024580 | Kopsia arborea
+C00024580 | Kopsia dasyrachis
+C00024580 | Kopsia officinalis
+C00024581 | Kopsia dasyrachis
+C00024581 | Kopsia officinalis
+C00024588 | Kopsia pauciflora
+C00024589 | Kopsia dasyrachis
+C00024589 | Kopsia pauciflora
+C00024590 | Kopsia pauciflora
+C00024591 | Kopsia pauciflora
+C00024593 | Kopsia dasyrachis
+C00024593 | Kopsia griffithii
+C00024593 | Kopsia officinalis
+C00024595 | Kopsia teoi
+C00024597 | Kopsia singapurensis
+C00024598 | Kopsia singapurensis
+C00024599 | Kopsia singapurensis
+C00024600 | Kopsia singapurensis
+C00025050 | Kopsia dasyrachis
+C00025050 | Kopsia macrophylla
+C00025061 | Kopsia hainanensis
+C00025062 | Kopsia dasyrachis
+C00025063 | Kopsia hainanensis
+C00025063 | Kopsia macrophylla
+C00025063 | Kopsia officinalis
+C00025064 | Kopsia dasyrachis
+C00025064 | Kopsia pauciflora
+C00025071 | Kopsia officinalis
+C00025079 | Kopsia officinalis
+C00025152 | Kopsia macrophylla Hook.f.
+C00025152 | Kopsia teoi
+C00025167 | Kopsia jasminiflora Pitard
+C00025168 | Kopsia fruticosa
+C00025168 | Kopsia jasminiflora Pitard
+C00025214 | Kopsia dasyrachis
+C00025214 | Kopsia griffithii
+C00025859 | Kopsia macrophylla Hook.f.
+C00026013 | Kopsia dasyrachis
+C00026013 | Kopsia fruticosa
+C00026055 | Kopsia macrophylla Hook.f.
+C00026538 | Kopsia griffithii
+C00026581 | Kopsia arborea
+C00026581 | Kopsia fruticosa
+C00026581 | Kopsia singapurensis
+C00026618 | Kopsia tenuis
+C00026619 | Kopsia tenuis
+C00026620 | Kopsia tenuis
+C00027619 | Kopsia pauciflora
+C00027628 | Kopsia dasyrachis
+C00027628 | Kopsia griffithii
+C00027628 | Kopsia pauciflora
+C00027675 | Kopsia griffithii
+C00027675 | Kopsia pauciflora
+C00027696 | Kopsia deverrei
+C00027696 | Kopsia griffithii
+C00028132 | Kopsia macrophylla Hook.f.
+C00028132 | Kopsia teoi
+C00028696 | Kopsia dasyrachis
+C00028696 | Kopsia griffithii
+C00028696 | Kopsia pauciflora
+C00034056 | Kopsia arborea
+C00034057 | Kopsia arborea
+C00034057 | Kopsia flavida
+C00034178 | Kopsia arborea
+C00034179 | Kopsia arborea
+C00038053 | Kopsia dasyrachis
+C00038124 | Kopsia dasyrachis
+C00038127 | Kopsia dasyrachis
+C00038149 | Kopsia dasyrachis
+C00038149 | Kopsia griffithii
+C00038171 | Kopsia singapurensis
+C00038181 | Kopsia arborea
+C00038182 | Kopsia arborea
+C00038487 | Kopsia arborea
+C00038488 | Kopsia arborea
+C00038489 | Kopsia arborea
+C00038490 | Kopsia arborea
+C00038491 | Kopsia arborea
+C00038522 | Kopsia singapurensis
+C00038925 | Kopsia dasyrachis
+C00038949 | Kopsia dasyrachis
+C00038954 | Kopsia dasyrachis
+C00039559 | Kopsia dasyrachis
+C00039568 | Kopsia arborea
+C00039569 | Kopsia arborea
+C00039570 | Kopsia dasyrachis
+C00039571 | Kopsia dasyrachis
+C00039571 | Kopsia longiflora
+C00039572 | Kopsia dasyrachis
+C00039573 | Kopsia singapurensis
+C00039574 | Kopsia singapurensis
+C00039575 | Kopsia singapurensis
+C00039576 | Kopsia singapurensis
+C00039577 | Kopsia singapurensis
+C00039578 | Kopsia singapurensis
+C00039579 | Kopsia singapurensis
+C00039580 | Kopsia singapurensis
+C00039581 | Kopsia singapurensis
+C00039582 | Kopsia singapurensis
+C00039583 | Kopsia singapurensis
+C00039584 | Kopsia singapurensis
+C00039585 | Kopsia singapurensis
+C00039586 | Kopsia singapurensis
+C00039587 | Kopsia dasyrachis
+C00039588 | Kopsia dasyrachis
+C00039588 | Kopsia fruticosa
+C00039589 | Kopsia singapurensis
+C00039590 | Kopsia arborea
+C00039591 | Kopsia arborea
+C00039592 | Kopsia singapurensis
+C00039831 | Kopsia dasyrachis
+C00039934 | Kopsia arborea
+C00039953 | Kopsia arborea
+C00040153 | Kopsia arborea
+C00040153 | Kopsia dasyrachis
+C00040153 | Kopsia singapurensis
+C00040617 | Kopsia arborea
+C00040636 | Kopsia singapurensis
+C00040772 | Kopsia griffithii
+C00040867 | Kopsia griffithii
+C00047261 | Kopsia arborea
+C00047262 | Kopsia arborea
+C00047263 | Kopsia arborea
+C00047264 | Kopsia arborea
+C00050289 | Kopsia pauciflora
+C00050290 | Kopsia pauciflora
+C00050291 | Kopsia pauciflora
+C00050292 | Kopsia pauciflora
+C00050293 | Kopsia pauciflora
+C00050294 | Kopsia pauciflora
+C00051151 | Kopsia fruticosa
+C00051152 | Kopsia fruticosa
+C00051153 | Kopsia fruticosa
+C00051154 | Kopsia fruticosa
+C00051155 | Kopsia fruticosa
+C00051156 | Kopsia fruticosa
+C00051157 | Kopsia fruticosa
+C00051320 | Kopsia fruticosa
+C00004762 | Landolphia kirkii
+C00001713 | Leuconotis griffithii
+C00024511 | Leuconotis eugenifolius
+C00024567 | Leuconotis eugenifolius
+C00024567 | Leuconotis griffithii
+C00024568 | Leuconotis eugenifolius
+C00024595 | Leuconotis eugenifolius DC.
+C00025051 | Leuconotis griffithii
+C00025075 | Leuconotis griffithii
+C00047959 | Leuconotis sp.
+C00047960 | Leuconotis sp.
+C00047961 | Leuconotis sp.
+C00047962 | Leuconotis sp.
+C00047963 | Leuconotis sp.
+C00047964 | Leuconotis sp.
+C00047965 | Leuconotis sp.
+C00001679 | Melodinus balansae
+C00001679 | Melodinus balansae var.paucivenosus
+C00001681 | Melodinus spp.
+C00001784 | Melodinus fusiformis
+C00002591 | Melodinus morsei
+C00007204 | Melodinus morsei
+C00022413 | Melodinus monogynus
+C00022414 | Melodinus monogynus
+C00024454 | Melodinus fusiformis
+C00024454 | Melodinus guillauminii
+C00024454 | Melodinus morsei
+C00024454 | Melodinus reticulatus
+C00024457 | Melodinus aeneus
+C00024457 | Melodinus scandens
+C00024458 | Melodinus aeneus
+C00024458 | Melodinus henryi
+C00024458 | Melodinus suaveolens
+C00024458 | Melodinus tenuicaudatus
+C00024461 | Melodinus balansae var.paucivenosus
+C00024461 | Melodinus celastroides
+C00024461 | Melodinus guillauminii
+C00024461 | Melodinus hemsleyanus
+C00024461 | Melodinus insulae-pinorum
+C00024461 | Melodinus phylliraeoides
+C00024461 | Melodinus polyadenus
+C00024461 | Melodinus reticulatus
+C00024461 | Melodinus scandens
+C00024462 | Melodinus balansae var.paucivenosus
+C00024462 | Melodinus celastroides
+C00024462 | Melodinus fusiformis
+C00024462 | Melodinus guillauminii
+C00024462 | Melodinus hemsleyanus
+C00024462 | Melodinus insulae-pinorum
+C00024462 | Melodinus phylliraeoides
+C00024462 | Melodinus polyadenus
+C00024462 | Melodinus reticulatus
+C00024462 | Melodinus scandens
+C00024463 | Melodinus morsei
+C00024463 | Melodinus scandens
+C00024463 | Melodinus suaveolens
+C00024464 | Melodinus morsei
+C00024471 | Melodinus celastroides
+C00024473 | Melodinus fusiformis
+C00024473 | Melodinus hemsleyanus
+C00024473 | Melodinus henryi
+C00024473 | Melodinus scandens
+C00024473 | Melodinus tenuicaudatus
+C00024475 | Melodinus fusiformis
+C00024475 | Melodinus hemsleyanus
+C00024475 | Melodinus tenuicaudatus
+C00024478 | Melodinus fusiformis
+C00024478 | Melodinus hemsleyanus
+C00024478 | Melodinus suaveolens
+C00024479 | Melodinus fusiformis
+C00024479 | Melodinus hemsleyanus
+C00024480 | Melodinus fusiformis
+C00024480 | Melodinus guillauminii
+C00024480 | Melodinus hemsleyanus
+C00024480 | Melodinus morsei
+C00024480 | Melodinus suaveolens
+C00024480 | Melodinus tenuicaudatus
+C00024481 | Melodinus aeneus
+C00024481 | Melodinus fusiformis
+C00024481 | Melodinus guillauminii
+C00024481 | Melodinus hemsleyanus
+C00024481 | Melodinus henryi
+C00024481 | Melodinus polyadenus
+C00024481 | Melodinus reticulatus
+C00024481 | Melodinus suaveolens
+C00024481 | Melodinus tenuicaudatus
+C00024482 | Melodinus suaveolens
+C00024489 | Melodinus hemsleyanus
+C00024493 | Melodinus insulae-pinorum
+C00024494 | Melodinus insulae-pinorum Boiteau.
+C00024494 | Melodinus reticulatus
+C00024495 | Melodinus guillauminii
+C00024495 | Melodinus insulae-pinorum
+C00024495 | Melodinus reticulatus
+C00024497 | Melodinus morsei
+C00024497 | Melodinus phylliraeoides
+C00024497 | Melodinus tenuicaudatus
+C00024498 | Melodinus celastroides
+C00024498 | Melodinus morsei
+C00024498 | Melodinus phylliraeoides
+C00024499 | Melodinus suaveolens
+C00024501 | Melodinus celastroides
+C00024501 | Melodinus scandens
+C00024501 | Melodinus suaveolens
+C00024502 | Melodinus scandens
+C00024503 | Melodinus scandens
+C00024505 | Melodinus celastroides
+C00024507 | Melodinus guillauminii
+C00024508 | Melodinus scandens
+C00024509 | Melodinus reticulatus
+C00024522 | Melodinus celastroides
+C00024524 | Melodinus suaveolens
+C00024575 | Melodinus celastroides
+C00024576 | Melodinus hemsleyanus
+C00024576 | Melodinus scandens
+C00024577 | Melodinus hemsleyanus
+C00024577 | Melodinus scandens
+C00024594 | Melodinus morsei
+C00024596 | Melodinus fusiformis
+C00024604 | Melodinus suaveolens
+C00024612 | Melodinus morsei
+C00024612 | Melodinus suaveolens
+C00024614 | Melodinus morsei
+C00024614 | Melodinus phylliraeoides
+C00024614 | Melodinus tenuicaudatus
+C00024615 | Melodinus celastroides
+C00024615 | Melodinus hemsleyanus
+C00024615 | Melodinus morsei
+C00024615 | Melodinus phylliraeoides
+C00024615 | Melodinus suaveolens
+C00024615 | Melodinus tenuicaudatus
+C00025059 | Melodinus aeneus
+C00025059 | Melodinus scandens
+C00025068 | Melodinus tenuicaudatus
+C00025076 | Melodinus aeneus
+C00025080 | Melodinus insulae-pinorum
+C00025081 | Melodinus balansae var.paucivenosus
+C00025406 | Melodinus polyadenus
+C00025410 | Melodinus polyadenus
+C00025416 | Melodinus polyadenus
+C00025912 | Melodinus insulae-pinorum Boiteau.
+C00024483 | Microplumeria anomala
+C00024513 | Microplumeria anomala
+C00024530 | Microplumeria anomala
+C00035228 | Mondia whitei
+C00035374 | Mondia whitei
+C00001127 | Nerium oleander
+C00002499 | Nerium odorum
+C00002500 | Nerium odorum
+C00003558 | Nerium oleander
+C00003600 | Nerium oleander
+C00003741 | Nerium oleander
+C00004565 | Nerium oleander
+C00005413 | Nerium oleander
+C00019064 | Nerium oleander
+C00029633 | Nerium oleander
+C00032467 | Nerium oleander
+C00038702 | Nerium oleander
+C00038703 | Nerium oleander
+C00038704 | Nerium oleander
+C00038705 | Nerium oleander
+C00039845 | Nerium odorum Sol.
+C00039845 | Nerium oleander
+C00039846 | Nerium odorum Sol.
+C00039846 | Nerium oleander
+C00040605 | Nerium oleander
+C00041257 | Nerium oleander
+C00042003 | Nerium oleander
+C00042084 | Nerium oleander
+C00042119 | Nerium oleander
+C00042120 | Nerium oleander
+C00046784 | Nerium oleander
+C00049578 | Nerium oleander
+C00001689 | Ochrosia elliptica Labill.
+C00001689 | Ochrosia moorei
+C00001716 | Ochrosia acuminata
+C00001716 | Ochrosia elliptica
+C00001716 | Ochrosia moorei
+C00001754 | Ochrosia confusa
+C00001754 | Ochrosia lifuana
+C00001754 | Ochrosia miana
+C00024281 | Ochrosia acuminata
+C00025183 | Ochrosia acuminata
+C00025207 | Ochrosia acuminata
+C00025207 | Ochrosia poweri Bailey.
+C00025214 | Ochrosia elliptica Labill.
+C00025960 | Ochrosia elliptica Labill.
+C00026013 | Ochrosia elliptica Labill.
+C00026014 | Ochrosia poweri Bail.
+C00026015 | Ochrosia poweri Bail.
+C00026662 | Ochrosia acuminata
+C00032210 | Ochrosia acuminata
+C00038341 | Ochrosia acuminata
+C00038341 | Ochrosia moorei
+C00038996 | Ochrosia moorei
+C00039892 | Ochrosia moorei
+C00039893 | Ochrosia moorei
+C00040643 | Ochrosia acuminata
+C00002934 | Parameria laevigata MOLDENKE
+C00009276 | Parameria laevigata MOLDENKE
+C00009291 | Parameria laevigata MOLDENKE
+C00009293 | Parameria laevigata MOLDENKE
+C00013285 | Parameria laevigata Moldenke
+C00033288 | Parameria laevigata MOLDENKE
+C00044764 | Parepigynum funingense
+C00044765 | Parepigynum funingense
+C00044766 | Parepigynum funingense
+C00044767 | Parepigynum funingense
+C00000602 | Parsonsia laevigata
+C00000604 | Parsonsia laevigata
+C00002099 | Parsonsia eucalyptophylla
+C00002099 | Parsonsia straminea
+C00002104 | Parsonsia heterophylla
+C00002104 | Parsonsia spiralis
+C00012693 | Parsonsia heterophylla
+C00051748 | Parsonsia alboflavescens
+C00047605 | Pentalinon andrieuxii
+C00002471 | Periploca graeca
+C00002743 | Periploca graeca
+C00003672 | Periploca aphylla
+C00003749 | Periploca aphylla
+C00012015 | Periploca laevigata
+C00029487 | Periploca aphylla
+C00032213 | Periploca nigrescens
+C00032214 | Periploca nigrescens
+C00032536 | Periploca sepium
+C00034103 | Periploca forrestii Schltr.
+C00034103 | Periploca sepium Bge.
+C00034104 | Periploca forrestii Schltr.
+C00034104 | Periploca sepium Bge.
+C00034105 | Periploca forrestii Schltr.
+C00034105 | Periploca sepium Bge.
+C00034106 | Periploca forrestii Schltr.
+C00034106 | Periploca sepium Bge.
+C00034107 | Periploca forrestii Schltr.
+C00034107 | Periploca sepium Bge.
+C00034108 | Periploca forrestii Schltr.
+C00034108 | Periploca sepium Bge.
+C00034109 | Periploca forrestii Schltr.
+C00034109 | Periploca graeca
+C00034109 | Periploca sepium Bge.
+C00034110 | Periploca forrestii Schltr.
+C00034110 | Periploca sepium Bge.
+C00034111 | Periploca forrestii Schltr.
+C00034111 | Periploca sepium Bge.
+C00034112 | Periploca forrestii Schltr.
+C00034112 | Periploca sepium Bge.
+C00034113 | Periploca forrestii Schltr.
+C00034113 | Periploca sepium Bge.
+C00034114 | Periploca forrestii Schltr.
+C00034114 | Periploca sepium Bge.
+C00034115 | Periploca forrestii Schltr.
+C00034115 | Periploca sepium Bge.
+C00034116 | Periploca forrestii Schltr.
+C00034116 | Periploca sepium Bge.
+C00034117 | Periploca forrestii Schltr.
+C00034117 | Periploca sepium
+C00034117 | Periploca sepium Bge.
+C00034118 | Periploca forrestii Schltr.
+C00034118 | Periploca sepium Bge.
+C00034119 | Periploca forrestii Schltr.
+C00034119 | Periploca sepium Bge.
+C00034120 | Periploca forrestii Schltr.
+C00034120 | Periploca sepium Bge.
+C00039845 | Periploca sepium
+C00050720 | Periploca sepium
+C00051308 | Periploca calophylla
+C00024457 | Petchia ceylanica
+C00024500 | Petchia ceylanica
+C00024592 | Petchia ceylanica
+C00001680 | Picralima klaineana
+C00001681 | Picralima klaineana
+C00001681 | Picralima klaineanas
+C00001682 | Picralima klaineana
+C00001682 | Picralima klaineanas
+C00025152 | Picralima klaineanas
+C00048064 | Picralima klaineanas
+C00049103 | Picralima klaineanas
+C00001713 | Pleiocarpa pycnantha
+C00001761 | Pleiocarpa tubicina
+C00024454 | Pleiocarpa mutica
+C00024454 | Pleiocarpa picnantha var.tubicina
+C00024454 | Pleiocarpa tubicina
+C00024558 | Pleiocarpa mutica Benth.
+C00024564 | Pleiocarpa mutica Benth.
+C00024564 | Pleiocarpa tubicina
+C00024593 | Pleiocarpa mutica Benth.
+C00024608 | Pleiocarpa tubicina
+C00025052 | Pleiocarpa mutica
+C00025061 | Pleiocarpa mutica
+C00025216 | Pleiocarpa tubicina
+C00025719 | Pleiocarpa talbotii
+C00026013 | Pleiocarpa mutica Benth.
+C00026670 | Pleiocarpa talbotii
+C00002631 | Plumeria rubra
+C00003080 | Plumeria acutifolia
+C00003087 | Plumeria bicolor
+C00003087 | Plumeria rubra
+C00003087 | Plumeria spp.
+C00003095 | Plumeria bicolor
+C00003095 | Plumeria multiflora
+C00003095 | Plumeria rubra
+C00003096 | Plumeria acutifolia
+C00003096 | Plumeria rubra
+C00003096 | Plumeria spp.
+C00003738 | Plumeria obtusa
+C00003741 | Plumeria obtusa
+C00008863 | Plumeria rubra
+C00010737 | Plumeria rubra
+C00019064 | Plumeria obtusa L.
+C00029633 | Plumeria obtusa
+C00029665 | Plumeria obtusa L.
+C00040723 | Plumeria obtusa
+C00001407 | Prestonia amazonica
+C00000218 | Rauvolfia canescens
+C00000219 | Rauvolfia canescens
+C00000258 | Rauvolfia vomitoria
+C00001678 | Rauvolfia serpentina
+C00001678 | Rauvolfia yunnanensis
+C00001679 | Rauvolfia balansae ssp.balansae
+C00001679 | Rauvolfia balansae ssp.schumanniana
+C00001679 | Rauvolfia balansaevar.basicola
+C00001679 | Rauvolfia biauriculata
+C00001679 | Rauvolfia boliviana
+C00001679 | Rauvolfia caffra
+C00001679 | Rauvolfia cambodiana
+C00001679 | Rauvolfia canescens
+C00001679 | Rauvolfia chinensis
+C00001679 | Rauvolfia confertiflora
+C00001679 | Rauvolfia cubana
+C00001679 | Rauvolfia cumminsii
+C00001679 | Rauvolfia degeneri
+C00001679 | Rauvolfia densiflora
+C00001679 | Rauvolfia fruticosa
+C00001679 | Rauvolfia heterophylla
+C00001679 | Rauvolfia indecora
+C00001679 | Rauvolfia ligustrina
+C00001679 | Rauvolfia littoralis
+C00001679 | Rauvolfia macrophylla
+C00001679 | Rauvolfia mombasiana
+C00001679 | Rauvolfia nitida
+C00001679 | Rauvolfia obscura
+C00001679 | Rauvolfia oreogiton
+C00001679 | Rauvolfia perakensis
+C00001679 | Rauvolfia sellowii
+C00001679 | Rauvolfia serpentina
+C00001679 | Rauvolfia sevenetii
+C00001679 | Rauvolfia spathulata
+C00001679 | Rauvolfia suaveolens
+C00001679 | Rauvolfia tetraphylla
+C00001679 | Rauvolfia verticillata
+C00001679 | Rauvolfia verticillata var.hainanensis
+C00001679 | Rauvolfia verticillata var.rubrocarpa
+C00001679 | Rauvolfia viridis
+C00001679 | Rauvolfia volkensii
+C00001679 | Rauvolfia vomitoria
+C00001679 | Rauvolfia yunnanensis
+C00001683 | Rauvolfia hirsuta
+C00001683 | Rauvolfia obscura
+C00001683 | Rauvolfia vomitoria
+C00001690 | Rauvolfia canescens
+C00001712 | Rauvolfia canescens
+C00001712 | Rauvolfia cubana
+C00001712 | Rauvolfia littoralis
+C00001762 | Rauvolfia macrophylla
+C00001762 | Rauvolfia nitida
+C00001762 | Rauvolfia serpentina
+C00001762 | Rauvolfia vomitoria
+C00001763 | Rauvolfia latifrons
+C00001763 | Rauvolfia perakensis
+C00001763 | Rauvolfia serpentina
+C00001763 | Rauvolfia serpentine
+C00001763 | Rauvolfia verticillata
+C00001763 | Rauvolfia vomitoria
+C00001763 | Rauvolfia yunnanensis
+C00001767 | Rauvolfia caffra
+C00001767 | Rauvolfia cumminsii
+C00001767 | Rauvolfia perakensis
+C00001767 | Rauvolfia serpentina
+C00001767 | Rauvolfia srpentina
+C00001767 | Rauvolfia vomitoria
+C00001769 | Rauvolfia beddomei
+C00001769 | Rauvolfia fruticosa
+C00001769 | Rauvolfia serpentina
+C00001789 | Rauvolfia nitida
+C00001789 | Rauvolfia serpentina
+C00001789 | Rauvolfia vomitoria
+C00001789 | Rauvolfia yunnanensis
+C00001899 | Rauvolfia serpentina
+C00005226 | Rauvolfia verticillata
+C00024275 | Rauvolfia mauiensis
+C00024275 | Rauvolfia media
+C00024275 | Rauvolfia semperflorens var.semperflorens
+C00024276 | Rauvolfia cumminsii
+C00024276 | Rauvolfia vomitoria
+C00024277 | Rauvolfia coffra
+C00024277 | Rauvolfia macrophylla
+C00024277 | Rauvolfia nitida
+C00024277 | Rauvolfia obscura
+C00024277 | Rauvolfia suaveolens
+C00024277 | Rauvolfia vomitoria
+C00024278 | Rauvolfia cumminsii
+C00024278 | Rauvolfia sumatrana
+C00024278 | Rauvolfia vomitoria
+C00024279 | Rauvolfia balansae spp.balansae
+C00024279 | Rauvolfia biauriculata
+C00024279 | Rauvolfia caffra
+C00024279 | Rauvolfia perakensis
+C00024279 | Rauvolfia sellowii
+C00024279 | Rauvolfia serpentina
+C00024279 | Rauvolfia sprucei
+C00024279 | Rauvolfia sumatrana
+C00024279 | Rauvolfia volkensii
+C00024279 | Rauvolfia vomitoria
+C00024280 | Rauvolfia bahiensis
+C00024280 | Rauvolfia cumminsii
+C00024280 | Rauvolfia mombasiana
+C00024280 | Rauvolfia vomitoria
+C00024281 | Rauvolfia discolor
+C00024281 | Rauvolfia viridis
+C00024281 | Rauvolfia vomitoria
+C00024282 | Rauvolfia bahiensis
+C00024282 | Rauvolfia balansae spp.balansae
+C00024282 | Rauvolfia balansae spp.schumanniana
+C00024282 | Rauvolfia balansae var.basicola
+C00024282 | Rauvolfia caffra
+C00024282 | Rauvolfia nitida
+C00024282 | Rauvolfia sellowii
+C00024282 | Rauvolfia semperflorens var.viridis
+C00024282 | Rauvolfia serpentina
+C00024282 | Rauvolfia sevenetii
+C00024282 | Rauvolfia spathulata
+C00024282 | Rauvolfia volkensii
+C00024282 | Rauvolfia vomitoria
+C00024283 | Rauvolfia cubana
+C00024283 | Rauvolfia mauiensis
+C00024283 | Rauvolfia sandwicensis
+C00024283 | Rauvolfia semperflorens var.semperflorens
+C00024283 | Rauvolfia semperflorens var.viridis
+C00024283 | Rauvolfia vomitoria
+C00024285 | Rauvolfia bahiensis
+C00024285 | Rauvolfia cumminsii
+C00024285 | Rauvolfia mombasiana
+C00024285 | Rauvolfia vomitoria
+C00024286 | Rauvolfia vomitoria
+C00024287 | Rauvolfia caffra
+C00024287 | Rauvolfia cumminsii
+C00024288 | Rauvolfia obscura
+C00024288 | Rauvolfia serpentina
+C00024288 | Rauvolfia vomitoria
+C00024288 | Rauvolfia yunnanensis
+C00024289 | Rauvolfia caffra
+C00024289 | Rauvolfia serpentina
+C00024289 | Rauvolfia volkensii
+C00024289 | Rauvolfia vomitoria
+C00024290 | Rauvolfia balansae spp.balansae
+C00024290 | Rauvolfia balansae spp.schumanniana
+C00024290 | Rauvolfia balansae var.basicola
+C00024290 | Rauvolfia sevenetii
+C00024290 | Rauvolfia spathulata
+C00024291 | Rauvolfia bahiensis
+C00024291 | Rauvolfia balansae spp.balansae
+C00024291 | Rauvolfia balansae spp.schumanniana
+C00024291 | Rauvolfia balansae var.basicola
+C00024291 | Rauvolfia caffra
+C00024291 | Rauvolfia perakensis
+C00024291 | Rauvolfia semperflorens var.viridis
+C00024291 | Rauvolfia serpentina
+C00024291 | Rauvolfia sevenetii
+C00024291 | Rauvolfia spathulata
+C00024292 | Rauvolfia cumminsii
+C00024292 | Rauvolfia mombasiana
+C00024292 | Rauvolfia vomitoria
+C00024293 | Rauvolfia coffra
+C00024293 | Rauvolfia cumminsii
+C00024293 | Rauvolfia macrophylla
+C00024293 | Rauvolfia mombasiana
+C00024293 | Rauvolfia nitida
+C00024293 | Rauvolfia oreogiton
+C00024293 | Rauvolfia semperflorens var.semperflorens
+C00024293 | Rauvolfia volkensii
+C00024293 | Rauvolfia vomitoria
+C00024298 | Rauvolfia coffra
+C00024300 | Rauvolfia caffra
+C00024300 | Rauvolfia mannii
+C00024300 | Rauvolfia serpentina
+C00024300 | Rauvolfia verticillata
+C00024302 | Rauvolfia reflexa
+C00024303 | Rauvolfia confertiflora
+C00024304 | Rauvolfia reflexa
+C00024305 | Rauvolfia serpentina
+C00024306 | Rauvolfia vomitoria
+C00024308 | Rauvolfia obscura
+C00024310 | Rauvolfia volkensii
+C00024314 | Rauvolfia serpentina
+C00024315 | Rauvolfia cumminsii
+C00024316 | Rauvolfia cumminsii
+C00024317 | Rauvolfia vomitoria
+C00024318 | Rauvolfia caffra
+C00024319 | Rauvolfia bahiensis
+C00024319 | Rauvolfia cumminsii
+C00024319 | Rauvolfia vomitoria
+C00024322 | Rauvolfia balansae spp.balansae
+C00024322 | Rauvolfia balansae spp.schumanniana
+C00024322 | Rauvolfia balansae var.basicola
+C00024322 | Rauvolfia biauriculata
+C00024322 | Rauvolfia caffra
+C00024322 | Rauvolfia sellowii
+C00024322 | Rauvolfia serpentina
+C00024322 | Rauvolfia sevenetii
+C00024322 | Rauvolfia spathulata
+C00024322 | Rauvolfia vomitoria
+C00024330 | Rauvolfia cumminsii
+C00024330 | Rauvolfia mombasiana
+C00024330 | Rauvolfia obscura
+C00024330 | Rauvolfia vomitoria
+C00024332 | Rauvolfia reflexa
+C00024332 | Rauvolfia sumatrana
+C00024334 | Rauvolfia obscura
+C00024334 | Rauvolfia vomitoria
+C00024335 | Rauvolfia mannii
+C00024340 | Rauvolfia media
+C00024341 | Rauvolfia nitida
+C00024342 | Rauvolfia vomitoria
+C00024344 | Rauvolfia confertiflora
+C00024344 | Rauvolfia semperflorens var.viridis
+C00024344 | Rauvolfia serpentina
+C00024344 | Rauvolfia vomitoria
+C00024345 | Rauvolfia semperflorens var.viridis
+C00024345 | Rauvolfia vomitoria
+C00025193 | Rauvolfia bahiensis
+C00025196 | Rauvolfia bahiensis
+C00025202 | Rauvolfia nitida
+C00025205 | Rauvolfia serpentina
+C00025206 | Rauvolfia serpentina
+C00025207 | Rauvolfia nitida
+C00025207 | Rauvolfia serpentina
+C00025214 | Rauvolfia serpentina
+C00025214 | Rauvolfia vomitoria
+C00026684 | Rauvolfia bahiensis
+C00026851 | Rauvolfia grandiflora
+C00026852 | Rauvolfia serpentina
+C00027069 | Rauvolfia bahiensis
+C00027095 | Rauvolfia vomitoria
+C00029058 | Rauvolfia serpentina
+C00036407 | Rauvolfia bahiensis
+C00036408 | Rauvolfia bahiensis
+C00037024 | Rauvolfia bahiensis
+C00045154 | Rauvolfia serpentina
+C00045433 | Rauvolfia serpentina
+C00045433 | Rauvolfia verticillata
+C00045433 | Rauvolfia verticillata var.hainanensis
+C00051407 | Rauvolfia verticillata var.hainanensis
+C00051782 | Rauvolfia serpentina
+C00051783 | Rauvolfia serpentina
+C00051784 | Rauvolfia serpentina
+C00051789 | Rauvolfia serpentina
+C00051791 | Rauvolfia serpentina
+C00052043 | Rauvolfia serpentina
+C00001681 | Rhazya stricta
+C00001686 | Rhazya stricta
+C00001761 | Rhazya stricta
+C00005226 | Rhazya stricta
+C00005577 | Rhazya stricta
+C00005588 | Rhazya stricta
+C00013893 | Rhazya orientalis
+C00013925 | Rhazya orientalis
+C00024463 | Rhazya sticta
+C00024491 | Rhazya sticta
+C00024520 | Rhazya sticta
+C00024583 | Rhazya sticta
+C00024594 | Rhazya stricta Decaisne.
+C00024595 | Rhazya stricta Decaisne.
+C00024602 | Rhazya sticta
+C00024603 | Rhazya sticta
+C00024606 | Rhazya sticta
+C00024611 | Rhazya sticta
+C00025061 | Rhazya stricta
+C00025690 | Rhazya stricta Decaisne.
+C00027904 | Rhazya stricta
+C00028132 | Rhazya stricta Decaisne.
+C00029058 | Rhazya orientalis
+C00029058 | Rhazya stricta Decaisne.
+C00035756 | Rhazya stricta Decaisne.
+C00040153 | Rhazya stricta Decaisne.
+C00043209 | Rhazya orientalis
+C00043209 | Rhazya stricta Decaisne.
+C00025048 | Schizozygia caffaeoides
+C00025048 | Schizozygia coffaeoides
+C00025049 | Schizozygia caffaeoides
+C00025053 | Schizozygia caffaeoides
+C00025065 | Schizozygia caffaeoides
+C00025066 | Schizozygia caffaeoidea
+C00025066 | Schizozygia caffaeoides
+C00025082 | Schizozygia caffaeoidea
+C00025082 | Schizozygia caffaeoides
+C00045193 | Schizozygia coffaeoides
+C00001982 | Skytanthus acutus
+C00001417 | Stapelia hirsuta
+C00001435 | Stapelia hirsuta
+C00006658 | Stapelia spp.
+C00001709 | Stemmadenia obovata Benth
+C00001772 | Stemmadenia donnell-smithii
+C00001772 | Stemmadenia spp.
+C00024459 | Stemmadenia tomentosa
+C00024463 | Stemmadenia grandiflora
+C00024508 | Stemmadenia grandiflora
+C00024510 | Stemmadenia grandiflora
+C00024587 | Stemmadenia grandiflora
+C00024619 | Stemmadenia grandiflora
+C00024619 | Stemmadenia tomentosa
+C00025223 | Stemmadenia obovata Benth
+C00028753 | Stemmadenia obovata Benth
+C00047098 | Stephanotis floribunda
+C00024452 | Strempeliopsis strempelioides
+C00024519 | Strempeliopsis strempelioides
+C00024609 | Strempeliopsis strempelioides
+C00025054 | Strempeliopsis strempelioides
+C00025056 | Strempeliopsis strempelioides
+C00025067 | Strempeliopsis strempelioides
+C00025822 | Strempeliopsis strempelioides
+C00026013 | Strempeliopsis strempelioides K.Schum.
+C00026041 | Strempeliopsis strempelioides
+C00027628 | Strempeliopsis strempelioides K.Schum.
+C00029058 | Strempeliopsis strempelioides
+C00051782 | Strempeliopsis strempelioides
+C00051792 | Strempeliopsis strempelioides
+C00051968 | Strempeliopsis strempelioides
+C00000682 | Strophanthus gratus
+C00001114 | Strophanthus kombe
+C00001555 | Strophanthus spp.
+C00003605 | Strophanthus sarmentosus
+C00003605 | Strophanthus thollonii
+C00003613 | Strophanthus kombe
+C00003614 | Strophanthus divaricatus
+C00003619 | Strophanthus divaricatus
+C00003620 | Strophanthus divaricatus
+C00003630 | Strophanthus divaricatus
+C00003631 | Strophanthus divaricatus
+C00003631 | Strophanthus kombe
+C00003633 | Strophanthus gratus
+C00003635 | Strophanthus divaricatus
+C00003635 | Strophanthus sarmentosus
+C00003638 | Strophanthus kombe
+C00007190 | Strophanthus gratus
+C00007191 | Strophanthus gratus
+C00032213 | Strophanthus kombe
+C00034109 | Strophanthus kombe
+C00034109 | Strophanthus nicholsonii
+C00034117 | Strophanthus nicholsonii
+C00000604 | Tabernaemontana cymosa
+C00001676 | Tabernaemontana fuchsiafolia
+C00001687 | Tabernaemontana apoda
+C00001687 | Tabernaemontana armenica
+C00001688 | Tabernaemontana riedelii
+C00001688 | Tabernaemontana rigida
+C00001689 | Tabernaemontana calcarea Pichon
+C00001689 | Tabernaemontana cerifera Panch.et Seb.
+C00001689 | Tabernaemontana citrifolia L.
+C00001689 | Tabernaemontana coffeoides Boj.
+C00001689 | Tabernaemontana dichotoma Roxb.ex Wall
+C00001689 | Tabernaemontana divaricata
+C00001689 | Tabernaemontana elegans Stapf.
+C00001689 | Tabernaemontana humblotii (Baill.)Pichon
+C00001689 | Tabernaemontana orientalis R.Br.
+C00001689 | Tabernaemontana pachysiphon
+C00001689 | Tabernaemontana sessilifolia Bak.
+C00001689 | Tabernaemontana siphilitica Leeuwenberg
+C00001709 | Tabernaemontana calcarea
+C00001709 | Tabernaemontana coronaria
+C00001709 | Tabernaemontana oppositifolia
+C00001709 | Tabernaemontana penduliflora
+C00001729 | Tabernaemontana johnstonii
+C00001730 | Tabernaemontana holstii
+C00001730 | Tabernaemontana johnstonii
+C00001730 | Tabernaemontana odoratissima
+C00001741 | Tabernaemontana bovina
+C00001742 | Tabernaemontana calcarea
+C00001755 | Tabernaemontana psychotrifolia
+C00001771 | Tabernaemontana johnstonii
+C00001772 | Tabernaemontana spp.
+C00001785 | Tabernaemontana arborea
+C00001785 | Tabernaemontana australis
+C00001785 | Tabernaemontana oppositifolia
+C00001786 | Tabernaemontana dichotoma
+C00001786 | Tabernaemontana elegans Stapf.
+C00001786 | Tabernaemontana odoratissima
+C00002145 | Tabernaemontana heyneana
+C00007205 | Tabernaemontana cymosa
+C00024281 | Tabernaemontana undulata
+C00024450 | Tabernaemontana siphilitica Leeuwenberg
+C00024457 | Tabernaemontana citrifolia
+C00024457 | Tabernaemontana coffeoides Boj.
+C00024457 | Tabernaemontana divaricata (L.)R.Br.
+C00024457 | Tabernaemontana pachysiphon
+C00024458 | Tabernaemontana coffeoides Boj.
+C00024463 | Tabernaemontana siphilitica Leeuwenberg
+C00024485 | Tabernaemontana dichotoma
+C00024488 | Tabernaemontana coffeoides Boj.
+C00024508 | Tabernaemontana coffeoides Boj.
+C00024514 | Tabernaemontana apoda
+C00024587 | Tabernaemontana divaricata
+C00024587 | Tabernaemontana pachysiphon Stapf.
+C00024587 | Tabernaemontana retusa (Lam.)Pichon
+C00024617 | Tabernaemontana divaricata
+C00024618 | Tabernaemontana dichotoma
+C00024618 | Tabernaemontana divaricata
+C00024619 | Tabernaemontana chippii
+C00024619 | Tabernaemontana coffeoides Boj.
+C00024619 | Tabernaemontana dichotoma Roxb.ex Wall
+C00024619 | Tabernaemontana divaricata (L.)R.Br.
+C00024619 | Tabernaemontana longiflora Benth.
+C00024619 | Tabernaemontana macrocarpa Jack
+C00024619 | Tabernaemontana retusa (Lam.) Pichon
+C00024619 | Tabernaemontana undulata Vahl
+C00025042 | Tabernaemontana rigida
+C00025042 | Tabernaemontana rigida (Miers) Leeuwenberg
+C00025058 | Tabernaemontana psorocarpa
+C00025059 | Tabernaemontana humblotii (Baill.)Pichon
+C00025072 | Tabernaemontana eglandulosa
+C00025073 | Tabernaemontana eglandulosa
+C00025074 | Tabernaemontana eglandulosa
+C00025074 | Tabernaemontana eglandulosa Stapf
+C00025077 | Tabernaemontana eglandulosa
+C00025077 | Tabernaemontana eglandulosa Stapf
+C00025078 | Tabernaemontana eglandulosa
+C00025083 | Tabernaemontana eglandulosa
+C00025083 | Tabernaemontana pandacaqui
+C00025084 | Tabernaemontana eglandulosa
+C00025148 | Tabernaemontana bufalina Lour.
+C00025148 | Tabernaemontana crassa Benth.
+C00025148 | Tabernaemontana divaricata (L.) R.Br.
+C00025148 | Tabernaemontana pachysiphon Stapf.
+C00025148 | Tabernaemontana quadrangularis
+C00025149 | Tabernaemontana amblyocarpa Urb.
+C00025149 | Tabernaemontana citrifolia L.
+C00025149 | Tabernaemontana echinata Vell.
+C00025149 | Tabernaemontana quadrangularis
+C00025149 | Tabernaemontana retusa (Lam.) Pichon
+C00025152 | Tabernaemontana crassa Benth.
+C00025159 | Tabernaemontana attenuata (Miers)Urb.
+C00025159 | Tabernaemontana bufalina Lour.
+C00025159 | Tabernaemontana divaricata (L.) R.Br.
+C00025159 | Tabernaemontana olivacea Mull.Arg.
+C00025159 | Tabernaemontana quadrangularis
+C00025159 | Tabernaemontana retusa (Lam.) Pichon
+C00025160 | Tabernaemontana affinis Mull.Arg.
+C00025160 | Tabernaemontana olivacea Mull.Arg.
+C00025160 | Tabernaemontana quadrangularis
+C00025169 | Tabernaemontana bufalina Lour.
+C00025169 | Tabernaemontana laeta Mart.
+C00025169 | Tabernaemontana siphilitica Leeuwenberg
+C00025173 | Tabernaemontana amblyocarpa Urb.
+C00025173 | Tabernaemontana apoda Wr.ex Sauv.
+C00025173 | Tabernaemontana attenuata (Miers)Urb.
+C00025173 | Tabernaemontana bufalina Lour.
+C00025173 | Tabernaemontana calcarea
+C00025173 | Tabernaemontana coffeoides Boj.
+C00025173 | Tabernaemontana crassa Benth.
+C00025173 | Tabernaemontana dichotoma Roxb.ex Wall
+C00025173 | Tabernaemontana mocquerysii Aug.DC.
+C00025173 | Tabernaemontana olivacea Mull.Arg.
+C00025173 | Tabernaemontana quadrangularis
+C00025173 | Tabernaemontana retusa (Lam.) Pichon
+C00025173 | Tabernaemontana sananho Ruiz et Pav.
+C00025183 | Tabernaemontana coffeoides Boj.
+C00025193 | Tabernaemontana brachyacantha
+C00025193 | Tabernaemontana brachyantha Stapf.
+C00025193 | Tabernaemontana brachyphylla
+C00025193 | Tabernaemontana coffeoides Boj.
+C00025193 | Tabernaemontana laeta Mart.
+C00025193 | Tabernaemontana pachysiphon Stapf.
+C00025197 | Tabernaemontana coffeoides Boj.
+C00025207 | Tabernaemontana coffeoides Boj.
+C00025214 | Tabernaemontana psorocarpa (Pierre ex Stapf)Pichon
+C00025214 | Tabernaemontana siphilitica Leeuwenberg
+C00025216 | Tabernaemontana amblyocarpa Urb.
+C00025216 | Tabernaemontana attenuata (Miers)Urb.
+C00025216 | Tabernaemontana echinata Vell.
+C00025216 | Tabernaemontana elegans Stapf.
+C00025216 | Tabernaemontana humblotii (Baill.) Pichon
+C00025216 | Tabernaemontana johnstonii (Stapf)Pichon
+C00025216 | Tabernaemontana mauritiana Poir.
+C00025216 | Tabernaemontana minutiflora Pichon
+C00025216 | Tabernaemontana mocquerysii Aug.DC.
+C00025216 | Tabernaemontana pachysiphon Stapf.
+C00025216 | Tabernaemontana siphilitica Leeuwenberg
+C00025223 | Tabernaemontana amblyocarpa Urb.
+C00025223 | Tabernaemontana apoda Wr.ex Sauv.
+C00025223 | Tabernaemontana arborea Rose
+C00025223 | Tabernaemontana attenuata (Miers)Urb.
+C00025223 | Tabernaemontana aurantiaca Gaud.
+C00025223 | Tabernaemontana australis Mull.Arg.
+C00025223 | Tabernaemontana calcarea
+C00025223 | Tabernaemontana cerifera Panch.et Seb.
+C00025223 | Tabernaemontana citrifolia L.
+C00025223 | Tabernaemontana coffeoides Boj.
+C00025223 | Tabernaemontana contorta Stapf.
+C00025223 | Tabernaemontana dichotoma Roxb.ex Wall
+C00025223 | Tabernaemontana divaricata (L.) R.Br.
+C00025223 | Tabernaemontana echinata Vell.
+C00025223 | Tabernaemontana humblotii (Baill.) Pichon
+C00025223 | Tabernaemontana longiflora Benth.
+C00025223 | Tabernaemontana longipes Donn.Sm.
+C00025223 | Tabernaemontana lundii A.DC.
+C00025223 | Tabernaemontana macrocarpa Jack
+C00025223 | Tabernaemontana mocquerysii Aug.DC.
+C00025223 | Tabernaemontana olivacea Mull.Arg.
+C00025223 | Tabernaemontana orientalis R.Br.
+C00025223 | Tabernaemontana pachysiphon Stapf.
+C00025223 | Tabernaemontana penduliflora K.Schum.
+C00025223 | Tabernaemontana psorocarpa (Pierre ex Stapf) Pichon
+C00025223 | Tabernaemontana psychotriifolia H.B.K.
+C00025223 | Tabernaemontana quadrangularis
+C00025223 | Tabernaemontana retusa (Lam.) Pichon
+C00025223 | Tabernaemontana sananho Ruiz et Pav.
+C00025223 | Tabernaemontana siphilitica Leeuwenberg
+C00025223 | Tabernaemontana undulata Vahl
+C00025223 | Tabernaemontana wallichiana Steud.
+C00025224 | Tabernaemontana apoda Wr.ex Sauv.
+C00025224 | Tabernaemontana cerifera Panch.et Seb.
+C00025224 | Tabernaemontana citrifolia L.
+C00025224 | Tabernaemontana echinata Vell.
+C00025224 | Tabernaemontana macrocarpa Jack
+C00025224 | Tabernaemontana olivacea Mull.Arg.
+C00025224 | Tabernaemontana quadrangularis
+C00025225 | Tabernaemontana apoda Wr.ex Sauv.
+C00025225 | Tabernaemontana aurantiaca Gaud.
+C00025225 | Tabernaemontana echinata Vell.
+C00025225 | Tabernaemontana eglandulosa Stapf
+C00025225 | Tabernaemontana olivacea Mull.Arg.
+C00025225 | Tabernaemontana rupicola Benth.
+C00025226 | Tabernaemontana coffeoides Boj.
+C00025227 | Tabernaemontana amblyocarpa Urb.
+C00025227 | Tabernaemontana apoda Wr.ex Sauv.
+C00025227 | Tabernaemontana calcarea
+C00025227 | Tabernaemontana citrifolia L.
+C00025227 | Tabernaemontana contorta Stapf.
+C00025227 | Tabernaemontana crassa Benth.
+C00025227 | Tabernaemontana divaricata (L.) R.Br.
+C00025227 | Tabernaemontana echinata Vell.
+C00025227 | Tabernaemontana eglandulosa Stapf
+C00025227 | Tabernaemontana humblotii (Baill.) Pichon
+C00025227 | Tabernaemontana lundii A.DC.
+C00025227 | Tabernaemontana mocquerysii Aug.DC.
+C00025227 | Tabernaemontana olivacea Mull.Arg.
+C00025227 | Tabernaemontana orientalis R.Br.
+C00025227 | Tabernaemontana retusa (Lam.) Pichon
+C00025227 | Tabernaemontana wallichiana Steud.
+C00025228 | Tabernaemontana apoda Wr.ex Sauv.
+C00025228 | Tabernaemontana dichotoma Roxb.ex Wall
+C00025229 | Tabernaemontana apoda Wr.ex Sauv.
+C00025229 | Tabernaemontana lundii A.DC.
+C00025229 | Tabernaemontana rupicola Benth.
+C00025404 | Tabernaemontana albiflora
+C00025405 | Tabernaemontana albiflora
+C00025406 | Tabernaemontana eglandulosa
+C00025407 | Tabernaemontana albiflora
+C00025407 | Tabernaemontana albiflora (Miq.) Pulle
+C00025408 | Tabernaemontana albbiflora (Miq.)Pulle
+C00025408 | Tabernaemontana albiflora
+C00025409 | Tabernaemontana albiflora
+C00025410 | Tabernaemontana calcarea Pichon
+C00025410 | Tabernaemontana citrifolia
+C00025410 | Tabernaemontana orientalis R.Br.
+C00025411 | Tabernaemontana eglandulosa
+C00025412 | Tabernaemontana albiflora
+C00025413 | Tabernaemontana dichotoma Roxb.ex Wall
+C00025413 | Tabernaemontana eglandulosa
+C00025414 | Tabernaemontana flavicans
+C00025415 | Tabernaemontana calcarea Pichon
+C00025415 | Tabernaemontana citrifolia
+C00025415 | Tabernaemontana debrayi (Mgf.) Leeuwenberg
+C00025415 | Tabernaemontana orientalis R.Br.
+C00025415 | Tabernaemontana pandacaqui
+C00025416 | Tabernaemontana calcarea Pichon
+C00025416 | Tabernaemontana citrifolia
+C00025416 | Tabernaemontana debrayi (Mgf.) Leeuwenberg
+C00025416 | Tabernaemontana orientalis R.Br.
+C00025690 | Tabernaemontana minutiflora Pichon
+C00025690 | Tabernaemontana riedelii Mull.Arg.
+C00025693 | Tabernaemontana coffeoides Boj.
+C00025694 | Tabernaemontana eglandulosa Stapf
+C00025694 | Tabernaemontana mocquerysii Aug.DC.
+C00025695 | Tabernaemontana calcarea Pichon
+C00025696 | Tabernaemontana eglandulosa Stapf
+C00025697 | Tabernaemontana eglandulosa Stapf
+C00025697 | Tabernaemontana mocquerysii Aug.DC.
+C00025698 | Tabernaemontana coffeoides Boj.
+C00025703 | Tabernaemontana bufalina Lour.
+C00025704 | Tabernaemontana echinata Vell.
+C00025705 | Tabernaemontana attenuata (Miers) Urb.
+C00025705 | Tabernaemontana bufalina Lour.
+C00025705 | Tabernaemontana echinata Vell.
+C00025709 | Tabernaemontana pachysiphon Stapf.
+C00025710 | Tabernaemontana attenuata (Miers) Urb.
+C00025710 | Tabernaemontana calcarea
+C00025710 | Tabernaemontana eglandulosa Stapf
+C00025711 | Tabernaemontana attenuata (Miers)Urb.
+C00025716 | Tabernaemontana capuronii Leeuwenberg
+C00025719 | Tabernaemontana pachysiphon Stapf.
+C00025720 | Tabernaemontana pachysiphon Stapf.
+C00025720 | Tabernaemontana psorocarpa (Pierre ex Stapf) Pichon
+C00025721 | Tabernaemontana psychotriifolia H.B.K.
+C00025723 | Tabernaemontana eglandulosa Stapf
+C00025724 | Tabernaemontana albbiflora (Miq.)Pulle
+C00025726 | Tabernaemontana johnstonii (Stapf) Pichon
+C00025727 | Tabernaemontana affinis Mull.Arg.
+C00025727 | Tabernaemontana attenuata (Miers) Urb.
+C00025727 | Tabernaemontana coffeoides Boj.
+C00025727 | Tabernaemontana dichotoma Roxb.ex Wall
+C00025727 | Tabernaemontana mocquerysii Aug.DC.
+C00025727 | Tabernaemontana quadrangularis
+C00025727 | Tabernaemontana undulata Vahl
+C00025728 | Tabernaemontana dichotoma Roxb.ex Wall
+C00025728 | Tabernaemontana humblotii (Baill.) Pichon
+C00025729 | Tabernaemontana arborea Rose
+C00025730 | Tabernaemontana calcarea
+C00025730 | Tabernaemontana dichotoma Roxb.ex Wall
+C00025730 | Tabernaemontana echinata Vell.
+C00025730 | Tabernaemontana lundii A.DC.
+C00025730 | Tabernaemontana mocquerysii Aug.DC.
+C00025731 | Tabernaemontana crassa Benth.
+C00025734 | Tabernaemontana orientalis R.Br.
+C00025735 | Tabernaemontana pandacaqui Poir.
+C00025736 | Tabernaemontana coffeoides Boj.
+C00025743 | Tabernaemontana coffeoides Boj.
+C00025747 | Tabernaemontana pandacaqui Poir.
+C00025748 | Tabernaemontana eglandulosa Stapf
+C00025748 | Tabernaemontana sananho Ruiz et Pav.
+C00025752 | Tabernaemontana divaricata (L.)R.Br.
+C00025754 | Tabernaemontana crassa Benth.
+C00025754 | Tabernaemontana divaricata (L.)R.Br.
+C00025755 | Tabernaemontana sessilifolia Bak.
+C00025756 | Tabernaemontana coffeoides Boj.
+C00025757 | Tabernaemontana divaricata (L.)R.Br.
+C00025758 | Tabernaemontana coffeoides Boj.
+C00025759 | Tabernaemontana coffeoides Boj.
+C00025762 | Tabernaemontana accedens Mull.Arg.
+C00025763 | Tabernaemontana accedens Mull.Arg.
+C00025764 | Tabernaemontana accedens Mull.Arg.
+C00025770 | Tabernaemontana rigida (Miers) Leeuwenberg
+C00025777 | Tabernaemontana siphilitica Leeuwenberg
+C00025778 | Tabernaemontana capuronii Leeuwenberg
+C00025779 | Tabernaemontana capuronii Leeuwenberg
+C00025780 | Tabernaemontana capuronii Leeuwenberg
+C00025822 | Tabernaemontana minutiflora Pichon
+C00025823 | Tabernaemontana crassa Benth.
+C00025823 | Tabernaemontana johnstonii (Stapf) Pichon
+C00025823 | Tabernaemontana pachysiphon Stapf.
+C00025824 | Tabernaemontana attenuata (Miers) Urb.
+C00025824 | Tabernaemontana contorta Stapf.
+C00025824 | Tabernaemontana crassa Benth.
+C00025824 | Tabernaemontana eglandulosa Stapf
+C00025824 | Tabernaemontana longiflora Benth.
+C00025824 | Tabernaemontana orientalis R.Br.
+C00025824 | Tabernaemontana pachysiphon Stapf.
+C00025824 | Tabernaemontana penduliflora K.Schum.
+C00025825 | Tabernaemontana attenuata (Miers) Urb.
+C00025825 | Tabernaemontana crassa Benth.
+C00025825 | Tabernaemontana pachysiphon Stapf.
+C00025826 | Tabernaemontana pachysiphon Stapf.
+C00025830 | Tabernaemontana crassa Benth.
+C00025834 | Tabernaemontana amygdalifolia Jacq.
+C00025859 | Tabernaemontana calcarea Pichon
+C00025859 | Tabernaemontana coffeoides Boj.
+C00025859 | Tabernaemontana debrayi (Mgf.)Leeuwenberg
+C00025859 | Tabernaemontana divaricata (L.)R.Br.
+C00025859 | Tabernaemontana elegans Stapf.
+C00025859 | Tabernaemontana mauritiana Poir.
+C00025859 | Tabernaemontana orientalis R.Br.
+C00025859 | Tabernaemontana sessilifolia Bak.
+C00025859 | Tabernaemontana sphaerocarpa BI.
+C00025861 | Tabernaemontana pandacaqui Poir.
+C00025862 | Tabernaemontana pandacaqui Poir.
+C00025863 | Tabernaemontana bufalina Lour.
+C00025863 | Tabernaemontana corymbosa
+C00025864 | Tabernaemontana bufalina Lour.
+C00025865 | Tabernaemontana bufalina Lour.
+C00025866 | Tabernaemontana orientalis R.Br.
+C00025867 | Tabernaemontana mocquerysii Aug.DC.
+C00025887 | Tabernaemontana coffeoides Boj.
+C00025888 | Tabernaemontana amygdalifolia Jacq.
+C00025891 | Tabernaemontana apoda Wr.ex Sauv.
+C00025892 | Tabernaemontana humblotii (Baill.) Pichon
+C00025893 | Tabernaemontana bovina
+C00025893 | Tabernaemontana humblotii (Baill.)Pichon
+C00025893 | Tabernaemontana pachysiphon Stapf.
+C00025894 | Tabernaemontana quadrangularis
+C00025895 | Tabernaemontana albbiflora (Miq.) Pulle
+C00025895 | Tabernaemontana attenuata (Miers) Urb.
+C00025896 | Tabernaemontana lundii A.DC.
+C00025903 | Tabernaemontana siphilitica Leeuwenberg
+C00025909 | Tabernaemontana coffeoides Boj.
+C00025909 | Tabernaemontana dichotoma Roxb.ex Wall
+C00025912 | Tabernaemontana pachysiphon Stapf.
+C00025915 | Tabernaemontana psorocarpa (Pierre ex Stapf) Pichon
+C00025916 | Tabernaemontana amblyocarpa Urb.
+C00025916 | Tabernaemontana apoda Wr.ex Sauv.
+C00025916 | Tabernaemontana arborea Rose
+C00025916 | Tabernaemontana attenuata (Miers) Urb.
+C00025916 | Tabernaemontana calcarea
+C00025916 | Tabernaemontana coffeoides Boj.
+C00025916 | Tabernaemontana crassa Benth.
+C00025916 | Tabernaemontana divaricata (L.) R.Br.
+C00025916 | Tabernaemontana eglandulosa Stapf
+C00025916 | Tabernaemontana elegans Stapf.
+C00025916 | Tabernaemontana johnstonii (Stapf) Pichon
+C00025916 | Tabernaemontana orientalis R.Br.
+C00025916 | Tabernaemontana pachysiphon Stapf.
+C00025916 | Tabernaemontana pandacaqui Poir.
+C00025916 | Tabernaemontana sessilifolia Bak.
+C00025916 | Tabernaemontana siphilitica Leeuwenberg
+C00025916 | Tabernaemontana wallichiana Steud.
+C00025917 | Tabernaemontana amblyocarpa Urb.
+C00025917 | Tabernaemontana bovina
+C00025917 | Tabernaemontana calcarea
+C00025917 | Tabernaemontana divaricata (L.)R.Br.
+C00025917 | Tabernaemontana pandacaqui Poir.
+C00025941 | Tabernaemontana coffeoides Boj.
+C00025941 | Tabernaemontana mocquerysii Aug.DC.
+C00025945 | Tabernaemontana riedelii Mull.Arg.
+C00025960 | Tabernaemontana eglandulosa Stapf
+C00025979 | Tabernaemontana dichotoma Roxb.ex Wall
+C00025983 | Tabernaemontana amygdalifolia Jacq.
+C00026009 | Tabernaemontana coffeoides Boj.
+C00026009 | Tabernaemontana johnstonii (Stapf) Pichon
+C00026009 | Tabernaemontana pachysiphon Stapf.
+C00026010 | Tabernaemontana bufalina Lour.
+C00026010 | Tabernaemontana chartacea
+C00026010 | Tabernaemontana crassa Benth.
+C00026010 | Tabernaemontana dichotoma Roxb.ex Wall
+C00026010 | Tabernaemontana holstii
+C00026010 | Tabernaemontana johnstonii (Stapf)Pichon
+C00026010 | Tabernaemontana pachysiphon Stapf.
+C00026013 | Tabernaemontana echinata Vell.
+C00026013 | Tabernaemontana siphilitica Leeuwenberg
+C00026032 | Tabernaemontana calcarea Pichon
+C00026032 | Tabernaemontana coffeoides Boj.
+C00026041 | Tabernaemontana coffeoides Boj.
+C00026041 | Tabernaemontana dichotoma Roxb.ex Wall
+C00026041 | Tabernaemontana minutiflora Pichon
+C00026054 | Tabernaemontana coffeoides Boj.
+C00026054 | Tabernaemontana elegans Stapf.
+C00026055 | Tabernaemontana coffeoides Boj.
+C00026055 | Tabernaemontana coronaria Br.(Ervatamia coronaria.)
+C00026055 | Tabernaemontana divaricata (L.)R.Br.
+C00026055 | Tabernaemontana orientalis R.Br.
+C00026055 | Tabernaemontana pandacaqui Poir.
+C00026055 | Tabernaemontana sessilifolia Bak.
+C00026055 | Tabernaemontana sphaerocarpa BI.
+C00026059 | Tabernaemontana coffeoides Boj.
+C00026060 | Tabernaemontana siphilitica Leeuwenberg
+C00026061 | Tabernaemontana siphilitica Leeuwenberg
+C00026073 | Tabernaemontana amblyocarpa Urb.
+C00026073 | Tabernaemontana citrifolia L.
+C00026073 | Tabernaemontana coffeoides Boj.
+C00026073 | Tabernaemontana dichotoma Roxb.ex Wall
+C00026074 | Tabernaemontana psorocarpa (Pierre ex Stapf)Pichon
+C00026077 | Tabernaemontana coffeoides Boj.
+C00026078 | Tabernaemontana accedens Mull.Arg.
+C00026078 | Tabernaemontana echinata Vell.
+C00026079 | Tabernaemontana brachyantha Stapf.
+C00026081 | Tabernaemontana chippii Pichon
+C00027665 | Tabernaemontana glandulosa
+C00029058 | Tabernaemontana heyneana
+C00029225 | Tabernaemontana divaricata
+C00031110 | Tabernaemontana heyneana
+C00036264 | Tabernaemontana heyneana
+C00038057 | Tabernaemontana bovina
+C00039490 | Tabernaemontana corymbosa
+C00039491 | Tabernaemontana corymbosa
+C00039492 | Tabernaemontana corymbosa
+C00039493 | Tabernaemontana corymbosa
+C00039494 | Tabernaemontana corymbosa
+C00039495 | Tabernaemontana corymbosa
+C00039496 | Tabernaemontana corymbosa
+C00041063 | Tabernaemontana bovina
+C00041130 | Tabernaemontana bovina
+C00041666 | Tabernaemontana bovina
+C00042073 | Tabernaemontana bovina
+C00042134 | Tabernaemontana bovina
+C00042577 | Tabernaemontana bovina
+C00042833 | Tabernaemontana bovina
+C00044426 | Tabernaemontana calcarea
+C00045162 | Tabernaemontana corymbosa
+C00045163 | Tabernaemontana corymbosa
+C00045329 | Tabernaemontana corymbosa
+C00047582 | Tabernaemontana elegans
+C00047583 | Tabernaemontana elegans
+C00047584 | Tabernaemontana elegans
+C00048441 | Tabernaemontana corymbosa
+C00048442 | Tabernaemontana corymbosa
+C00048443 | Tabernaemontana corymbosa
+C00001709 | Tabernanthe iboga
+C00001741 | Tabernanthe iboga
+C00001742 | Tabernanthe iboga
+C00001772 | Tabernanthe iboga
+C00024480 | Tabernanthe pubescens
+C00024618 | Tabernanthe pubescens
+C00025895 | Tabernanthe iboga Baill.
+C00025895 | Tabernanthe subsessilis
+C00003610 | Thevetia neriifolia
+C00003632 | Thevetia neriifolia
+C00003632 | Thevetia peruviana
+C00003632 | Thevetia thevetioides
+C00003639 | Thevetia neriifolia
+C00003672 | Thevetia peruviana
+C00003737 | Thevetia peruviana
+C00003738 | Thevetia peruviana
+C00003740 | Thevetia peruviana
+C00003749 | Thevetia peruviana
+C00003750 | Thevetia neriifolia
+C00003819 | Thevetia peruviana
+C00004565 | Thevetia peruviana
+C00004636 | Thevetia neriifolia
+C00005157 | Thevetia neriifolia
+C00005157 | Thevetia peruviana
+C00005165 | Thevetia neriifolia
+C00005374 | Thevetia peruviana
+C00005397 | Thevetia peruviana
+C00005590 | Thevetia neriifolia
+C00005876 | Thevetia peruviana
+C00005900 | Thevetia peruviana
+C00005901 | Thevetia peruviana
+C00005972 | Thevetia peruviana
+C00010719 | Thevetia neriifolia
+C00010719 | Thevetia peruviana
+C00010720 | Thevetia neriifolia
+C00010720 | Thevetia peruviana
+C00013850 | Thevetia neriifolia
+C00013850 | Thevetia peruviana
+C00014350 | Thevetia neriifolia
+C00014350 | Thevetia peruviana
+C00014351 | Thevetia neriifolia
+C00014351 | Thevetia peruviana
+C00051442 | Thevetia neriifolia
+C00000599 | Trachelospermum asiaticum
+C00000600 | Trachelospermum asiaticum
+C00000600 | Trachelospermum asiaticum var. intermedium
+C00000600 | Trachelospermum axillare
+C00000606 | Trachelospermum asiaticum var. intermedium
+C00000606 | Trachelospermum axillare
+C00000606 | Trachelospermum foetidum
+C00000606 | Trachelospermum gracilipes
+C00000606 | Trachelospermum jasminoides
+C00000606 | Trachelospermum liukiuense
+C00000609 | Trachelospermum asiaticum
+C00000609 | Trachelospermum asiaticum var. intermedium
+C00000609 | Trachelospermum axillare
+C00000609 | Trachelospermum foetidum
+C00000609 | Trachelospermum gracilipes
+C00000609 | Trachelospermum jasminoides
+C00000609 | Trachelospermum liukiuense
+C00001017 | Trachelospermum asiaticum var.intermedium
+C00001741 | Trachelospermum jasminoides
+C00001786 | Trachelospermum jasminoides
+C00002682 | Trachelospermum asiaticum
+C00002724 | Trachelospermum asiaticum var.intermedium
+C00004157 | Trachelospermum asiaticum var.intermedium
+C00004276 | Trachelospermum jasminoides
+C00004283 | Trachelospermum asiaticum var.intermedium
+C00005140 | Trachelospermum asiaticum var.intermedium
+C00005374 | Trachelospermum asiaticum var.intermedium
+C00007203 | Trachelospermum asiaticum var. intermedium
+C00007203 | Trachelospermum axillare
+C00008699 | Trachelospermum jasminoides
+C00025223 | Trachelospermum jasminoides
+C00029948 | Trachelospermum asiaticum var.intermedium
+C00032370 | Trachelospermum asiaticum var.intermedium
+C00032370 | Trachelospermum jasminoides
+C00001673 | Vallesia dichotoma
+C00001673 | Vallesia glabra
+C00001681 | Vallesia spp.
+C00024452 | Vallesia glabra
+C00024463 | Vallesia glabra
+C00024492 | Vallesia glabra
+C00024536 | Vallesia glabra
+C00024595 | Vallesia glabra
+C00024609 | Vallesia dichotoma Ruiz.et Pav.
+C00024609 | Vallesia glabra
+C00025056 | Vallesia dichotoma
+C00000091 | Vinca rosea
+C00000096 | Vinca rosea
+C00001678 | Vinca rosea
+C00001680 | Vinca erecta Rgl.et Schmalh.
+C00001680 | Vinca herbacea Waldst.et Kit.
+C00001681 | Vinca spp.
+C00001682 | Vinca erecta Rgl.et Schmalh.
+C00001682 | Vinca herbacea Waldst.et Kit.
+C00001682 | Vinca major L.
+C00001683 | Vinca rosea
+C00001688 | Vinca erecta Rgl.et Schmalh.
+C00001703 | Vinca pubescens
+C00001703 | Vinca sardoa
+C00001704 | Vinca rosea
+C00001705 | Vinca rosea
+C00001713 | Vinca erecta Rgl.et Schmalh.
+C00001714 | Vinca minor
+C00001743 | Vinca rosea
+C00001744 | Vinca rosea
+C00001761 | Vinca erecta
+C00001769 | Vinca herbacea
+C00001769 | Vinca major
+C00001769 | Vinca rosea
+C00001773 | Vinca herbacea Waldst.et Kit.
+C00001781 | Vinca rosea
+C00001782 | Vinca erecta Rgl.et Schmalh.
+C00001782 | Vinca herbacea Waldst.et Kit.
+C00001782 | Vinca major
+C00001782 | Vinca minor
+C00001783 | Vinca minor L.
+C00001783 | Vinca rosea
+C00001784 | Vinca pusilla
+C00001784 | Vinca rosea
+C00002198 | Vinca erecta Rgl.et Schmalh.
+C00002198 | Vinca herbacea Waldst.et Kit.
+C00002631 | Vinca major var. variegata
+C00002631 | Vinca minor
+C00003077 | Vinca spp.
+C00004361 | Vinca truncatula
+C00005225 | Vinca major
+C00005461 | Vinca minor
+C00005747 | Vinca minor
+C00006703 | Vinca major
+C00006714 | Vinca major
+C00010605 | Vinca rosea
+C00024281 | Vinca libanotica
+C00024286 | Vinca elegantissima var Vinca major
+C00024286 | Vinca major L.
+C00024286 | Vinca mijor
+C00024291 | Vinca minor
+C00024296 | Vinca difformis
+C00024296 | Vinca major
+C00024307 | Vinca major
+C00024311 | Vinca major
+C00024323 | Vinca major
+C00024329 | Vinca erecta
+C00024329 | Vinca herbacea
+C00024329 | Vinca major
+C00024333 | Vinca erecta
+C00024333 | Vinca major
+C00024333 | Vinca pubescens
+C00024335 | Vinca difformis
+C00024335 | Vinca herbacea
+C00024335 | Vinca libanotica
+C00024335 | Vinca major
+C00024335 | Vinca media
+C00024337 | Vinca major
+C00024339 | Vinca erecta
+C00024339 | Vinca major
+C00024454 | Vinca erecta Rgl.et Schmalh.
+C00024454 | Vinca herbacea
+C00024459 | Vinca erecta
+C00024459 | Vinca minor L.
+C00024482 | Vinca herbacea
+C00024482 | Vinca minor
+C00024531 | Vinca erecta
+C00024543 | Vinca erecta Rgl.et Schmalh.
+C00024558 | Vinca erecta Rgl.et Schmalh.
+C00024584 | Vinca sardoa
+C00024611 | Vinca minor L.
+C00024619 | Vinca sardoa
+C00025041 | Vinca minor
+C00025042 | Vinca minor
+C00025057 | Vinca pusilla
+C00025061 | Vinca minor
+C00025062 | Vinca minor
+C00025069 | Vinca minor
+C00025070 | Vinca minor
+C00025183 | Vinca erecta Rgl.et Schmalh.
+C00025193 | Vinca difformis
+C00025193 | Vinca erecta Rgl.et Schmalh.
+C00025196 | Vinca erecta Rgl.et Schmalh.
+C00025202 | Vinca erecta Rgl.et Schmalh.
+C00025690 | Vinca difformis
+C00025912 | Vinca rosea L.
+C00025945 | Vinca minor L.
+C00025960 | Vinca erecta Rgl.et Schmalh.
+C00026009 | Vinca rosea L.
+C00026077 | Vinca erecta Rgl.et Schmalh.
+C00027069 | Vinca rosea L.
+C00027075 | Vinca minor L.
+C00027094 | Vinca minor L.
+C00035756 | Vinca minor L.
+C00049103 | Vinca sardoa
+C00049185 | Vinca herbacea Waldst.et Kit.
+C00049185 | Vinca major L.
+C00049185 | Vinca sardoa
+C00049218 | Vinca major L.
+C00049218 | Vinca sardoa
+C00049285 | Vinca sardoa
+C00002367 | Vincetoxicum officinale
+C00005383 | Vincetoxicum officinale
+C00005428 | Vincetoxicum officinale
+C00001681 | Voacanga spp.
+C00001698 | Voacanga spp.
+C00001741 | Voacanga thouarsii
+C00001773 | Voacanga africana
+C00001785 | Voacanga africana
+C00001785 | Voacanga globosa
+C00001785 | Voacanga grandiflora
+C00001785 | Voacanga papuana
+C00001785 | Voacanga thouarsii
+C00001786 | Voacanga africana
+C00001787 | Voacanga africana Stapf.
+C00001787 | Voacanga obtusa
+C00001787 | Voacanga spp.
+C00024279 | Voacanga africana
+C00024457 | Voacanga africana
+C00024459 | Voacanga africana
+C00024619 | Voacanga africana Stapf.
+C00025045 | Voacanga chalotiana
+C00025046 | Voacanga chalotiana
+C00025223 | Voacanga africana Stapf.
+C00025223 | Voacanga dregei
+C00025224 | Voacanga africana Stapf.
+C00025225 | Voacanga africana Stapf.
+C00025226 | Voacanga chalotiana Pierre et Stapf.
+C00025227 | Voacanga africana Stapf.
+C00025228 | Voacanga africana Stapf.
+C00025859 | Voacanga dregei
+C00026078 | Voacanga africana Stapf.
+C00026078 | Voacanga papuana
+C00026079 | Voacanga africana Stapf.
+C00026687 | Voacanga chalotiana Pierre et Stapf.
+C00040643 | Voacanga chalotiana Pierre et Stapf.
+C00002243 | Wrightia tomentosa
+C00019430 | Wrightia tomentosa
+C00028718 | Wrightia tomentosa
+C00032515 | Wrightia javanica DC
+C00032516 | Wrightia javanica DC

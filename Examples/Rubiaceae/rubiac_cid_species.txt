@@ -1,0 +1,1302 @@
+C00003202 | Alberta magna
+C00013782 | Alibertia sessilis
+C00013874 | Alibertia sessilis
+C00001407 | Antirhea lucida
+C00001686 | Antirhea putaminosa
+C00026779 | Antirhea lucida
+C00002785 | Asperula odorata
+C00002786 | Asperula odorata
+C00002838 | Asperula odorata
+C00002856 | Asperula spp.
+C00002857 | Asperula odorata
+C00003072 | Asperula odorata
+C00003072 | Asperula spp.
+C00003089 | Asperula spp.
+C00032518 | Asperula odorata
+C00045670 | Asperula maximowiczii
+C00045671 | Asperula maximowiczii
+C00045672 | Asperula maximowiczii
+C00002704 | Bathysa meridionalis
+C00040869 | Burchellia bubalina
+C00040898 | Burchellia bubalina
+C00003088 | Calycophyllum spruceanum
+C00010744 | Calycophyllum spruceanum
+C00010772 | Calycophyllum spruceanum
+C00026399 | Calycophyllum spruceanum
+C00031346 | Calycophyllum spruceanum
+C00036132 | Calycophyllum spruceanum
+C00050757 | Calycophyllum spruceanum
+C00001995 | Canthium euryoides
+C00002707 | Canthium berberidifolium
+C00010564 | Canthium berberidifolium
+C00010688 | Canthium subcordatum
+C00013885 | Canthium dicoccum
+C00019793 | Canthium berberidifolium
+C00031877 | Canthium berberidifolium
+C00033999 | Canthium berberidifolium
+C00036875 | Canthium berberidifolium
+C00036876 | Canthium berberidifolium
+C00036877 | Canthium berberidifolium
+C00036878 | Canthium berberidifolium
+C00001408 | Cephaelis acuminata
+C00001778 | Cephaelis ipecacuanha
+C00001835 | Cephaelis acuminata
+C00001835 | Cephaelis ipecacuanha
+C00001848 | Cephaelis acuminata
+C00001848 | Cephaelis ipecacuanha
+C00001849 | Cephaelis acuminata
+C00001849 | Cephaelis ipecacuanha
+C00001868 | Cephaelis acuminata
+C00001868 | Cephaelis ipecacuanha
+C00001907 | Cephaelis acuminata
+C00001907 | Cephaelis ipecacuanha
+C00002374 | Cephaelis subcoriacea
+C00003098 | Cephaelis acuminata
+C00010794 | Cephaelis acuminata Karsten
+C00027242 | Cephaelis acuminata
+C00027245 | Cephaelis acuminata
+C00027251 | Cephaelis acuminata
+C00027342 | Cephaelis acuminata
+C00027384 | Cephaelis acuminata
+C00027421 | Cephaelis acuminata
+C00027472 | Cephaelis acuminata
+C00027771 | Cephaelis ipecacuanha
+C00028162 | Cephaelis acuminata Karsten
+C00028162 | Cephaelis ipecacuanha
+C00028388 | Cephaelis ipecacuanha
+C00028669 | Cephaelis ipecacuanha
+C00036636 | Cephaelis acuminata Karsten
+C00036638 | Cephaelis acuminata Karsten
+C00036639 | Cephaelis acuminata Karsten
+C00038231 | Cephaelis acuminata
+C00038322 | Cephaelis acuminata
+C00038339 | Cephaelis acuminata
+C00051863 | Cephaelis acuminata
+C00051864 | Cephaelis acuminata
+C00051867 | Cephaelis acuminata
+C00051873 | Cephaelis acuminata
+C00025915 | Chimarrhis turbinata
+C00026074 | Chimarrhis turbinata
+C00026651 | Chimarrhis turbinata
+C00026772 | Chimarrhis turbinata
+C00029058 | Chimarrhis turbinata
+C00034294 | Chimarrhis turbinata
+C00038996 | Chimarrhis turbinata
+C00043209 | Chimarrhis turbinata
+C00043406 | Chimarrhis turbinata
+C00043569 | Chimarrhis turbinata
+C00003558 | Chiococca alba
+C00003737 | Chiococca alba
+C00003738 | Chiococca alba
+C00019064 | Chiococca alba
+C00046128 | Chiococca alba
+C00003672 | Chione venosa (sw.) Urban var.venosa
+C00010744 | Chione venosa (sw.) Urban var.venosa
+C00010779 | Chione venosa (sw.) Urban var.venosa
+C00010794 | Chione venosa (sw.) Urban var.venosa
+C00019308 | Chione venosa (sw.) Urban var.venosa
+C00000615 | Cinchona cuprea
+C00000956 | Cinchona succirubra
+C00001128 | Cinchona spp.
+C00001690 | Cinchona pelletierana
+C00002147 | Cinchona ledgeriana
+C00002147 | Cinchona officinalis
+C00002147 | Cinchona robusta
+C00002147 | Cinchona succirubra
+C00002147 | Cinchona tucujensis
+C00002173 | Cinchona officinalis
+C00002193 | Cinchona ledgariana
+C00002193 | Cinchona ledgeriana
+C00002193 | Cinchona officinalis
+C00002193 | Cinchona pelletierana Wedd.
+C00002193 | Cinchona pubescens
+C00002193 | Cinchona robusta
+C00002193 | Cinchona rosulenta
+C00002193 | Cinchona succirubra
+C00002786 | Cinchona spp.
+C00002804 | Cinchona ledgeriana
+C00002814 | Cinchona ledgeriana
+C00002814 | Cinchona spp.
+C00002858 | Cinchona spp.
+C00002913 | Cinchona succirubra
+C00006650 | Cinchona ledgeriana
+C00008964 | Cinchona succirubra
+C00008965 | Cinchona succirubra
+C00008966 | Cinchona succirubra
+C00009098 | Cinchona succirubra
+C00009186 | Cinchona succirubra
+C00009187 | Cinchona succirubra
+C00025132 | Cinchona succirubra Pav.
+C00025142 | Cinchona ledgeriana
+C00025142 | Cinchona succirubra Pav.
+C00025201 | Cinchona ledgeriana
+C00025201 | Cinchona succirubra Pav.
+C00029058 | Cinchona ledgeriana
+C00029058 | Cinchona officinalis
+C00029058 | Cinchona robusta
+C00031117 | Cinchona ledgariana
+C00031117 | Cinchona ledgeriana
+C00031117 | Cinchona officinalis
+C00031117 | Cinchona pubescens
+C00031117 | Cinchona robusta
+C00034185 | Cinchona ledgariana
+C00038111 | Cinchona robusta
+C00038829 | Cinchona robusta
+C00040159 | Cinchona robusta
+C00040160 | Cinchona robusta
+C00040161 | Cinchona robusta
+C00040162 | Cinchona robusta
+C00040163 | Cinchona robusta
+C00040164 | Cinchona robusta
+C00040165 | Cinchona robusta
+C00040166 | Cinchona robusta
+C00050560 | Cinchona ledgeriana
+C00050560 | Cinchona officinalis
+C00050560 | Cinchona robusta
+C00051785 | Cinchona ledgeriana
+C00051785 | Cinchona officinalis
+C00051785 | Cinchona robusta
+C00051786 | Cinchona ledgeriana
+C00051786 | Cinchona officinalis
+C00051786 | Cinchona robusta
+C00000615 | Coffea arabica
+C00001490 | Coffea arabica
+C00001490 | Coffea canephora
+C00001490 | Coffea dewevrei
+C00001490 | Coffea eugeniodes
+C00001490 | Coffea kianjavatensis
+C00001490 | Coffea liberica
+C00001490 | Coffea racemosa
+C00001490 | Coffea salvatrix
+C00001492 | Coffea arabica
+C00001492 | Coffea canephora
+C00001492 | Coffea dewevrei
+C00001492 | Coffea eugeniodes
+C00001492 | Coffea eugenioides
+C00001492 | Coffea excelsa
+C00001492 | Coffea kianjavatensis
+C00001492 | Coffea liberica
+C00001492 | Coffea racemosa
+C00001492 | Coffea salvatrix
+C00001492 | Coffea spp
+C00001492 | Coffea spp.
+C00001509 | Coffea canephora
+C00001509 | Coffea dewevrei
+C00001509 | Coffea eugeniodes
+C00001509 | Coffea kianjavatensis
+C00001509 | Coffea liberica
+C00001509 | Coffea racemosa
+C00001509 | Coffea salvatrix
+C00001510 | Coffea arabica
+C00001510 | Coffea canephora
+C00001510 | Coffea dewevrei
+C00001510 | Coffea eugeniodes
+C00001510 | Coffea kianjavatensis
+C00001510 | Coffea liberica
+C00001510 | Coffea racemosa
+C00001510 | Coffea salvatrix
+C00001555 | Coffea spp.
+C00002724 | Coffea arabica
+C00002751 | Coffea arabica
+C00002751 | Coffea robusta
+C00003407 | Coffea spp.
+C00003453 | Coffea vanneyi
+C00003453 | Coffea vianneyi
+C00003672 | Coffea canephora
+C00003672 | Coffea charrieriana
+C00003672 | Coffea congensis
+C00003672 | Coffea eugenioides
+C00003672 | Coffea hetero calyx
+C00003672 | Coffea humblotiana
+C00003672 | Coffea humilis
+C00003672 | Coffea kapakata
+C00003672 | Coffea liberica var.dewevrei
+C00003672 | Coffea liberica var.liberica
+C00003672 | Coffea pseudozanguebariae
+C00003672 | Coffea racemosa
+C00003672 | Coffea salvatrix
+C00003672 | Coffea sessiliflora
+C00003672 | Coffea stenophylla
+C00007222 | Coffea arabica
+C00007222 | Coffea canephora
+C00007222 | Coffea dewevrei
+C00007222 | Coffea eugeniodes
+C00007222 | Coffea kianjavatensis
+C00007222 | Coffea liberica
+C00007222 | Coffea racemosa
+C00007222 | Coffea salvatrix
+C00007224 | Coffea arabica
+C00007224 | Coffea canephora
+C00007224 | Coffea dewevrei
+C00007224 | Coffea eugeniodes
+C00007224 | Coffea kianjavatensis
+C00007224 | Coffea liberica
+C00007224 | Coffea racemosa
+C00007224 | Coffea salvatrix
+C00007322 | Coffea canephora
+C00007322 | Coffea charrieriana
+C00007322 | Coffea congensis
+C00007322 | Coffea eugenioides
+C00007322 | Coffea hetero calyx
+C00007322 | Coffea humblotiana
+C00007322 | Coffea humilis
+C00007322 | Coffea kapakata
+C00007322 | Coffea liberica var.dewevrei
+C00007322 | Coffea liberica var.liberica
+C00007322 | Coffea pseudozanguebariae
+C00007322 | Coffea racemosa
+C00007322 | Coffea salvatrix
+C00007322 | Coffea sessiliflora
+C00007322 | Coffea stenophylla
+C00007326 | Coffea arabica
+C00007326 | Coffea canephora
+C00007326 | Coffea dewevrei
+C00007326 | Coffea eugeniodes
+C00007326 | Coffea kianjavatensis
+C00007326 | Coffea liberica
+C00007326 | Coffea racemosa
+C00007326 | Coffea salvatrix
+C00007396 | Coffea arabica
+C00007396 | Coffea canephora
+C00007396 | Coffea dewevrei
+C00007396 | Coffea eugeniodes
+C00007396 | Coffea kianjavatensis
+C00007396 | Coffea liberica
+C00007396 | Coffea racemosa
+C00007396 | Coffea salvatrix
+C00007572 | Coffea arabica
+C00007572 | Coffea canephora
+C00007572 | Coffea dewevrei
+C00007572 | Coffea eugeniodes
+C00007572 | Coffea kianjavatensis
+C00007572 | Coffea liberica
+C00007572 | Coffea racemosa
+C00007572 | Coffea salvatrix
+C00019347 | Coffea arabica
+C00019347 | Coffea canephora
+C00019347 | Coffea dewevrei
+C00019347 | Coffea eugeniodes
+C00019347 | Coffea kianjavatensis
+C00019347 | Coffea liberica
+C00019347 | Coffea racemosa
+C00019347 | Coffea salvatrix
+C00029540 | Coffea sp.
+C00032163 | Coffea canephora
+C00032163 | Coffea charrieriana
+C00032163 | Coffea congensis
+C00032163 | Coffea eugenioides
+C00032163 | Coffea hetero calyx
+C00032163 | Coffea humblotiana
+C00032163 | Coffea humilis
+C00032163 | Coffea kapakata
+C00032163 | Coffea liberica var.dewevrei
+C00032163 | Coffea liberica var.liberica
+C00032163 | Coffea pseudozanguebariae
+C00032163 | Coffea racemosa
+C00032163 | Coffea salvatrix
+C00032163 | Coffea sessiliflora
+C00032163 | Coffea stenophylla
+C00033727 | Coffea canephora
+C00033727 | Coffea charrieriana
+C00033727 | Coffea congensis
+C00033727 | Coffea eugenioides
+C00033727 | Coffea hetero calyx
+C00033727 | Coffea humblotiana
+C00033727 | Coffea humilis
+C00033727 | Coffea kapakata
+C00033727 | Coffea liberica var.dewevrei
+C00033727 | Coffea liberica var.liberica
+C00033727 | Coffea pseudozanguebariae
+C00033727 | Coffea racemosa
+C00033727 | Coffea salvatrix
+C00033727 | Coffea sessiliflora
+C00033727 | Coffea stenophylla
+C00033758 | Coffea canephora
+C00033758 | Coffea charrieriana
+C00033758 | Coffea congensis
+C00033758 | Coffea eugenioides
+C00033758 | Coffea hetero calyx
+C00033758 | Coffea humblotiana
+C00033758 | Coffea humilis
+C00033758 | Coffea kapakata
+C00033758 | Coffea liberica var.dewevrei
+C00033758 | Coffea liberica var.liberica
+C00033758 | Coffea pseudozanguebariae
+C00033758 | Coffea racemosa
+C00033758 | Coffea salvatrix
+C00033758 | Coffea sessiliflora
+C00033758 | Coffea stenophylla
+C00034312 | Coffea dewevrei
+C00034312 | Coffea liberica
+C00039930 | Coffea arabica
+C00039930 | Coffea canephora
+C00039930 | Coffea dewevrei
+C00039930 | Coffea eugeniodes
+C00039930 | Coffea kianjavatensis
+C00039930 | Coffea liberica
+C00039930 | Coffea racemosa
+C00039930 | Coffea salvatrix
+C00043196 | Coffea arabica
+C00043196 | Coffea canephora
+C00043196 | Coffea dewevrei
+C00043196 | Coffea eugeniodes
+C00043196 | Coffea kianjavatensis
+C00043196 | Coffea liberica
+C00043196 | Coffea racemosa
+C00043196 | Coffea salvatrix
+C00051956 | Coffea dewevrei
+C00051956 | Coffea liberica
+C00051957 | Coffea dewevrei
+C00051957 | Coffea liberica
+C00051958 | Coffea arabica
+C00051958 | Coffea canephora
+C00051958 | Coffea dewevrei
+C00051958 | Coffea eugeniodes
+C00051958 | Coffea kianjavatensis
+C00051958 | Coffea liberica
+C00051958 | Coffea racemosa
+C00051958 | Coffea salvatrix
+C00051959 | Coffea dewevrei
+C00051959 | Coffea liberica
+C00002838 | Commitheca liebrechtsiana
+C00002862 | Commitheca liebrechtsiana
+C00002499 | Coprosma propinqua
+C00002499 | Coprosma robusta
+C00002499 | Coprosma rotundifolia
+C00002499 | Coprosma tenuicaulis
+C00002838 | Coprosma rotundifolia
+C00002844 | Coprosma australis
+C00002862 | Coprosma linariifolia Hook.f.
+C00002862 | Coprosma robusta
+C00002862 | Coprosma rotundifolia
+C00002862 | Coprosma spp.
+C00002862 | Coprosma tenuicaulis
+C00003072 | Coprosma propinqua
+C00003072 | Coprosma pyrifolium
+C00003072 | Coprosma robusta
+C00005516 | Coprosma spp.
+C00005530 | Coprosma spp.
+C00005553 | Coprosma sp.
+C00005732 | Coprosma linariifolia
+C00005732 | Coprosma serrulata
+C00030092 | Coprosma pyrifolium
+C00032078 | Coprosma linariifolia Hook.f.
+C00001678 | Corynanthe yohimbe
+C00001789 | Corynanthe johimbe
+C00002499 | Coussarea macrophylla
+C00003672 | Coussarea brevicaulis
+C00003740 | Coussarea paniculata
+C00003741 | Coussarea paniculata
+C00003749 | Coussarea paniculata
+C00019064 | Coussarea paniculata
+C00029509 | Coussarea brevicaulis
+C00029633 | Coussarea paniculata
+C00029789 | Coussarea brevicaulis
+C00031336 | Coussarea brevicaulis
+C00034390 | Coussarea paniculata
+C00036107 | Coussarea brevicaulis
+C00044451 | Coussarea macrophylla
+C00010200 | Coutarea hexandra
+C00010201 | Coutarea hexandra
+C00010204 | Coutarea hexandra
+C00010205 | Coutarea hexandra
+C00010206 | Coutarea hexandra
+C00010208 | Coutarea hexandra
+C00010208 | Coutarea latiflora
+C00010209 | Coutarea latiflora
+C00010230 | Coutarea hexandra
+C00010231 | Coutarea hexandra
+C00010232 | Coutarea hexandra
+C00010233 | Coutarea hexandra
+C00010234 | Coutarea hexandra
+C00010235 | Coutarea hexandra
+C00010248 | Coutarea hexandra
+C00010249 | Coutarea hexandra
+C00010250 | Coutarea hexandra
+C00003072 | Crucianella spp.
+C00002499 | Cruciata taurica
+C00003072 | Cruciata taurica
+C00004631 | Cruciata taurica
+C00005372 | Cruciata taurica
+C00005413 | Cruciata taurica
+C00037002 | Cruciata taurica
+C00037003 | Cruciata taurica
+C00002814 | Damnacanthus indicus
+C00006639 | Damnacanthus macrophyllus
+C00032078 | Damnacanthus indicus
+C00048682 | Damnacanthus major
+C00051097 | Damnacanthus indicus
+C00028170 | Deppea blumenaviensis Schumann
+C00044268 | Dialypetalum floribundum
+C00003081 | Dioecrescis erythroclada
+C00010630 | Dioecrescis erythroclada
+C00029704 | Dioecrescis erythroclada
+C00029811 | Dioecrescis erythroclada
+C00037079 | Dunnia sinensis Tutch.
+C00037080 | Dunnia sinensis Tutch.
+C00003095 | Duroia hirsuta
+C00013362 | Duroia hirsuta
+C00013363 | Duroia hirsuta
+C00013364 | Duroia hirsuta
+C00010201 | Exostema caribaeum
+C00010203 | Exostema caribaeum
+C00010209 | Exostema caribaeum
+C00010235 | Exostema caribaeum
+C00010238 | Exostema caribaeum
+C00010240 | Exostema caribaeum
+C00010241 | Exostema caribaeum
+C00010245 | Exostema caribaeum
+C00010246 | Exostema caribaeum
+C00010247 | Exostema caribaeum
+C00008753 | Faramea guianensis
+C00008754 | Faramea guianensis
+C00003097 | Feretia apodanthera
+C00010582 | Feretia apodanthera
+C00010628 | Feretia apodanthera
+C00029704 | Feretia apodanthera
+C00000733 | Galium mollugo
+C00000734 | Galium mollugo
+C00002631 | Galium sinaicum
+C00002666 | Galium verum
+C00002724 | Galium verum
+C00002785 | Galium spp.
+C00002786 | Galium spp.
+C00002838 | Galium spp.
+C00002856 | Galium spp.
+C00002857 | Galium spp.
+C00002862 | Galium spp.
+C00003072 | Galium aparine
+C00003072 | Galium asparine
+C00003072 | Galium spp.
+C00003089 | Galium glaucum
+C00003089 | Galium rivale
+C00003089 | Galium spp.
+C00004166 | Galium mollugo
+C00005163 | Galium sinaicum
+C00010564 | Galium rivale
+C00010618 | Galium mollugo
+C00010679 | Galium rivale
+C00010791 | Galium album
+C00010791 | Galium mollugo
+C00029749 | Galium rivale
+C00029946 | Galium rivale
+C00030093 | Galium rivale
+C00030333 | Galium mollugo L.
+C00030781 | Galium mollugo
+C00031802 | Galium mollugo L.
+C00037734 | Galium rivale
+C00037735 | Galium rivale
+C00037736 | Galium rivale
+C00037737 | Galium rivale
+C00037738 | Galium rivale
+C00051020 | Galium aparine
+C00051592 | Galium verum
+C00000320 | Gardenia jasminoides
+C00000320 | Gardenia spp.
+C00000321 | Gardenia jasminoides
+C00001075 | Gardenia lucida
+C00001165 | Gardenia jasminoides var.grandiflora
+C00001260 | Gardenia jasminoides
+C00001324 | Gardenia jasminoides
+C00003081 | Gardenia jasminoides cv. fortuneana HARA
+C00003081 | Gardenia jasminoides f. grandiflora
+C00003081 | Gardenia jasminoides var. radicans
+C00003097 | Gardenia jasminoides
+C00003097 | Gardenia spp.
+C00003769 | Gardenia spp.
+C00003850 | Gardenia gummifera
+C00003850 | Gardenia lucida
+C00003876 | Gardenia lucida
+C00003883 | Gardenia lucida
+C00003907 | Gardenia gummifera
+C00003907 | Gardenia lucida
+C00003910 | Gardenia lucida
+C00003930 | Gardenia spp.
+C00003947 | Gardenia spp.
+C00003949 | Gardenia jasminoides
+C00003949 | Gardenia spp.
+C00003950 | Gardenia thailandica
+C00003957 | Gardenia gummifera
+C00003957 | Gardenia lucida
+C00003958 | Gardenia gummifera
+C00003958 | Gardenia lucida
+C00003959 | Gardenia gummifera
+C00003959 | Gardenia lucida
+C00003961 | Gardenia gummifera
+C00003961 | Gardenia lucida
+C00003970 | Gardenia gummifera
+C00003970 | Gardenia lucida
+C00003972 | Gardenia lucida
+C00003976 | Gardenia gummifera
+C00003976 | Gardenia lucida
+C00004596 | Gardenia spp.
+C00004670 | Gardenia fosbergii
+C00004825 | Gardenia fosbergii
+C00004827 | Gardenia cramerii
+C00004827 | Gardenia fosbergii
+C00004834 | Gardenia fosbergii
+C00010509 | Gardenia jasminoides cv.fortuneana HARA
+C00010556 | Gardenia jasminoides
+C00010565 | Gardenia jasminoides
+C00010629 | Gardenia jasminoides
+C00010686 | Gardenia jasminoides
+C00010996 | Gardenia jasminoides
+C00029633 | Gardenia jasminoides
+C00030094 | Gardenia jasminoides cv.fortuneana HARA
+C00031802 | Gardenia jasminoides cv.fortuneana HARA
+C00032629 | Gardenia jasminoides ELLIS forma grandiflora (Loud.) MAKINO
+C00032861 | Gardenia jasminoides
+C00032988 | Gardenia jasminoides ELLIS forma grandiflora (Loud.) MAKINO
+C00038308 | Gardenia jasminoides
+C00039132 | Gardenia jasminoides
+C00039484 | Gardenia jasminoides
+C00039485 | Gardenia jasminoides
+C00039486 | Gardenia jasminoides
+C00039487 | Gardenia jasminoides
+C00039488 | Gardenia jasminoides
+C00041859 | Gardenia aubryi
+C00041859 | Gardenia sootepensis
+C00041859 | Gardenia tubifera
+C00041860 | Gardenia aubryi
+C00041861 | Gardenia aubryi
+C00042538 | Gardenia jasminoides
+C00042554 | Gardenia jasminoides
+C00042643 | Gardenia jasminoides
+C00042967 | Gardenia scortechinii
+C00042968 | Gardenia scortechinii
+C00042969 | Gardenia scortechinii
+C00042970 | Gardenia scortechinii
+C00042971 | Gardenia scortechinii
+C00042972 | Gardenia scortechinii
+C00042973 | Gardenia scortechinii
+C00042974 | Gardenia scortechinii
+C00042975 | Gardenia scortechinii
+C00042976 | Gardenia scortechinii
+C00042977 | Gardenia scortechinii
+C00045064 | Gardenia scortechinii
+C00045065 | Gardenia scortechinii
+C00045066 | Gardenia scortechinii
+C00047426 | Gardenia sootepensis
+C00047427 | Gardenia sootepensis
+C00047577 | Gardenia sootepensis
+C00047578 | Gardenia sootepensis
+C00047579 | Gardenia sootepensis
+C00047580 | Gardenia sootepensis
+C00047581 | Gardenia sootepensis
+C00047604 | Gardenia sootepensis
+C00049304 | Gardenia sootepensis
+C00051556 | Gardenia jasminoides
+C00051577 | Gardenia jasminoides
+C00000320 | Genipa americana L.
+C00000321 | Genipa americana
+C00003081 | Genipa americana L.
+C00010562 | Genipa americana
+C00010563 | Genipa americana
+C00010564 | Genipa americana
+C00010686 | Genipa americana
+C00030094 | Genipa americana
+C00030360 | Genipa americana
+C00031809 | Genipa americana L.
+C00031810 | Genipa americana L.
+C00031811 | Genipa americana L.
+C00031812 | Genipa americana L.
+C00026411 | Guettarda noumeana
+C00026417 | Guettarda noumeana
+C00026466 | Guettarda noumeana
+C00000984 | Hamelia patens
+C00001409 | Hamelia patens
+C00008410 | Hamelia patens
+C00000614 | Hedyotis lawsoniae
+C00000683 | Hedyotis lawsoniae
+C00001059 | Hedyotis dichotoma
+C00002499 | Hedyotis capitellata
+C00002591 | Hedyotis chrysotricha
+C00002814 | Hedyotis capitellata
+C00002862 | Hedyotis capitellata
+C00003674 | Hedyotis corymbosa
+C00003758 | Hedyotis acutangula
+C00007204 | Hedyotis chrysotricha
+C00013784 | Hedyotis diffusa
+C00024110 | Hedyotis lawsoniae (DC.) WIGHT et ARN.
+C00024118 | Hedyotis lawsoniae (DC.) WIGHT et ARN.
+C00026542 | Hedyotis chrysotricha
+C00026547 | Hedyotis capitellata
+C00026946 | Hedyotis capitellata
+C00026947 | Hedyotis capitellata
+C00026948 | Hedyotis capitellata var.molis
+C00026949 | Hedyotis capitellata var.molis
+C00029633 | Hedyotis dichotoma
+C00029749 | Hedyotis hedyotidea
+C00030092 | Hedyotis hedyotidea
+C00031591 | Hedyotis capitellata
+C00031601 | Hedyotis capitellata
+C00035553 | Hedyotis capitellata
+C00035554 | Hedyotis capitellata
+C00035555 | Hedyotis capitellata
+C00035556 | Hedyotis capitellata
+C00039429 | Hedyotis capitellata
+C00044189 | Hedyotis nudicaulis
+C00044269 | Hedyotis nudicaulis
+C00044270 | Hedyotis nudicaulis
+C00044271 | Hedyotis nudicaulis
+C00046043 | Hedyotis acutangula
+C00049144 | Hedyotis hedyotidea
+C00049175 | Hedyotis hedyotidea
+C00049916 | Hedyotis dichotoma
+C00049934 | Hedyotis dichotoma
+C00050538 | Hedyotis auricularia
+C00010236 | Hintonia latiflora
+C00010237 | Hintonia latiflora
+C00001738 | Hodgkinsonia frutescens
+C00001760 | Hodgkinsonia frutescens
+C00023502 | Hoffmannia strigillosa
+C00023503 | Hoffmannia strigillosa
+C00002472 | Hymenodictyon excelsum
+C00002838 | Hymenodictyon excelsum
+C00002844 | Hymenodictyon excelsum
+C00002862 | Hymenodictyon excelsum
+C00031233 | Hymenodictyon excelsum
+C00032078 | Hymenodictyon excelsum
+C00050752 | Hymenodictyon excelsum
+C00010757 | Isertia haenkeana
+C00010758 | Isertia haenkeana
+C00010759 | Isertia haenkeana
+C00010760 | Isertia haenkeana
+C00004140 | Ixora arborea
+C00004178 | Ixora arborea
+C00010509 | Ixora chinensis
+C00010582 | Ixora chinensis
+C00051144 | Knoxia valerianoides
+C00003072 | Lasianthus wallichii
+C00003094 | Lasianthus wallichii
+C00003672 | Lasianthus gardneri
+C00003749 | Lasianthus gardneri
+C00006639 | Lasianthus japonicus
+C00019029 | Lasianthus acuminatissimus MERR.
+C00019030 | Lasianthus acuminatissimus MERR.
+C00019220 | Lasianthus gardneri
+C00029633 | Lasianthus gardneri
+C00029749 | Lasianthus acuminatissimus MERR.
+C00029980 | Lasianthus wallichii
+C00030089 | Lasianthus acuminatissimus MERR.
+C00030093 | Lasianthus acuminatissimus MERR.
+C00030640 | Lasianthus acuminatissimus MERR.
+C00030641 | Lasianthus acuminatissimus MERR.
+C00030642 | Lasianthus acuminatissimus MERR.
+C00031721 | Lasianthus wallichii
+C00051206 | Lasianthus fordii
+C00051207 | Lasianthus fordii
+C00051208 | Lasianthus fordii
+C00001774 | Leptactina densiflora
+C00005548 | Leptostigma arnothianum
+C00006639 | Mitchella undulata
+C00000332 | Morinda citrifolia L.
+C00000587 | Morinda citrifolia
+C00000743 | Morinda lucida
+C00001392 | Morinda reticulata
+C00002494 | Morinda citrifolia L.
+C00002499 | Morinda citrifolia
+C00002683 | Morinda citrifolia
+C00002728 | Morinda citrifolia L
+C00002785 | Morinda citrifolia
+C00002785 | Morinda umbellata
+C00002786 | Morinda citrifolia
+C00002786 | Morinda umbellata
+C00002814 | Morinda parvifolia
+C00002828 | Morinda parvifolia
+C00002838 | Morinda umbellata
+C00002839 | Morinda parvifolia
+C00002843 | Morinda parvifolia
+C00002844 | Morinda angustifolia
+C00002844 | Morinda citrifolia
+C00002844 | Morinda tinctoria
+C00002862 | Morinda citrifolia
+C00002862 | Morinda tinctoria var.tomentosa.
+C00002862 | Morinda umbellata
+C00002864 | Morinda lucida
+C00002864 | Morinda umbellata
+C00003072 | Morinda citrifolia
+C00003072 | Morinda coreia
+C00003089 | Morinda officinalis
+C00003467 | Morinda citrifolia L.
+C00003558 | Morinda citrifolia L.
+C00003672 | Morinda citrifolia L
+C00003674 | Morinda umbellata
+C00004215 | Morinda citrifolia
+C00004565 | Morinda citrifolia
+C00005169 | Morinda citrifolia
+C00005374 | Morinda citrifolia
+C00005413 | Morinda citrifolia
+C00010736 | Morinda lucida
+C00013676 | Morinda morindoides
+C00019064 | Morinda citrifolia L.
+C00019308 | Morinda citrifolia
+C00019420 | Morinda citrifolia L.
+C00019420 | Morinda officinalis
+C00019999 | Morinda citrifolia L.
+C00029329 | Morinda citrifolia L.
+C00029390 | Morinda citrifolia L.
+C00029477 | Morinda citrifolia L
+C00029507 | Morinda citrifolia L.
+C00029548 | Morinda citrifolia L.
+C00029570 | Morinda citrifolia L.
+C00029633 | Morinda tinctoria var.tomentosa.
+C00029749 | Morinda citrifolia L.
+C00029749 | Morinda coreia
+C00029749 | Morinda elliptica
+C00029789 | Morinda citrifolia L.
+C00029978 | Morinda citrifolia L.
+C00029993 | Morinda citrifolia L.
+C00030089 | Morinda citrifolia
+C00030092 | Morinda citrifolia L.
+C00030092 | Morinda coreia
+C00030093 | Morinda citrifolia L.
+C00030459 | Morinda citrifolia L.
+C00031228 | Morinda citrifolia L.
+C00031233 | Morinda citrifolia L.
+C00031233 | Morinda umbellata
+C00031346 | Morinda coreia
+C00031525 | Morinda citrifolia
+C00031546 | Morinda citrifolia
+C00031591 | Morinda citrifolia L.
+C00031592 | Morinda citrifolia
+C00031600 | Morinda citrifolia L.
+C00031601 | Morinda citrifolia L.
+C00031679 | Morinda citrifolia L.
+C00031680 | Morinda citrifolia L.
+C00031680 | Morinda coreia
+C00031680 | Morinda elliptica
+C00032029 | Morinda citrifolia L
+C00032030 | Morinda citrifolia L
+C00032032 | Morinda citrifolia L
+C00032033 | Morinda citrifolia L
+C00032078 | Morinda citrifolia L.
+C00032078 | Morinda lucida
+C00032078 | Morinda tinctoria
+C00032541 | Morinda citrifolia
+C00032541 | Morinda coreia
+C00032541 | Morinda elliptica
+C00032702 | Morinda citrifolia
+C00033228 | Morinda umbellata
+C00033656 | Morinda citrifolia L
+C00035974 | Morinda citrifolia L.
+C00036635 | Morinda coreia
+C00038026 | Morinda coreia
+C00038191 | Morinda citrifolia
+C00038228 | Morinda citrifolia
+C00039452 | Morinda citrifolia
+C00039793 | Morinda chinensis
+C00039794 | Morinda chinensis
+C00039795 | Morinda citrifolia
+C00039796 | Morinda citrifolia
+C00040332 | Morinda citrifolia
+C00040332 | Morinda lucida
+C00040332 | Morinda tinctoria var.tomentosa.
+C00040332 | Morinda umbellata
+C00042063 | Morinda citrifolia L
+C00042395 | Morinda citrifolia
+C00042396 | Morinda citrifolia
+C00042440 | Morinda citrifolia
+C00042457 | Morinda citrifolia
+C00042457 | Morinda morindoides
+C00042470 | Morinda citrifolia
+C00042736 | Morinda citrifolia
+C00044492 | Morinda morindoides
+C00044697 | Morinda morindoides
+C00044748 | Morinda morindoides
+C00044749 | Morinda morindoides
+C00044776 | Morinda morindoides
+C00044927 | Morinda morindoides
+C00050645 | Morinda umbellata
+C00051640 | Morinda officinalis
+C00003672 | Mussaenda macrophylla
+C00003674 | Mussaenda pubescens
+C00008045 | Mussaenda hirsutissima
+C00008046 | Mussaenda hirsutissima
+C00008049 | Mussaenda hirsutissima
+C00010630 | Mussaenda arvense
+C00010630 | Mussaenda parviflora
+C00010630 | Mussaenda shikokiana
+C00010687 | Mussaenda parviflora
+C00010687 | Mussaenda shikokiana
+C00029724 | Mussaenda pubescens
+C00001906 | Oldenlandia biflora
+C00003072 | Oldenlandia corymbosa
+C00003072 | Oldenlandia diffusa
+C00003558 | Oldenlandia diffusa
+C00003674 | Oldenlandia diffusa
+C00005157 | Oldenlandia diffusa
+C00005413 | Oldenlandia corymbosa
+C00019064 | Oldenlandia diffusa
+C00029633 | Oldenlandia diffusa
+C00029749 | Oldenlandia corymbosa
+C00030092 | Oldenlandia corymbosa
+C00030094 | Oldenlandia corymbosa
+C00050081 | Oldenlandia diffusa
+C00001434 | Ophiorrhiza pumila
+C00001736 | Ophiorrhiza japonica Bl.
+C00001736 | Ophiorrhiza kuroiwai
+C00001736 | Ophiorrhiza liukiuensis
+C00002145 | Ophiorrhiza filistipula
+C00002145 | Ophiorrhiza liukiuensis
+C00002145 | Ophiorrhiza mungos
+C00002145 | Ophiorrhiza pumila Champ.
+C00002145 | Ophiorrhiza rugosa var. prostrata
+C00002499 | Ophiorrhiza liukiuensis
+C00002724 | Ophiorrhiza liukiuensis
+C00003088 | Ophiorrhiza liukiuensis
+C00003098 | Ophiorrhiza pumila
+C00003558 | Ophiorrhiza liukiuensis
+C00003672 | Ophiorrhiza liukiuensis
+C00005372 | Ophiorrhiza liukiuensis
+C00010604 | Ophiorrhiza liukiuensis
+C00010794 | Ophiorrhiza liukiuensis
+C00019308 | Ophiorrhiza liukiuensis
+C00029058 | Ophiorrhiza pumila
+C00029058 | Ophiorrhiza rugosa var. prostrata
+C00029323 | Ophiorrhiza liukiuensis
+C00029323 | Ophiorrhiza pumila
+C00029329 | Ophiorrhiza liukiuensis
+C00029370 | Ophiorrhiza japonica
+C00029372 | Ophiorrhiza liukiuensis
+C00029372 | Ophiorrhiza mungos
+C00029611 | Ophiorrhiza liukiuensis
+C00029611 | Ophiorrhiza mungos
+C00029611 | Ophiorrhiza pumila
+C00029633 | Ophiorrhiza liukiuensis
+C00029925 | Ophiorrhiza pumila
+C00030696 | Ophiorrhiza japonica
+C00030697 | Ophiorrhiza japonica
+C00030697 | Ophiorrhiza liukiuensis
+C00030889 | Ophiorrhiza japonica
+C00030889 | Ophiorrhiza kuroiwai
+C00030889 | Ophiorrhiza liukiuensis
+C00030890 | Ophiorrhiza japonica
+C00030891 | Ophiorrhiza japonica
+C00030891 | Ophiorrhiza kuroiwai
+C00030891 | Ophiorrhiza liukiuensis
+C00030892 | Ophiorrhiza japonica
+C00031110 | Ophiorrhiza liukiuensis
+C00031110 | Ophiorrhiza pumila
+C00031110 | Ophiorrhiza rugosa var. prostrata
+C00031985 | Ophiorrhiza hayatana OHWI
+C00032094 | Ophiorrhiza hayatana OHWI
+C00032095 | Ophiorrhiza hayatana OHWI
+C00032210 | Ophiorrhiza liukiuensis
+C00032210 | Ophiorrhiza pumila
+C00036264 | Ophiorrhiza pumila
+C00036264 | Ophiorrhiza rugosa var. prostrata
+C00001250 | Paederia foetida
+C00002664 | Paederia chinensis
+C00003072 | Paederia foetida
+C00003072 | Paederia scandens
+C00003094 | Paederia foetida
+C00003094 | Paederia scandens
+C00003094 | Paederia scandens var. mairei
+C00003647 | Paederia foetida
+C00003672 | Paederia foetida
+C00003674 | Paederia foetida
+C00010644 | Paederia scandens
+C00010679 | Paederia foetida
+C00010679 | Paederia scandens
+C00019064 | Paederia scandens
+C00029749 | Paederia scandens
+C00030092 | Paederia scandens
+C00030094 | Paederia scandens
+C00031491 | Paederia scandens
+C00031721 | Paederia scandens
+C00032106 | Paederia scandens
+C00035966 | Paederia scandens
+C00036512 | Paederia scandens
+C00002318 | Palicourea alpina
+C00002318 | Palicourea coriacea
+C00003558 | Palicourea coriacea
+C00026649 | Palicourea crocea
+C00026650 | Palicourea crocea
+C00029058 | Palicourea acuminata
+C00029058 | Palicourea cyanococca
+C00029058 | Palicourea tsakiana
+C00029058 | Palicourea winkleri
+C00029337 | Palicourea coriacea
+C00029338 | Palicourea coriacea
+C00029476 | Palicourea coriacea
+C00029536 | Palicourea coriacea
+C00030751 | Palicourea coriacea
+C00032210 | Palicourea acuminata
+C00032210 | Palicourea tsakiana
+C00032210 | Palicourea winkleri
+C00030696 | Pauridiantha lyalli
+C00001789 | Pausinystalia macroceras
+C00001789 | Pausinystalia paniculata
+C00001789 | Pausinystalia yohimbe
+C00001789 | Pausinystalia yomhinbe
+C00028511 | Pausinystalia paniculata
+C00000957 | Pavetta owariensis
+C00002934 | Pavetta owariensis
+C00009271 | Pavetta owariensis
+C00009272 | Pavetta owariensis
+C00009278 | Pavetta owariensis
+C00009279 | Pavetta owariensis
+C00009281 | Pavetta owariensis
+C00009286 | Pavetta owariensis
+C00009287 | Pavetta owariensis
+C00009288 | Pavetta owariensis
+C00009290 | Pavetta owariensis
+C00009292 | Pavetta owariensis
+C00009301 | Pavetta owariensis
+C00009304 | Pavetta owariensis
+C00009305 | Pavetta owariensis
+C00009306 | Pavetta owariensis
+C00009308 | Pavetta owariensis
+C00009310 | Pavetta owariensis
+C00013282 | Pavetta owariensis
+C00044475 | Pentagonia gigantifolia
+C00044476 | Pentagonia gigantifolia
+C00049906 | Pentas longiflora
+C00002657 | Plocama pendula
+C00002862 | Plocama pendula
+C00001778 | Pogonopus speciosus
+C00001778 | Pogonopus tubuklosus
+C00001778 | Pogonopus tubulosus
+C00001907 | Pogonopus speciosus
+C00049409 | Pogonopus speciosus
+C00010660 | Posoqueria latifolia
+C00010661 | Posoqueria latifolia
+C00002862 | Prismatomeris tetrandra
+C00031485 | Prismatomeris tetrandra
+C00031524 | Prismatomeris tetrandra
+C00031526 | Prismatomeris tetrandra
+C00035933 | Prismatomeris tetrandra
+C00001408 | Psychotria burucana
+C00001408 | Psychotria ipecacuanha
+C00001408 | Psychotria klugii
+C00001685 | Psychotria bahiensis
+C00001738 | Psychotria colorata
+C00001738 | Psychotria lyciiflora
+C00001738 | Psychotria oleoides
+C00001759 | Psychotria beccarioides
+C00001759 | Psychotria beccaroides
+C00001759 | Psychotria oleoides
+C00001760 | Psychotria forsteriana
+C00001760 | Psychotria rostrata
+C00001778 | Psychotria granadensis
+C00001798 | Psychotria ipecacuanha
+C00001835 | Psychotria burucana
+C00001835 | Psychotria ipecacuanha
+C00001835 | Psychotria klugii
+C00001848 | Psychotria ipecacuanha
+C00001849 | Psychotria burucana
+C00001849 | Psychotria ipecacuanha
+C00001849 | Psychotria klugii
+C00001868 | Psychotria burucana
+C00001868 | Psychotria ipecacuanha
+C00002864 | Psychotria serpens
+C00003098 | Psychotria burucana
+C00003098 | Psychotria ipecacuanha
+C00003098 | Psychotria klugii
+C00003672 | Psychotria adenophylla
+C00003674 | Psychotria serpens
+C00003737 | Psychotria adenophylla
+C00003741 | Psychotria adenophylla
+C00025915 | Psychotria bahiensis
+C00026555 | Psychotria colorata
+C00026556 | Psychotria colorata
+C00026556 | Psychotria oleoides
+C00026642 | Psychotria rostrata
+C00026643 | Psychotria rostrata
+C00026663 | Psychotria leiocarpa
+C00026751 | Psychotria sp.
+C00026770 | Psychotria bahiensis
+C00026771 | Psychotria bahiensis
+C00026840 | Psychotria forsteriana
+C00026840 | Psychotria lyciiflora
+C00026935 | Psychotria oleoides
+C00026936 | Psychotria oleoides
+C00026937 | Psychotria oleoides
+C00027031 | Psychotria brachyceras
+C00027245 | Psychotria ipecacuanha
+C00027342 | Psychotria ipecacuanha
+C00027384 | Psychotria klugii
+C00027472 | Psychotria burucana
+C00027472 | Psychotria ipecacuanha
+C00027472 | Psychotria klugii
+C00027771 | Psychotria burucana
+C00027771 | Psychotria ipecacuanha
+C00028162 | Psychotria ipecacuanha
+C00032210 | Psychotria bahiensis
+C00035252 | Psychotria adenophylla
+C00038322 | Psychotria burucana
+C00038322 | Psychotria ipecacuanha
+C00038322 | Psychotria klugii
+C00040100 | Psychotria umbellata
+C00043209 | Psychotria bahiensis
+C00044486 | Psychotria klugii
+C00044487 | Psychotria ipecacuanha
+C00044487 | Psychotria klugii
+C00044848 | Psychotria klugii
+C00049646 | Psychotria oleoides
+C00049661 | Psychotria lyciiflora
+C00049765 | Psychotria colorata
+C00049794 | Psychotria colorata
+C00051863 | Psychotria ipecacuanha
+C00051865 | Psychotria ipecacuanha
+C00051867 | Psychotria burucana
+C00051867 | Psychotria ipecacuanha
+C00051867 | Psychotria klugii
+C00051868 | Psychotria ipecacuanha
+C00051869 | Psychotria ipecacuanha
+C00051869 | Psychotria klugii
+C00051870 | Psychotria ipecacuanha
+C00051871 | Psychotria ipecacuanha
+C00051872 | Psychotria burucana
+C00051872 | Psychotria ipecacuanha
+C00051872 | Psychotria klugii
+C00051873 | Psychotria burucana
+C00051873 | Psychotria ipecacuanha
+C00051873 | Psychotria klugii
+C00051992 | Psychotria ipecacuanha
+C00000602 | Putoria calabrica
+C00002631 | Putoria calabrica
+C00013851 | Putoria calabrica
+C00013887 | Putoria calabrica
+C00031985 | Putoria calabrica
+C00033326 | Putoria calabrica
+C00000320 | Randia spinosa
+C00003081 | Randia spinosa
+C00003097 | Randia spinosa
+C00010555 | Randia canthioides
+C00010582 | Randia dumetorum
+C00010669 | Randia canthioides
+C00030094 | Randia spinosa
+C00031802 | Randia spinosa
+C00033110 | Randia formosa
+C00037296 | Randia formosa
+C00037718 | Randia formosa
+C00037719 | Randia formosa
+C00037720 | Randia formosa
+C00037721 | Randia formosa
+C00037722 | Randia formosa
+C00037723 | Randia formosa
+C00007745 | Readea membranacea Gillespie.
+C00002147 | Remijia spp.
+C00002173 | Remijia pedunculata
+C00002193 | Remijia pedunculata
+C00026579 | Remijia peruviana
+C00026580 | Remijia peruviana
+C00000320 | Rothmannia globosa
+C00000321 | Rothmannia globosa
+C00003081 | Rothmannia globosa
+C00003097 | Rothmannia globosa
+C00010630 | Rothmannia globosa
+C00030094 | Rothmannia macrophylla
+C00040869 | Rothmannia globosa
+C00040898 | Rothmannia globosa
+C00045967 | Rothmannia macrophylla
+C00045968 | Rothmannia macrophylla
+C00046107 | Rothmannia macrophylla
+C00000602 | Rubia yunnanensis
+C00000604 | Rubia yunnanensis
+C00000659 | Rubia wallichiana DECNE
+C00001024 | Rubia yunnanensis
+C00001221 | Rubia wallichiana DECNE
+C00002498 | Rubia wallichiana DECNE
+C00002499 | Rubia wallichiana DECNE
+C00002591 | Rubia akane
+C00002674 | Rubia yunnanensis
+C00002682 | Rubia yunnanensis
+C00002785 | Rubia cordifolia
+C00002785 | Rubia tinctorum
+C00002786 | Rubia cordifolia
+C00002786 | Rubia tinctorum
+C00002786 | Rubia wallichiana DECNE
+C00002814 | Rubia cordifolia
+C00002814 | Rubia wallichiana
+C00002828 | Rubia yunnanensis
+C00002838 | Rubia tinctorum
+C00002838 | Rubia wallichiana DECNE
+C00002839 | Rubia wallichiana DECNE
+C00002856 | Rubia cordifolia
+C00002856 | Rubia tinctorum
+C00002857 | Rubia cordifolia
+C00002857 | Rubia tinctorum
+C00002857 | Rubia wallichiana DECNE
+C00002862 | Rubia tinctorum
+C00002862 | Rubia wallichiana DECNE
+C00002862 | Rubia yunnanensis
+C00002864 | Rubia cordifolia
+C00003072 | Rubia tinctorum
+C00003558 | Rubia wallichiana DECNE
+C00003672 | Rubia cordifolia L.
+C00003672 | Rubia wallichiana DECNE
+C00003672 | Rubia yunnanensis
+C00003674 | Rubia wallichiana DECNE
+C00003674 | Rubia yunnanensis
+C00007204 | Rubia akane
+C00007204 | Rubia yunnanensis
+C00019064 | Rubia cordifolia L.
+C00029473 | Rubia cordifolia L.
+C00029633 | Rubia wallichiana
+C00029749 | Rubia peregrina L.
+C00029749 | Rubia tinctorum L.
+C00030333 | Rubia cordifolia L.
+C00030781 | Rubia cordifolia L.
+C00030781 | Rubia schumannia
+C00031123 | Rubia akane
+C00031124 | Rubia akane
+C00031125 | Rubia akane
+C00031126 | Rubia akane
+C00031127 | Rubia akane
+C00031129 | Rubia akane
+C00031131 | Rubia akane
+C00031132 | Rubia akane
+C00031133 | Rubia akane
+C00031134 | Rubia akane
+C00031135 | Rubia akane
+C00031136 | Rubia akane
+C00031136 | Rubia yunnanensis
+C00031137 | Rubia akane
+C00031138 | Rubia akane
+C00031139 | Rubia akane
+C00031140 | Rubia akane
+C00031232 | Rubia wallichiana DECNE
+C00031234 | Rubia yunnanensis
+C00031235 | Rubia yunnanensis
+C00031236 | Rubia yunnanensis
+C00031237 | Rubia yunnanensis
+C00031238 | Rubia yunnanensis
+C00031239 | Rubia yunnanensis
+C00031240 | Rubia yunnanensis
+C00031241 | Rubia yunnanensis
+C00031242 | Rubia yunnanensis
+C00031243 | Rubia yunnanensis
+C00031244 | Rubia yunnanensis
+C00031245 | Rubia wallichiana DECNE
+C00031246 | Rubia wallichiana DECNE
+C00031247 | Rubia wallichiana DECNE
+C00031248 | Rubia yunnanensis
+C00031525 | Rubia wallichiana DECNE
+C00031526 | Rubia wallichiana DECNE
+C00031526 | Rubia yunnanensis
+C00031527 | Rubia wallichiana DECNE
+C00031546 | Rubia cordifolia
+C00031546 | Rubia wallichiana DECNE
+C00031546 | Rubia yunnanensis
+C00031985 | Rubia tinctorum
+C00031985 | Rubia wallichiana DECNE
+C00031985 | Rubia yunnanensis
+C00032078 | Rubia cordifolia
+C00032078 | Rubia iberica
+C00032078 | Rubia wallichiana DECNE
+C00032518 | Rubia wallichiana DECNE
+C00032518 | Rubia yunnanensis
+C00033228 | Rubia cordifolia
+C00033228 | Rubia yunnanensis
+C00033342 | Rubia yunnanensis
+C00033343 | Rubia yunnanensis
+C00033344 | Rubia yunnanensis
+C00033565 | Rubia cordifolia L.
+C00040332 | Rubia cordifolia L.
+C00042707 | Rubia tinctorum
+C00045047 | Rubia yunnanensis
+C00045048 | Rubia yunnanensis
+C00046043 | Rubia oncotricha
+C00046358 | Rubia yunnanensis
+C00046359 | Rubia yunnanensis
+C00046360 | Rubia yunnanensis
+C00046361 | Rubia yunnanensis
+C00046362 | Rubia yunnanensis
+C00046363 | Rubia yunnanensis
+C00046364 | Rubia yunnanensis
+C00050674 | Rubia cordifolia
+C00050731 | Rubia yunnanensis
+C00035052 | Rudgea viburnoides
+C00050257 | Rudgea viburnoides
+C00050258 | Rudgea viburnoides
+C00050260 | Rudgea viburnoides
+C00003072 | Saprosma scortechinii
+C00003089 | Saprosma scortechinii
+C00003094 | Saprosma scortechinii
+C00010644 | Saprosma scortechinii
+C00010679 | Saprosma scortechinii
+C00029749 | Saprosma scortechinii
+C00030092 | Saprosma scortechinii
+C00030093 | Saprosma scortechinii
+C00032582 | Saprosma scortechinii
+C00032583 | Saprosma scortechinii
+C00032588 | Saprosma scortechinii
+C00032607 | Saprosma scortechinii
+C00032608 | Saprosma scortechinii
+C00032672 | Saprosma scortechinii
+C00033359 | Saprosma scortechinii
+C00033360 | Saprosma scortechinii
+C00036512 | Saprosma scortechinii
+C00045189 | Saprosma scortechinii
+C00045395 | Saprosma scortechinii
+C00045396 | Saprosma scortechinii
+C00045397 | Saprosma scortechinii
+C00045398 | Saprosma scortechinii
+C00045399 | Saprosma scortechinii
+C00045400 | Saprosma scortechinii
+C00048682 | Saprosma fragrans
+C00002856 | Sherardia arvensis
+C00002724 | Sinoadina racemosa
+C00003088 | Sinoadina Racemosa
+C00004565 | Sinoadina Racemosa
+C00005137 | Sinoadina racemosa
+C00005169 | Sinoadina Racemosa
+C00005372 | Sinoadina racemosa
+C00005374 | Sinoadina racemosa
+C00005413 | Sinoadina racemosa
+C00010604 | Sinoadina Racemosa
+C00010794 | Sinoadina racemosa
+C00010800 | Sinoadina racemosa
+C00029329 | Sinoadina racemosa
+C00029948 | Sinoadina Racemosa
+C00031346 | Sinoadina racemosa
+C00032210 | Sinoadina racemosa
+C00045134 | Sinoadina racemosa
+C00005138 | Spermacoce laevis Roxb.
+C00005169 | Spermacoce laevis Roxb.
+C00005413 | Spermacoce laevis Roxb.
+C00029329 | Spermacoce laevis Roxb.
+C00029570 | Spermacoce laevis Roxb.
+C00029749 | Spermacoce laevis Roxb.
+C00030989 | Spermacoce laevis Roxb.
+C00026417 | Timonius kaniensis
+C00002499 | Tricalysia dubia
+C00007190 | Tricalysia dubia
+C00007558 | Tricalysia dubia
+C00029573 | Tricalysia dubia
+C00031281 | Tricalysia dubia OHWI
+C00032380 | Tricalysia dubia
+C00032381 | Tricalysia dubia (Lindl.) Ohwi
+C00032382 | Tricalysia dubia (Lindl.) Ohwi
+C00032383 | Tricalysia dubia
+C00032384 | Tricalysia dubia
+C00032385 | Tricalysia dubia (Lindl.) Ohwi
+C00032386 | Tricalysia dubia
+C00032387 | Tricalysia dubia
+C00032388 | Tricalysia dubia OHWI
+C00032389 | Tricalysia dubia OHWI
+C00032390 | Tricalysia dubia OHWI
+C00032391 | Tricalysia dubia OHWI
+C00032392 | Tricalysia dubia OHWI
+C00032393 | Tricalysia dubia OHWI
+C00032394 | Tricalysia dubia OHWI
+C00032395 | Tricalysia dubia OHWI
+C00032396 | Tricalysia dubia OHWI
+C00032397 | Tricalysia dubia OHWI
+C00032398 | Tricalysia dubia OHWI
+C00032399 | Tricalysia dubia OHWI
+C00032400 | Tricalysia dubia OHWI
+C00032401 | Tricalysia dubia OHWI
+C00032402 | Tricalysia dubia OHWI
+C00032403 | Tricalysia dubia OHWI
+C00032404 | Tricalysia dubia OHWI
+C00032405 | Tricalysia dubia OHWI
+C00032406 | Tricalysia dubia OHWI
+C00032407 | Tricalysia dubia OHWI
+C00032408 | Tricalysia dubia OHWI
+C00040546 | Tricalysia dubia
+C00040547 | Tricalysia dubia
+C00040548 | Tricalysia dubia

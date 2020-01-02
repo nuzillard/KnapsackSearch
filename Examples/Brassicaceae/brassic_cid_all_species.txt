@@ -1,0 +1,1028 @@
+C00000001 : Arabidopsis thaliana||Brassica campestris||Brassica napus||Matthiola incana||Raphanus sativus||Thlaspi arvense
+C00000003 : Arabidopsis thaliana||Brassica campestris||Brassica napus
+C00000004 : Arabidopsis thaliana||Brassica napus||Matthiola incana||Raphanus sativus
+C00000005 : Arabidopsis thaliana||Raphanus sativus
+C00000008 : Arabidopsis thaliana||Brassica napus||Matthiola incana||Raphanus sativus||Thlaspi arvense
+C00000009 : Arabidopsis thaliana||Raphanus sativus||Thlaspi arvense
+C00000010 : Arabidopsis thaliana
+C00000012 : Arabidopsis thaliana||Raphanus sativus||Thlaspi arvense
+C00000013 : Arabidopsis thaliana
+C00000015 : Arabidopsis thaliana||Brassica napus||Raphanus sativus||Thlaspi arvense
+C00000017 : Arabidopsis thaliana||Brassica napus||Raphanus sativus
+C00000019 : Arabidopsis thaliana||Brassica napus||Matthiola incana||Raphanus sativus||Thlaspi arvense
+C00000020 : Arabidopsis thaliana||Brassica campestris||Brassica napus||Matthiola incana||Raphanus sativus||Thlaspi arvense
+C00000024 : Arabidopsis thaliana||Matthiola incana||Raphanus sativus||Thlaspi arvense
+C00000025 : Arabidopsis thaliana||Raphanus sativus||Thlaspi arvense
+C00000027 : Arabidopsis thaliana
+C00000029 : Arabidopsis thaliana||Brassica napus||Raphanus sativus||Thlaspi arvense
+C00000034 : Arabidopsis thaliana||Brassica napus||Matthiola incana||Raphanus sativus
+C00000036 : Arabidopsis thaliana
+C00000037 : Arabidopsis thaliana||Matthiola incana
+C00000040 : Raphanus sativus
+C00000041 : Arabidopsis thaliana
+C00000044 : Arabidopsis thaliana||Brassica napus||Raphanus sativus||Thlaspi arvense
+C00000051 : Arabidopsis thaliana||Brassica napus||Raphanus sativus||Thlaspi arvense
+C00000053 : Arabidopsis thaliana||Brassica napus||Matthiola incana||Thlaspi arvense
+C00000071 : Arabidopsis thaliana
+C00000077 : Raphanus sativus
+C00000085 : Brassica campestris
+C00000089 : Brassica campestris
+C00000091 : Arabidopsis thaliana||Brassica campestris||Raphanus sativus
+C00000093 : Arabidopsis thaliana
+C00000095 : Arabidopsis thaliana
+C00000096 : Arabidopsis thaliana||Brassica campestris||Brassica oleracea
+C00000097 : Brassica oleracea
+C00000100 : Arabidopsis thaliana||Brassica oleracea||Raphanus sativus
+C00000101 : Brassica oleracea||Raphanus sativus
+C00000105 : Arabidopsis thaliana||Brassica oleracea var.botrytis||Brassica pekinensis||Brassica rapa||Raphanus sativus var.hortensis||Thellungiella halophila
+C00000107 : Arabidopsis thaliana||Brassica oleracea||Brassica pekinensis||Brassica rapa||Thellungiella halophila
+C00000109 : Brassica oleracea var.capitata
+C00000110 : Arabidopsis thaliana||Brassica pekinensis
+C00000112 : Arabidopsis thaliana||Brassica oleracea
+C00000113 : Arabidopsis thaliana
+C00000116 : Arabidopsis thaliana
+C00000124 : Arabidopsis thaliana
+C00000125 : Arabidopsis thaliana||Armoracia lapathifolia||Barbarea vulgaris||Brassica||Brassica campestris ssp. rapifera||Brassica juncea||Brassica napus||Brassica napus var. napobrassica||Brassica oleracea||Brassica oleracea L. var. botrytis subvar. Cauliflora DC||Brassica oleracea var. botrytis||Brassica oleracea var. capitata||Brassica oleracea var. gemmifera||Brassica oleracea var. gongylodes||Brassica rapa||Brassica sprouts||Conringia orientalis||Diplotaxis erucoides||Isatis djurdjura||Isatis tinctoria||Lepidium graminifolium||Lepidium montanum||Lepidium sativum||Moricandia arvensis||Raphanus sativus||Raphanus spp.||Sinapis alba
+C00000126 : Arabidopsis thaliana||Barbarea praecox||Barbarea vulgaris||Brassica napus||Brassica napus var. napobrassica||Brassica oleracea||Brassica oleracea L. var. botrytis subvar. Cauliflora DC||Brassica oleracea var. botrytis||Brassica oleracea var. gemmifera||Brassica oleracea var. gongylodes||Brassica rapa||Brassica spp.||Brassica sprouts||Cochlearia officinalis||Conringia orientalis||Diplotaxis erucoides||Isatis djurdjura||Isatis indigotica||Isatis tinctoria||Lepidium sativum||Moricandia arvensis||Sinapis alba||Sisymbrium officinale
+C00000127 : Brassica juncea||Brassica napus||Brassica napus var. napobrassica||Brassica oleracea||Brassica rapa||Brassica sp||Brassica sp.||Brassica sprouts||Conringia orientalis||Diplotaxis erucoides||Isatis djurdjura||Isatis tinctoria||Moricandia arvensis||Schouwia purpurea
+C00000128 : Arabidopsis thaliana||Brassica juncea||Brassica napus||Brassica napus var. napobrassica||Brassica napus var. purple top||Brassica rapa||Brassica sp.||Diplotaxis erucoides||Isatis djurdjura||Isatis tinctoria||Moricandia arvensis
+C00000130 : Brassica oleracea var. botrytis||Brassica oleracea var. gongylodes||Isatis tinctoria Linn
+C00000131 : Brassica oleracea var. botrytis||Brassica oleracea var. gongylodes||Isatis tinctoria Linn
+C00000134 : Arabidopsis thaliana
+C00000136 : Arabidopsis thaliana||Brassica hirta||Hesperis matronalis
+C00000137 : Rorippa indica (L.) Hiern.
+C00000138 : Rorippa indica (L.) Hiern.||Rorippa islandica (Oeder) Borbas||Rorippa sylvestris
+C00000152 : Arabidopsis thaliana
+C00000170 : Arabidopsis thaliana
+C00000175 : Arabidopsis thaliana
+C00000176 : Arabidopsis thaliana||Brassica campestris||Brassica napus||Raphanus sativus
+C00000181 : Arabidopsis thaliana||Brassica campestris||Raphanus sativus
+C00000185 : Arabidopsis thaliana
+C00000186 : Arabidopsis thaliana
+C00000189 : Brassica campestris||Brassica campestris var. pekinensis L.
+C00000190 : Brassica campestris||Brassica campestris var. pekinensis L.
+C00000199 : Arabidopsis thaliana
+C00000206 : Arabidopsis thaliana||Isatis indigotica
+C00000207 : Arabidopsis thaliana||Brassica hirta||Isatis indigotica
+C00000208 : Arabidopsis thaliana
+C00000209 : Arabidopsis thaliana
+C00000218 : Brassica napus
+C00000219 : Arabidopsis thaliana
+C00000308 : Raphanus sativus
+C00000309 : Raphanus sativus
+C00000351 : Brassica hirta
+C00000356 : Brassica napus
+C00000357 : Brassica hirta
+C00000365 : Arabidopsis thaliana
+C00000389 : Arabidopsis thaliana
+C00000446 : Arabidopsis thaliana
+C00000589 : Brassica fruticulosa
+C00000613 : Arabidopsis thaliana
+C00000614 : Arabidopsis thaliana
+C00000615 : Arabidopsis thaliana
+C00000619 : Brassica hirta||Hesperis matronalis
+C00000677 : Arabidopsis thaliana||Brassica carinata Y line
+C00000733 : Arabidopsis thaliana
+C00000751 : Arabidopsis thaliana
+C00000756 : Arabidopsis thaliana
+C00000769 : Arabidopsis thaliana
+C00000805 : Hesperis matronalis
+C00000816 : Hesperis matronalis
+C00000843 : Hesperis matronalis
+C00000846 : Arabidopsis thaliana
+C00000848 : Arabidopsis thaliana
+C00000853 : Arabidopsis thaliana||Hesperis matronalis
+C00000856 : Arabidopsis thaliana
+C00000862 : Hesperis matronalis
+C00000877 : Arabidopsis thaliana
+C00000880 : Arabidopsis thaliana
+C00000886 : Arabidopsis thaliana
+C00000905 : Arabidopsis thaliana||Brassica oleracea L.var.Botrytis
+C00000908 : Arabidopsis thaliana
+C00000911 : Arabidopsis thaliana||Brassica napus||Brassica rutabaga
+C00000919 : Arabidopsis thaliana
+C00000922 : Arabidopsis thaliana
+C00000926 : Arabidopsis thaliana
+C00000931 : Arabidopsis thaliana
+C00000938 : Brassica carinata Y line
+C00000947 : Arabidopsis thaliana
+C00000956 : Arabidopsis thaliana
+C00000964 : Capsella bursa-pastoris
+C00000977 : Arabidopsis thaliana
+C00000982 : Arabidopsis thaliana
+C00000998 : Matthiola sp.
+C00001058 : Isatis tinctoria
+C00001060 : Capsella bursa-pastoris
+C00001092 : Capsella bursa-pastoris
+C00001117 : Arabidopsis thaliana
+C00001118 : Arabidopsis thaliana
+C00001119 : Arabidopsis thaliana
+C00001120 : Arabidopsis thaliana
+C00001122 : Arabidopsis thaliana
+C00001126 : Arabidopsis thaliana
+C00001129 : Arabidopsis thaliana
+C00001138 : Lepidium sativum
+C00001140 : Arabidopsis thaliana
+C00001142 : Arabidopsis thaliana
+C00001145 : Arabidopsis thaliana
+C00001151 : Arabidopsis thaliana||Brassica oleracea||Isatis indigotica
+C00001152 : Arabidopsis thaliana
+C00001161 : Arabidopsis thaliana
+C00001162 : Arabidopsis thaliana
+C00001163 : Arabidopsis thaliana
+C00001164 : Arabidopsis thaliana
+C00001165 : Arabidopsis thaliana
+C00001177 : Arabidopsis thaliana
+C00001179 : Arabidopsis thaliana
+C00001180 : Brassica hirta
+C00001181 : Arabidopsis thaliana
+C00001183 : Arabidopsis thaliana||Capsella bursa-pastoris
+C00001185 : Arabidopsis thaliana
+C00001186 : Arabidopsis thaliana
+C00001188 : Arabidopsis thaliana
+C00001191 : Arabidopsis thaliana
+C00001192 : Arabidopsis thaliana
+C00001195 : Arabidopsis thaliana
+C00001198 : Arabidopsis thaliana
+C00001200 : Arabidopsis thaliana||Capsella bursa-pastoris
+C00001201 : Arabidopsis thaliana
+C00001203 : Arabidopsis thaliana
+C00001205 : Arabidopsis thaliana
+C00001209 : Arabidopsis thaliana||Isatis tinctoria
+C00001210 : Raphanus sativus
+C00001211 : Arabidopsis thaliana||Eruca vesicaria subsp. Sativa
+C00001213 : Arabidopsis thaliana||Brassica hirta
+C00001218 : Brassica hirta
+C00001221 : Arabidopsis thaliana||Brassica hirta
+C00001223 : Arabidopsis thaliana
+C00001224 : Brassica hirta||Isatis tinctoria||Lepidium meyenii Maca
+C00001228 : Arabidopsis thaliana||Brassica hirta
+C00001229 : Arabidopsis thaliana
+C00001230 : Brassica napus||Lunaria biennis
+C00001231 : Arabidopsis thaliana||Brassica hirta
+C00001232 : Arabidopsis thaliana||Brassica hirta||Isatis tinctoria
+C00001233 : Arabidopsis thaliana||Brassica hirta||Isatis tinctoria
+C00001234 : Arabidopsis thaliana||Brassica hirta||Isatis tinctoria
+C00001238 : Arabidopsis thaliana||Brassica hirta||Isatis tinctoria
+C00001243 : Descurainia sophia
+C00001244 : Brassica nigra
+C00001255 : Brassica oleracea
+C00001258 : Raphanus sativus
+C00001260 : Brassica oleracea
+C00001262 : Brassica oleracea var. gemmifera
+C00001269 : Brassica oleracea
+C00001318 : Brassica hirta
+C00001332 : Arabidopsis thaliana
+C00001333 : Arabidopsis thaliana||Lunaria spp.
+C00001337 : Arabidopsis thaliana
+C00001340 : Arabidopsis thaliana
+C00001341 : Arabidopsis thaliana
+C00001342 : Arabidopsis thaliana
+C00001348 : Arabidopsis thaliana
+C00001351 : Arabidopsis thaliana
+C00001357 : Brassica olereacea
+C00001358 : Arabidopsis thaliana
+C00001359 : Arabidopsis thaliana
+C00001361 : Arabidopsis thaliana
+C00001363 : Arabidopsis thaliana
+C00001365 : Arabidopsis thaliana
+C00001366 : Arabidopsis thaliana
+C00001370 : Arabidopsis thaliana
+C00001374 : Arabidopsis thaliana
+C00001377 : Arabidopsis thaliana
+C00001378 : Arabidopsis thaliana
+C00001379 : Arabidopsis thaliana
+C00001384 : Arabidopsis thaliana
+C00001386 : Arabidopsis thaliana
+C00001388 : Arabidopsis thaliana
+C00001392 : Brassica oleracea capitata||Stanleya pinnata
+C00001393 : Arabidopsis thaliana
+C00001394 : Arabidopsis thaliana
+C00001396 : Arabidopsis thaliana
+C00001397 : Arabidopsis thaliana
+C00001398 : Arabidopsis thaliana
+C00001401 : Arabidopsis thaliana
+C00001403 : Arabidopsis thaliana
+C00001408 : Brassica olereacea
+C00001414 : Capsella bursa-pastoris
+C00001418 : Brassica hirta
+C00001424 : Brassica olereacea
+C00001428 : Arabidopsis thaliana
+C00001429 : Isatis indigotica||Raphanus sativus
+C00001431 : Arabidopsis thaliana
+C00001432 : Arabidopsis thaliana
+C00001434 : Arabidopsis thaliana||Isatis indigotica||Raphanus sativus
+C00001435 : Arabidopsis thaliana||Brassica olereacea||Capsella bursa-pastoris
+C00001463 : Alyssum alyssoides||Armoracia lapathifolia||Aurinia saxatilis||Berteroa incana||Brassica campestris ssp. rapifera||Brassica juncea||Brassica napus||Brassica napus var. napobrassica||Brassica oleracea||Brassica rapa||Brassica sp.||Cakile edentula||Cakile lanceolata||Cakile maritima||Capsella bursa-pastoris||Cardamine hirsuta||Cardamine impatiens||Carrichtera annua||Descurainia pinnata||Descurainia richardsonii||Diplotaxis siifolia||Hirschfeldia incana||Leavenworthia torulosa||Lepidium draba||Lepidium subulatum||Lobularia maritima||Schouwia purpurea||Sinapis alba||Thelypodium crispum||Thelypodium eucosmum||Thelypodium howellii||Thelypodium laciniatum||Thelypodium laxiflorum||Thelypodium paniculatum
+C00001465 : Armoracia lapathifolia||Brassica oleracea var. botrytis||Isomeris arborea
+C00001466 : Aethionema armenum||Arabis laevigata||Armoracia lapathifolia||Brassica campestris ssp. rapifera||Brassica napus var. napobrassica||Brassica oleracea var. botrytis||Calepina irregularis||Erysimum allionii||Erysimum asperum||Erysimum capitatum||Erysimum cuspidatum||Erysimum diffusum||Erysimum hieracifolium||Erysimum linifolium||Erysimum ochrolecum||Erysimum perofskianum||Erysimum rupestre||Erysimum sisymbrioides||Goldbachia laevigata||Iberis crenata||Iberis linifolia||Iberis simplex||Lepidium draba||Malcolmia africana||Matthiola bicornis||Neslia paniculata||Rapistrum rugosum||Sinapis arvensis
+C00001467 : Nasturtiopsis arabica||Teesdalia nudicaulis
+C00001468 : Arabis sparsiflora||Armoracia lapathifolia||Aurinia saxatilis||Boechera drummondii||Boechera holboellii||Cakile arabica||Cakile constricta||Cakile edentula||Cakile geniculata||Cakile lanceolata||Cakile maritima||Capsella cordifolia||Cardamine flexuosa||Cardamine hirsuta||Cardamine pratensis||Christolea crassifolia||Cochlearia anglica||Cochlearia danica||Descurainia richardsonii||Descurainia sophia||Diplotaxis viminea||Diplotaxis virgata||Draba nemorosa||Draba spectabilis||Erophila verna||Eruca sativa||Erysimum asperum||Erysimum aureum||Farsetia clypeata||Hesperis matronalis||Lepidium draba||Lepidium montanum||Lunaria annua||Sinapis alba||Sisymbrium altissimum||Sisymbrium erysimoides||Sisymbrium irio||Sisymbrium officinale||Sisymbrium strictissimum||Thelypodium ambiguum||Thelypodium brachycarpum||Thelypodium crispum||Thelypodium eucosmum||Thelypodium laciniatum||Thelypodium laxiflorum||Thelypodium milleflorum||Thelypodium paniculatum||Thelypodium rollinsii||Thelypodium stenopetalum||Thysanocarpus montanum
+C00001469 : Capsella cordifolia||Cochlearia anglica||Cochlearia danica||Cochlearia officinalis||Conringia orientalis||Conringia spp.||Nasturtiopsis arabica||Sisymbrium crassifolium||Sisymbrium polyceratium||Thlaspi alpestre||Thlaspi qvalanum
+C00001471 : Brassica napus var. napobrassica||Descurainia richardsonii||Erysimum allionii||Erysimum asperum||Erysimum perofskianum||Lepidium draba||Thelypodium crispum
+C00001473 : Alyssum peltarioides||Alyssum sibiricum||Arabis alpina||Arabis alpina subsp. caucasica||Arabis kennedyae||Arabis stelleri||Arabis turrita||Armoracia lapathifolia||Aurinia saxatilis||Barbarea intermedia||Barbarea vulgaris||Biscutella didyma||Brassica oleracea||Brassica oleracea var. botrytis||Brassica oleracea var. capitata||Brassica oleracea var. gemmifera||Brassica oleracea var. gongylodes||Brassica oleracea var. sabauda||Brassica rapa||Brassica sprouts||Cakile constricta||Cakile edentula||Cakile geniculata||Cakile lanceolata||Cakile maritima||Capsella bursa-pastoris||Chorispora tenella||Conringia orientalis||Diplotaxis erucoides||Draba aizoides||Eruca sativa||Erysimum aureum||Erysimum cheiranthoides||Erysimum hieracifolium||Erysimum perofskianum||Erysimum repandum||Erysimum sylvestre||Euzomodendron bourgaeanum||Farsetia clypeata||Hesperis matronalis||Hirschfeldia incana||Iberis amara||Iberis sempervirens||Iberis umbellata||Isatis tinctoria||Lepidium graminifolium||Lepidium heterophyllum||Lepidium latifolium||Lepidium perfoliatum||Matthiola incana||Moricandia arvensis||Raphanus raphanistrum||Rapistrum rugosum||Sinapis alba||Sinapis arvensis||Sisymbrium altissimum||Sisymbrium austriacum||Sisymbrium incanum||Sisymbrium orientale||Sisymbrium strictissimum||Thelypodium howellii||Turritis glabra
+C00001474 : Armoracia lapathifolia||Lepidium austrinum||Lepidium sativum
+C00001477 : Armoracia lapathifolia||Brassica campestris ssp. rapifera||Brassica campestris var. chinensis||Brassica juncea||Brassica napus var. napobrassica||Brassica pekinensis||Brassica rapa||Brassica seeds||Sisymbrium altissimum||Sisymbrium austriacum||Sisymbrium irio||Sisymbrium loesilii||Sisymbrium officinale||Sisymbrium orientale||Sisymbrium strictissimum
+C00001479 : Alyssum perennial||Arabis hirsuta||Arabis laevigata||Arabis sparsiflora||Armoracia lapathifolia||Aurinia saxatilis||Barbarea intermedia||Barbarea stricta||Boechera drummondii||Boechera holboellii||Brassica campestris var. chinensis||Brassica hirta||Brassica juncea||Brassica nigra||Brassica oleracea var. gemmifera||Bunias orientalis||Cakile arabica||Cakile edentula||Cakile maritima||Capsella cordifolia||Cardamine flexuosa||Christolea crassifolia||Cochlearia anglica||Cochlearia danica||Cochlearia officinalis||Descurainia richardsonii||Diplotaxis viminea||Diplotaxis virgata||Draba spectabilis||Erophila verna||Farsetia jacquemontii||Guillenia lasiophylla||Lepidium montanum||Lunaria annua||Matthiola fruticulosa||Physaria floribunda||Raphanus sativus||Sisymbrium altissimum||Sisymbrium erysimoides||Sisymbrium irio||Sisymbrium officinale||Sisymbrium strictissimum||Thelypodium eucosmum||Thelypodium howellii||Thelypodium laciniatum||Thelypodium laxiflorum||Thelypodium milleflorum||Thelypodium paniculatum||Thelypodium stenopetalum||Thysanocarpus montanum
+C00001481 : Erucastrum nasturtiifolium||Matthiola annua||Matthiola bicornis||Matthiola fruticulosa||Matthiola incana||Matthiola parviflora||Matthiola sinuata||Raphanus sativus
+C00001486 : Alyssum alyssoides||Alyssum dasycarpum||Alyssum granatense||Alyssum minutum||Arabidopsis thaliana||Boreava orientalis||Brassica juncea||Brassica napus var. napus||Brassica oleracea||Brassica oleracea var. capitata||Brassica rapa||Brassica spp.||Brassica sprouts||Capsella bursa-pastoris||Chorispora purpurascens||Coincya longirostra||Coincya monensis||Coincya rupestris||Coincya transtagana||Conringia orientalis||Crambe cordifolia||Crambe filiformis||Crambe juncea||Crambe koktebelica||Crambe orientalis||Crambe tataria||Descurainia pinnata||Diplotaxis virgata||Enarthrocarpus strangulatus||Erucaria hispanica||Fibigia macrocarpa||Hesperis matronalis||Hirschfeldia incana||Isatis cappadocica||Isatis costata||Isatis djurdjura||Isatis tinctoria||Lepidium sativum||Moricandia arvensis||Moricandia baetica||Moricandia foetida||Moricandia moricandioides||Notoceras bicorne||Peltaria alliaceae||Rytidocarpus moricandioides||Schouwia purpurea||Selenia grandis||Sinapis alba||Sinapis arvensis||Sisymbrium altissimum||Sisymbrium gariepinum||Sisymbrium irio||Sisymbrium orientale||Sisymbrium pinnata||Thelypodium flexuosum||Thelypodium integrifolium||Thelypodium repandum||Thelypodium wrightii||Zilla spinosa
+C00001487 : Brassica hirta||Raphanus sativus||Sinapis alba||Sinapis arvensis
+C00001488 : Alliaria petiolata||Arabidopsis thaliana||Arabis kennedyae||Arabis laevigata||Arabis petiolaris||Armoracia lapathifolia||Barbarea intermedia||Barbarea stricta||Brassica hirta||Brassica juncea||Brassica nigra||Brassica oleracea||Brassica oleracea var. capitata||Brassica sprouts||Cakile arabica||Cakile artica||Cakile constricta||Cakile edentula||Cakile geniculata||Cakile lanceolata||Cakile maritima||Capsella bursa-pastoris||Chorispora tenella||Coincya longirostra||Conringia planisiliqua||Crambe maritima||Crucihimalaya wallichii||Descurainia appendiculata||Descurainia pinnata||Descurainia richardsonii||Descurainia sophia||Diplotaxis erucoides||Diplotaxis muralis||Diplotaxis viminea||Draba nemorosa||Erucastrum gallicum||Erucastrum laevigatum||Erysimum asperum||Erysimum capitatum||Erysimum hieracifolium||Erysimum odoratum||Farsetia aegyptia||Farsetia clypeata||Hirschfeldia incana||Iberis umbellata||Isatis indigotica||Lepidium draba||Lepidium sativum||Moricandia arvensis||Peltaria alliaceae||Pringlea antiscorbutica||Raphanus raphanistrum||Raphanus sativus||Rorippa hilariana||Schouwia purpurea||Sinapis arvensis||Sisymbrium alliaria||Sisymbrium loesilii||Sisymbrium officinale||Sisymbrium sophia||Thelypodium ambiguum||Thelypodium brachycarpum||Thelypodium crispum||Thelypodium eucosmum||Thelypodium laciniatum||Thelypodium laxiflorum||Thelypodium paniculatum||Thelypodium rollinsii||Thlaspi arvense||Turritis glabra
+C00001489 : Isatis tinctoria
+C00001499 : Raphanus sativus
+C00001504 : Isatis indigotica
+C00001505 : Raphanus sativus
+C00001514 : Arabidopsis thaliana
+C00001518 : Arabidopsis thaliana
+C00001528 : Arabidopsis thaliana
+C00001541 : Isatis indigotica||Isatis tinctoria
+C00001542 : Isatis indigotica||Isatis tinctoria
+C00001546 : Brassica campestris||Brassica carinata||Brassica napus||Brassica oleracea||Brassica rapa||Brassica sativus
+C00001550 : Arabidopsis thaliana
+C00002150 : Isatis tinctoria
+C00002191 : Lunaria spp.
+C00002200 : Isatis tinctoria L
+C00002286 : Cochlearia arctica||Cochlearia officinalis
+C00002348 : Lunaria biennis||Lunaria rediviva
+C00002499 : Arabidopsis thaliana
+C00002500 : Arabidopsis thaliana
+C00002514 : Brassica oleracea
+C00002526 : Arabidopsis thaliana
+C00002591 : Isatis indigotica
+C00002645 : Brassica hirta
+C00002648 : Raphanus sativus
+C00002654 : Brassica hirta
+C00002657 : Arabidopsis thaliana
+C00002663 : Brassica hirta||Hesperis matronalis
+C00002674 : Arabidopsis thaliana||Isatis indigotica
+C00002682 : Arabidopsis thaliana
+C00002683 : Arabidopsis thaliana
+C00002704 : Brassica hirta
+C00002718 : Raphanus||Raphanus sativus
+C00002724 : Brassica oleracea var.capitata
+C00002727 : Arabidopsis thaliana
+C00002728 : Arabidopsis thaliana
+C00002741 : Brassica hirta
+C00002743 : Arabidopsis thaliana||Isatis tinctoria||Raphanus sativus
+C00002765 : Raphanus sativus
+C00002776 : Arabidopsis thaliana||Brassica carinata B line||Brassica carinata Y line||Brassica juncea||Brassica oleracea||Isatis tinctoria||Lepidium sativum||Sisymbrium columnae
+C00002777 : Arabidopsis thaliana||Brassica nigra||Crambe asiatica||Draba nemorosa||Lepidium sativum||Raphanus sativus||Sinapis alba||Sisymbrium columnae
+C00002778 : Arabidopsis thaliana
+C00002851 : Arabidopsis thaliana
+C00002868 : Arabidopsis thaliana
+C00003046 : Brassica hirta
+C00003047 : Arabidopsis thaliana||Hesperis matronalis
+C00003104 : Arabidopsis thaliana
+C00003110 : Arabidopsis thaliana
+C00003116 : Arabidopsis thaliana
+C00003194 : Arabidopsis thaliana
+C00003467 : Arabidopsis thaliana
+C00003625 : Erysimum cheiranthoides||Erysimum crepidifolium||Erysimum helveticum||Hesperis matronalis
+C00003646 : Brassica napus||Brassica rapa L.
+C00003647 : Arabidopsis thaliana||Brassica campestris L.||Brassica napa||Brassica napus||Brassica rapa L.||Erysimum carniolicum
+C00003648 : Arabidopsis thaliana||Erysimum carniolicum
+C00003650 : Arabidopsis thaliana
+C00003656 : Arabidopsis thaliana
+C00003661 : Arabidopsis thaliana
+C00003672 : Arabidopsis thaliana||Erysimum carniolicum
+C00003674 : Arabidopsis thaliana
+C00003683 : Iberis spp.
+C00003685 : Iberis spp.
+C00003686 : Iberis amara L.
+C00003689 : Iberis amara
+C00003755 : Arabidopsis thaliana
+C00003760 : Arabidopsis thaliana
+C00003765 : Arabidopsis thaliana
+C00003766 : Arabidopsis thaliana
+C00003776 : Arabidopsis thaliana||Brassica spp.||Isatis tinctoria
+C00003780 : Arabidopsis thaliana
+C00003787 : Arabidopsis thaliana
+C00004267 : Capsella bursa-pastoris
+C00004282 : Capsella bursa-pastoris
+C00004565 : Arabidopsis thaliana||Brassica carinata B line||Brassica carinata Y line
+C00004567 : Erysimum carniolicum
+C00004631 : Arabidopsis thaliana||Brassica carinata Y line
+C00004634 : Erysimum carniolicum
+C00004635 : Descurainia Sophia
+C00004745 : Capsella bursa-pastoris
+C00005138 : Hirschfeldia incana
+C00005145 : Raphanus sativus
+C00005149 : Matthiola incana R.Br.
+C00005150 : Matthiola incana R.Br.
+C00005156 : Armoracia rusticana
+C00005167 : Nerisyrenia linearifolia
+C00005176 : Lepidium perfoliatum
+C00005177 : Pachyphragma macrophyllum
+C00005178 : Arabidopsis thaliana
+C00005182 : Sinapis arvensis||Sisymbrium spp.
+C00005189 : Arabidopsis thaliana
+C00005194 : Crambe tataria||Sisymbrium gilliesii
+C00005229 : Brassica napus||Brassica oleracea||Brassica rapa||Sinapis arvensis
+C00005234 : Arabidopsis thaliana
+C00005240 : Lepidium syvaschicum
+C00005249 : Nerisyrenia camporum||Nerisyrenia linearifolia
+C00005296 : Alyssum desertorum||Alyssum minimum
+C00005373 : Descurainia Sophia||Descurainia sophia
+C00005374 : Erysimum carniolicum
+C00005390 : Brassica nigra
+C00005395 : Armoracia rusticana
+C00005412 : Nerisyrenia gracilis||Nerisyrenia linearifolia
+C00005427 : Sisymbrium spp.
+C00005428 : Arabidopsis thaliana||Erysimum perofskianum
+C00005432 : Arabidopsis thaliana
+C00005436 : Crambe tataria||Sisymbrium gilliesii
+C00005464 : Brassica napus||Brassica oleracea||Sinapis arvensis
+C00005469 : Nerisyrenia linearifolia
+C00005473 : Lepidium syvaschicum
+C00005524 : Sinapis flexuosa
+C00005525 : Descurainia sophia
+C00005530 : Brassica napus||Sinapis arvensis
+C00005531 : Raphanus raphanistrum
+C00005547 : Nerisyrenia gracilis||Nerisyrenia linearifolia
+C00005548 : Brassica napus
+C00005551 : Erysimum perofskianum
+C00005556 : Brassica juncea||Brassica rapa||Raphanus sativus||Sinapis arvensis
+C00005557 : Brassica napus||Erysimum perofskianum||Sinapis arvensis
+C00005561 : Matthiola incana
+C00005579 : Brassica napus||Sinapis arvensis
+C00005586 : Nerisyrenia camporum||Nerisyrenia linearifolia
+C00005598 : Alyssum minimum
+C00005622 : Alyssum minimum
+C00005646 : Brassica oleracea
+C00005898 : Sisymbrium gilliesii
+C00005899 : Crambe tataria
+C00005912 : Brassica oleracea
+C00005913 : Brassica oleracea
+C00005914 : Brassica oleracea
+C00005916 : Brassica napus||Brassica oleracea
+C00005922 : Brassica napus
+C00005996 : Brassica oleracea
+C00005997 : Brassica oleracea
+C00006614 : Arabidopsis thaliana
+C00006630 : Matthiola incana
+C00006647 : Brassica oleracea||Raphanus sativus
+C00006673 : Arabidopsis thaliana||Matthiola incana
+C00006674 : Brassica oleracea||Raphanus sativus
+C00006780 : Matthiola incana
+C00006781 : Matthiola incana
+C00006782 : Matthiola incana
+C00006783 : Matthiola incana
+C00006784 : Matthiola incana
+C00006785 : Matthiola incana
+C00006786 : Matthiola incana
+C00006787 : Raphanus sativus
+C00006802 : Matthiola incana
+C00006837 : Matthiola incana
+C00006838 : Matthiola incana
+C00006839 : Matthiola incana
+C00006840 : Matthiola incana
+C00006841 : Brassica oleracea
+C00006842 : Brassica oleracea
+C00006844 : Brassica oleracea
+C00006845 : Brassica oleracea
+C00006846 : Brassica oleracea
+C00006848 : Brassica oleracea
+C00006850 : Raphanus sativus
+C00006851 : Brassica oleracea
+C00006853 : Brassica oleracea
+C00006854 : Brassica oleracea
+C00006868 : Arabidopsis thaliana
+C00006925 : Arabidopsis thaliana
+C00007204 : Isatis indigotica
+C00007223 : Arabidopsis thaliana
+C00007224 : Arabidopsis thaliana
+C00007226 : Arabidopsis thaliana
+C00007227 : Arabidopsis thaliana
+C00007228 : Arabidopsis thaliana
+C00007229 : Arabidopsis thaliana
+C00007230 : Arabidopsis thaliana
+C00007231 : Arabidopsis thaliana
+C00007232 : Arabidopsis thaliana
+C00007233 : Arabidopsis thaliana
+C00007234 : Arabidopsis thaliana||Brassica carinata Y line
+C00007235 : Arabidopsis thaliana
+C00007236 : Arabidopsis thaliana
+C00007237 : Arabidopsis thaliana
+C00007238 : Arabidopsis thaliana
+C00007239 : Arabidopsis thaliana
+C00007240 : Arabidopsis thaliana
+C00007241 : Arabidopsis thaliana
+C00007242 : Arabidopsis thaliana
+C00007243 : Arabidopsis thaliana
+C00007244 : Arabidopsis thaliana
+C00007245 : Arabidopsis thaliana
+C00007246 : Arabidopsis thaliana
+C00007247 : Arabidopsis thaliana||Lepidium meyenii Maca
+C00007248 : Arabidopsis thaliana
+C00007249 : Arabidopsis thaliana
+C00007250 : Arabidopsis thaliana
+C00007251 : Arabidopsis thaliana
+C00007252 : Arabidopsis thaliana
+C00007253 : Arabidopsis thaliana
+C00007254 : Raphanus sativus
+C00007255 : Arabidopsis thaliana
+C00007256 : Arabidopsis thaliana
+C00007257 : Arabidopsis thaliana
+C00007258 : Arabidopsis thaliana
+C00007259 : Arabidopsis thaliana
+C00007260 : Arabidopsis thaliana
+C00007261 : Arabidopsis thaliana
+C00007262 : Arabidopsis thaliana
+C00007264 : Arabidopsis thaliana
+C00007265 : Arabidopsis thaliana
+C00007266 : Arabidopsis thaliana
+C00007267 : Arabidopsis thaliana
+C00007268 : Arabidopsis thaliana
+C00007269 : Arabidopsis thaliana
+C00007270 : Arabidopsis thaliana
+C00007271 : Arabidopsis thaliana
+C00007272 : Arabidopsis thaliana
+C00007273 : Arabidopsis thaliana
+C00007274 : Arabidopsis thaliana
+C00007275 : Arabidopsis thaliana
+C00007276 : Arabidopsis thaliana
+C00007277 : Arabidopsis thaliana
+C00007278 : Arabidopsis thaliana
+C00007279 : Arabidopsis thaliana
+C00007280 : Arabidopsis thaliana
+C00007281 : Arabidopsis thaliana
+C00007282 : Arabidopsis thaliana
+C00007283 : Arabidopsis thaliana
+C00007284 : Arabidopsis thaliana
+C00007285 : Arabidopsis thaliana
+C00007286 : Arabidopsis thaliana
+C00007287 : Arabidopsis thaliana
+C00007288 : Arabidopsis thaliana
+C00007289 : Arabidopsis thaliana
+C00007290 : Arabidopsis thaliana
+C00007292 : Arabidopsis thaliana
+C00007293 : Arabidopsis thaliana
+C00007294 : Arabidopsis thaliana
+C00007295 : Arabidopsis thaliana
+C00007296 : Arabidopsis thaliana
+C00007297 : Arabidopsis thaliana
+C00007298 : Arabidopsis thaliana
+C00007299 : Arabidopsis thaliana
+C00007300 : Arabidopsis thaliana
+C00007301 : Arabidopsis thaliana
+C00007302 : Arabidopsis thaliana
+C00007303 : Arabidopsis thaliana
+C00007304 : Arabidopsis thaliana
+C00007305 : Arabidopsis thaliana
+C00007306 : Arabidopsis thaliana
+C00007307 : Arabidopsis thaliana
+C00007308 : Arabidopsis thaliana
+C00007309 : Arabidopsis thaliana
+C00007310 : Arabidopsis thaliana
+C00007311 : Arabidopsis thaliana
+C00007312 : Arabidopsis thaliana
+C00007313 : Arabidopsis thaliana
+C00007314 : Arabidopsis thaliana
+C00007315 : Arabidopsis thaliana
+C00007316 : Arabidopsis thaliana
+C00007320 : Arabidopsis thaliana
+C00007321 : Arabidopsis thaliana
+C00007322 : Arabidopsis thaliana
+C00007323 : Arabidopsis thaliana
+C00007324 : Arabidopsis thaliana
+C00007325 : Arabidopsis thaliana
+C00007327 : Arabidopsis thaliana
+C00007329 : Arabidopsis thaliana||Brassica rapa||Thellungiella halophila
+C00007330 : Arabidopsis thaliana||Arabis lyrata||Camelina sativa
+C00007334 : Arabidopsis thaliana
+C00007335 : Arabidopsis thaliana
+C00007336 : Arabidopsis thaliana
+C00007337 : Arabidopsis thaliana
+C00007338 : Arabidopsis thaliana
+C00007339 : Arabidopsis thaliana
+C00007340 : Arabidopsis thaliana||Erysimum hieracifolium||Teesdalia nudicaulis||Thlaspi alpestre
+C00007341 : Arabidopsis thaliana
+C00007342 : Arabidopsis thaliana
+C00007343 : Aethionema armenum||Alyssum constellatum||Alyssum peltarioides||Alyssum sibiricum||Anastatica hierochuntica||Arabidopsis thaliana||Armoracia lapathifolia||Aurinia saxatilis||Brassica napus var. rapifera||Brassica oleracea||Brassica rapa||Brassica sprouts||Cakile edentula||Cakile maritima||Calepina irregularis||Chorispora tenella||Erucastrum strigosum||Erysimum asperum||Erysimum capitatum||Erysimum cuspidatum||Erysimum diffusum||Erysimum hieracifolium||Erysimum linifolium||Erysimum odoratum||Erysimum repandum||Erysimum sisymbrioides||Erysimum sylvestre||Farsetia clypeata||Iberis amara||Iberis crenata||Iberis linifolia||Iberis simplex||Iberis umbellata||Malcolmia africana||Neslia paniculata||Physaria argyraea||Physaria fendleri||Rapistrum rugosum||Sinapis arvensis||Sisymbrium incanum||Teesdalia nudicaulis||Thlaspi arvense||Thysanocarpus radians
+C00007344 : Alyssoides utriculata||Alyssum argenteum||Alyssum chondrogynum||Alyssum tortuosum||Arabidopsis thaliana||Armoracia lapathifolia||Aurinia saxatilis||Brassica campestris ssp. rapifera||Brassica oleracea||Brassica oleracea var. capitata||Brassica oleracea var. napobrassica||Brassica rapa||Brassica sprouts||Cakile constricta||Cakile edentula||Cakile geniculata||Cakile lanceolata||Cakile maritima||Camelina sativa||Capsella bursa-pastoris||Carrichtera annua||Chorispora tenella||Diplotaxis erucoides||Diplotaxis griffithii||Diplotaxis tenuifolia||Diplotaxis viminea||Draba aizoides||Eruca longirostris||Eruca sativa||Erysimum allionii||Erysimum cheiranthoides||Erysimum hieracifolium||Erysimum perofskianum||Erysimum repandum||Farsetia clypeata||Farsetia jacquemontii||Farsetia ramosissima||Hesperis matronalis||Iberis amara||Iberis sempervirens||Lepidium draba||Lepidium iberis||Lepidium perfoliatum||Matthiola bicornis||Matthiola fruticulosa||Physaria angustifolia||Pringlea antiscorbutica||Sinapis alba||Thelypodium crispum||Thelypodium eucosmum||Thelypodium laciniatum
+C00007345 : Alyssum alyssoides||Alyssum argenteum||Alyssum bertolonii||Alyssum granatense||Alyssum minus||Alyssum minutum||Alyssum murale||Alyssum spp.||Alyssum tortuosum||Arabidopsis thaliana||Aurinia saxatilis||Boechera drummondii||Bornmuellera dieckii||Brassica campestris ssp. rapifera||Brassica campestris var. chinensis||Brassica rapa||Carrichtera annua||Dimorphocarpa wislizenii||Erysimum asperum||Erysimum hieracifolium||Erysimum rhaeticum||Farsetia clypeata||Guillenia lasiophylla||Hesperis matronalis||Lunaria annua||Malcolmia africana||Matthiola bicornis||Nerisyrenia camporum||Physaria floribunda||Thelypodium brachycarpum||Thelypodium crispum||Thelypodium laciniatum||Thelypodium repandum||Thelypodium wrightii
+C00007346 : Alliaria petiolata||Arabidopsis thaliana||Armoracia lapathifolia||Biscutella didyma||Boechera drummondii||Cakile edentula||Capsella cordifolia||Cardamine flexuosa||Cardamine hirsuta||Cardamine impatiens||Coronopus didymus||Descurainia richardsonii||Diplotaxis erucoides||Diplotaxis virgata||Erophila verna||Farsetia clypeata||Lepidium apetalum||Lepidium austrinum||Lepidium densiflorum||Lepidium graminifolium||Lepidium hyssopifolium||Lepidium lasiocarpum||Lepidium meyenii||Lepidium montanum||Lepidium perfoliatum||Lepidium pinnatifidum||Lepidium ruderale||Lepidium sativum||Lepidium subulatum||Lepidium thurberi||Lepidium vesicarium||Lepidium virginicum||Lobularia maritima||Moricandia arvensis||Nasturtium officinale||Pringlea antiscorbutica||Selenia aurea||Sinapis alba||Sisymbrium orientale||Thelypodium brachycarpum||Thelypodium crispum||Thelypodium eucosmum||Thelypodium laciniatum||Thelypodium laxiflorum||Thelypodium milleflorum||Thelypodium rollinsii||Thelypodium stenopetalum||Thelypodium wrightii||Thlaspi arvense
+C00007347 : Arabidopsis thaliana
+C00007348 : Alyssum alyssoides||Alyssum desertorum||Alyssum granatense||Alyssum minutum||Alyssum murale||Arabidopsis thaliana||Arabis glabra||Arabis perennans||Arabis sparsiflora||Boechera drummondii||Boechera holboellii||Bornmuellera dieckii||Christolea crassifolia||Dimorphocarpa wislizenii||Erysimum asperum||Erysimum rhaeticum||Hesperis matronalis||Hesperis pendula||Lepidium draba||Lobularia maritima||Lunaria annua||Malcolmia africana||Matthiola bicornis||Nerisyrenia camporum||Notoceras bicorne||Paysonia densipila||Paysonia stonensis||Physaria floribunda
+C00007349 : Arabidopsis thaliana
+C00007350 : Alyssum tortuosum||Arabidopsis thaliana||Arabis sparsiflora||Armoracia lapathifolia||Barbarea intermedia||Barbarea orthoceras||Barbarea stricta||Barbarea verna||Barbarea vulgaris||Biscutella didyma||Biscutella laevigata||Brassica hirta||Brassica juncea||Brassica nigra||Brassica oleracea||Brassica rapa||Cakile artica||Cakile edentula||Cakile lanceolata||Capsella cordifolia||Cardamine flexuosa||Cardamine hirsuta||Diplotaxis erucoides||Diplotaxis virgata||Erucastrum laevigatum||Farsetia clypeata||Hesperis matronalis||Hirschfeldia incana||Leavenworthia alabamica||Leavenworthia torulosa||Lepidium sativum||Lobularia maritima||Matthiola fruticulosa||Matthiola parviflora||Moricandia arvensis||Nasturtium officinale||Raphanus sativus||Rapistrum rugosum||Rorippa indica||Rorippa nasturtium-aquaticum||Selenia aurea||Selenia grandis||Sibara virginica||Sinapis alba||Sinapis arvensis||Sisymbrium altissimum||Sisymbrium orientale||Teesdalia nudicaulis||Thelypodium laciniatum||Thelypodium laxiflorum||Thelypodium milleflorum||Thelypodium stenopetalum||Thysanocarpus radians
+C00007351 : Arabidopsis thaliana
+C00007352 : Arabidopsis thaliana||Arabis glabra||Arabis sparsiflora||Crucihimalaya wallichii||Nasturtium officinale||Nerisyrenia camporum||Rorippa globosa||Rorippa islandica||Sibara virginica||Sisymbrella aspera
+C00007353 : Alyssum troodi||Arabidopsis thaliana||Arabis glabra||Arabis hirsuta||Arabis kennedyae||Arabis laevigata||Arabis purpurea||Arabis sparsiflora||Crucihimalaya wallichii||Dimorphocarpa wislizenii||Nasturtium officinale||Nerisyrenia camporum||Sibara virginica
+C00007354 : Arabidopsis thaliana
+C00007355 : Arabidopsis thaliana||Arabis amplexicaulis||Arabis hirsuta||Arabis laevigata||Arabis nipponica||Arabis stelleri||Arabis turrita||Biscutella auriculata||Biscutella laevigata||Crucihimalaya wallichii||Lepidium sativum||Nasturtium officinale||Rorippa dubia||Rorippa globosa||Rorippa hilariana||Rorippa indica||Rorippa islandica||Rorippa sylvestris||Sibara virginica||Sisymbrella aspera
+C00007356 : Arabidopsis thaliana||Arabis amplexicaulis||Arabis hirsuta||Arabis laevigata||Arabis nipponica||Arabis stelleri||Arabis turrita||Boechera holboellii||Crucihimalaya wallichii||Nasturtium officinale||Rorippa indica||Rorippa sylvestris||Sibara virginica
+C00007358 : Arabidopsis thaliana
+C00007359 : Arabidopsis thaliana
+C00007360 : Arabidopsis thaliana
+C00007361 : Arabidopsis thaliana
+C00007363 : Arabidopsis thaliana
+C00007364 : Arabidopsis thaliana
+C00007365 : Arabidopsis thaliana
+C00007366 : Arabidopsis thaliana
+C00007367 : Arabidopsis thaliana
+C00007368 : Arabidopsis thaliana
+C00007369 : Arabidopsis thaliana
+C00007370 : Arabidopsis thaliana
+C00007371 : Arabidopsis thaliana
+C00007372 : Arabidopsis thaliana
+C00007373 : Arabidopsis thaliana
+C00007374 : Arabidopsis thaliana
+C00007375 : Arabidopsis thaliana
+C00007376 : Arabidopsis thaliana
+C00007377 : Arabidopsis thaliana
+C00007378 : Arabidopsis thaliana
+C00007379 : Arabidopsis thaliana
+C00007380 : Arabidopsis thaliana
+C00007381 : Arabidopsis thaliana
+C00007382 : Arabidopsis thaliana
+C00007383 : Arabidopsis thaliana
+C00007384 : Arabidopsis thaliana
+C00007385 : Arabidopsis thaliana
+C00007386 : Arabidopsis thaliana
+C00007388 : Arabidopsis thaliana
+C00007389 : Arabidopsis thaliana
+C00007390 : Arabidopsis thaliana
+C00007391 : Arabidopsis thaliana
+C00007392 : Brassica napus
+C00007393 : Arabidopsis thaliana
+C00007394 : Arabidopsis thaliana
+C00007395 : Arabidopsis thaliana
+C00007396 : Arabidopsis thaliana
+C00007397 : Arabidopsis thaliana
+C00007398 : Arabidopsis thaliana
+C00007399 : Arabidopsis thaliana
+C00007400 : Arabidopsis thaliana
+C00007402 : Arabidopsis thaliana
+C00007403 : Arabidopsis thaliana
+C00007404 : Arabidopsis thaliana
+C00007405 : Arabidopsis thaliana
+C00007406 : Arabidopsis thaliana
+C00007407 : Arabidopsis thaliana
+C00007408 : Arabidopsis thaliana
+C00007409 : Arabidopsis thaliana
+C00007410 : Arabidopsis thaliana
+C00007411 : Arabidopsis thaliana
+C00007412 : Arabidopsis thaliana
+C00007413 : Arabidopsis thaliana
+C00007414 : Arabidopsis thaliana
+C00007415 : Arabidopsis thaliana
+C00007416 : Arabidopsis thaliana
+C00007417 : Arabidopsis thaliana
+C00007418 : Arabidopsis thaliana
+C00007419 : Arabidopsis thaliana
+C00007420 : Arabidopsis thaliana
+C00007421 : Arabidopsis thaliana
+C00007422 : Arabidopsis thaliana
+C00007423 : Arabidopsis thaliana||Brassica hirta
+C00007424 : Arabidopsis thaliana
+C00007425 : Arabidopsis thaliana
+C00007426 : Arabidopsis thaliana||Brassica hirta
+C00007427 : Arabidopsis thaliana
+C00007428 : Arabidopsis thaliana
+C00007429 : Arabidopsis thaliana
+C00007430 : Arabidopsis thaliana
+C00007431 : Arabidopsis thaliana
+C00007432 : Arabidopsis thaliana
+C00007433 : Arabidopsis thaliana
+C00007434 : Arabidopsis thaliana
+C00007435 : Arabidopsis thaliana
+C00007436 : Arabidopsis thaliana
+C00007437 : Arabidopsis thaliana
+C00007438 : Arabidopsis thaliana
+C00007439 : Arabidopsis thaliana
+C00007440 : Arabidopsis thaliana
+C00007441 : Arabidopsis thaliana
+C00007442 : Arabidopsis thaliana
+C00007444 : Arabidopsis thaliana
+C00007445 : Arabidopsis thaliana
+C00007446 : Arabidopsis thaliana
+C00007447 : Arabidopsis thaliana
+C00007448 : Arabidopsis thaliana
+C00007449 : Arabidopsis thaliana
+C00007450 : Arabidopsis thaliana
+C00007451 : Arabidopsis thaliana
+C00007454 : Arabidopsis thaliana
+C00007455 : Arabidopsis thaliana
+C00007456 : Arabidopsis thaliana
+C00007457 : Arabidopsis thaliana
+C00007459 : Arabidopsis thaliana
+C00007460 : Arabidopsis thaliana
+C00007462 : Arabidopsis thaliana
+C00007464 : Arabidopsis thaliana
+C00007468 : Arabidopsis thaliana
+C00007469 : Arabidopsis thaliana
+C00007470 : Arabidopsis thaliana
+C00007471 : Arabidopsis thaliana
+C00007474 : Arabidopsis thaliana
+C00007475 : Arabidopsis thaliana
+C00007476 : Arabidopsis thaliana
+C00007477 : Arabidopsis thaliana
+C00007478 : Arabidopsis thaliana
+C00007479 : Arabidopsis thaliana
+C00007480 : Arabidopsis thaliana
+C00007481 : Arabidopsis thaliana
+C00007482 : Arabidopsis thaliana
+C00007483 : Arabidopsis thaliana
+C00007484 : Arabidopsis thaliana
+C00007495 : Arabidopsis thaliana
+C00007497 : Arabidopsis thaliana
+C00007498 : Arabidopsis thaliana
+C00007500 : Arabidopsis thaliana
+C00007501 : Arabidopsis thaliana
+C00007502 : Arabidopsis thaliana
+C00007503 : Arabidopsis thaliana
+C00007504 : Arabidopsis thaliana
+C00007505 : Arabidopsis thaliana
+C00007506 : Arabidopsis thaliana
+C00007507 : Arabidopsis thaliana
+C00007509 : Arabidopsis thaliana
+C00007510 : Arabidopsis thaliana
+C00007511 : Arabidopsis thaliana
+C00007513 : Arabidopsis thaliana
+C00007514 : Arabidopsis thaliana
+C00007515 : Arabidopsis thaliana
+C00007516 : Arabidopsis thaliana
+C00007517 : Arabidopsis thaliana
+C00007518 : Arabidopsis thaliana
+C00007519 : Arabidopsis thaliana
+C00007520 : Arabidopsis thaliana
+C00007521 : Arabidopsis thaliana
+C00007522 : Arabidopsis thaliana
+C00007523 : Arabidopsis thaliana
+C00007524 : Arabidopsis thaliana
+C00007525 : Arabidopsis thaliana
+C00007527 : Arabidopsis thaliana
+C00007528 : Arabidopsis thaliana||Brassica campestris var.pekinensis L.
+C00007529 : Arabidopsis thaliana||Brassica campestris
+C00007530 : Arabidopsis thaliana
+C00007535 : Brassica hirta
+C00007537 : Arabidopsis thaliana
+C00007538 : Arabidopsis thaliana
+C00007539 : Arabidopsis thaliana
+C00007540 : Arabidopsis thaliana
+C00007541 : Arabidopsis thaliana
+C00007542 : Arabidopsis thaliana
+C00007543 : Arabidopsis thaliana
+C00007545 : Alyssoides utriculata||Arabidopsis thaliana||Biscutella didyma||Brassica oleracea||Brassica oleracea var. botrytis||Brassica oleracea var. capitata||Brassica oleracea var. gemmifera||Brassica rapa||Brassica sp.||Brassica sprouts||Bunias orientalis||Cakile edentula||Cakile maritima||Chorispora tenella||Diplotaxis griffithii||Diplotaxis tenuifolia||Eruca longirostris||Erysimum allionii||Erysimum perofskianum||Euzomodendron bourgaeanum||Farsetia clypeata||Farsetia jacquemontii||Fibigia macrocarpa||Isatis djurdjura||Isatis tinctoria||Lepidium austrinum||Lepidium draba||Lepidium perfoliatum||Malcolmia africana||Physaria angustifolia||Physaria floribunda||Pringlea antiscorbutica||Raphanus sativus||Sterigmostemum incanum||Thelypodium crispum
+C00007546 : Arabidopsis thaliana
+C00007547 : Arabidopsis thaliana
+C00007548 : Arabidopsis thaliana
+C00007549 : Arabidopsis thaliana||Raphanus sativus
+C00007550 : Arabidopsis thaliana
+C00007551 : Arabidopsis thaliana
+C00007552 : Arabidopsis thaliana
+C00007553 : Arabidopsis thaliana
+C00007554 : Arabidopsis thaliana
+C00007555 : Arabidopsis thaliana
+C00007556 : Arabidopsis thaliana
+C00007558 : Arabidopsis thaliana
+C00007564 : Arabidopsis thaliana
+C00007566 : Arabidopsis thaliana
+C00007567 : Arabidopsis thaliana
+C00007568 : Brassica oleracea
+C00007569 : Arabidopsis thaliana
+C00007570 : Arabidopsis thaliana
+C00007573 : Arabidopsis thaliana
+C00007574 : Arabidopsis thaliana
+C00007575 : Arabidopsis thaliana
+C00007576 : Arabidopsis thaliana
+C00007577 : Arabidopsis thaliana
+C00007578 : Arabidopsis thaliana
+C00007579 : Arabidopsis thaliana
+C00007580 : Arabidopsis thaliana
+C00007581 : Arabidopsis thaliana
+C00007582 : Arabidopsis thaliana
+C00007583 : Arabidopsis thaliana
+C00007584 : Arabidopsis thaliana
+C00007585 : Arabidopsis thaliana
+C00007586 : Alyssoides utriculata||Alyssum alyssoides||Alyssum maritimum||Alyssum perennial||Arabidopsis thaliana||Armoracia lapathifolia||Aurinia saxatilis||Boreava aptera||Boreava orientalis||Brassica juncea||Brassica napus L.||Brassica nigra||Brassica oleracea||Brassica rapa||Brassica spp.||Brassica sprouts||Cakile artica||Cakile constricta||Cakile edentula||Cakile geniculata||Cakile lanceolata||Cakile maritima||Cardamine flexuosa||Cardamine hirsuta||Cardamine impatiens||Carrichtera annua||Chorispora purpurascens||Coincya longirostra||Coincya monensis||Coincya rupestris||Conringia orientalis||Conringia planisiliqua||Crambe filiformis||Crambe juncea||Crambe koktebelica||Crambe maritima||Crambe orientalis||Crucihimalaya wallichii||Descurainia appendiculata||Descurainia pinnata||Descurainia richardsonii||Descurainia sophia||Diplotaxis catholica||Diplotaxis erucoides||Diplotaxis siifolia||Diplotaxis virgata||Draba nemorosa||Eruca longirostris||Erucastrum gallicum||Erucastrum laevigatum||Farsetia clypeata||Farsetia jacquemontii||Farsetia ramosissima||Fibigia macrocarpa||Hesperis matronalis||Hirschfeldia incana||Iberis amara||Iberis crenata||Isatis aleppica||Isatis cappadocica||Isatis costata||Isatis djurdjura||Isatis glauca||Isatis iberica||Isatis tinctoria||Lepidium draba||Lepidium subulatum||Lobularia maritima||Moricandia arvensis||Notoceras bicorne||Peltaria alliaceae||Peltaria angustifolia||Pringlea antiscorbutica||Rapistrum rugosum||Rorippa hilariana||Rorippa islandica||Schimpera arabica||Schouwia purpurea||Sinapis alba||Sinapis arvensis||Sisymbrella aspera||Sisymbrium altissimum||Sisymbrium orientale||Sisymbrium pinnata||Sterigmostemum incanum||Streptanthus arizonicus||Thelypodium brachycarpum||Thelypodium crispum||Thelypodium eucosmum||Thelypodium howellii||Thelypodium laciniatum||Thelypodium laxiflorum||Thelypodium paniculatum||Thelypodium rollinsii||Thelypodium texanum||Thelypodium wrightii
+C00007590 : Arabidopsis thaliana
+C00007591 : Arabidopsis thaliana
+C00007592 : Arabidopsis thaliana
+C00007593 : Alyssum alyssoides||Alyssum argenteum||Alyssum bertolonii||Alyssum chondrogynum||Alyssum granatense||Alyssum minus||Alyssum minutum||Alyssum tortuosum||Alyssum troodi||Arabidopsis thaliana||Arabis sparsiflora||Armoracia lapathifolia||Aurinia saxatilis||Berteroa incana||Bornmuellera dieckii||Brassica napus var. napobrassica||Brassica pekinensis||Cakile artica||Cakile constricta||Cakile edentula||Cakile lanceolata||Cakile maritima||Carrichtera annua||Descurainia richardsonii||Dimorphocarpa wislizenii||Erysimum asperum||Erysimum hieracifolium||Erysimum rhaeticum||Farsetia clypeata||Guillenia lasiophylla||Hesperis matronalis||Lepidium perfoliatum||Lunaria annua||Nerisyrenia camporum||Notoceras bicorne||Raphanus sativus||Synthlipsis greggii||Thelypodium crispum||Thelypodium laciniatum
+C00007594 : Arabidopsis thaliana
+C00007595 : Arabidopsis thaliana
+C00007596 : Arabidopsis thaliana
+C00007597 : Arabidopsis thaliana
+C00007598 : Arabidopsis thaliana
+C00007600 : Arabidopsis thaliana
+C00007601 : Arabidopsis thaliana
+C00007602 : Arabidopsis thaliana
+C00007603 : Arabidopsis thaliana
+C00007604 : Arabidopsis thaliana
+C00007605 : Arabidopsis thaliana
+C00007606 : Arabidopsis thaliana
+C00007608 : Brassica napus
+C00007609 : Brassica napus
+C00007610 : Brassica napus
+C00007611 : Arabidopsis thaliana
+C00007614 : Arabidopsis thaliana
+C00007615 : Arabidopsis thaliana
+C00007616 : Arabidopsis thaliana
+C00007617 : Arabidopsis thaliana
+C00007619 : Arabidopsis thaliana
+C00007620 : Arabidopsis thaliana
+C00007621 : Arabidopsis thaliana
+C00007622 : Arabidopsis thaliana
+C00007623 : Arabidopsis thaliana
+C00007624 : Arabidopsis thaliana
+C00007625 : Arabidopsis thaliana
+C00007626 : Arabidopsis thaliana
+C00007627 : Arabidopsis thaliana
+C00007630 : Arabidopsis thaliana
+C00007637 : Arabidopsis thaliana
+C00007640 : Arabidopsis thaliana
+C00007641 : Arabidopsis thaliana
+C00007642 : Arabidopsis thaliana
+C00007643 : Arabidopsis thaliana
+C00007644 : Arabidopsis thaliana
+C00007645 : Arabidopsis thaliana
+C00007646 : Arabidopsis thaliana
+C00007647 : Arabidopsis thaliana
+C00007648 : Arabidopsis thaliana
+C00007649 : Arabidopsis thaliana
+C00007650 : Arabidopsis thaliana
+C00007651 : Arabidopsis thaliana
+C00007652 : Arabidopsis thaliana
+C00007653 : Arabidopsis thaliana
+C00007654 : Arabidopsis thaliana
+C00007655 : Arabidopsis thaliana
+C00007656 : Arabidopsis thaliana
+C00007657 : Arabidopsis thaliana
+C00007658 : Arabidopsis thaliana
+C00007659 : Arabidopsis thaliana
+C00007660 : Arabidopsis thaliana
+C00007661 : Arabidopsis thaliana
+C00007662 : Arabidopsis thaliana
+C00007663 : Arabidopsis thaliana
+C00007664 : Arabidopsis thaliana
+C00007665 : Arabidopsis thaliana
+C00007666 : Arabidopsis thaliana
+C00007667 : Arabidopsis thaliana
+C00007668 : Arabidopsis thaliana
+C00007669 : Arabidopsis thaliana
+C00007670 : Arabidopsis thaliana
+C00007671 : Arabidopsis thaliana
+C00007672 : Arabidopsis thaliana
+C00007673 : Arabidopsis thaliana
+C00007674 : Arabidopsis thaliana||Hesperis matronalis
+C00007675 : Arabidopsis thaliana
+C00007676 : Arabidopsis thaliana
+C00007677 : Arabidopsis thaliana
+C00007788 : Erysimum ochrolecum||Erysimum odoratum||Erysimum rupestre
+C00007791 : Moricandia arvensis
+C00007793 : Sisymbrium austriacum
+C00007794 : Erysimum asperum
+C00007795 : Sisymbrium austriacum
+C00007796 : Armoracia lapathifolia||Brassica oleracea||Lepidium draba
+C00007797 : Hesperis matronalis
+C00007798 : Heliophila longifolia||Lepidium graminifolium||Lepidium vesicarium||Matthiola sinuata
+C00007799 : Sisymbrium confertum||Sisymbrium loesilii||Sisymbrium polyceratium
+C00007801 : Armoracia lapathifolia||Raphanus sativus
+C00007802 : Raphanus sativus
+C00007804 : Lepidium graminifolium||Lepidium vesicarium
+C00007805 : Alyssoides utriculata||Alyssum dasycarpum||Alyssum desertorum||Arabis amplexicaulis||Arabis glabra||Arabis hirsuta||Arabis nipponica||Arabis stelleri||Barbarea verna||Biscutella laevigata||Boreava aptera||Boreava orientalis||Bornmuellera dieckii||Brassica||Bunias orientalis||Cakile maritima||Capsella bursa-pastoris||Cardamine hirsuta||Chorispora purpurascens||Coincya longirostra||Coincya monensis||Coincya rupestris||Coincya transtagana||Conringia planisiliqua||Coronopus squamatus||Crambe abyssinica||Crambe filiformis||Crambe juncea||Crambe koktebelica||Crambe maritima||Crambe orientalis||Crambe tataria||Descurainia sophia||Diplotaxis crassifolia||Diplotaxis erucoides||Diplotaxis griffithii||Diplotaxis siifolia||Diplotaxis viminea||Enarthrocarpus strangulatus||Erophila verna||Erucaria hispanica||Erucastrum laevigatum||Erucastrum nasturtiifolium||Erucastrum strigosum||Erysimum asperum||Erysimum sisymbrioides||Farsetia jacquemontii||Goldbachia laevigata||Heliophila amplexicaulis||Heliophila longifolia||Hesperis matronalis||Hesperis pendula||Hirschfeldia incana||Isatis cappadocica||Isatis costata||Isatis glauca||Isatis iberica||Isatis tinctoria||Leavenworthia alabamica||Lepidium austrinum||Lepidium campestre||Lepidium densiflorum||Lepidium draba||Lepidium graminifolium||Lepidium lasiocarpum||Lepidium montanum||Lepidium sativum||Lepidium subulatum||Lepidium virginicum||Malcolmia africana||Matthiola parviflora||Moricandia baetica||Nasturtium officinale||Peltaria angustifolia||Physaria argyraea||Raphanus sativus||Rapistrum rugosum||Rorippa dubia||Rorippa globosa||Rorippa hilariana||Rorippa islandica||Rytidocarpus moricandioides||Savignya parvifloria||Schimpera arabica||Selenia grandis||Sibara virginica||Sinapis alba||Sinapis arvensis||Sisymbrella aspera||Sisymbrium altissimum||Sisymbrium crassifolium||Sisymbrium gariepinum||Sisymbrium officinale||Sisymbrium orientale||Sterigmostemum incanum||Thlaspi alpestre||Thlaspi perfoliatum||Thlaspi qvalanum||Thysanocarpus radians||Zilla spinosa
+C00007806 : Armoracia lapathifolia
+C00007808 : Capsella cordifolia||Thelypodium stenopetalum
+C00007809 : Erysimum rhaeticum
+C00007810 : Erysimum asperum||Erysimum hieracifolium
+C00007811 : Erysimum rhaeticum
+C00007812 : Erysimum asperum||Erysimum hieracifolium
+C00007813 : Erysimum rhaeticum
+C00007814 : Armoracia lapathifolia||Erysimum asperum||Erysimum hieracifolium||Erysimum rhaeticum
+C00007815 : Armoracia lapathifolia
+C00007816 : Barbarea orthoceras||Barbarea vulgaris||Selenia aurea||Sibara virginica
+C00007817 : Armoracia lapathifolia
+C00007818 : Armoracia lapathifolia||Lepidium graminifolium
+C00007819 : Lepidium austrinum||Lepidium perfoliatum||Lepidium subulatum||Lepidium thurberi||Lepidium vesicarium
+C00007820 : Lepidium bonariense
+C00007822 : Arabis amplexicaulis||Arabis hirsuta||Arabis nipponica||Arabis stelleri
+C00007823 : Farsetia clypeata
+C00007824 : Armoracia lapathifolia||Cardamine amara||Cardamine pratensis||Cochlearia anglica||Cochlearia danica||Cochlearia officinalis||Lunaria annua
+C00007825 : Armoracia lapathifolia
+C00007826 : Boechera drummondii||Capsella cordifolia||Leavenworthia alabamica||Sisymbrium altissimum||Sisymbrium austriacum||Sisymbrium crassifolium||Sisymbrium loesilii||Sisymbrium polyceratium||Thelypodium stenopetalum
+C00007827 : Raphanus sativus
+C00007828 : Raphanus sativus
+C00007829 : Peltaria alliaceae
+C00007830 : Armoracia lapathifolia||Boechera drummondii||Brassica oleracea||Capsella cordifolia||Conringia orientalis||Descurainia richardsonii||Thelypodium laciniatum||Thelypodium milleflorum
+C00007831 : Arabis alpina||Camelina microcarpa||Camelina rumelica||Camelina sativa||Capsella bursa-pastoris||Neslia paniculata
+C00007832 : Alyssum desertorum||Arabis alpina||Arabis amplexicaulis||Arabis turrita||Biscutella auriculata||Biscutella laevigata||Camelina rumelica||Camelina sativa||Capsella bursa-pastoris||Draba nemorosa||Neslia paniculata||Rorippa dubia||Rorippa globosa
+C00007833 : Arabis hirsuta
+C00007834 : Camelina microcarpa||Camelina rumelica||Neslia paniculata
+C00007835 : Raphanus sativus
+C00007836 : Arabis turrita
+C00007837 : Boechera drummondii||Erysimum rhaeticum
+C00007838 : Arabis turrita||Heliophila amplexicaulis||Sinapis arvensis
+C00007839 : Arabis turrita||Heliophila amplexicaulis||Sinapis arvensis
+C00007840 : Cakile maritima||Erysimum rhaeticum
+C00007841 : Matthiola bicornis||Matthiola fruticulosa||Matthiola parviflora||Raphanus raphanistrum||Raphanus sativus||Rapistrum rugosum
+C00007842 : Arabis amplexicaulis
+C00007843 : Armoracia lapathifolia
+C00007844 : Alyssum alyssoides||Alyssum granatense||Alyssum minutum||Alyssum troodi||Arabidopsis thaliana||Arabis glabra||Arabis kennedyae||Arabis sparsiflora||Armoracia lapathifolia||Boechera drummondii||Cakile maritima||Christolea crassifolia||Dimorphocarpa wislizenii||Erysimum asperum||Erysimum rhaeticum||Lepidium draba||Lobularia maritima||Nerisyrenia camporum||Notoceras bicorne||Paysonia densipila||Paysonia stonensis
+C00007845 : Arabis alpina||Arabis amplexicaulis||Arabis hirsuta||Arabis purpurea||Nasturtium officinale
+C00007846 : Erysimum asperum
+C00007847 : Arabis hirsuta
+C00007851 : Erysimum allionii
+C00007852 : Malcolmia africana
+C00007853 : Armoracia lapathifolia||Raphanus sativus
+C00007854 : Armoracia lapathifolia
+C00007855 : Armoracia lapathifolia
+C00007856 : Armoracia lapathifolia
+C00007861 : Isatis tinctoria
+C00007863 : Coronopus squamatus||Lepidium graminifolium||Lepidium hyssopifolium||Lepidium sordidum
+C00007864 : Alyssum dasycarpum||Alyssum granatense||Alyssum minutum||Boreava orientalis||Brassica oleracea||Brassica rapa||Capsella bursa-pastoris||Chorispora purpurascens||Coincya longirostra||Coincya monensis||Coincya rupestris||Coincya transtagana||Conringia orientalis||Crambe abyssinica||Crambe cordifolia||Crambe filiformis||Crambe juncea||Crambe koktebelica||Crambe maritima||Crambe orientalis||Crambe tataria||Descurainia pinnata||Diplotaxis virgata||Enarthrocarpus strangulatus||Erucaria hispanica||Fibigia macrocarpa||Hesperis matronalis||Hirschfeldia incana||Isatis cappadocica||Isatis costata||Isatis djurdjura||Isatis tinctoria||Lepidium sativum||Moricandia arvensis||Moricandia baetica||Moricandia foetida||Moricandia moricandioides||Notoceras bicorne||Peltaria alliaceae||Rytidocarpus moricandioides||Schouwia purpurea||Selenia grandis||Sinapis alba||Sinapis arvensis||Sisymbrium altissimum||Sisymbrium gariepinum||Sisymbrium irio||Sisymbrium orientale||Sisymbrium pinnata||Thelypodium flexuosum||Thelypodium integrifolium||Thelypodium repandum||Thelypodium wrightii||Zilla spinosa
+C00007874 : Matthiola incana||Raphanus sativus
+C00007875 : Raphanus sativus
+C00008674 : Matthiola incana
+C00008991 : Matthiola incana
+C00009380 : Arabidopsis thaliana
+C00011400 : Hesperis matronalis
+C00013591 : Crambe cordifolia
+C00013592 : Arabidopsis thaliana
+C00013753 : Brassica juncea
+C00013766 : Brassica oleracea
+C00013783 : Rorippa indica
+C00013805 : Brassica oleracea
+C00013814 : Cadaba glandulosa
+C00013856 : Eruca sativa
+C00013890 : Carrichtera annua
+C00013892 : Eruca sativa
+C00014025 : Raphanus sativus
+C00014040 : Alliaria petiolata
+C00014272 : Anastatica hierochuntica
+C00014273 : Anastatica hierochuntica
+C00014833 : Raphanus sativus
+C00014834 : Raphanus sativus
+C00014835 : Raphanus sativus
+C00014836 : Raphanus sativus
+C00014837 : Raphanus sativus
+C00014838 : Raphanus sativus
+C00014839 : Raphanus sativus
+C00014840 : Raphanus sativus
+C00014841 : Raphanus sativus
+C00019221 : Hesperis matronalis
+C00020065 : Brassica hirta
+C00020154 : Brassica hirta
+C00022165 : Hesperis matronalis
+C00023769 : Isatis indigotica
+C00024665 : Arabidopsis thaliana
+C00024666 : Arabidopsis thaliana
+C00026237 : Isatis indigotica
+C00026586 : Brassica napus L.ssp.rapifera||Brassica napus spp.rapifera||Brassica oleracea var.botrytis
+C00026587 : Brassica napus L.ssp.rapifera||Brassica napus spp.rapifera
+C00026588 : Brassica napus L.ssp.rapifera||Brassica napus spp.rapifera||Brassica rapa
+C00026890 : Thellungiella halophila ecotype Shandong
+C00026891 : Thellungiella halophila ecotype Shandong
+C00026981 : Isatis indigotica
+C00026982 : Isatis indigotica
+C00026991 : Isatis tinctoria L
+C00026992 : Isatis tinctoria L
+C00026993 : Isatis tinctoria L
+C00026994 : Sinapis alba
+C00026995 : Brassica carinata||Brassica napus L.ssp.rapifera||Brassica oleracea var.botrytis||Brassica rapa||Raphanus sativus||Raphanus sativus subsp. longipinnatu
+C00027106 : Brassica campestris L.subsp.pekinensis.||Brassica napa||Brassica napus L.ssp.rapifera||Brassica oleracea||Brassica rapa||Brassica sativus
+C00027107 : Brassica campestris ssp.Pekinensis||Brassica napus L.ssp.rapifera||Brassica oleracea||Brassica rapa||Raphanus sativus
+C00027108 : Brassica carinata||Brassica juncea||Brassica napus L.ssp.rapifera||Brassica nigra||Brassica oleracea||Brassica rapa||Sinapis arvensis
+C00028459 : Lepidium satisvum||Lepidium sativum
+C00028460 : Lepidium satisvum||Lepidium sativum
+C00028461 : Lepidium satisvum||Lepidium sativum
+C00028462 : Lepidium satisvum||Lepidium sativum
+C00028463 : Lepidium satisvum||Lepidium sativum
+C00028987 : Lepidium satisvum||Lepidium sativum
+C00028988 : Lepidium satisvum||Lepidium sativum
+C00029316 : Brassica hirta
+C00029334 : Brassica hirta
+C00029371 : Brassica hirta
+C00029422 : Arabidopsis thaliana
+C00029432 : Brassica hirta
+C00029449 : Brassica hirta
+C00029456 : Brassica hirta
+C00029532 : Brassica alba||Brassica hirta
+C00029559 : Arabidopsis thaliana
+C00029580 : Brassica hirta
+C00029593 : Brassica napus
+C00029633 : Isatis tinctoria
+C00029643 : Brassica olereacea
+C00029674 : Hesperis matronalis
+C00029809 : Brassica hirta||Brassica napus||Nasturtium officinale
+C00029811 : Hesperis matronalis
+C00030100 : Brassica hirta
+C00030223 : Brassica hirta
+C00030331 : Brassica hirta
+C00030471 : Brassica hirta
+C00030478 : Brassica hirta
+C00030540 : Brassica hirta
+C00030755 : Brassica hirta
+C00030757 : Brassica hirta
+C00030760 : Brassica hirta
+C00030767 : Brassica rapa||Hesperis matronalis
+C00030829 : Brassica hirta
+C00030830 : Brassica hirta
+C00030878 : Brassica hirta
+C00030958 : Brassica hirta
+C00031258 : Hesperis matronalis
+C00031273 : Brassica rapa
+C00031285 : Brassica hirta
+C00031383 : Descurainia sophia
+C00031731 : Descurainia sophia
+C00031732 : Descurainia sophia
+C00031733 : Descurainia sophia
+C00032165 : Arabidopsis thaliana
+C00032213 : Descurainia sophia||Erysimum cheiranthoides
+C00032307 : Brassica hirta
+C00032443 : Brassica hirta
+C00032761 : Brassica juncea||Descurainia sophia||Lepidium apetalum||Lepidium meyenii Maca||Lepidium sativum||Lepidium sativumt
+C00032810 : Erysimum cheiranthoides
+C00032811 : Erysimum cheiranthoides
+C00033745 : Brassica campestris ssp.Pekinensis||Brassica carinata||Brassica juncea||Brassica napus||Brassica nigra||Brassica oleracea||Brassica rapa
+C00033848 : Arabidopsis thaliana
+C00033849 : Arabidopsis thaliana
+C00034027 : Arabidopsis thaliana
+C00034053 : Thellungiella halophila ecotype Shandong
+C00034175 : Arabidopsis thaliana
+C00034176 : Arabidopsis thaliana
+C00034177 : Arabidopsis thaliana
+C00034185 : Arabidopsis thaliana
+C00034193 : Arabidopsis thaliana||Brassica rapa||Thellungiella halophila ecotype Shandong
+C00034194 : Brassica rapa
+C00034198 : Arabidopsis thaliana
+C00034232 : Brassica oleracea botrytis||Brassica oleracea capitata
+C00034325 : Arabidopsis thaliana
+C00034327 : Arabidopsis thaliana
+C00034328 : Brassica carinata B line||Brassica carinata Y line
+C00034452 : Hesperis matronalis
+C00034453 : Hesperis matronalis
+C00034495 : Hesperis matronalis
+C00034496 : Hesperis matronalis
+C00034600 : Hesperis matronalis
+C00034649 : Arabidopsis thaliana
+C00034746 : Hesperis matronalis
+C00034747 : Hesperis matronalis
+C00034922 : Brassica campestris ssp.pekinensis||Brassica oleracea var.botrytis||Brassica rapa||Brassica sativus
+C00034933 : Brassica oleracea var.botrytis
+C00034997 : Arabidopsis thaliana
+C00034998 : Arabidopsis thaliana
+C00035004 : Arabidopsis thaliana
+C00035005 : Arabidopsis thaliana
+C00035006 : Arabidopsis thaliana
+C00035007 : Arabidopsis thaliana
+C00035008 : Arabidopsis thaliana
+C00035010 : Arabidopsis thaliana
+C00035013 : Arabidopsis thaliana
+C00035087 : Arabidopsis thaliana
+C00035094 : Arabidopsis thaliana
+C00035114 : Arabidopsis thaliana
+C00035141 : Brassica oleracea var.gemmintera
+C00035628 : Brassica napobrassica||Camelina sativa
+C00035776 : Isatis tinctoria
+C00035777 : Isatis tinctoria
+C00036258 : Raphanus sativus L.
+C00036260 : Arabidopsis thaliana (L.) Heynh.
+C00036440 : Brassica oleracea||Raphanus sativus
+C00036441 : Raphanus sativus
+C00036521 : Raphanus sativus
+C00036582 : Eruca sativa L.
+C00036583 : Brassica oleracea||Brassica rapa
+C00036628 : Camelina sativa||Capsella bursa-pastoris||Capsella sativa
+C00036837 : Brassica campestris ssp.Pekinensis||Brassica campestris ssp.pekinensis||Brassica rapa
+C00036838 : Arabidopsis thaliana||Arabis lyrata||Brassica sativus||Capsella bursa-pastoris||Raphanus sativus var.hortensis
+C00036981 : Brassica oleracea
+C00037032 : Arabidopsis thaliana cv.Columbia
+C00037061 : Brassica oleracea
+C00037457 : Lepidium meyenii
+C00037823 : Sinapis alba
+C00037824 : Sinapis alba
+C00040916 : Erysimum chelranthoides
+C00040917 : Erysimum chelranthoides
+C00041598 : Brassica sp.
+C00042234 : Arabidopsis thaliana
+C00042235 : Arabidopsis thaliana
+C00042236 : Arabidopsis thaliana
+C00042237 : Arabidopsis thaliana
+C00042287 : Isatis indigotica||Isatis tinctoria
+C00042747 : Moricandia arvensis
+C00044171 : Matthiola incana||Raphanus sativus
+C00044861 : Lepidium meyenii
+C00044862 : Lepidium meyenii
+C00046040 : Isatis indigotica
+C00048293 : Isatis tinctoria
+C00048303 : Isatis tinctoria
+C00048361 : Isatis tinctoria
+C00048436 : Isatis tinctoria
+C00048487 : Brassica spp.||Thellungiella halophila
+C00048505 : Isatis tinctoria
+C00050239 : Brassica oleracea||Lepidium draba
+C00050586 : Erysimum perofskianum||Lepidium draba
+C00050683 : Isatis indigotica
+C00050711 : Brassica oleracea var.capitata
+C00050712 : Armoracia lapathifolia||Brassica juncea
+C00050823 : Isatis indigotica
+C00050824 : Isatis indigotica
+C00050852 : Isatis indigotica
+C00050853 : Isatis indigotica
+C00050983 : Brassica juncea
+C00051547 : Brassica napus var.napobrassica||Thlaspi arvense
+C00051564 : Brassica juncea
+C00051985 : Isatis indigotica||Raphanus sativus
+C00052006 : Isatis indigotica||Raphanus sativus

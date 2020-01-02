@@ -1,0 +1,524 @@
+C00001557 | Amaryllis  belladonna hybrid
+C00001561 | Amaryllis  belladonna
+C00001562 | Amaryllis  belladonna hybrid
+C00001565 | Amaryllis  belladonna
+C00001576 | Amaryllis  belladona
+C00024364 | Amaryllis  belladonna L.
+C00024440 | Amaryllis  belladonna L.
+C00027615 | Amaryllis  belladonna
+C00050501 | Amaryllis  belladonna
+C00001557 | Ammocharis  coranica
+C00001561 | Ammocharis  tinneana
+C00001565 | Ammocharis  coranica
+C00001569 | Ammocharis  coranica
+C00001576 | Ammocharis  coranica
+C00001576 | Ammocharis  tinneana
+C00024348 | Ammocharis  tinneana
+C00024351 | Ammocharis  coranica
+C00024370 | Ammocharis  coranica
+C00024371 | Ammocharis  tinneana
+C00024382 | Ammocharis  tinneana
+C00024384 | Ammocharis  tinneana
+C00024394 | Ammocharis  coranica
+C00024395 | Ammocharis  coranica
+C00024429 | Ammocharis  tinneana
+C00024437 | Ammocharis  tinneana
+C00024440 | Ammocharis  tinneana
+C00025308 | Ammocharis  tinneana
+C00027662 | Ammocharis  tinneana
+C00027716 | Ammocharis  coranica
+C00027766 | Ammocharis  coranica
+C00027767 | Ammocharis  tinneana
+C00027991 | Ammocharis  tinneana
+C00049074 | Ammocharis  coranica
+C00001558 | Boophone  disticha
+C00024371 | Boophone  disticha
+C00001560 | Brunsvigia  rosea
+C00001561 | Brunsvigia  josephinae
+C00001561 | Brunsvigia  littoralis
+C00001561 | Brunsvigia  rosea
+C00001563 | Brunsvigia  cooperi
+C00001569 | Brunsvigia  josephinae
+C00001569 | Brunsvigia  radulosa
+C00001576 | Brunsvigia  littoralis
+C00001576 | Brunsvigia  radulosa
+C00024349 | Brunsvigia  littoralis
+C00024354 | Brunsvigia  josephinae
+C00024370 | Brunsvigia  josephinae
+C00024370 | Brunsvigia  radulosa
+C00024371 | Brunsvigia  josephinae
+C00024372 | Brunsvigia  radulosa
+C00024382 | Brunsvigia  gregaria
+C00024384 | Brunsvigia  gregaria
+C00024384 | Brunsvigia  josephinae
+C00024384 | Brunsvigia  littoralis
+C00024391 | Brunsvigia  gregaria
+C00024395 | Brunsvigia  josephinae
+C00024405 | Brunsvigia  gregaria
+C00024437 | Brunsvigia  josephinae
+C00024437 | Brunsvigia  radulosa
+C00024438 | Brunsvigia  gregaria
+C00024440 | Brunsvigia  gregaria
+C00024440 | Brunsvigia  josephinae
+C00025308 | Brunsvigia  gregaria
+C00027662 | Brunsvigia  josephinae
+C00027707 | Brunsvigia  radulosa
+C00027716 | Brunsvigia  radulosa
+C00027877 | Brunsvigia  radulosa
+C00027975 | Brunsvigia  josephinae
+C00027991 | Brunsvigia  josephinae
+C00024372 | Calostemma  puepurea
+C00001565 | Clivia  defixum
+C00001572 | Clivia  miniata
+C00001576 | Clivia  miniata
+C00006639 | Clivia  nobilis
+C00024373 | Clivia  miniata Regel
+C00024374 | Clivia  miniata Regel
+C00024375 | Clivia  miniata Regel
+C00024376 | Clivia  miniata Regel
+C00024377 | Clivia  miniata Regel
+C00024378 | Clivia  miniata Regel
+C00024379 | Clivia  miniata Regel
+C00024380 | Clivia  miniata Regel
+C00024381 | Clivia  miniata Regel
+C00024410 | Clivia  miniata Regel
+C00039860 | Clivia  nobilis
+C00039861 | Clivia  nobilis
+C00001576 | Cooperia  drummondii
+C00001576 | Cooperia  pedunculata
+C00024433 | Cooperia  pedunculata
+C00000977 | Crinum  bulbispermum Milne
+C00001557 | Crinum  macrantherum
+C00001561 | Crinum  amabile
+C00001561 | Crinum  laurentii
+C00001561 | Crinum  stuhlmannii
+C00001562 | Crinum  powellii
+C00001569 | Crinum  asiaticum
+C00001569 | Crinum  bulbispermum
+C00001569 | Crinum  glaucum
+C00001569 | Crinum  jagus
+C00001569 | Crinum  macowanii
+C00001570 | Crinum  spp.
+C00001571 | Crinum  glaucum
+C00001571 | Crinum  jagus
+C00001572 | Crinum  amabile
+C00001572 | Crinum  latifolium
+C00001576 | Crinum  amabile
+C00001576 | Crinum  asiaticum var.japonicum
+C00001576 | Crinum  delagoense
+C00001576 | Crinum  giganteum
+C00001576 | Crinum  glaucum
+C00001576 | Crinum  jagus
+C00001576 | Crinum  latifolium
+C00001576 | Crinum  lugardiae
+C00001576 | Crinum  macowanii
+C00001576 | Crinum  moorei
+C00001576 | Crinum  pratense Herb.
+C00001576 | Crinum  scabrum
+C00001576 | Crinum  yemense
+C00001578 | Crinum  amabile
+C00001685 | Crinum  angustum
+C00002077 | Crinum  kirkii
+C00002328 | Crinum  asiaticum
+C00002329 | Crinum  asiaticum
+C00005685 | Crinum  latifolium
+C00006925 | Crinum  bulbispermum Milne
+C00008752 | Crinum  asiaticum var.japonicum
+C00001570 | Cyrtanthus  elatus
+C00001571 | Cyrtanthus  elatus
+C00001576 | Cyrtanthus  pallidus
+C00006636 | Cyrtanthus  angustifolia
+C00024391 | Cyrtanthus  elatus
+C00024413 | Cyrtanthus  obliquus
+C00024421 | Cyrtanthus  falcatus
+C00024438 | Cyrtanthus  obliquus
+C00025982 | Cyrtanthus  obliquus
+C00027650 | Cyrtanthus  elatus
+C00027657 | Cyrtanthus  obliquus
+C00027746 | Cyrtanthus  obliquus
+C00029148 | Cyrtanthus  obliquus
+C00029260 | Cyrtanthus  elatus
+C00037569 | Cyrtanthus  obliquus
+C00001576 | Eucharis  grandiflora
+C00027877 | Eucharis  amazonica
+C00001417 | Galanthus  elewesii
+C00001417 | Galanthus  plicatus spp.byzantinus
+C00001570 | Galanthus  caucasicus
+C00001570 | Galanthus  elewesii
+C00001570 | Galanthus  elwesii Hook.
+C00001570 | Galanthus  nivalis
+C00001570 | Galanthus  spp.
+C00001570 | Galanthus  woronowii Losinsk.
+C00001571 | Galanthus  elwesii
+C00001572 | Galanthus  nivalis
+C00001576 | Galanthus  caucasicus
+C00001576 | Galanthus  elewesii
+C00001576 | Galanthus  nivalis
+C00001576 | Galanthus  woronowii Losinsk.
+C00001578 | Galanthus  elwesii
+C00001578 | Galanthus  nivalis
+C00005229 | Galanthus  nivalis
+C00005372 | Galanthus  caucasicus
+C00005413 | Galanthus  caucasicus
+C00024361 | Galanthus  caucasicus
+C00024361 | Galanthus  elewesii
+C00024370 | Galanthus  nivalis
+C00024371 | Galanthus  elwesii
+C00024372 | Galanthus  elwesii
+C00024384 | Galanthus  elwesii
+C00024390 | Galanthus  caucasicus
+C00024390 | Galanthus  elewesii
+C00024390 | Galanthus  woronowii Losinsk.
+C00024403 | Galanthus  elewesii
+C00024408 | Galanthus  elwesii
+C00024414 | Galanthus  elewesii
+C00024414 | Galanthus  elwesii
+C00024419 | Galanthus  elewesii
+C00024419 | Galanthus  elwesii
+C00024438 | Galanthus  caucasicus
+C00024438 | Galanthus  elwesii
+C00024438 | Galanthus  nivalis
+C00026714 | Galanthus  plicatus spp.byzantinus
+C00026817 | Galanthus  plicatus subsp.byzantinus
+C00027604 | Galanthus  gracilis
+C00027604 | Galanthus  plicatus
+C00027611 | Galanthus  plicatus spp.byzantinus
+C00027615 | Galanthus  elewesii
+C00027617 | Galanthus  elewesii
+C00027618 | Galanthus  elewesii
+C00027620 | Galanthus  plicatus
+C00027621 | Galanthus  gracilis
+C00027622 | Galanthus  plicatus subsp.byzatinus
+C00027623 | Galanthus  byzantinus
+C00027623 | Galanthus  gracilis
+C00027624 | Galanthus  elewesii
+C00027625 | Galanthus  elewesii
+C00027629 | Galanthus  elewesii
+C00027629 | Galanthus  elwesii
+C00027630 | Galanthus  gracilis
+C00027631 | Galanthus  gracilis
+C00027636 | Galanthus  plicatus subsp.byzatinus
+C00027661 | Galanthus  plicatus spp.byzantinus
+C00028290 | Galanthus  elwesii
+C00028390 | Galanthus  nivalis
+C00028682 | Galanthus  elwesii
+C00028683 | Galanthus  plicatus subsp.byzatinus
+C00028725 | Galanthus  elwesii
+C00029148 | Galanthus  elwesii
+C00029172 | Galanthus  nivalis
+C00001559 | Haemanthus  albomaculatus
+C00001571 | Haemanthus  puniceus x katherinae
+C00001571 | Haemanthus  spp.
+C00001573 | Haemanthus  kalbreyeri
+C00001577 | Haemanthus  kalbreyeri
+C00024391 | Haemanthus  puniceus x katherinae
+C00024395 | Haemanthus  kalbreyeri
+C00024399 | Haemanthus  kalbreyeri
+C00024430 | Haemanthus  kalbreyeri
+C00025229 | Haemanthus  montanus
+C00001561 | Hippeastrum  punecium
+C00001564 | Hippeastrum  candidum
+C00001568 | Hippeastrum  punecium
+C00001570 | Hippeastrum  spp.
+C00001572 | Hippeastrum  equestre
+C00001572 | Hippeastrum  spp.
+C00001572 | Hippeastrum  vittatum
+C00001576 | Hippeastrum  equestre
+C00001576 | Hippeastrum  vittatum
+C00001580 | Hippeastrum  equestre
+C00011227 | Hippeastrum  equestre
+C00024390 | Hippeastrum  equestre
+C00024394 | Hippeastrum  vittatum L.'Herr.
+C00024395 | Hippeastrum  vittatum L.'Herr.
+C00024397 | Hippeastrum  ananua
+C00024397 | Hippeastrum  ananuca
+C00024398 | Hippeastrum  ananuca
+C00024408 | Hippeastrum  ananuca
+C00024438 | Hippeastrum  equestre
+C00024438 | Hippeastrum  vittatum L.'Herr.
+C00024446 | Hippeastrum  vittatum L.'Herr.
+C00027030 | Hippeastrum  vittatum Herbert
+C00027661 | Hippeastrum  equestre
+C00027746 | Hippeastrum  equestre
+C00027753 | Hippeastrum  equestre
+C00028390 | Hippeastrum  equestre
+C00028697 | Hippeastrum  equestre
+C00028825 | Hippeastrum  equestre
+C00029079 | Hippeastrum  equestre
+C00039086 | Hippeastrum  equestre Herb.
+C00049909 | Hippeastrum  vittatum
+C00000604 | Hymenocallis  littoralis
+C00001566 | Hymenocallis  arencola
+C00001566 | Hymenocallis  arenicola
+C00001570 | Hymenocallis  spp.
+C00001576 | Hymenocallis  littoralis
+C00001576 | Hymenocallis  tubiflora
+C00001576 | Hymenocallis  x festalis
+C00001579 | Hymenocallis  expansa
+C00001579 | Hymenocallis  litroralis
+C00001579 | Hymenocallis  littorale
+C00001579 | Hymenocallis  littoralis
+C00001579 | Hymenocallis  sonorensis
+C00001579 | Hymenocallis  speciosa
+C00001580 | Hymenocallis  cayamansis
+C00001580 | Hymenocallis  tubiflora
+C00006708 | Hymenocallis  spp.
+C00024362 | Hymenocallis  arenicola Northrop H
+C00024391 | Hymenocallis  arenicola Northrop H
+C00024393 | Hymenocallis  arenicola Northrop H
+C00024413 | Hymenocallis  amanacea
+C00024433 | Hymenocallis  tubiflora
+C00024438 | Hymenocallis  arenicola Northrop H
+C00024438 | Hymenocallis  cayamansis
+C00024438 | Hymenocallis  littoralis
+C00024438 | Hymenocallis  x festalis
+C00024445 | Hymenocallis  arenicola Northrop H
+C00024447 | Hymenocallis  arenicola Northrop H
+C00027746 | Hymenocallis  x festalis
+C00028102 | Hymenocallis  cayamansis
+C00028390 | Hymenocallis  x festalis
+C00029148 | Hymenocallis  x festalis
+C00001580 | Ismene  calithina
+C00001570 | Leucojum  aestivum
+C00001570 | Leucojum  spp.
+C00001574 | Leucojum  aestivum
+C00001576 | Leucojum  aestivum L.
+C00001576 | Leucojum  vernum
+C00001578 | Leucojum  aestivum
+C00001580 | Leucojum  aestivum
+C00005163 | Leucojum  vernum
+C00005227 | Leucojum  vernum
+C00024356 | Leucojum  vernum
+C00024372 | Leucojum  aestivum
+C00024403 | Leucojum  aestivum L.
+C00024414 | Leucojum  vernum
+C00024419 | Leucojum  aestivum L.
+C00024438 | Leucojum  aestivum L.
+C00024441 | Leucojum  aestivum L.
+C00027661 | Leucojum  vernum
+C00027794 | Leucojum  vernum
+C00029148 | Leucojum  aestivum
+C00042187 | Leucojum  vernum
+C00042695 | Leucojum  vernum
+C00047181 | Leucojum  aestivum
+C00000952 | Lycoris  radiata
+C00001570 | Lycoris  radiata Herb.
+C00001570 | Lycoris  sanguinea
+C00001570 | Lycoris  spp.
+C00001572 | Lycoris  radiata
+C00001574 | Lycoris  aurea
+C00001574 | Lycoris  radiata
+C00001575 | Lycoris  radiata
+C00001575 | Lycoris  sanguinea
+C00001576 | Lycoris  aurea
+C00001576 | Lycoris  radiata
+C00001576 | Lycoris  sanguinea
+C00001577 | Lycoris  longituba
+C00001577 | Lycoris  radiata
+C00001577 | Lycoris  sanguinea
+C00001578 | Lycoris  guangxiensis
+C00001580 | Lycoris  radiata
+C00024361 | Lycoris  radiata Herb.
+C00024365 | Lycoris  sanguinea Maxim
+C00024366 | Lycoris  sanguinea Maxim
+C00024372 | Lycoris  guangxiensis
+C00024390 | Lycoris  sanguinea
+C00024395 | Lycoris  sanguinea Maxim
+C00024398 | Lycoris  radiata Herb.
+C00024405 | Lycoris  aurea
+C00024405 | Lycoris  guangxiensis
+C00024405 | Lycoris  longituba
+C00024405 | Lycoris  radiata Herb.
+C00024405 | Lycoris  sanguinea Maxim
+C00024411 | Lycoris  guangxiensis
+C00024417 | Lycoris  radiata Herb.
+C00024420 | Lycoris  radiata Herb.
+C00024427 | Lycoris  chinensis
+C00024427 | Lycoris  radiata Herb.
+C00024427 | Lycoris  squamigera
+C00024433 | Lycoris  aurea
+C00024433 | Lycoris  guangxiensis
+C00024433 | Lycoris  radiata
+C00024433 | Lycoris  sanguinea
+C00024436 | Lycoris  sanguinea Maxim
+C00024438 | Lycoris  aurea
+C00024438 | Lycoris  radiata
+C00024438 | Lycoris  sanguinea Maxim
+C00028714 | Lycoris  sanguinea
+C00028732 | Lycoris  sanguinea
+C00029172 | Lycoris  radiata
+C00051365 | Lycoris  radiata
+C00000619 | Narcissus  tazetta var.chinensis
+C00000844 | Narcissus  tazetta var.chinensis
+C00000950 | Narcissus  pseudo narcissus
+C00000953 | Narcissus  pseudo narcissus
+C00000971 | Narcissus  pseudo narcissus
+C00001418 | Narcissus  tazetta var.chinensis
+C00001569 | Narcissus  bujei
+C00001570 | Narcissus  confusus
+C00001570 | Narcissus  pseudo narcissus  subsp.pseudo narcissus
+C00001570 | Narcissus  spp.
+C00001571 | Narcissus  asturiensis
+C00001571 | Narcissus  bujei
+C00001571 | Narcissus  primigenius
+C00001571 | Narcissus  pseudo narcissus  subsp.pseudo narcissus
+C00001572 | Narcissus  pseudo narcissus  subsp.pseudo narcissus
+C00001574 | Narcissus  bujei
+C00001574 | Narcissus  poeticus
+C00001574 | Narcissus  tazetta L.
+C00001576 | Narcissus  folli
+C00001576 | Narcissus  poeticus L.
+C00001576 | Narcissus  pseudo narcissus
+C00001576 | Narcissus  tazetta L.
+C00001576 | Narcissus  tortuous
+C00001577 | Narcissus  pseudo narcissus
+C00001577 | Narcissus  spp.
+C00001578 | Narcissus  pseudo narcissus  subsp.pseudo narcissus
+C00001580 | Narcissus  tazetta
+C00002252 | Narcissus  spp.
+C00002725 | Narcissus  spp.
+C00003772 | Narcissus  spp.
+C00005182 | Narcissus  poeticus
+C00005548 | Narcissus  tazetta
+C00024352 | Narcissus  requienii Roem.
+C00024353 | Narcissus  requienii Roem.
+C00024361 | Narcissus  bujei
+C00024361 | Narcissus  primigenius
+C00024361 | Narcissus  tazetta L.
+C00024372 | Narcissus  angustifolius subsp. transcanpathicus
+C00024389 | Narcissus  tazetta L.
+C00024390 | Narcissus  incomparabilis
+C00024390 | Narcissus  poeticus
+C00024390 | Narcissus  pseudo narcissus  L.
+C00024391 | Narcissus  asturiensis
+C00024391 | Narcissus  tazetta L.
+C00024398 | Narcissus  bujei
+C00024398 | Narcissus  poeticus L.
+C00024398 | Narcissus  primigenius
+C00024398 | Narcissus  tazetta L.
+C00024405 | Narcissus  papyraceus Kerl-Gawl
+C00024405 | Narcissus  pseudo narcissus  subsp.pseudo narcissus
+C00024405 | Narcissus  tazetta L.
+C00024408 | Narcissus  papyraceus Kerl-Gawl
+C00024408 | Narcissus  tazetta L.
+C00024412 | Narcissus  poeticus
+C00024413 | Narcissus  poeticus
+C00024414 | Narcissus  pseudo narcissus  subsp.pseudo narcissus
+C00024420 | Narcissus  bujei
+C00024420 | Narcissus  pseudo narcissus  subsp.pseudo narcissus
+C00024421 | Narcissus  tazetta L.
+C00024426 | Narcissus  papyraceus Kerl-Gawl
+C00024426 | Narcissus  tazetta var.chinensis
+C00024427 | Narcissus  tazetta L.
+C00024428 | Narcissus  poeticus
+C00024433 | Narcissus  angustifolius subsp. transcanpathicus
+C00024433 | Narcissus  papyraceus Kerl-Gawl
+C00024433 | Narcissus  requienii Roem.
+C00024433 | Narcissus  tazetta L.
+C00024438 | Narcissus  asturiensis
+C00024438 | Narcissus  bujei
+C00024438 | Narcissus  folli
+C00024438 | Narcissus  papyraceus Kerl-Gawl
+C00024438 | Narcissus  poeticus L.
+C00024438 | Narcissus  tazetta L.
+C00024446 | Narcissus  pseudo narcissus  subsp.pseudo narcissus
+C00027649 | Narcissus  pseudo narcissus
+C00027656 | Narcissus  pseudo narcissus
+C00027663 | Narcissus  bujei
+C00027746 | Narcissus  asturiensis
+C00027793 | Narcissus  pseudo narcissus
+C00027794 | Narcissus  angustifolius subsp. transcanpathicus
+C00027990 | Narcissus  bujei
+C00028567 | Narcissus  bujei
+C00028645 | Narcissus  angustifolius subsp. transcanpathicus
+C00028752 | Narcissus  pseudo narcissus
+C00028757 | Narcissus  pseudo narcissus  subsp.pseudo narcissus
+C00028767 | Narcissus  bujei
+C00028767 | Narcissus  pseudo narcissus  subsp.pseudo narcissus
+C00028793 | Narcissus  angustifolius subsp. transcanpathicus
+C00028793 | Narcissus  poeticus L.
+C00029172 | Narcissus  angustifolius subsp. transcanpathicus
+C00029179 | Narcissus  angustifolius subsp. transcanpathicus
+C00029179 | Narcissus  tortuous
+C00001558 | Nerine  crispa
+C00001561 | Nerine  filifolia
+C00001562 | Nerine  filifolia
+C00024372 | Nerine  bowdenii W.C.R.Wats.
+C00024440 | Nerine  filifolia
+C00024440 | Nerine  flexuosa alba
+C00025308 | Nerine  flexuosa
+C00027662 | Nerine  filifolia
+C00035178 | Nerine  filifolia
+C00035179 | Nerine  filifolia
+C00000943 | Pancratium  biflorum
+C00000977 | Pancratium  maritimum L.
+C00001569 | Pancratium  foetidum
+C00001570 | Pancratium  spp.
+C00001571 | Pancratium  canariense
+C00001571 | Pancratium  sickenbergeri
+C00001572 | Pancratium  canariense
+C00001576 | Pancratium  canariense
+C00001576 | Pancratium  foetidum
+C00001576 | Pancratium  maritimum L.
+C00001576 | Pancratium  sickenbergeri
+C00001579 | Pancratium  littorale
+C00001580 | Pancratium  biflorum
+C00002417 | Pancratium  biflorum
+C00002695 | Pancratium  biflorum
+C00002710 | Pancratium  biflorum
+C00005192 | Pancratium  maritium
+C00006925 | Pancratium  maritimum L.
+C00006939 | Pancratium  biflorum
+C00008239 | Pancratium  maritimum L.
+C00008752 | Pancratium  maritimum
+C00008756 | Pancratium  biflorum
+C00028793 | Rhodophiala  bifida
+C00001571 | Sprekelia  formosissima
+C00001576 | Sprekelia  formosissima Herb.
+C00001580 | Sprekelia  formosissima
+C00024391 | Sprekelia  formosissima
+C00024438 | Sprekelia  formosissima
+C00027746 | Sprekelia  formosissima
+C00028390 | Sprekelia  formosissima
+C00001572 | Sternbergia  lutea
+C00001576 | Sternbergia  lutea
+C00024390 | Sternbergia  lutea ker-Gawl
+C00024396 | Sternbergia  lutea ker-Gawl
+C00024404 | Sternbergia  lutea ker-Gawl
+C00024437 | Sternbergia  lutea ker-Gawl
+C00024438 | Sternbergia  lutea ker-Gawl
+C00001570 | Ungernia  spp.
+C00001572 | Ungernia  sewerzowii
+C00001572 | Ungernia  spiralis
+C00001572 | Ungernia  trisphaera
+C00001572 | Ungernia  vvedenskyi
+C00001576 | Ungernia  sewerzowii
+C00001576 | Ungernia  trisphaera
+C00001578 | Ungernia  severtzovii
+C00001578 | Ungernia  victoris
+C00001578 | Ungernia  vvedenskyi
+C00024391 | Ungernia  trisphaera
+C00024391 | Ungernia  vvedenskyi
+C00024438 | Ungernia  sewerzowii
+C00024438 | Ungernia  spiralis
+C00024438 | Ungernia  trisphaera
+C00024438 | Ungernia  vvedenskyi
+C00024441 | Ungernia  vvedenskyi
+C00024442 | Ungernia  vvedenskyi
+C00024444 | Ungernia  vvedensky
+C00024444 | Ungernia  vvedenskyi
+C00029148 | Ungernia  trisphaera
+C00029172 | Ungernia  minor
+C00001567 | Zephyranthes  carinata
+C00001567 | Zephyranthes  grandiflora
+C00001571 | Zephyranthes  citrina
+C00001576 | Zephyranthes  candida
+C00001576 | Zephyranthes  citrina
+C00001576 | Zephyranthes  rosea Lindl.
+C00001576 | Zephyranthes  texana
+C00001579 | Zephyranthes  grandiflora
+C00001580 | Zephyranthes  candida
+C00001580 | Zephyranthes  carinata
+C00008759 | Zephyranthes  flava
+C00008773 | Zephyranthes  flava
+C00008774 | Zephyranthes  flava

@@ -1,0 +1,37 @@
+# https://fr.wikipedia.org/wiki/Trichocomaceae
+# Selon Catalogue of Life (6 janvier 2018) :
+Aspergillus
+Byssochlamys
+Capsulotheca
+Chaetotheca
+Chromocleista
+Cladosarum
+Dendrosphaera
+Dichlaena
+Eladia
+Emericella
+Eupenicillium
+Eurotium
+Hamigera
+Neocarpenteles
+Neopetromyces
+Neosartorya
+Paecilomyces
+Penicilliopsis
+Penicillium
+Petromyces
+Phialosimplex
+Polypaecilum
+Rasamsonia
+Redaellia
+Sagenomella
+Sarophorum
+Sclerocleista
+Sphaeromyces
+Stilbodendron
+Stilbothamnium
+Talaromyces
+Thermoascus
+Torulomyces
+Trichocoma
+Xerochrysium
