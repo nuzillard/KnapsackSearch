@@ -11,6 +11,9 @@ called by: python compounds.py familyname
 File familyname_cids.txt contains a list of KNApSAcK compound_ids, one per line.
 compounds.py collects data about each compound from the KNApSAcK web site and
 stores them pickled in file familyname_pickled.
+
+Modified on February 17, 2020, as a consequence of a change in the
+URL for KNApSAK request submission. See also family_from_web.py.
 """
 
 import requests
@@ -104,7 +107,7 @@ def get_data_from_cid_file(cidfilename, site, kw):
 		return [get_data_from_cid(line.strip(), site, kw, count) for count, line in enumerate(fpin, start=1)]
 
 if __name__ == '__main__':
-	site = "http://www.knapsackfamily.com/knapsack_jsp/information.jsp?sname=C_ID&word="
+	site = "http://www.knapsackfamily.com/knapsack_core/information.php?sname=C_ID&word="
 # invariable part of the request to KNApSAcK for data access by compound_id
 	kw = ["Name", "Formula", "Mw", "CAS RN", "InChIKey", "InChICode", "SMILES"]
 # list of keys to data items about compounds, in the order they appear in the HTML text

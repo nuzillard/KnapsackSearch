@@ -1,0 +1,13 @@
+# https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgiAphananthe
+# Cannabinaceae, display 1 level with filter None
+# February 17, 2020 -- after major change in KNApSAcK HMTL response mining
+#
+Aphananthe
+Cannabis
+Celtis
+Gironniera
+Humulus
+Lozanella
+Parasponia
+Pteroceltis
+Trema

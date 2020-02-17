@@ -23,6 +23,11 @@ for all the genus names in file familyname_genera.txt.
 The compound_id and the binomial_name are separated by a ' | ' string.
 The number of associations is printed for each genus.
 The first word of the binomial_name is alway identical to the requested genus.
+
+Modified on February 17, 2020, as a consequence of a change in the formatting
+of the HMTL response from the KNApSAcK web site.
+A table row used to be coded over 6 different text lines but are now coded within a single line.
+The URL for KNApSAK request submission has also changed. See also compounds.py.
 """
 
 import re
@@ -39,9 +44,7 @@ def get_cid_spec_pairs(strings, genus):
 # if no association found for the genus
 		return pairlist
 # returns an empty list
-	n = len(strings) // 6
-# the number of associations is the number of table cells divided by 6 (6 coluns in the table)
-	pairlist = [(strings[i*6], strings[5+i*6]) for i in range(n)]
+	pairlist = [(l[0], l[5]) for l in strings]
 # compound_id is in column 1 (index 0) and binomial_name in column 6 (index 5)
 	pairlist = [pair for pair in pairlist if pair[1].split()[0] == genus]
 # keep only the pairs for which the first word of the binomial_name is identical the species
@@ -50,14 +53,29 @@ def get_cid_spec_pairs(strings, genus):
 def proc_line(line):
 	"""
 	proc_line() removes the HTML tags from a relevant line from the HTML text bound to a genus.
-	Such a line looks like <aaa>bbbbb<cc>. Only bbbbb is returned.
+	Returns the list of row elements. 
 	"""
-	return re.sub('<.*?>', '', line)
-# use non-greedy (? mark) regular expression to isolate HTML tag content
+	line = re.sub(r'<font color=#FF00BF>', '', line)
+	line = re.sub(r'</font>', '', line)
+# remove all color highlighting HTML tags
+	line = re.sub('<.*?>', '|', line)
+# replace all remaining HTML tags by a bar sign
+	line = re.sub('\|\|\|', '|', line)
+# replace triple bars by a single one
+	line = re.sub('\|\|', '|', line)
+# replace all double bars by a single one
+	line = line[1:-1]
+# remove first bar and last bar
+# table row elements are now separated by a vertical bar
+	lines = line.split('|')
+# get list of row values within the current line
+	return lines
+# return the list of row values within the current line
+# this function makes use of non-greedy (? mark) regular expression to isolate HTML tag content
 
 def proc_text(lines):
 	"""
-	proc_text() removes the HMTL tags in each line of the lines list and returns the list of relevant data strings.
+	proc_text() removes the HMTL tags in each line of the lines list and returns the list of relevant data lists.
 	"""
 	return [proc_line(line) for line in lines]
 
@@ -77,14 +95,14 @@ if __name__ == "__main__":
 			if (genus[0] == '#'):
 # comment line, skip to next one.
 				continue
-			url = 'http://www.knapsackfamily.com/knapsack_jsp/result.jsp?sname=organism&word=' + genus
+			url = 'http://www.knapsackfamily.com/knapsack_core/result.php?sname=organism&word=' + genus
 			reply = requests.get(url)
 			ans = reply.text
 # get HTML text for the current genus.
 			lines = [l.strip() for l in ans.split('\n') if (l and ("class=\"d1\"" in l))]
-# keep relevant lines from HTML lines, those that are formatted as table cells, of class "d1"
+# keep relevant lines from HTML lines, those that are formatted as table cells, of class "d1", one table row per line
 			processed_text = proc_text(lines)
-# remove HTML tags from relevant lines
+# remove HTML tags from relevant lines and get a list of lists, each for a compound-species relationship
 			cid_species_pairs = get_cid_spec_pairs(processed_text, genus)
 # get (compound_id, binomial_name) pairs for the current genus
 			print("%s: %d" % (genus, len(cid_species_pairs)))

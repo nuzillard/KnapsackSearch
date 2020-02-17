@@ -1,5 +1,10 @@
 # KnapsackSearch
  Automated data search in the KNApSAcK database
+ 
+## KNApSAcK Change
+February 17, 2020. KNApSAcK changed and KnapsackSearch had to change accordingly.
+
+See family_from_web.py and compounds.py for details.
 
 ## Aim
  [KNApSAcK](http://www.knapsackfamily.com) is a highly useful source of information about natural products, which is accessible through a web interface.
