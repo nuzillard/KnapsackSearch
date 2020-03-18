@@ -53,3 +53,12 @@ See family_from_web.py and compounds.py for details.
 
  The viewing of molecular structures and their attributes in SDF files is conveniently achieved by means of the [EdiSDF](http://infochim.u-strasbg.fr/spip.php?rubrique41) software.
  
+  ## Limitations
+  
+  Compounds with different IDs may correspond to the same compound.
+  
+  A compound name may be assigned to two different compounds
+  
+  
+  
+ 
