@@ -55,8 +55,6 @@ See family_from_web.py and compounds.py for details.
  
   ## Limitations
   
-  Compounds with different IDs may correspond to the same compound.
-  
   A compound name may be assigned to two different compounds
   
   

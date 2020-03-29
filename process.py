@@ -77,7 +77,7 @@ basic_tags.py:
 command = "predictSdf " + family + "_2D_tagged.sdf 4 3d 1>" + family + "_2D_nmr.txt 2>errorlog.txt"
 run_command(command)
 """
-predict_sdf.bat
+predict_sdf.bat:
 	reads: familyname_2D_tagged.sdf
 	writes: standard output, redirected to familyname_2D_nmr.txt
 	writes: standard error, redirected to errorlog.txt
