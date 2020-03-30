@@ -84,7 +84,7 @@ writer = Chem.SDWriter(tempfn)
 # but not for duplicates. Second stage processes file entries concerning identical structures.
 
 inchis = []
-# list of the InChIs of the molecules stored in the order they appear in the temp file
+# list of the InChIKeys of the molecules stored in the order they will appear in the temp file
 for m in reader:
 # get molecule for input SDF file
 	cid = m.GetProp("_Name")
@@ -112,20 +112,22 @@ for m in reader:
 # fix molecular formula for charge ou M+H error
 	m.SetProp('Mw', str(ExactMolWt(m)))
 # recalculate exact molecular weight, according to RDKit
+	m.SetProp('InChIKey', Chem.MolToInchiKey(m))
+# recalculate InChIKey, according to RDKit
 	if cid in cids_all_species_dict:
 		m.SetProp('In_Species', cids_all_species_dict[cid])
 # append a new SDF tag for the presence of the compound in organism binomial_name
 	writer.write(m)
 # store current compound in temporary .sdf file
 	inchis.append(m.GetProp('InChIKey'))
-# apprnd to InChI of the stored molecule to the list of InChIs of stored molecules
+# append InChIKey of the stored molecule to the list of InChIKeys of stored molecules
 writer.close()
 # close temporary output sdf file
 
 # second stage
 
 inchidict = {}
-# prepare an empty dictioanry with InChiKeys as key an a list of compound index as value.
+# prepare an empty dictionary with InChiKeys as key an a list of compound index as value.
 # If the were no replicated structures, all values should be one-element lists.
 for i, inchi in enumerate(inchis, start=1):
 # scan through the list of InChIKey prepared during first stage
