@@ -11,15 +11,7 @@ See family_from_web.py and compounds.py for details.
  
  The goal of the KnapsackSearch python scripts is to create an SDF structure file with molecules related to one or more genera of living organisms, typically those from the same botanical family.
  
- The user of KnapsackSearch first creates a file named *familyname*_genera.txt, so that *familyname* stands for the nickname of a botanical family such as 'papaver' for the family of Papaveracea.
- 
- The file *familyname*_genera.txt may contain lines of three kinds:
- 
- 1. Blank lines, considered as a comment
- 2. Lines that start with a # sign, considered as a comment
- 3. Lines with a single word, standing for a *genus* name
- 
- All associations between all organism names and compounds for all given genera names are searched in KNApSAcK through the web and a list of compounds is established.
+  All associations between all organism names and compounds for all given genera names are searched in KNApSAcK through the web and a list of compounds is established.
  
  Data are then extracted from KNApSAcK for each compound, such as elemental formula, atomic, mass, one of more names, SMILES and InChI character strings.
  
@@ -47,7 +39,15 @@ See family_from_web.py and compounds.py for details.
  
  ## Usage
  
- Enter command `python process.py familyname` from the rdkit environment. As an example run `python process.py papaver` to collect data about compounds reported in KNApSAcK from Papaveraceae, according to the list of genera written in file papaver_genera.txt. On November 19, 2019, the resulting papaver_knapsack.sdf file contained 476 molecules. Other examples can be found in the Examples directory.
+ The user of KnapsackSearch first creates a file named *familyname*_genera.txt, so that *familyname* stands for the nickname of a botanical family such as 'papaver' for the family of Papaveracea.
+ 
+ The file *familyname*_genera.txt may contain lines of three kinds:
+ 
+ 1. Blank lines, considered as a comment
+ 2. Lines that start with a # sign, considered as a comment
+ 3. Lines with a single word, standing for a *genus* name, starting with an upper-case letter (A-Z)
+ 
+Enter command `python process.py familyname` from the rdkit environment. As an example run `python process.py papaver` to collect data about compounds reported in KNApSAcK from Papaveraceae, according to the list of genera written in file papaver_genera.txt. On November 19, 2019, the resulting papaver_knapsack.sdf file contained 476 molecules. Other examples can be found in the Examples directory.
  
  The list of genera that belong to a given family can be found by means of the [NCBI Taxonomy tool](https://www.ncbi.nlm.nih.gov/taxonomy).
 
