@@ -1,0 +1,513 @@
+C00000117 : Papaver somniferum
+C00000118 : Papaver somniferum
+C00000615 : Papaver somniferum
+C00001048 : Meconopsis paniculata
+C00001125 : Papaver somniferum
+C00001132 : Papaver somniferum
+C00001183 : Corydalis yanhusuo||Fumaria officinalis||Glaucium flavum
+C00001261 : Chelidonium majus
+C00001304 : Chelidonium majus
+C00001408 : Argemone mexicana||Chelidonium majus||Corydalis cava||Dicentra spectabilis||Fumaria officinalis||Glaucium flavum||Hypecoum lactiflorum||Macleaya cordata||Meconopsis cambrica||Papaver bracteatum||Papaver rhoeas||Papaver somniferum||Romneya coulteri
+C00001428 : Corydalis yanhusuo
+C00001435 : Argemone mexicana||Chelidonium majus||Corydalis cava||Dicentra spectabilis||Fumaria officinalis||Glaucium flavum||Hypecoum lactiflorum||Macleaya cordata||Meconopsis cambrica||Papaver bracteatum||Papaver rhoeas||Papaver somniferum||Romneya coulteri
+C00001442 : Papaver nudicaule
+C00001792 : Adlumia fungosa||Corydalis gortschakovii||Corydalis hsuchowensis||Corydalis nobilis||Fumaria vaillantii Loisl.
+C00001799 : Arctomecon californica||Arctomecon humilis||Arctomecon merrianii||Argemone mexicana L.||Bocconia arborea||Bocconia cordata Willd.||Bocconia frutescens L.||Bocconia spp.||Chelidonium majus L.||Chelidonium spp.||Corydalis ambigua var.amurensis||Corydalis caseana A.Gray.||Corydalis caucasia||Corydalis intermedia||Corydalis ledebouriana K.et K.||Corydalis nobilis||Corydalis omeiensis||Corydalis ophiocarpa||Corydalis pallida||Corydalis remota||Corydalis sewerzovii||Corydalis solida||Corydalis spp.||Corydalis ternata||Corydalis yanhusuo||Dicentra oregana Eastwood.||Dicentra spp.||Glaucium arabicum||Glaucium corniculatum||Glaucium fimbrilligerum Boiss.||Glaucium flavum||Glaucium spp.||Hypecoum leptocarpum||Hypecoum procumbens||Macleaya cordata||Meconopsis cambrica||Meconopsis robusta||Papaver confine||Papaver curviscapum||Papaver pinnatifidum||Papaver rhoeas chelidonides||Papaver somniferum||Sanguinaria canadensis L.||Sanguinaria spp.||Stylophorum lasiocarpum
+C00001800 : Papaver alpinum
+C00001801 : Papaver alpinum||Papaver caucasicum||Papaver nudicaule var. amurense
+C00001802 : Papaver auranticum||Papaver nudicaule var. amurense||Papaver triniifolium||Roemeria refracta
+C00001804 : Bocconia arborea
+C00001809 : Argemone mexicana
+C00001810 : Papaver caucasicum||Papaver fugax Poir.||Papaver persicum||Roemeria refracta
+C00001819 : Argemone mexicana||Argemone spp.||Argemone subfusiformia||Argemone subfusiformis var.subinermis||Chelidonium majus L.||Chelidonium spp.||Corydalis amunca||Corydalis intermedia||Corydalis ledebouriana||Corydalis longicalcarata||Corydalis ophiocarpa||Corydalis remota||Corydalis solida||Corydalis spp.||Corydalis yanhusuo||Eschscholtzia california||Glaucium arabicum||Macleaya cordata||Papaver albiflora||Papaver bracteatum||Papaver confine||Papaver pinnatifidum||Papaver radicatum||Papaver rhoeas chelidonides||Papaver rhopalothece||Papaver somniferum||Stylophorum lasiocarpum
+C00001820 : Adlumia fungosa||Ceratocapnos palaestinus||Corydalis caseana A.Gray.||Corydalis caucasia||Corydalis esquirolii||Corydalis gigantea Trautv.et Mey.||Corydalis gortschakovii||Corydalis hsuchowensis||Corydalis incisa||Corydalis intermedia||Corydalis lutea||Corydalis majori||Corydalis nobilis||Corydalis omeiensis||Corydalis pseudoadunca||Corydalis racemosa||Corydalis sempervirens||Corydalis sibirica Pers.||Corydalis solida||Corydalis thalictrifolia||Corydalis thyrsifolia||Dicentra chrysantha||Fumaria bastardii||Fumaria parviflora Lam.||Fumaria vaillantii Loisl.
+C00001821 : Bocconia cordata||Chelidonium majus L.||Eschscholtzia californica||Glaucium squamigerum Kar.et KIR.||Papaver oreophillum||Stylophorum lasiocarpum
+C00001823 : Corydalis gortschakovii||Papaver bracteatum||Papaver orientale||Papaver pseudo-orientale
+C00001824 : Corydalis bulbosa||Corydalis caucasia||Corydalis cava||Corydalis decumbens||Corydalis glaucescens||Corydalis hsuchowensis||Corydalis intermedia||Corydalis majori||Corydalis marchalliana||Corydalis ochroleuca||Corydalis solida||Fumaria officinalis||Glaucium corniculatum||Glaucium fimbrilligerum||Glaucium flavum||Glaucium pulchrum||Hypecoum imberbe||Hypecoum pendulum||Hypecoum procumbens
+C00001827 : Argemone mexicana||Chelidonium majus||Corydalis cheilantheifolia||Corydalis pallida||Corydalis yanhusuo||Macleaya cordata
+C00001828 : Dicentra canadensis
+C00001829 : Corydalis aurea||Corydalis micrantha||Corydalis montana||Corydalis pallida
+C00001830 : Corydalis cava||Corydalis crystallina||Corydalis gigantea Trautv.et Mey.||Corydalis majori||Corydalis pseudoadunca||Corydalis sempervirens||Corydalis solida
+C00001832 : Ceratocapnos heterocarpa||Corydalis caseana
+C00001837 : Papaver setigerum||Papaver somniferum
+C00001838 : Corydalis caucasia||Corydalis majori||Corydalis paczoskii||Corydalis solida
+C00001839 : Corydalis claviculata
+C00001840 : Corydalis claviculata||Dicentra cucullaria
+C00001841 : Ceratocapnos palaestinus||Dicentra eximia
+C00001842 : Ceratocapnos palaestinus||Corydalis claviculata||Dicentra eximia||Dicentra oregana Eastwood.||Papaver rhopalothece||Sarcocapnos enneaphylla||Sarcocapnos saetabensis
+C00001847 : Argemone mexicana||Bocconia arborea||Chelidonium majus||Corydalis bulbosa (L.) DC.||Corydalis bulleyana||Corydalis cava||Corydalis claviculata||Corydalis gigantea||Corydalis gigantea Trautv.et Mey||Corydalis ledebouriana||Corydalis meifolia wall.||Corydalis paniculugera Rgl.||Corydalis remota Fisch.||Corydalis thyrsifolia||Corydalis vaginans Royle||Dicentra peregrina Rudolph||Dicentra spectabilis L.||Eschscholtzia californica Cham||Fumaria officinalis||Fumaria parviflora||Fumaria parviflora Lam||Fumaria vaillantii||Glaucium bois||Glaucium flavum Cr.var.vestitum||Hypecoum leptocarpus||Macleaya cordata||Papaver bracteatum||Papaver somniferum||Pteridophyllum racemosum Sieb.et Zuce.||Pteridophyllum spp.||Sarcocapnos baetica
+C00001856 : Macleaya cordata
+C00001859 : Fumaria agraria||Fumaria capreolate||Fumaria densiflora||Fumaria muralis||Fumaria officinalis||Fumaria vaillantii
+C00001861 : Ceratocapnos palaestinus||Corydalis ambigua||Corydalis marchalliana||Dicentra eximia||Glaucium corniculatum||Glaucium elegans||Glaucium flavum||Glaucium grandiflorum||Platycapnos saxicola||Platycapnos spicata||Platycapnos tenuiloba||Sarcocapnos baetica||Sarcocapnos enneaphylla||Sarcocapnos saetabensis
+C00001862 : Corydalis claviculata||Meconopsis cambrica
+C00001867 : Corydalis solida||Fumaria parviflora
+C00001869 : Ceratocapnos palaestinus||Corydalis caucasia||Corydalis cava||Corydalis gortschakovii||Corydalis intermedia||Corydalis nobilis||Corydalis solida||Glaucium arabicum||Glaucium flavum||Glaucium grandiflorum||Papaver orientale||Papaver pinnatifidum||Papaver rhoeas||Papaver setigerum||Stylophorum lasiocarpum
+C00001872 : Corydalis cava||Corydalis lutea||Corydalis ochroleuca||Corydalis solida||Corydalis tuberosa||Corydalis yanhusuo||Dicentra canadensis||Glaucium corniculatum||Glaucium fimbrilligerum||Glaucium flavum||Glaucium spp.||Hypecoum procumbens||Papaver commutatum||Papaver confine||Papaver pinnatifidum||Papaver rhoeas||Papaver rhopalothece||Papaver spp.||Papaver stevenianum||Sarcocapnos enneaphylla||Sarcocapnos saetabensis
+C00001873 : Papaver bracteatum||Papaver macrantha||Papaver orientale||Papaver orientalis||Papaver pseudo-orientale||Papaver pseudorientale
+C00001874 : Corydalis lutea||Glaucium arabicum||Papaver bracteatum
+C00001875 : Papaver somniferum
+C00001876 : Glaucium flavum||Papaver setigerum||Papaver somniferum
+C00001878 : Papaver caucasicum
+C00001882 : Corydalis incisa||Glaucium flavum var. vestitum
+C00001883 : Eschscholtzia californica||Macleaya cordata||Stylophorum diphyllum||Stylophorum lasiocarpum
+C00001885 : Argemone platyceras Link et Otto||Argemone polyanthemos||Argemone spp.||Chelidonium spp.||Corydalis intermedia||Corydalis spp.||Glaucium arabicum||Glaucium spp.||Meconopsis cambrica||Meconopsis robusta||Meconopsis spp.||Papaver orientale||Papaver rhoeas||Papaver setigerum||Papaver somniferum||Papaver spp.||Stylophorum lasiocarpum
+C00001886 : Meconopsis cambrica||Papaver albiflorum||Papaver caucasicum||Papaver confine||Papaver dubium||Papaver fugax||Papaver stevenianum||Papaver triniifolium
+C00001887 : Meconopsis cambrica||Papaver fugax
+C00001889 : Papaver commutatum||Papaver setigerum||Papaver somniferum
+C00001890 : Papaver rhopalothece||Papaver somniferum
+C00001891 : Papaver commutatum||Papaver rhoeas||Papaver rhopalothece||Papaver somniferum
+C00001892 : Papaver somniferum
+C00001893 : Papaver bracteatum||Papaver somniferum
+C00001896 : Corydalis bulbosa||Corydalis ochotensis||Corydalis sibirica||Corydalis thyrsifolia||Dicentra cucullaria
+C00001898 : Corydalis adunca||Corydalis ambigua var.amurensis||Corydalis decumbens||Corydalis intermedia||Corydalis ledebouriana||Corydalis longicalcarata||Corydalis nobilis||Corydalis remota||Corydalis repens||Corydalis yanhusuo||Dicentra spectabilis||Fumaria agraria||Fumaria densiflora||Fumaria muralis||Fumaria officinalis||Fumaria vaillantii||Glaucium arabicum||Papaver orientale
+C00001899 : Papaver album||Papaver somniferum
+C00001900 : Corydalis solida||Fumaria agraria||Fumaria capreolate||Fumaria densiflora||Fumaria indica||Fumaria kralikii||Fumaria muralis||Fumaria officinalis||Fumaria parviflora||Fumaria rostellata||Fumaria schleicheri||Fumaria vaillantii
+C00001905 : Papaver caucasicum Marsch.-Bieb.||Papaver fugax||Papaver spp.
+C00001906 : Arctomecon californica||Arctomecon humilis||Arctomecon merrianii||Argemone mexicana||Argemone subfusiformia||Argemone subfusiformis var.subinermis||Chelidonium majus L.||Corydalis adunca||Corydalis ambigua var.amurensis||Corydalis bungeana||Corydalis caucasia||Corydalis cava||Corydalis claviculata||Corydalis decumbens||Corydalis esquirolii||Corydalis gigantea Trautv.et Mey.||Corydalis glaucescens||Corydalis gortschakovii||Corydalis hsuchowensis||Corydalis intermedia||Corydalis ledebouriana K.et K.||Corydalis longicalcarata||Corydalis majori||Corydalis nobilis||Corydalis omeiensis||Corydalis pallida||Corydalis pseudoadunca||Corydalis racemosa||Corydalis remota||Corydalis repens||Corydalis sewerzovii||Corydalis solida||Corydalis stricta Steph.||Corydalis suaveolens||Corydalis thyrsifolia||Corydalis turtschaninowii||Corydalis yanhusuo||Dicentra spectabilis||Fumaria agraria||Fumaria bastardii||Fumaria capreolata||Fumaria densiflora||Fumaria indica||Fumaria muralis||Fumaria officinalis||Fumaria parviflora||Fumaria schleicheri||Fumaria vaillantii||Glaucium arabicum||Glaucium corniculatum||Glaucium fimbrilligerum||Glaucium flavum||Glaucium grandiflorum||Hunnemannia fumariaefolia Sweet.||Hypecoum erectum L.||Hypecoum leptocarpum||Hypecoum pendulum L.||Hypecoum procumbens||Hypecoum trilobum||Macleaya cordata||Meconopsis cambrica||Meconopsis robusta||Papaver albiforum||Papaver argemone||Papaver bracteatum||Papaver californicum||Papaver confine||Papaver curviscapum||Papaver dubium||Papaver fugax||Papaver macrostomum||Papaver orientale L.||Papaver persicum Lindl.||Papaver pinnatifidum||Papaver radicatum||Papaver rhoeas chelidonides||Papaver rhopalothece||Papaver somniferum||Papaver stevenianum||Platycapnos saxicola||Platycapnos spicata||Sarcocapnos baetica||Sarcocapnos enneaphylla||Sarcocapnos saetabensis
+C00001910 : Argemone mexicana||Ceratocapnos palaestinus||Chelidonium majus||Corydalis cava||Corydalis claviculata||Corydalis incisa||Dicentra spectabilis||Fumaria officinalis||Glaucium flavum||Hypecoum lactiflorum||Macleaya cordata||Meconopsis cambrica||Papaver bracteatum||Papaver rhoeas||Papaver somniferum
+C00001911 : Meconopsis robusta||Papaver albiflorum||Papaver argemone||Papaver californicum||Papaver commutatum||Papaver confine||Papaver dubium||Papaver macrostomum||Papaver rhoeas||Papaver somniferum||Papaver stevenianum||Papaver triniifolium
+C00001915 : Papaver somniferum
+C00001916 : Glaucium fimbrilligerum||Papaver bracteatum||Papaver caucasicum||Papaver fugax||Papaver orientale||Papaver somniferum||Papaver triniifolium||Sarcocapnos saetabensis
+C00001917 : Argemone mexicana||Argemone subfusiformia||Bocconia frutescens||Chelidonium japonicum Thumb.||Chelidonium majus||Chelidonium majus L.||Corydalis cava||Corydalis gigantea Trautv.et Mey||Corydalis incisa||Corydalis ledebouriana K.et K.||Corydalis marshalliana pers.||Corydalis ophiocarpa Hook.Et Thoms.||Corydalis pallida||Corydalis paniculugera Rgl.||Corydalis pseudoadunca||Corydalis remota Fisch.||Corydalis rosea Leych.||Corydalis sewerzovii||Corydalis stricta Steph.||Corydalis vaginans Royle||Dicentra peregrina||Dicentra spectabilis||Dicentra spectabilis L.||Eschscholtzia california||Fumaria officinalis||Fumaria parviflora Lam||Fumaria schramii Pugsley||Glaucium fimbrilligerum Boiss.||Glaucium flavum||Glaucium grandiflorum||Glaucium squamigerum Kar.et KIR.||Hypecoum leptocarpum||Hypecoum trilobum||Macleaya cordata||Macleaya microcarpa||Papaver bracteatum||Papaver commutatum||Papaver radicatum||Papaver somniferum||Pteridophyllum racemosum Sieb.et Zuce.||Pteridophyllum spp.||Sanguinaria canadensis||Stylophorum lasiocarpum
+C00001924 : Papaver albiflorum||Papaver bracteatum||Papaver commutatum||Papaver confine||Papaver fugax||Papaver macrantha||Papaver orientale L.||Papaver pinnatifidum||Papaver setigerum||Papaver somniferum||Papaver stevenianum
+C00002057 : Corydalis yanhusuo
+C00002061 : Corydalis yanhusuo
+C00002236 : Chelidonium majus L.
+C00002274 : Corydalis yanhusuo
+C00002285 : Corydalis yanhusuo
+C00002292 : Corydalis yanhusuo
+C00002293 : Corydalis yanhusuo
+C00002295 : Corydalis yanhusuo
+C00002306 : Corydalis yanhusuo
+C00002378 : Dicentra sp.
+C00002657 : Papaver somniferum
+C00002743 : Corydalis decumbens
+C00003673 : Chelidonium ambrosioides||Chelidonium majus
+C00003674 : Corydalis remota||Papaver somniferum
+C00004565 : Meconopsis betonicifolia
+C00004635 : Argemone mexicana
+C00005158 : Meconopsis grandis
+C00005165 : Papaver nudicaule
+C00005166 : Fumaria parviflora||Meconopsis betonicifolia||Meconopsis grandis||Meconopsis horridula
+C00005169 : Fumaria parviflora
+C00005181 : Fumaria parviflora
+C00005335 : Meconopsis paniculata
+C00005346 : Roemeria hybrida
+C00005411 : Papaver somniferum
+C00005427 : Fumaria parviflora
+C00005525 : Argemone mexicana
+C00005539 : Papaver orientale
+C00005548 : Glaucium corniculatum||Papaver rhoeas
+C00005554 : Hunnemannia fumariaefolia
+C00005556 : Argemone mexicana
+C00005688 : Papaver nudicaule
+C00005694 : Roemeria hybrida
+C00006636 : Papaver orientale||Papaver rhoeas
+C00006647 : Papaver spp.
+C00006649 : Papaver argemone||Papaver nudicaule||Papaver orientale
+C00006658 : Papaver bracteatum
+C00006759 : Papaver nudicaule
+C00007381 : Corydalis yanhusuo
+C00007565 : Corydalis yanhusuo
+C00010499 : Glaucium nana
+C00011190 : Meconopsis betonicifolia||Meconopsis grandis||Meconopsis horridula
+C00015302 : Papaver bracteatum
+C00015402 : Papaver bracteatum||Papaver somniferum
+C00015423 : Papaver somniferum
+C00019144 : Fumaria officinalis
+C00024620 : Glaucium corniculatum ssp.refractum||Glaucium vitellinum Boiss.et Buhse
+C00024621 : Glaucium flavum var.vestitum
+C00024623 : Ceratocapnos palaestinus||Chelidonium major||Chelidonium majus||Glaucium corniculatum ssp.refractum||Glaucium squamigerum Kar.et Kir.||Glaucium vitellinum Boiss.et Buhse||Papaver bracteatum||Papaver nudicaule||Sarcocapnos baetica||Sarcocapnos enneaphylla||Sarcocapnos saetabensis||Stylophorum diphyllum Nutt.||Stylophorum lasiocarpum
+C00024624 : Corydalis bulleyana||Corydalis conspersa||Corydalis incisa (Thumb.)Pers.||Corydalis lineariodes||Corydalis melanochlora||Corydalis mucronifera||Corydalis stricta Steph.||Corydalis trachycarpa
+C00024626 : Bocconia arborea||Corydalis flabellata Edgew||Fumaria vaillantii Loisl.||Glaucium flavum Cr.var.vestitum||Hypecoum leptocarpus||Hypecoum procumbens L.||Papaver somniferum L.
+C00024627 : Glaucium flavum Cr.var.vestitum
+C00024628 : Bocconia arborea
+C00024632 : Bocconia cordata Willd.||Chelidonium japonicum Thumb.||Macleaya cordata
+C00024634 : Argemone mexicana||Bocconia arborea||Bocconia frutescens||Chelidonium japonicum Thumb.||Chelidonium majus||Corydalis ophiocarpa Hook.Et Thoms.||Dicentra peregrina Rudolph||Dicentra spectabilis||Fumaria schramii Pugsley||Glaucium fimbrilligerum Boiss.||Glaucium squamigerum Kar.et KIR.||Hypecoum leptocarpum||Macleaya cordata||Macleaya microcarpa||Papaver commutatum||Stylophorum diphyllum Nutt.||Stylophorum lasiocarpum
+C00024635 : Pteridophyllum racemosum Sieb.et Zuce.
+C00024637 : Corydalis conspersa
+C00024638 : Corydalis incisa (Thumb.)Pers.
+C00024639 : Corydalis conspersa||Corydalis incisa
+C00024641 : Bocconia integrifolia||Corydalis ledebouriana||Eschscholtzia californica Cham||Glaucium bois||Glaucium elegans||Glaucium flavum Cr.var.vestitum
+C00024643 : Bocconia integrifolia||Eschscholtzia californica Cham
+C00024644 : Eschscholtzia californica||Eschscholtzia californica Cham
+C00024655 : Chelidonium japonicum Thumb.
+C00024657 : Chelidonium japonicum Thumb.||Corydalis solida||Dactylicapnos torulosa||Fumaria indica (Haussk.) Pugsley||Fumaria vaillantii Loisl.||Glaucium flavum Cr.var.vestitum||Hypecoum procumbens L.||Papaver rhoeas||Papaver somniferum L.||Pteridophyllum racemosum Sieb.et Zuce.
+C00024658 : Corydalis conspersa||Corydalis incisa||Corydalis lineariodes||Corydalis melanochlora||Corydalis mucronifera||Corydalis stricta Steph.
+C00024659 : Corydalis ledebouriana||Corydalis paniculugera Rgl.||Dactylicapnos torulosa||Fumaria indica (Haussk.) Pugsley||Fumaria parviflora Lam||Fumaria vaillantii Loisl.||Hypecoum procumbens L.||Pteridophyllum racemosum Sieb.et Zuce.
+C00024667 : Corydalis ophiocarpa Hook.f.et Thoms
+C00024668 : Chelidonium major||Chelidonium majus L.||Corydalis adunca||Corydalis ambigua var.amurensis||Corydalis cava (L.) Schw.et Koert||Corydalis dasypterma||Corydalis decumbens||Corydalis incisa||Corydalis intermedia||Corydalis ledebouriana||Corydalis longicalcarata||Corydalis nobilis||Corydalis ophiocarpa Thoms||Corydalis pallida||Corydalis remota||Corydalis repens||Corydalis yanhusuo||Dicentra spectabilis||Fumaria agraria||Fumaria capreolata||Fumaria densiflora DC||Fumaria judaica Boiss||Fumaria kraliki Jordan||Fumaria muralis||Fumaria officinalis||Fumaria parviflora||Fumaria parviflora Lam.||Fumaria vaillantii||Glaucium arabicum||Hunnemannia fumariaefolia Sweet||Hypecoum japonicum||Hypecoum leptocarpum||Meconopsis robusta||Papaver albiflora||Papaver albiflorum sub.spp.albiflorum||Papaver albiflorum sub.spp.austromoravicum||Papaver argemone||Papaver confine Jord.||Papaver lecoquii Lamotte||Papaver orientale||Papaver pseudoorientale (Fedde) Medw.||Papaver rhoeas L.||Papaver rhoeas chelidonides||Papaver rhopalothece||Papaver rupifragum Boss et.Reut||Papaver setigerum||Stylophorum lasiocarpum
+C00024754 : Sarcocapnos enneaphylla
+C00024755 : Corydalis claviculata||Sarcocapnos crassifolia
+C00024756 : Ceratocapnos palaestinus||Sarcocapnos baetica||Sarcocapnos enneaphylla||Sarcocapnos saetabensis
+C00024757 : Sarcocapnos enneaphylla
+C00024758 : Ceratocapnos palaestinus||Corydalis claviculata||Sarcocapnos crassifolia
+C00024759 : Ceratocapnos palaestinus||Corydalis claviculata||Sarcocapnos crassifolia||Sarcocapnos enneaphylla
+C00024760 : Corydalis claviculata
+C00024761 : Ceratocapnos palaestinus||Corydalis claviculata
+C00024762 : Corydalis claviculata
+C00024763 : Corydalis claviculata
+C00024764 : Ceratocapnos palaestinus||Corydalis claviculata||Sarcocapnos baetica||Sarcocapnos crassifolia||Sarcocapnos enneaphylla||Sarcocapnos saetabensis
+C00024765 : Ceratocapnos palaestinus||Sarcocapnos enneaphylla
+C00024768 : Sarcocapnos enneaphylla
+C00024770 : Corydalis claviculata
+C00024771 : Corydalis claviculata
+C00024772 : Ceratocapnos heterocarpa||Ceratocapnos palaestinus||Sarcocapnos crassifolia||Sarcocapnos enneaphylla
+C00024773 : Ceratocapnos palaestinus||Corydalis claviculata||Corydalis rutifolia||Corydalis solida||Sarcocapnos saetabensis
+C00024774 : Ceratocapnos palaestinus||Corydalis rutifolia||Sarcocapnos crassifolia||Sarcocapnos enneaphylla||Sarcocapnos saetabensis
+C00024775 : Ceratocapnos heterocarpa||Corydalis solida||Sarcocapnos enneaphylla
+C00024776 : Sarcocapnos crassifolia||Sarcocapnos enneaphylla
+C00024777 : Corydalis claviculata
+C00024778 : Sarcocapnos crassifolia||Sarcocapnos enneaphylla
+C00024779 : Sarcocapnos enneaphylla
+C00024940 : Papaver orientale L.
+C00025233 : Corydalis pseudoadunca||Papaver somniferum
+C00025234 : Corydalis ochotensis Turez.
+C00025241 : Corydalis pallida Pers.var.tenuis Yatabe.||Corydalis solida||Corydalis yanhusuo
+C00025243 : Argemone brevicornuta G.B.Ownb.||Argemone hispida Gray||Argemone munita Dur.and Hilg subsp.rotundata G.B.Ownb.||Argemone platyceras Link and Otto||Eschscholtzia californica Cham||Eschscholtzia douglasii Walp.||Eschscholtzia glauca Greene
+C00025244 : Papaver caucasicum Marsch.-Bieb.
+C00025252 : Corydalis caseana A.Gray.
+C00025268 : Argemone mexicana||Chelidonium majus||Corydalis cava||Dicentra spectabilis||Fumaria officinalis||Glaucium flavum||Hypecoum lactiflorum||Macleaya cordata||Meconopsis cambrica||Papaver bracteatum||Papaver rhoeas||Papaver somniferum||Romneya coulteri
+C00025296 : Argemone hispida Gray||Argemone munita Dur.and Hilg subsp.rotundata G.B.Ownb.||Eschscholtzia californica Cham||Eschscholtzia douglasii Walp.||Eschscholtzia glauca Greene||Fumaria indica
+C00025334 : Dactylicapnos torulosa
+C00025342 : Fumaria indica
+C00025347 : Papaver somniferum
+C00025398 : Eschscholtzia californica Cham||Eschscholtzia douglasii Walp.||Eschscholtzia glauca Greene
+C00025399 : Eschscholtzia californica Cham||Eschscholtzia douglasii Walp.||Eschscholtzia glauca Greene
+C00025400 : Argemone gracilenta Greene||Argemone munita Dur.and Hilg subsp.argentea G.B.Ownb.||Eschscholtzia californica Cham||Eschscholtzia douglasii Walp.||Eschscholtzia glauca Greene
+C00025401 : Argemone gracilenta Greene||Argemone munita Dur.and Hilg subsp.rotundata G.B.Ownb.
+C00025403 : Argemone gracilenta Greene||Argemone platyceras Link and Otto
+C00025449 : Papaver alpinum L.||Papaver anomalum Fedde||Papaver bracteatum Lindl.||Papaver floribundum Desf.||Papaver fugax poir||Papaver orientale L.||Papaver pseudoorientale (Fedde) Medw.||Papaver ssp. Burseri (Crantz.) Fedde||Papaver ssp. Kerneri (Hayek) Fedde||Papaver ssp. sendtneri (Kern) Schnz et.Keller||Papaver ssp. tatricum Nyar.||Papaver ssp.rhaeticum (Ler.) Mgf.
+C00025450 : Papaver tauricola Boiss.
+C00025451 : Papaver fugax poir||Papaver glaucum Boiss.et Hauskn||Papaver nudicaule L.Var.leiocarpum(Turcz.)Fedde||Papaver rhoeas L.||Papaver tauricola Boiss.
+C00025452 : Papaver anomalum Fedde||Papaver armeniacum (L.) D.C.||Papaver fugax poir||Papaver glaucum Boiss.et Hauskn||Papaver rhoeas L.||Papaver somniferum L.||Papaver tauricola Boiss.
+C00025453 : Meconopsis betonicifolia||Meconopsis horridula||Meconopsis napaulensis||Meconopsis rudis Prain||Papaver arenarium||Papaver argemone||Papaver commutatum||Papaver dubium||Papaver oreophilum||Papaver rhoeas L.||Papaver rhoeas var.decaisnei Hochst.et Steud.||Papaver rupifragum Boiss.et Reut||Papaver syriacum Boiss.et Blanche||Papaver var. flore albo||Papaver var. flore pleno
+C00025454 : Papaver albiflorum||Papaver commutatum||Papaver rhoeas L.
+C00025455 : Papaver armeniacum (L.) D.C.||Papaver fugax poir||Papaver oreophilum Rupr.||Papaver tauricola Boiss.||Papaver trifolium Boiss||Papaver triniifolium
+C00025456 : Papaver fugax poir||Papaver oreophilum Rupr.||Papaver tauricola Boiss.||Papaver triniifolium
+C00025457 : Meconopsis betonicifolia||Meconopsis napaulensis DC.||Meconopsis paniculata||Meconopsis rudis Prain||Papaver albiflorum||Papaver atlanticum Ball.||Papaver californicum||Papaver caucasicum||Papaver commutatum||Papaver confine||Papaver decaisnei||Papaver dubium||Papaver glaucum Boiss.et Hauskn||Papaver heldreichii||Papaver latericium||Papaver lecoquii||Papaver litwinowii||Papaver macrostomum||Papaver oreophilum||Papaver orientale||Papaver pilosum||Papaver pinnatifidum||Papaver rhoeas||Papaver rupifragum Boiss.et Reut||Papaver setigerum||Papaver stevenianum||Papaver strigosum||Papaver syriacum Boiss.et Blanche
+C00025458 : Papaver albiflorum||Papaver alpinum L.||Papaver anomalum Fedde||Papaver atlanticum Ball.||Papaver bracteatum Lindl.||Papaver californicum||Papaver caucasicum||Papaver commutatum||Papaver dubium||Papaver feddei Schwz.||Papaver fugax poir||Papaver glaucum Boiss.et Hauskn||Papaver heldreichii||Papaver hybridum||Papaver latericium||Papaver macrostomum||Papaver nudicaule L.||Papaver oreophilum Rupr.||Papaver orientale L.||Papaver persicum Lindl.||Papaver pilosum||Papaver polychaetum||Papaver pseudocanescens||Papaver radicatum Rottb.||Papaver rhoeas L.||Papaver rupifragum Boiss.et Reut||Papaver setigerum DC.||Papaver somniferum L.||Papaver strigosum||Papaver triniaefolium Boiss.||Papaver urbanianum Fedde.
+C00025459 : Meconopsis betonicifolia||Meconopsis cambrica||Meconopsis horridula||Meconopsis napaulensis DC.||Meconopsis paniculata||Meconopsis robusta||Meconopsis rudis Prain||Papaver albiflorum||Papaver alboroseum||Papaver anomalum Fedde||Papaver atlanticum Ball.||Papaver caucasicum||Papaver commutatum||Papaver confine||Papaver decaisnei||Papaver dubium||Papaver glaucum Boiss.et Hauskn||Papaver lecoquii||Papaver litwinowii||Papaver orientale L.||Papaver pinnatifidum||Papaver rhoeas||Papaver rupifragum Boiss.et Reut||Papaver setigerum||Papaver somniferum L.||Papaver stevenianum
+C00025460 : Meconopsis betonicifolia||Meconopsis cambrica||Meconopsis horridula||Meconopsis nepalensis||Meconopsis paniculata||Meconopsis robusta||Meconopsis rudis Prain||Meconopsis sinuata||Papaver albiflorum||Papaver alboroseum||Papaver alpinum L.||Papaver anomalum Fedde||Papaver argemone L.||Papaver atlanticum Ball.||Papaver bracteatum Lindl.||Papaver californicum A.Gray||Papaver caucasicum||Papaver commutatum||Papaver confine||Papaver croceum||Papaver decaisnei||Papaver dubium||Papaver feddei Schwz.||Papaver fugax poir||Papaver glaucum Boiss.et Hauskn||Papaver heldreichii||Papaver hybridum L.||Papaver latericium||Papaver lecoquii||Papaver litwinowii||Papaver macrostomum||Papaver nudicaule L.||Papaver oreophilum Rupr.||Papaver orientale L.||Papaver pavoninum||Papaver persicum Lindl.||Papaver pilosum||Papaver pinnatifidum||Papaver polychaetum||Papaver pseudocanescens||Papaver radicatum Rottb.||Papaver rhoeas L.||Papaver rupifragum Boiss.et Reut||Papaver setigerum DC.||Papaver somniferum L.||Papaver ssp. hyperboreum Nordhagen||Papaver ssp. kerneri (Hayek) Fedde||Papaver ssp. sendtneri (Kern) Schnz et.Keller||Papaver ssp.rhaeticum (Ler.)Mgf.||Papaver strigosum||Papaver triniaefolium Boiss.||Papaver var. paeoniflorum Alef.
+C00025461 : Bocconia frutescens||Bocconia frutescens L.||Meconopsis betonicifolia||Meconopsis horridula||Meconopsis nepalensis||Meconopsis paniculata||Meconopsis robusta||Meconopsis rudis Prain||Papaver albiflorum||Papaver argemone L.||Papaver atlanticum Ball.||Papaver bracteatum Lindl.||Papaver californicum A.Gray||Papaver caucasicum||Papaver commutatum||Papaver confine||Papaver decaisnei||Papaver dubium||Papaver feddei Schwz.||Papaver fugax poir||Papaver heldreichii||Papaver hybridum L.||Papaver latericium||Papaver lecoquii||Papaver macrostomum Boiss.et Huet||Papaver oreophilum Rupr.||Papaver orientale L.||Papaver pavoninum||Papaver pilosum||Papaver pseudocanescens||Papaver radicatum Rottb.||Papaver rhoeas L.||Papaver rupifragum Boiss.et Reut||Papaver setigerum DC.||Papaver somniferum L.||Papaver strigosum||Papaver syriacum Boiss.et Blanche||Papaver tauricola Boiss.
+C00025462 : Papaver commutatum||Papaver dubium||Papaver oreophilum Rupr.
+C00025463 : Papaver alpinum||Papaver anomalum Fedde||Papaver orientale||Papaver ssp. kerneri (Hayek) Fedde||Papaver ssp. sendtneri (Kern) Schnz et.Keller||Papaver ssp.rhaeticum (Ler.) Mgf.
+C00025464 : Papaver arenarium||Papaver argemone L.||Papaver atlanticum Ball.||Papaver californicum A.Gray||Papaver commutatum||Papaver dubium||Papaver latericium||Papaver macrostomum||Papaver nudicaule||Papaver oreophilum Rupr.||Papaver pilosum||Papaver rhoeas L.||Papaver rupifragum Boiss.et Reut||Papaver strigosum||Papaver syriacum Boiss.et Blanche||Papaver tauricola Boiss.||Papaver triniifolium
+C00025600 : Corydalis pallida
+C00025607 : Dicentra pusilla
+C00025625 : Meconopsis cambrica||Papaver confine||Papaver dubium||Papaver fugax||Papaver persicum Lindl.||Papaver rhoeas||Papaver rhopalothece||Roemeria refracta
+C00025626 : Meconopsis cambrica
+C00025629 : Ceratocapnos palaestinus||Corydalis cava||Corydalis incisa||Corydalis majori||Corydalis ochroleuca||Corydalis pallida||Corydalis pallida var.tenuis||Corydalis solida||Corydalis stewartii||Glaucium controruplicatum||Platycapnos saxicola
+C00025632 : Argemone mexicana||Chelidonium majus||Corydalis cava||Corydalis esquirolii||Corydalis omeiensis||Corydalis ophiocarpa Thoms||Corydalis yanhusuo||Macleaya cordata||Papaver bracteatum||Papaver somniferum||Papaver triniifolium
+C00025654 : Glaucium flavum||Papaver somniferum L.||Romneya coulteri
+C00025655 : Corydalis dasyptera||Corydalis gortschakovii||Corydalis nobilis||Fumaria densiflora||Glaucium fimbrilligerum Boiss.||Meconopsis cambrica||Meconopsis robusta||Papaver albiflorum||Papaver confine||Papaver dubium||Papaver pinnatifidum||Papaver rhoeas||Papaver setigerum||Papaver somniferum||Papaver stevenianum||Stylophorum lasiocarpum
+C00025658 : Dicentra oregana Eastwood.||Glaucium corniculatum
+C00025666 : Glaucium flavum||Papaver somniferum
+C00025674 : Glaucium corniculatum
+C00025675 : Corydalis caucasia||Glaucium flavum||Platycapnos spicata
+C00025676 : Ceratocapnos palaestinus
+C00025812 : Argemone mexicana||Chelidonium majus||Corydalis cava||Dicentra spectabilis||Fumaria officinalis||Glaucium flavum||Hypecoum lactiflorum||Macleaya cordata||Meconopsis cambrica||Papaver bracteatum||Papaver rhoeas||Papaver somniferum||Roemeria refracta||Romneya coulteri
+C00025827 : Corydalis decumbens||Corydalis lutea||Glaucium corniculatum||Glaucium flavum||Papaver albiflorum||Papaver confine||Papaver stevenianum
+C00025845 : Papaver rhoeas
+C00025924 : Ceratocapnos palaestinus||Corydalis bungeana||Corydalis claviculata||Fumaria bastardii
+C00025935 : Papaver caucasicum
+C00025937 : Papaver bracteatum
+C00025939 : Corydalis decumbens
+C00025976 : Papaver caucasicum
+C00025995 : Platycapnos spicata
+C00025997 : Glaucium arabicum
+C00026002 : Corydalis claviculata||Corydalis incisa||Corydalis pallida
+C00026016 : Corydalis cava||Platycapnos spicata
+C00026023 : Roemeria refracta
+C00026026 : Corydalis yanhusuo
+C00026064 : Argemone mexicana
+C00026083 : Chelidonium majus L.
+C00026085 : Papaver albiflorum sub.spp.albiflorum||Papaver albiflorum sub.spp.austromoravicum
+C00026086 : Chelidonium majus Linn.||Papaver rhoeas L.
+C00026087 : Argemone mexicana||Chelidonium majus||Chelidonium meifolia Wall.||Corydalis bulleyana||Corydalis caucasia||Corydalis cava||Corydalis claviculata||Corydalis gigantea Trautv.et Mey.||Corydalis hsuchowensis||Corydalis majori||Corydalis ophiocarpa Thoms||Corydalis stewartii||Dactylicapnos torulosa||Dicentra spectabilis||Fumaria judaica Boiss||Fumaria officinalis||Fumaria parviflora Lam.||Glaucium flavum||Macleaya cordata||Meconopsis cambrica||Papaver bracteatum||Papaver macrostomum Boiss.et Huet||Papaver rhoeas||Papaver somniferum||Papaver trinifolium||Papaver triniifolium
+C00026088 : Corydalis cava (L.) Schw.et Koert||Corydalis incisa Pers.||Corydalis lutea||Corydalis nobilis||Corydalis ophiocarpa Thoms||Corydalis thalictrifolia Franch||Dicentra oregana Eastwood.
+C00026089 : Hunnemannia fumariaefolia Sweet
+C00026091 : Corydalis cheilanthifolia||Corydalis govaniana||Corydalis ophiocarpa||Corydalis ophiocarpa Thoms||Corydalis solida
+C00026092 : Argemone mexicana||Chelidonium majus||Corydalis caseana A.Gray.||Corydalis caucasia||Corydalis cava||Corydalis gigantea Trautv.et Mey.||Corydalis hsuchowensis||Corydalis incisa||Corydalis intermedia||Corydalis majori||Corydalis nobilis||Corydalis pallida||Corydalis pseudoadunca||Corydalis sibirica Pers.||Corydalis solida||Corydalis stewartii||Corydalis yanhusuo||Dicentra spectabilis||Fumaria densiflora||Fumaria officinalis||Glaucium flavum||Hunnemannia fumariaefolia Sweet||Hypecoum procumbens L.||Macleaya cordata||Meconopsis cambrica||Papaver albiflora||Papaver albiflorum (sub.spp.albiflorum austromoravicum)||Papaver bracteatum||Papaver confine||Papaver lecoquii Lamotte||Papaver orientale||Papaver pinnatifidum||Papaver rhoeas chelidonides||Papaver setigerum||Papaver somniferum L.||Papaver stevenianum||Papaver tauricola||Papaver trinifolium||Papaver triniifolium||Sarcocapnos enneaphylla||Sarcocapnos saetabensis||Stylophorum lasiocarpum
+C00026093 : Fumaria officinalis L.
+C00026094 : Dactylicapnos torulosa
+C00026095 : Argemone mexicana||Chelidonium gortschakovii Schrenk||Chelidonium majus L.||Chelidonium meifolia Wall.||Corydalis bungeana||Corydalis caucasia||Corydalis cava||Corydalis claviculata||Corydalis decumbens||Corydalis hsuchowensis||Corydalis intermedia||Corydalis majori||Corydalis marschalliana Pers.||Corydalis nobilis||Corydalis ophiocarpa Thoms||Corydalis pallida||Corydalis racemosa||Corydalis remota||Corydalis repens||Corydalis stewartii||Corydalis ternata||Corydalis yanhusuo||Dicentra spectabilis||Fumaria agraria||Fumaria bastardii||Fumaria capreolata||Fumaria densiflora||Fumaria indica||Fumaria judaica Boiss||Fumaria kraliki Jordan||Fumaria muralis||Fumaria officinalis||Fumaria parviflora||Fumaria parviflora Lam.||Fumaria schleicheri Soy.-Will.||Fumaria schrammii Nym.||Fumaria vaillantii Loisel.||Glaucium flavum||Macleaya cordata||Meconopsis cambrica||Papaver bracteatum||Papaver confine||Papaver lecoquii Lamotte||Papaver rhoeas chelidonides||Papaver rupifragum Boiss.et Reut||Papaver setigerum||Papaver somniferum||Stylophorum lasiocarpum
+C00026096 : Chelidonium meifolia Wall.||Corydalis esquirolii||Corydalis majori||Corydalis thyrsifolia
+C00026098 : Corydalis cava (L.) Schw.et Koert||Corydalis nobilis
+C00026099 : Corydalis cava (L.) Schw.et Koert
+C00026100 : Corydalis cava (L.) Schw.et Koert
+C00026103 : Corydalis cava (L.)Schw.et Koert
+C00026104 : Corydalis cava (L.) Schw.et Koert
+C00026105 : Corydalis cava (L.) Schw.et Koert
+C00026106 : Corydalis ophiocarpa Hook.f.et Thoms
+C00026107 : Chelidonium majus||Corydalis claviculata||Fumaria parviflora Lam.
+C00026109 : Papaver alboroseum||Papaver orientale||Papaver pseudoorientale (Fedde) Medw.
+C00026110 : Argemone platyceras Link et Otto||Argemone polyanthemos||Corydalis nobilis||Dicentra spectabilis||Papaver albiflorum sub.spp.albiflorum||Papaver albiflorum sub.spp.austromoravicum||Papaver lecoquii Lamotte||Stylophorum lasiocarpum
+C00026114 : Corydalis ophiocarpa Hook.f.et Thoms
+C00026115 : Corydalis cava (L.)Schw.et Koert||Corydalis glaucescens||Corydalis intermedia||Corydalis nobilis||Corydalis ochroleuca||Corydalis sewerzovii||Corydalis solida (L) Swartz||Corydalis turtschaninowii||Corydalis yanhusuo
+C00026116 : Corydalis koidzumiana
+C00026118 : Chelidonium majus L.||Corydalis cava (L.) Schw.et Koert||Corydalis dasypterma||Corydalis nobilis||Hunnemannia fumariaefolia Sweet||Meconopsis robusta||Papaver albiflorum (sub.spp.albiflorum austromoravicum)||Papaver confine||Papaver rhoeas chelidonides||Papaver rupifragum Boiss.et Reut||Stylophorum lasiocarpum
+C00026121 : Corydalis cava (L.) Schw.et Koert
+C00026122 : Bocconia cordata Willd.||Corydalis ophiocarpa Thoms||Fumaria parviflora Lam.
+C00026123 : Corydalis bulbosa||Corydalis cava (L.) Schw.et Koert||Corydalis intermedia||Corydalis nobilis||Corydalis solida||Corydalis yanhusuo
+C00026126 : Corydalis tashiroi
+C00026134 : Chelidonium majus Linn.||Meconopsis cambrica Vig.||Meconopsis punicea||Papaver alboroseum||Papaver caucasicum Marsch.-Bieb.||Papaver fugax Poir.||Papaver nudicaule L.||Papaver oreophilum Rupr.||Papaver orientale L.||Papaver pseudoorientale||Papaver rhoeas L.||Papaver triniifolium||Roemeria refracta
+C00026135 : Chelidonium majus||Hypecoum lactiflorum||Macleaya cordata||Papaver somniferum
+C00026138 : Glaucium pulchrum Stapi
+C00026139 : Chelidonium majus||Fumaria officinalis L.||Papaver rhoeas||Papaver somniferum||Papaver triniifolium
+C00026140 : Papaver bracteatum Lindl.||Papaver macrantha||Papaver orientale L.||Papaver pseudoorientale
+C00026143 : Corydalis govaniana
+C00026144 : Corydalis marschalliana Pers.||Corydalis nobilis||Corydalis solida||Corydalis thyrsifolia||Fumaria agraria||Fumaria capreolata||Fumaria densiflora||Fumaria muralis||Fumaria officinalis||Fumaria parviflora||Fumaria schleicheri Soy.-Will.||Fumaria vaillantii||Glaucium flavum Crantz.||Papaver commutatum||Papaver confine||Papaver tauricola||Papaver trinifolium||Papaver triniifolium
+C00026145 : Corydalis solida (L.) Swartz
+C00026150 : Corydalis cava||Corydalis decumbens||Corydalis intermedia||Corydalis nobilis||Corydalis ochroleuca||Corydalis pallida||Corydalis racemosa||Corydalis remota||Corydalis solida||Corydalis turtschaninowii||Corydalis yanhusuo||Fumaria bastardii
+C00026154 : Glaucium arabicum
+C00027120 : Papaver fugax
+C00027136 : Corydalis solida||Fumaria bastardii
+C00027143 : Papaver fugax||Papaver triniifolium
+C00027144 : Corydalis yanhusuo
+C00027150 : Corydalis ochroleuca||Corydalis solida
+C00027151 : Fumaria indica||Papaver bracteatum Lindl.
+C00027154 : Glaucium flavum||Papaver somniferum
+C00027193 : Papaver somniferum
+C00027194 : Bocconia arborea
+C00027195 : Bocconia arborea
+C00027235 : Bocconia arborea||Sanguinaria canadensis L.
+C00027238 : Ceratocapnos palaestinus||Corydalis yanhusuo||Glaucium arabicum||Glaucium corniculatum||Glaucium fimbrilligerum||Glaucium grandiflorum||Platycapnos spicata
+C00027259 : Corydalis incisa
+C00027268 : Corydalis sempervirens||Fumaria agraria||Fumaria capreolata||Fumaria densiflora||Fumaria muralis||Fumaria officinalis||Fumaria parviflora||Fumaria vaillantii||Papaver rhoeas L.
+C00027269 : Fumaria agraria||Fumaria capreolata||Fumaria densiflora||Fumaria muralis||Fumaria officinalis||Fumaria parviflora||Fumaria schleicheri||Fumaria vaillantii||Papaver rhoeas
+C00027303 : Corydalis caucasia||Fumaria bastardii
+C00027306 : Glaucium fimbrilligerum
+C00027308 : Corydalis caseana A.Gray.
+C00027327 : Fumaria parviflora
+C00027328 : Fumaria parviflora
+C00027329 : Corydalis esquirolii||Corydalis nobilis||Corydalis omeiensis||Corydalis thyrsifolia||Fumaria bastardii
+C00027330 : Glaucium flavum||Glaucium grandiflorum||Platycapnos spicata||Sarcocapnos enneaphylla
+C00027331 : Papaver triniifolium
+C00027332 : Chelidonium majus||Corydalis esquirolii||Corydalis gortschakovii||Corydalis nobilis||Corydalis omeiensis||Corydalis sewerzovii||Corydalis stewartii||Dicentra chrysantha||Fumaria agraria||Fumaria capreolata||Fumaria densiflora||Fumaria officinalis L.||Fumaria parviflora Lam.||Fumaria vaillantii||Hypecoum procumbens||Meconopsis robusta||Papaver californicum||Papaver confine||Papaver radicatum||Papaver rhoeas chelidonides||Papaver rhopalothece||Papaver somniferum||Stylophorum lasiocarpum
+C00027344 : Hypecoum leptocarpum
+C00027354 : Corydalis decumbens
+C00027366 : Meconopsis cambrica||Roemeria refracta
+C00027367 : Fumaria densiflora
+C00027368 : Corydalis caucasia||Corydalis solida||Fumaria agraria||Fumaria bastardii||Fumaria capreolate||Fumaria densiflora||Fumaria muralis||Fumaria officinalis||Fumaria parviflora
+C00027369 : Corydalis solida||Fumaria agraria||Fumaria capreolate||Fumaria densiflora||Fumaria officinalis||Fumaria vaillantii
+C00027378 : Hypecoum leptocarpum
+C00027386 : Glaucium corniculatum
+C00027389 : Hypecoum erectum||Hypecoum leptocarpum
+C00027394 : Ceratocapnos palaestinus
+C00027410 : Hypecoum leptocarpum
+C00027425 : Papaver triniifolium
+C00027430 : Platycapnos spicata||Sarcocapnos enneaphylla
+C00027438 : Corydalis caucasia||Corydalis yanhusuo
+C00027440 : Fumaria vaillantii Loisl.
+C00027441 : Papaver caucasicum
+C00027452 : Fumaria agraria||Fumaria bastardii||Fumaria capreolate||Fumaria densiflora||Fumaria officinalis||Fumaria parviflora||Fumaria vaillantii
+C00027457 : Glaucium elegans||Glaucium flavum Crantz.||Glaucium grandiflorum||Glaucium oxylobum||Platycapnos spicata||Sarcocapnos baetica||Sarcocapnos enneaphylla||Sarcocapnos saetabensis
+C00027458 : Argemone mexican||Fumaria bastardii||Fumaria indica||Fumaria schleicheri||Hunnemannia fumariaefolia Sweet.||Hypecoum imberbe||Hypecoum leptocarpum||Hypecoum pendulum||Hypecoum procumbens||Papaver dubium var.glabrum.
+C00027467 : Papaver setigerum||Papaver somniferum||Papaver triniifolium
+C00027487 : Corydalis dasypterma||Corydalis esquirolii||Corydalis thyrsifolia||Fumaria indica
+C00027488 : Corydalis dasypterma||Corydalis esquirolii||Corydalis incisa||Corydalis majori||Corydalis pallida||Corydalis yanhusuo
+C00027505 : Glaucium arabicum
+C00027511 : Chelidonium majus||Hypecoum leptocarpus
+C00027512 : Corydalis caucasia||Corydalis decumbens||Corydalis lutea||Corydalis nobilis||Corydalis thalictrifolia Franch||Glaucium flavum
+C00027531 : Corydalis bulleyana||Corydalis incisa Pers.||Hypecoum leptocarpum
+C00027532 : Glaucium corniculatum
+C00027535 : Corydalis decumbens
+C00027539 : Fumaria densiflora
+C00027540 : Fumaria densiflora||Fumaria microcarpa
+C00027545 : Hypecoum erectum L.||Hypecoum procumbens
+C00027546 : Hypecoum erectum||Hypecoum leptocarpum
+C00027551 : Platycapnos spicata
+C00027557 : Hypecoum leptocarpum||Hypecoum leptocarpus
+C00027563 : Meconopsis quintuplinerva
+C00027566 : Platycapnos spicata||Platycapnos tenuiloba
+C00027573 : Papaver setigerum
+C00027591 : Papaver setigerum
+C00027592 : Papaver setigerum
+C00027603 : Papaver somniferum
+C00027616 : Sarcocapnos saetabensis
+C00027635 : Hypecoum pendulum
+C00027640 : Roemeria refracta
+C00027641 : Roemeria refracta
+C00027653 : Eschscholtzia californica
+C00027672 : Eschscholtzia californica
+C00027673 : Eschscholtzia californica
+C00027678 : Corydalis solida
+C00027711 : Papaver curviscapum
+C00027712 : Papaver curviscapum
+C00027735 : Sarcocapnos baetica
+C00027758 : Sarcocapnos baetica
+C00027777 : Dactylicapnos torulosa
+C00028005 : Chelidonium majus||Corydalis cava||Corydalis cheilanthifolia||Corydalis intermedia||Corydalis rotundatour||Corydalis solida||Corydalis yanhusuo||Hypecoum lactiflorum||Macleaya cordata||Papaver bracteatum||Papaver somniferum
+C00028007 : Ceratocapnos heterocarpa
+C00028024 : Ceratocapnos palaestinus
+C00028025 : Ceratocapnos palaestinus
+C00028026 : Ceratocapnos palaestinus
+C00028039 : Sarcocapnos enneaphylla||Sarcocapnos saetabensis
+C00028040 : Chelidonium majus L.||Corydalis solida
+C00028059 : Ceratocapnos heterocarpa
+C00028086 : Corydalis claviculata
+C00028087 : Corydalis koidzumiana||Corydalis nobilis||Corydalis solida
+C00028088 : Corydalis ledebouriana||Corydalis majori||Fumaria vaillantii
+C00028089 : Corydalis ochotensis Turez.
+C00028090 : Corydalis hsuchowensis
+C00028091 : Papaver pseudo-orientale
+C00028092 : Corydalis lutea
+C00028095 : Corydalis claviculata
+C00028096 : Corydalis claviculata
+C00028139 : Glaucium flavum Crantz.||Platycapnos spicata||Sarcocapnos enneaphylla||Sarcocapnos saetabensis
+C00028141 : Papaver macrostomum
+C00028142 : Platycapnos spicata
+C00028217 : Corydalis gortschakovii||Platycapnos spicata
+C00028281 : Corydalis thyrsifolia||Fumaria indica||Fumaria parviflora Lam.||Fumaria schleicheri Soy-Will.||Fumaria vaillantii Loisl.
+C00028282 : Fumaria indica||Fumaria parviflora Lam.
+C00028283 : Corydalis caucasia||Corydalis solida||Fumaria indica||Fumaria officinalis L.||Fumaria schleicheri Soy-Will.
+C00028351 : Chelidonium majus
+C00028352 : Corydalis hsuchowensis
+C00028394 : Dactylicapnos torulosa
+C00028407 : Sarcocapnos saetabensis
+C00028441 : Roemeria hybrida
+C00028450 : Fumaria indica
+C00028451 : Papaver californicum
+C00028453 : Papaver somniferum
+C00028454 : Papaver somniferum
+C00028456 : Corydalis clavicaulata||Corydalis claviculata||Corydalis yanhusuo
+C00028475 : Corydalis yanhusuo
+C00028538 : Papaver macrostomum
+C00028558 : Ceratocapnos heterocarpa
+C00028591 : Roemeria hybrida
+C00028614 : Argemone munita Dur.et Hilg.subsp.rotunda(Rydb.)G.W.Ownb.||Corydalis esquirolii||Corydalis omeiensis||Corydalis pallida||Papaver californicum||Papaver nudicaule L.
+C00028646 : Papaver somniferum
+C00028647 : Fumaria indica
+C00028648 : Fumaria indica
+C00028700 : Papaver spicatum
+C00028709 : Sarcocapnos saetabensis
+C00028711 : Roemeria refracta
+C00028716 : Glaucium arabicum||Papaver bracteatum
+C00028729 : Fumaria indica
+C00028730 : Corydalis claviculata
+C00028731 : Roemeria hybrida
+C00028733 : Ceratocapnos heterocarpa
+C00028756 : Corydalis bulbosa||Corydalis caucasia||Corydalis ochotensis||Corydalis ochotensis var.raddeana||Corydalis sibirica
+C00028768 : Ceratocapnos palaestinus||Sarcocapnos enneaphylla||Sarcocapnos saetabensis
+C00028771 : Roemeria hybrida
+C00028772 : Roemeria hybrida
+C00028775 : Papaver bracteatum||Papaver macrantha||Papaver orientale L.||Papaver pinnatifidum||Papaver somniferum
+C00028782 : Corydalis claviculata
+C00028792 : Corydalis pallida
+C00028800 : Fumaria indica
+C00028801 : Fumaria indica
+C00028853 : Glaucium grandiflorum||Platycapnos spicata||Sarcocapnos enneaphylla
+C00028871 : Roemeria refracta
+C00028905 : Papaver rhopalothece
+C00028906 : Corydalis claviculata (L.)DC.||Sarcocapnos enneaphylla
+C00028907 : Corydalis claviculata||Sarcocapnos baetica||Sarcocapnos enneaphylla
+C00028937 : Roemeria hybrida
+C00028938 : Roemeria refracta
+C00028939 : Roemeria hybrida
+C00028940 : Roemeria hybrida
+C00028941 : Roemeria refracta
+C00028942 : Roemeria hybrida
+C00028943 : Roemeria hybrida||Roemeria refracta
+C00028956 : Papaver lasiothrix||Papaver pseudo-orientale
+C00028964 : Sarcocapnos baetica
+C00028967 : Sarcocapnos enneaphylla
+C00028973 : Corydalis claviculata
+C00028979 : Sarcocapnos crassifolia||Sarcocapnos enneaphylla
+C00029004 : Papaver macrostomum
+C00029005 : Corydalis flabellata
+C00029012 : Corydalis caucasia||Corydalis flabellata||Corydalis hsuchowensis||Corydalis sibirica Pers.||Corydalis solida||Corydalis thyrsifolia
+C00029035 : Corydalis bulbosa||Corydalis pallida
+C00029099 : Platycapnos spicata||Platycapnos tenuiloba
+C00029100 : Platycapnos spicata
+C00029115 : Papaver bracteatum
+C00029143 : Dactylicapnos torulosa
+C00029144 : Dactylicapnos torulosa
+C00029160 : Hypecoum imberbe||Hypecoum pendulum||Hypecoum procumbens
+C00029245 : Corydalis stewartii
+C00029252 : Corydalis bulbosa||Corydalis pallida
+C00031097 : Roemeria refracta
+C00034467 : Papaver somniferum
+C00034611 : Corydalis yanhusuo
+C00034612 : Corydalis yanhusuo
+C00034613 : Argemone mexicana||Chelidonium majus||Corydalis cava||Dicentra spectabilis||Fumaria officinalis||Glaucium flavum||Hypecoum lactiflorum||Macleaya cordata||Meconopsis cambrica||Papaver bracteatum||Papaver rhoeas||Papaver somniferum||Romneya coulteri
+C00034867 : Papaver nudicaule
+C00035142 : Hypecoum sp.
+C00037598 : Papaver somniferum L.
+C00037960 : Corydalis yanhusuo
+C00039868 : Glaucium flavum||Papaver somniferum
+C00040761 : Chelidonium majus||Corydalis taliensis||Papaver somniferum
+C00040992 : Ceratocapnos heterocarpa
+C00041036 : Hypecoum leptocarpum
+C00041037 : Hypecoum leptocarpum
+C00041038 : Hypecoum leptocarpum
+C00041039 : Hypecoum leptocarpum
+C00045817 : Papaver somniferum
+C00049010 : Sanguinaria canadensis
+C00050483 : Chelidonium majus
+C00050588 : Macleaya cordata
+C00050650 : Corydalis ambigua var.amurensis
+C00050753 : Papaver somniferum
+C00050782 : Papaver somniferum
+C00050796 : Hypecoum erectum||Hypecoum leptocarpum
+C00050797 : Hypecoum leptocarpum
+C00050894 : Corydalis incisa
+C00050970 : Corydalis ochotensis
+C00051224 : Corydalis ledebouriana
+C00051225 : Corydalis ledebouriana||Dicentra peregrina
+C00051271 : Corydalis ochotensis
+C00051519 : Papaver commutatum||Papaver somniferum||Papaver spp.
+C00051520 : Papaver somniferum
+C00051738 : Corydalis yanhusuo
+C00051739 : Corydalis yanhusuo
+C00051754 : Corydalis yanhusuo
+C00051758 : Corydalis yanhusuo
+C00051759 : Corydalis yanhusuo
+C00051843 : Papaver somniferum
+C00051844 : Papaver somniferum
+C00051845 : Papaver somniferum
+C00051846 : Papaver somniferum||Romneya coulteri
+C00051847 : Argemone mexicana||Chelidonium majus||Corydalis cava||Dicentra spectabilis||Fumaria officinalis||Glaucium flavum||Macleaya cordata||Meconopsis cambrica||Papaver bracteatum||Papaver somniferum
+C00051848 : Papaver somniferum
+C00051849 : Glaucium flavum||Papaver somniferum
+C00051850 : Argemone mexicana||Chelidonium majus||Corydalis cava||Dicentra spectabilis||Fumaria officinalis||Glaucium flavum||Hypecoum lactiflorum||Macleaya cordata||Meconopsis cambrica||Papaver bracteatum||Papaver rhoeas||Papaver somniferum||Romneya coulteri
+C00051851 : Argemone mexicana||Chelidonium majus||Corydalis cava||Dicentra spectabilis||Fumaria officinalis||Glaucium flavum||Hypecoum lactiflorum||Macleaya cordata||Meconopsis cambrica||Papaver bracteatum||Papaver rhoeas||Papaver somniferum||Romneya coulteri
+C00051852 : Argemone mexicana||Chelidonium majus||Corydalis cava||Dicentra spectabilis||Fumaria officinalis||Glaucium flavum||Macleaya cordata||Papaver bracteatum||Papaver somniferum
+C00051853 : Papaver argemone||Papaver bracteatum||Papaver commutatum||Papaver dubium||Papaver fugax||Papaver glaucum||Papaver hybridum||Papaver lateritum||Papaver oreophilum||Papaver orientale||Papaver pilosum||Papaver pyrenaicum||Papaver somniferum
+C00051854 : Papaver somniferum
+C00051855 : Papaver somniferum
+C00051856 : Papaver somniferum
+C00051857 : Papaver somniferum
+C00051858 : Papaver somniferum
+C00051859 : Glaucium flavum||Papaver somniferum
+C00051860 : Papaver somniferum
+C00051861 : Papaver rhoeas||Papaver somniferum
+C00051862 : Papaver argemone||Papaver bracteatum||Papaver commutatum||Papaver dubium||Papaver fugax||Papaver glaucum||Papaver hybridum||Papaver lateritum||Papaver oreophilum||Papaver orientale||Papaver pilosum||Papaver pyrenaicum||Papaver somniferum
+C00051961 : Romneya coulteri
+C00051965 : Papaver somniferum
+C00051966 : Papaver somniferum
+C00051969 : Papaver somniferum
+C00051977 : Argemone mexicana||Chelidonium majus||Corydalis cava||Dicentra spectabilis||Fumaria officinalis||Glaucium flavum||Hypecoum lactiflorum||Macleaya cordata||Meconopsis cambrica||Papaver bracteatum||Papaver rhoeas||Papaver somniferum
+C00051981 : Papaver somniferum
+C00051983 : Papaver somniferum
+C00051984 : Papaver somniferum
+C00051988 : Glaucium flavum
+C00051989 : Papaver somniferum
+C00051990 : Papaver somniferum
+C00051991 : Papaver somniferum
+C00051996 : Papaver bracteatum
+C00051999 : Papaver somniferum
+C00052001 : Papaver bracteatum
+C00052002 : Papaver bracteatum
+C00052005 : Papaver somniferum
+C00052007 : Papaver bracteatum
+C00052009 : Papaver bracteatum
+C00052010 : Papaver bracteatum
+C00052013 : Papaver bracteatum
+C00052014 : Papaver somniferum
+C00052015 : Papaver bracteatum
+C00052016 : Glaucium flavum||Papaver somniferum
+C00052017 : Glaucium flavum
+C00052018 : Papaver somniferum
+C00052020 : Romneya coulteri
+C00052036 : Corydalis sempervireus||Dicentra spectabilis||Eschscholtzia pulchella||Fumaria officinalis||Glaucium rubrum||Meconopsis cambrica||Papaver somniferum

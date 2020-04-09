@@ -47,7 +47,7 @@ The file *familyname*_genera.txt may contain lines of three kinds:
 2. Lines that start with a # sign, considered as a comment
 3. Lines with a single word, standing for a *genus* name, starting with an upper-case letter (A-Z)
 
-Enter command `python process.py familyname` from the rdkit environment. As an example run `python process.py papaver` to collect data about compounds reported in KNApSAcK from Papaveraceae, according to the list of genera written in file papaver_genera.txt. On November 19, 2019, the resulting papaver_knapsack.sdf file contained 476 molecules. Other examples can be found in the Examples directory.
+Enter command `python process.py familyname` from the rdkit environment. As an example run `python process.py papaver` to collect data about compounds reported in KNApSAcK from Papaveraceae, according to the list of genera written in file papaver_genera.txt. On April 9, 2020, the resulting papaver_knapsack.sdf file contained 458 molecules. Other examples can be found in the Examples directory (Only Papaveraceae and Amaryllidaceae updated, sorry).
 
 The list of genera that belong to a given family can be found by means of the [NCBI Taxonomy tool](https://www.ncbi.nlm.nih.gov/taxonomy).
 

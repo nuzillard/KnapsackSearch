@@ -1,0 +1,259 @@
+C00000604 : Hymenocallis littoralis
+C00000619 : Narcissus tazetta var.chinensis
+C00000844 : Narcissus tazetta var.chinensis
+C00000943 : Pancratium biflorum
+C00000950 : Narcissus pseudonarcissus
+C00000952 : Lycoris radiata
+C00000953 : Narcissus pseudonarcissus
+C00000971 : Narcissus pseudonarcissus
+C00000977 : Crinum bulbispermum Milne||Pancratium maritimum L.
+C00001417 : Galanthus elewesii||Galanthus plicatus spp.byzantinus
+C00001418 : Narcissus tazetta var.chinensis
+C00001557 : Amaryllis belladonna hybrid||Ammocharis coranica||Crinum macrantherum
+C00001558 : Boophone disticha||Nerine crispa
+C00001559 : Haemanthus albomaculatus
+C00001560 : Brunsvigia rosea
+C00001561 : Amaryllis belladonna||Ammocharis tinneana||Brunsvigia josephinae||Brunsvigia littoralis||Brunsvigia rosea||Crinum amabile||Crinum laurentii||Crinum stuhlmannii||Hippeastrum punecium||Nerine filifolia
+C00001562 : Amaryllis belladonna hybrid||Crinum powellii||Nerine filifolia
+C00001563 : Brunsvigia cooperi
+C00001564 : Hippeastrum candidum
+C00001565 : Amaryllis belladonna||Ammocharis coranica||Clivia defixum
+C00001566 : Hymenocallis arencola||Hymenocallis arenicola
+C00001567 : Zephyranthes carinata||Zephyranthes grandiflora
+C00001568 : Hippeastrum punecium
+C00001569 : Ammocharis coranica||Brunsvigia josephinae||Brunsvigia radulosa||Crinum asiaticum||Crinum bulbispermum||Crinum glaucum||Crinum jagus||Crinum macowanii||Narcissus bujei||Pancratium foetidum
+C00001570 : Crinum spp.||Cyrtanthus elatus||Galanthus caucasicus||Galanthus elewesii||Galanthus elwesii Hook.||Galanthus nivalis||Galanthus spp.||Galanthus woronowii Losinsk.||Hippeastrum spp.||Hymenocallis spp.||Leucojum aestivum||Leucojum spp.||Lycoris radiata Herb.||Lycoris sanguinea||Lycoris spp.||Narcissus confusus||Narcissus pseudonarcissus subsp.pseudonarcissus||Narcissus spp.||Pancratium spp.||Ungernia spp.
+C00001571 : Crinum glaucum||Crinum jagus||Cyrtanthus elatus||Galanthus elwesii||Haemanthus puniceus x katherinae||Haemanthus spp.||Narcissus asturiensis||Narcissus bujei||Narcissus primigenius||Narcissus pseudonarcissus subsp.pseudonarcissus||Pancratium canariense||Pancratium sickenbergeri||Sprekelia formosissima||Zephyranthes citrina
+C00001572 : Clivia miniata||Crinum amabile||Crinum latifolium||Galanthus nivalis||Hippeastrum equestre||Hippeastrum spp.||Hippeastrum vittatum||Lycoris radiata||Narcissus pseudonarcissus subsp.pseudonarcissus||Pancratium canariense||Sternbergia lutea||Ungernia sewerzowii||Ungernia spiralis||Ungernia trisphaera||Ungernia vvedenskyi
+C00001573 : Haemanthus kalbreyeri
+C00001574 : Leucojum aestivum||Lycoris aurea||Lycoris radiata||Narcissus bujei||Narcissus poeticus||Narcissus tazetta L.
+C00001575 : Lycoris radiata||Lycoris sanguinea
+C00001576 : Amaryllis belladona||Ammocharis coranica||Ammocharis tinneana||Brunsvigia littoralis||Brunsvigia radulosa||Clivia miniata||Crinum amabile||Crinum asiaticum var.japonicum||Crinum delagoense||Crinum giganteum||Crinum glaucum||Crinum jagus||Crinum latifolium||Crinum lugardiae||Crinum macowanii||Crinum moorei||Crinum pratense Herb.||Crinum scabrum||Crinum yemense||Cyrtanthus pallidus||Eucharis grandiflora||Galanthus caucasicus||Galanthus elewesii||Galanthus nivalis||Galanthus woronowii Losinsk.||Hippeastrum equestre||Hippeastrum vittatum||Hymenocallis littoralis||Hymenocallis tubiflora||Hymenocallis x festalis||Leucojum aestivum L.||Leucojum vernum||Lycoris aurea||Lycoris radiata||Lycoris sanguinea||Narcissus folli||Narcissus poeticus L.||Narcissus pseudonarcissus||Narcissus tazetta L.||Narcissus tortuous||Pancratium canariense||Pancratium foetidum||Pancratium maritimum L.||Pancratium sickenbergeri||Sprekelia formosissima Herb.||Sternbergia lutea||Ungernia sewerzowii||Ungernia trisphaera||Zephyranthes candida||Zephyranthes citrina||Zephyranthes rosea Lindl.||Zephyranthes texana
+C00001577 : Haemanthus kalbreyeri||Lycoris longituba||Lycoris radiata||Lycoris sanguinea||Narcissus pseudonarcissus||Narcissus spp.
+C00001578 : Crinum amabile||Galanthus elwesii||Galanthus nivalis||Leucojum aestivum||Lycoris guangxiensis||Narcissus pseudonarcissus subsp.pseudonarcissus||Ungernia severtzovii||Ungernia victoris||Ungernia vvedenskyi
+C00001579 : Hymenocallis expansa||Hymenocallis litroralis||Hymenocallis littorale||Hymenocallis littoralis||Hymenocallis sonorensis||Hymenocallis speciosa||Pancratium littorale||Zephyranthes grandiflora
+C00001580 : Hippeastrum equestre||Hymenocallis cayamansis||Hymenocallis tubiflora||Ismene calithina||Leucojum aestivum||Lycoris radiata||Narcissus tazetta||Pancratium biflorum||Sprekelia formosissima||Zephyranthes candida||Zephyranthes carinata
+C00001685 : Crinum angustum
+C00002077 : Crinum kirkii
+C00002252 : Narcissus spp.
+C00002328 : Crinum asiaticum
+C00002329 : Crinum asiaticum
+C00002417 : Pancratium biflorum
+C00002695 : Pancratium biflorum
+C00002710 : Pancratium biflorum
+C00002725 : Narcissus spp.
+C00003772 : Narcissus spp.
+C00005163 : Leucojum vernum
+C00005182 : Narcissus poeticus
+C00005192 : Pancratium maritium
+C00005227 : Leucojum vernum
+C00005229 : Galanthus nivalis
+C00005372 : Galanthus caucasicus
+C00005413 : Galanthus caucasicus
+C00005548 : Narcissus tazetta
+C00005685 : Crinum latifolium
+C00006636 : Cyrtanthus angustifolia
+C00006639 : Clivia nobilis
+C00006708 : Hymenocallis spp.
+C00006925 : Crinum bulbispermum Milne||Pancratium maritimum L.
+C00006939 : Pancratium biflorum
+C00008239 : Pancratium maritimum L.
+C00008752 : Crinum asiaticum var.japonicum||Pancratium maritimum
+C00008756 : Pancratium biflorum
+C00008759 : Zephyranthes flava
+C00008773 : Zephyranthes flava
+C00008774 : Zephyranthes flava
+C00008778 : Zephyranthes flava
+C00008781 : Pancratium maritimum
+C00011227 : Hippeastrum equestre
+C00013260 : Crinum bulbispermum
+C00013387 : Pancratium maritimum
+C00014595 : Crinum bulbispermum
+C00024348 : Ammocharis tinneana||Crinum latifolium
+C00024349 : Brunsvigia littoralis||Crinum bulbispermum Milne||Crinum pratense
+C00024351 : Ammocharis coranica||Crinum latifolium||Crinum macowanii||Crinum moorei
+C00024352 : Narcissus requienii Roem.
+C00024353 : Narcissus requienii Roem.
+C00024354 : Brunsvigia josephinae||Crinum bulbispermum||Crinum latifolium||Crinum macowanii||Crinum moorei||Crinum yemense||Crinum zeylanicum L.
+C00024356 : Crinum defixum Ker-Gawl||Leucojum vernum
+C00024357 : Crinum angustum Rox.
+C00024358 : Crinum angustum Rox.
+C00024359 : Crinum bulbispermum||Crinum delagoense||Crinum scabrum Herb.||Crinum zeylanicum L.
+C00024360 : Crinum zeylanicum L.
+C00024361 : Crinum defixum Ker-Gawl||Galanthus caucasicus||Galanthus elewesii||Lycoris radiata Herb.||Narcissus bujei||Narcissus primigenius||Narcissus tazetta L.
+C00024362 : Hymenocallis arenicola Northrop H
+C00024363 : Crinum pratense
+C00024364 : Amaryllis belladonna L.
+C00024365 : Lycoris sanguinea Maxim
+C00024366 : Lycoris sanguinea Maxim
+C00024367 : Crinum angustum Rox.
+C00024368 : Crinum amabile||Crinum angustum Rox.
+C00024369 : Crinum bulbispermum Milne
+C00024370 : Ammocharis coranica||Brunsvigia josephinae||Brunsvigia radulosa||Crinum bulbispermum||Crinum bulbispermum L.||Crinum bulbispermum Milne||Crinum delagoense||Crinum glaucum||Crinum jagus||Crinum lugardiae||Crinum macowanii||Crinum stuhlmannii||Crinum zeylanicum L.||Galanthus nivalis
+C00024371 : Ammocharis tinneana||Boophone disticha||Brunsvigia josephinae||Crinum amabile||Crinum angustum Rox.||Galanthus elwesii
+C00024372 : Brunsvigia radulosa||Calostemma puepurea||Crinum asiaticum Linn.||Crinum bulbispermum Milne||Crinum latifolium||Crinum lugardiae||Crinum macowanii||Crinum moorei||Crinum powellii var.alba||Galanthus elwesii||Leucojum aestivum||Lycoris guangxiensis||Narcissus angustifolius subsp. transcanpathicus||Nerine bowdenii W.C.R.Wats.
+C00024373 : Clivia miniata Regel
+C00024374 : Clivia miniata Regel
+C00024375 : Clivia miniata Regel
+C00024376 : Clivia miniata Regel
+C00024377 : Clivia miniata Regel
+C00024378 : Clivia miniata Regel
+C00024379 : Clivia miniata Regel
+C00024380 : Clivia miniata Regel
+C00024381 : Clivia miniata Regel
+C00024382 : Ammocharis tinneana||Brunsvigia gregaria||Crinum amabile||Crinum bulbispermum Milne||Crinum macowanii||Crinum moorei||Crinum oliganthum
+C00024383 : Crinum natans
+C00024384 : Ammocharis tinneana||Brunsvigia gregaria||Brunsvigia josephinae||Brunsvigia littoralis||Crinum amabile||Crinum bulbispermum Milne||Crinum lugardiae||Crinum macowanii||Crinum moorei||Crinum stuhlmannii||Galanthus elwesii||Pancratium foetidum||Pancratium maritimum
+C00024386 : Crinum bulbispermum Milne
+C00024389 : Narcissus tazetta L.
+C00024390 : Crinum amabile||Galanthus caucasicus||Galanthus elewesii||Galanthus woronowii Losinsk.||Hippeastrum equestre||Lycoris sanguinea||Narcissus incomparabilis||Narcissus poeticus||Narcissus pseudonarcissus L.||Sternbergia lutea ker-Gawl||Zephyranthes carinata Herb.||Zephyranthes citrina
+C00024391 : Brunsvigia gregaria||Cyrtanthus elatus||Haemanthus puniceus x katherinae||Hymenocallis arenicola Northrop H||Narcissus asturiensis||Narcissus tazetta L.||Pancratium canariense||Pancratium foetidum||Pancratium sickenbergeri||Pancratium trianthum||Sprekelia formosissima||Ungernia trisphaera||Ungernia vvedenskyi||Zephyranthes citrina
+C00024393 : Hymenocallis arenicola Northrop H
+C00024394 : Ammocharis coranica||Crinum bulbispernum||Hippeastrum vittatum L.'Herr.
+C00024395 : Ammocharis coranica||Brunsvigia josephinae||Crinum bulbispermum L.||Crinum bulbispermum Milne||Crinum latifolium||Crinum pratense||Haemanthus kalbreyeri||Hippeastrum vittatum L.'Herr.||Lycoris sanguinea Maxim
+C00024396 : Sternbergia lutea ker-Gawl
+C00024397 : Hippeastrum ananua||Hippeastrum ananuca
+C00024398 : Crinum defixum Ker-Gawl||Hippeastrum ananuca||Lycoris radiata Herb.||Narcissus bujei||Narcissus poeticus L.||Narcissus primigenius||Narcissus tazetta L.
+C00024399 : Haemanthus kalbreyeri
+C00024400 : Crinum latifolium
+C00024401 : Crinum latifolium
+C00024402 : Crinum latifolium
+C00024403 : Galanthus elewesii||Leucojum aestivum L.
+C00024404 : Sternbergia lutea ker-Gawl
+C00024405 : Brunsvigia gregaria||Lycoris aurea||Lycoris guangxiensis||Lycoris longituba||Lycoris radiata Herb.||Lycoris sanguinea Maxim||Narcissus papyraceus Kerl-Gawl||Narcissus pseudonarcissus subsp.pseudonarcissus||Narcissus tazetta L.
+C00024406 : Pancratium biflorum Roxb.
+C00024407 : Crinum asiaticum L.
+C00024408 : Galanthus elwesii||Hippeastrum ananuca||Narcissus papyraceus Kerl-Gawl||Narcissus tazetta L.||Zephyranthes carinata Herb.||Zephyranthes citrina||Zephyranthes robusta||Zephyranthes rosea
+C00024409 : Crinum oliganthum
+C00024410 : Clivia miniata Regel
+C00024411 : Lycoris guangxiensis
+C00024412 : Narcissus poeticus
+C00024413 : Crinum pratense||Cyrtanthus obliquus||Hymenocallis amanacea||Narcissus poeticus||Zephyranthes citrina
+C00024414 : Crinum asiaticum L.||Crinum jagus||Galanthus elewesii||Galanthus elwesii||Leucojum vernum||Narcissus pseudonarcissus subsp.pseudonarcissus||Pancratium maritium||Pancratium sickenbergeri
+C00024415 : Crinum asiaticum L.
+C00024416 : Crinum bulbispermum Milne||Crinum macowanii||Crinum moorei
+C00024417 : Lycoris radiata Herb.
+C00024419 : Galanthus elewesii||Galanthus elwesii||Leucojum aestivum L.
+C00024420 : Lycoris radiata Herb.||Narcissus bujei||Narcissus pseudonarcissus subsp.pseudonarcissus
+C00024421 : Cyrtanthus falcatus||Narcissus tazetta L.
+C00024422 : Crinum ornatum
+C00024423 : Crinum ornatum
+C00024424 : Crinum ornatum
+C00024426 : Narcissus papyraceus Kerl-Gawl||Narcissus tazetta var.chinensis
+C00024427 : Lycoris chinensis||Lycoris radiata Herb.||Lycoris squamigera||Narcissus tazetta L.
+C00024428 : Narcissus poeticus
+C00024429 : Ammocharis tinneana||Crinum bulbispermum L.||Crinum bulbispermum Milne||Crinum latifolium||Crinum macowanii||Crinum moorei
+C00024430 : Crinum asiaticum var.japonicum||Crinum bulbispermum L.||Crinum latifolium||Haemanthus kalbreyeri
+C00024431 : Crinum bulbispermum L.||Crinum latifolium||Crinum pratense
+C00024432 : Crinum latifolium
+C00024433 : Hymenocallis tubiflora||Lycoris aurea||Lycoris guangxiensis||Lycoris radiata||Lycoris sanguinea||Narcissus angustifolius subsp. transcanpathicus||Narcissus papyraceus Kerl-Gawl||Narcissus requienii Roem.||Narcissus tazetta L.||Pancratium biflorum Roxb.
+C00024434 : Pancratium biflorum Roxb.
+C00024436 : Lycoris sanguinea Maxim
+C00024437 : Ammocharis tinneana||Brunsvigia josephinae||Brunsvigia radulosa||Sternbergia lutea ker-Gawl
+C00024438 : Brunsvigia gregaria||Crinum amabile||Crinum asiaticum var.sinicum||Cyrtanthus obliquus||Galanthus caucasicus||Galanthus elwesii||Galanthus nivalis||Hippeastrum equestre||Hippeastrum vittatum L.'Herr.||Hymenocallis arenicola Northrop H||Hymenocallis cayamansis||Hymenocallis littoralis||Hymenocallis x festalis||Leucojum aestivum L.||Lycoris aurea||Lycoris radiata||Lycoris sanguinea Maxim||Narcissus asturiensis||Narcissus bujei||Narcissus folli||Narcissus papyraceus Kerl-Gawl||Narcissus poeticus L.||Narcissus tazetta L.||Pancratium biflorum Roxb.||Pancratium canariense||Pancratium maritimum||Pancratium trianthum||Sprekelia formosissima||Sternbergia lutea ker-Gawl||Ungernia sewerzowii||Ungernia spiralis||Ungernia trisphaera||Ungernia vvedenskyi||Zephyranthes candida||Zephyranthes sulphurea
+C00024439 : Pancratium trianthum
+C00024440 : Amaryllis belladonna L.||Ammocharis tinneana||Brunsvigia gregaria||Brunsvigia josephinae||Crinum latifolium||Crinum macowanii||Crinum moorei||Nerine filifolia||Nerine flexuosa alba
+C00024441 : Leucojum aestivum L.||Pancratium canariense||Ungernia vvedenskyi
+C00024442 : Ungernia vvedenskyi
+C00024444 : Ungernia vvedensky||Ungernia vvedenskyi
+C00024445 : Hymenocallis arenicola Northrop H
+C00024446 : Crinum bulbispermum Milne||Crinum yemense||Hippeastrum vittatum L.'Herr.||Narcissus pseudonarcissus subsp.pseudonarcissus||Pancratium canariense||Pancratium sickenbergeri||Zephyranthes citrina
+C00024447 : Hymenocallis arenicola Northrop H
+C00025229 : Haemanthus montanus
+C00025308 : Ammocharis tinneana||Brunsvigia gregaria||Crinum amabile||Crinum asiaticum Linn.||Nerine flexuosa
+C00025982 : Cyrtanthus obliquus
+C00026714 : Galanthus plicatus spp.byzantinus
+C00026817 : Galanthus plicatus subsp.byzantinus
+C00027030 : Hippeastrum vittatum Herbert
+C00027600 : Pancratium sickenbergeri
+C00027604 : Galanthus gracilis||Galanthus plicatus
+C00027608 : Pancratium maritimum
+C00027611 : Galanthus plicatus spp.byzantinus
+C00027615 : Amaryllis belladonna||Galanthus elewesii
+C00027617 : Galanthus elewesii
+C00027618 : Galanthus elewesii
+C00027620 : Galanthus plicatus
+C00027621 : Galanthus gracilis
+C00027622 : Galanthus plicatus subsp.byzatinus
+C00027623 : Galanthus byzantinus||Galanthus gracilis
+C00027624 : Galanthus elewesii
+C00027625 : Galanthus elewesii
+C00027629 : Galanthus elewesii||Galanthus elwesii
+C00027630 : Galanthus gracilis
+C00027631 : Galanthus gracilis
+C00027636 : Galanthus plicatus subsp.byzatinus
+C00027649 : Narcissus pseudonarcissus
+C00027650 : Cyrtanthus elatus
+C00027656 : Narcissus pseudonarcissus
+C00027657 : Cyrtanthus obliquus
+C00027661 : Galanthus plicatus spp.byzantinus||Hippeastrum equestre||Leucojum vernum||Pancratium canariense||Pancratium sickenbergeri
+C00027662 : Ammocharis tinneana||Brunsvigia josephinae||Nerine filifolia
+C00027663 : Narcissus bujei
+C00027707 : Brunsvigia radulosa||Crinum macowanii||Crinum moorei
+C00027714 : Zephyranthes carinata
+C00027715 : Zephyranthes carinata
+C00027716 : Ammocharis coranica||Brunsvigia radulosa
+C00027746 : Cyrtanthus obliquus||Hippeastrum equestre||Hymenocallis x festalis||Narcissus asturiensis||Sprekelia formosissima
+C00027753 : Hippeastrum equestre
+C00027757 : Crinum amabile||Crinum macowanii
+C00027766 : Ammocharis coranica
+C00027767 : Ammocharis tinneana
+C00027779 : Crinum bulbispermum
+C00027793 : Narcissus pseudonarcissus
+C00027794 : Leucojum vernum||Narcissus angustifolius subsp. transcanpathicus
+C00027877 : Brunsvigia radulosa||Eucharis amazonica
+C00027975 : Brunsvigia josephinae
+C00027990 : Narcissus bujei
+C00027991 : Ammocharis tinneana||Brunsvigia josephinae||Crinum macowanii
+C00028100 : Crinum powellii
+C00028101 : Crinum powellii
+C00028102 : Crinum delagoense||Hymenocallis cayamansis
+C00028150 : Crinum delagoense
+C00028151 : Crinum delagoense
+C00028245 : Crinum moorei
+C00028251 : Crinum moorei
+C00028290 : Galanthus elwesii
+C00028390 : Galanthus nivalis||Hippeastrum equestre||Hymenocallis x festalis||Sprekelia formosissima
+C00028537 : Crinum macowanii
+C00028567 : Narcissus bujei
+C00028598 : Crinum moorei
+C00028645 : Narcissus angustifolius subsp. transcanpathicus
+C00028682 : Galanthus elwesii
+C00028683 : Galanthus plicatus subsp.byzatinus
+C00028697 : Hippeastrum equestre
+C00028714 : Lycoris sanguinea
+C00028725 : Galanthus elwesii
+C00028732 : Lycoris sanguinea
+C00028752 : Narcissus pseudonarcissus
+C00028757 : Narcissus pseudonarcissus subsp.pseudonarcissus
+C00028767 : Narcissus bujei||Narcissus pseudonarcissus subsp.pseudonarcissus
+C00028784 : Zephyranthes citrina
+C00028793 : Narcissus angustifolius subsp. transcanpathicus||Narcissus poeticus L.||Pancratium canariense||Pancratium maritimum L.||Pancratium sickenbergeri||Rhodophiala bifida
+C00028794 : Pancratium maritimum
+C00028825 : Hippeastrum equestre
+C00029079 : Hippeastrum equestre
+C00029148 : Crinum yemense||Cyrtanthus obliquus||Galanthus elwesii||Hymenocallis x festalis||Leucojum aestivum||Ungernia trisphaera
+C00029172 : Crinum asiaticum||Galanthus nivalis||Lycoris radiata||Narcissus angustifolius subsp. transcanpathicus||Ungernia minor
+C00029179 : Narcissus angustifolius subsp. transcanpathicus||Narcissus tortuous
+C00029259 : Zephyranthes citrina Baker
+C00029260 : Crinum kirkii||Cyrtanthus elatus||Zephyranthes candida
+C00035178 : Nerine filifolia
+C00035179 : Nerine filifolia
+C00035856 : Crinum kirkii
+C00037569 : Cyrtanthus obliquus
+C00039086 : Hippeastrum equestre Herb.
+C00039860 : Clivia nobilis
+C00039861 : Clivia nobilis
+C00042187 : Leucojum vernum
+C00042695 : Leucojum vernum
+C00047153 : Pancratium canariense
+C00047181 : Leucojum aestivum
+C00047329 : Pancratium canariense
+C00047330 : Pancratium canariense
+C00047331 : Pancratium canariense
+C00047332 : Pancratium canariense
+C00049074 : Ammocharis coranica
+C00049909 : Hippeastrum vittatum
+C00050501 : Amaryllis belladonna
+C00050516 : Crinum kirkii
+C00051365 : Lycoris radiata
