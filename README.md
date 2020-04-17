@@ -63,3 +63,46 @@ A compound name may be assigned to two different compounds
 nmrshiftdb2 implementation would not have been possible without the
 inpiration and help from Pr. Christoph Steinbeck (University of Jena, Germany)
 and Dr. Stefan Kuhn (De Monfort University, Leicester, UK).
+
+# Fake_ACD
+
+## Aim
+
+Fake_ACD creates SDF files with 13C NMR chemical shifts predicted by nmrshiftdb2 and formatted
+to be read by ACD software to produce databases with molecular structures and 13C NMR data.
+
+## Test
+
+Any recent python interpreter should work. No need for a particular environment.
+
+The Fake_ACD_Results directory contains the files produced by the following tests.
+
+### sdfrw.py
+
+`python sdfrw.py quercetin2D.sdf`
+
+creates `copied_quercetin2D.sdf`, a copy of `quercetin2D.sdf`.
+
+This test can skipped and is only there to ensure that the following ones will have a chance to succeed.
+
+### addnmrsdb.py
+
+`python addnmrsdb.py quercetin2D.sdf`
+
+creates `nmrsdb_quercetin2D.sdf`, a copy of `quercetin2D.sdf` with
+added chemical shifts values from nmrshiftdb2.
+
+Input files to addnmrsdb.py are .sdf files with 2D coordinates (z atom coordinates are 0)
+with possible information about configuration of stereocenters.
+
+### fakeACD.py
+
+`python fakeACD.py nmrsdb_quercetin2D.sdf`
+
+creates `fake_acd_nmrsdb_quercetin2D.sdf`, a copy of `nmrsdb_quercetin2D.sdf` with
+original chemical shifts values from nmrshiftdb2 and reformatted under the CNMR_SHIFTS tag.
+
+File `fake_acd_nmrsdb_quercetin2D.sdf` can be imported to an ACD DB to produce
+database file `fake_acd_nmrsdb_quercetin2D.NMRUDB`.
+
+fakeACD.py can process output files from KnapsackSearch.
