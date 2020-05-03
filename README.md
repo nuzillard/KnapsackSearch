@@ -27,7 +27,7 @@ The molecules built from SMILES strings are converted to InChI strings. The mole
 
 Install rdkit from [Anaconda](https://www.anaconda.com/distribution/) as recommended in https://www.rdkit.org/docs/Install.html, if not already done.
 
-Install the python *requests* module from the rdkit environment (`conda install -c anaconda requests`)
+Install the python *requests* module from the rdkit environment (`conda install requests`)
 
 Install a [Java runtime environment](https://www.java.com/fr/download/) (jre) if not already done.
 
@@ -35,7 +35,7 @@ Windows: Change the first part of the command in file predictSdf.bat, so that wh
 
 Linux and Mac: Copy the files in the MacLinux folder to the main folder. Ensure that file predictSdf has execution permission.
 
-[Notepad++](https://notepad-plus-plus.org/downloads/) is recommended for text edition works.
+[Notepad++](https://notepad-plus-plus.org/downloads/) is the recommended text editor for Windows.
 
 ## Usage
  
@@ -47,7 +47,7 @@ The file *familyname*_genera.txt may contain lines of three kinds:
 2. Lines that start with a # sign, considered as a comment
 3. Lines with a single word, standing for a *genus* name, starting with an upper-case letter (A-Z)
 
-Enter command `python process.py familyname` from the rdkit environment. As an example run `python process.py papaver` to collect data about compounds reported in KNApSAcK from Papaveraceae, according to the list of genera written in file papaver_genera.txt. On April 9, 2020, the resulting papaver_knapsack.sdf file contained 458 molecules. Other examples can be found in the Examples directory (Only Papaveraceae and Amaryllidaceae updated, sorry).
+Enter command `python process.py familyname` from the rdkit environment. As an example run `python process.py papaver` to collect data about compounds reported in KNApSAcK from Papaveraceae, according to the list of genera written in file papaver_genera.txt. On April 9, 2020, the resulting papaver_knapsack.sdf file contained 458 molecules. Other examples can be found in the Examples directory.
 
 The list of genera that belong to a given family can be found by means of the [NCBI Taxonomy tool](https://www.ncbi.nlm.nih.gov/taxonomy).
 
@@ -61,7 +61,7 @@ A compound name may be assigned to two different compounds
 ## Acknowledgments 
 
 nmrshiftdb2 implementation would not have been possible without the
-inpiration and help from Pr. Christoph Steinbeck (University of Jena, Germany)
+inspiration and help from Pr. Christoph Steinbeck (University of Jena, Germany)
 and Dr. Stefan Kuhn (De Monfort University, Leicester, UK).
 
 # Fake_ACD
@@ -85,6 +85,8 @@ creates `copied_quercetin2D.sdf`, a copy of `quercetin2D.sdf`.
 
 This test can skipped and is only there to ensure that the following ones will have a chance to succeed.
 
+See [SDFrw](https://github.com/nuzillard/SDFrw) for another version of sdfrw.py (but use this one!).  
+
 ### addnmrsdb.py
 
 `python addnmrsdb.py quercetin2D.sdf`
@@ -95,12 +97,17 @@ added chemical shifts values from nmrshiftdb2.
 Input files to addnmrsdb.py are .sdf files with 2D coordinates (z atom coordinates are 0)
 with possible information about configuration of stereocenters.
 
+Output files from addnmrsdb.py are .sdf files with an added NMRSHIFTDB2_ASSIGNMENT tag and value
+lines, one per carbon atom, formatted like `8, 105.34 \`, stating that carbon 8 (indexing starts at 1)
+has an nmrshiftdb2-predicted chemical shift value of 105.34 ppm.
+
 ### fakeACD.py
 
 `python fakeACD.py nmrsdb_quercetin2D.sdf`
 
 creates `fake_acd_nmrsdb_quercetin2D.sdf`, a copy of `nmrsdb_quercetin2D.sdf` with
-original chemical shifts values from nmrshiftdb2 and reformatted under the CNMR_SHIFTS tag.
+original chemical shifts values from nmrshiftdb2 formatted in the style of `addnmrsdb.py`
+and reformatted under the CNMR_SHIFTS tag.
 
 File `fake_acd_nmrsdb_quercetin2D.sdf` can be imported to an ACD DB to produce
 database file `fake_acd_nmrsdb_quercetin2D.NMRUDB`.
