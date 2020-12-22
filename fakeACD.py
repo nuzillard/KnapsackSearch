@@ -12,6 +12,9 @@ import os
 import sys
 import sdfrw
 
+molid = 1
+# sorry for the global variable
+
 def acd_string_format(s):
 	"""
 	formats strings that are more than 200 characters long to fit with the way
@@ -38,9 +41,11 @@ def transform(mol):
 	"""
 	transform()
 	"""
+	global molid
 	nmrskey = "NMRSHIFTDB2_ASSIGNMENT"
 	acdkey = "CNMR_SHIFTS"
 	trueacdkey = "GENUINE_" + acdkey
+	idkey = "ID"
 # sdf tag in use here	
 	sdfkeyvals = mol["keyvals"]
 # get the list of pairs that is relative to the current molecule.
@@ -58,8 +63,13 @@ def transform(mol):
 	nmrs_parts = [line.split(', ') for line in nmrlines]
 	fake = '>  <'+acdkey+'>\n'+acd_string_format(';'.join([str(n)+':'+d[0]+'|'+d[1] for (n, d) in enumerate(nmrs_parts)]))
 # make fake CNMR_SHIFTS value from NMRSHIFTDB2_ASSIGNMENT value
+	idlines = '>  <'+idkey+'>\n'+str(molid)
+	molid += 1
+# build molecule index in file and prepare for the next one
 	new_acd_pair = (acdkey, fake)
 # create the new tag-value pair as if it came from ACD but coming from nmrshiftdb2
+	id_pair = (idkey, idlines)
+# create tag-value pair for molecule index in file
 	if acdkey in sdfkeys:
 # is there already a CNMR_SHIFTS tag in mol?
 # !!!!!!!!!!! not tested, probably wrong because new_acd_pair does not follow the same pattern as old_acd_pair
@@ -77,7 +87,9 @@ def transform(mol):
 	else:
 # no CNMR_SHIFTS tag in mol
 		sdfkeyvals.append(new_acd_pair)
-# create the tag-value pair in the list of tag-values
+# create the tag-value pair in the list of tag-values for ACD-style chemical shifts
+		sdfkeyvals.append(id_pair)
+# create the tag-value pair in the list of tag-values for sequential molecule id
 	mol["keyvals"] = sdfkeyvals
 # update molecule
 	return mol
