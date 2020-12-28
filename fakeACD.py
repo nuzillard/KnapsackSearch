@@ -4,9 +4,9 @@ in order to add CNMR_SHIFTS in "ACD CNMR Predictor" style tags to an input sdf f
 using 13C NMR chemical shift values calculated by nmrshiftdb2, from KnapsackSearch or addnmrsdb.py.
 The resulting .sdf file is correctly imported in an ACD Database created from ACD CNMR Predictor (+DB).
 
-example: python addnmrsdb.py nmrsdb_quercetin2D.sdf
+example: python fakeACD.py nmrsdb_quercetin2D.sdf
 result: creates fake_acd_nmrsdb_quercetin2D.sdf
-note: nmrsdb_quercetin2D.sdf comes from the porcessing of quercetin2D.sdf by addnmrsdb.py
+note: nmrsdb_quercetin2D.sdf comes from the processing of quercetin2D.sdf by addnmrsdb.py
 """
 import os
 import sys
