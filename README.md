@@ -113,3 +113,50 @@ File `fake_acd_nmrsdb_quercetin2D.sdf` can be imported to an ACD DB to produce
 database file `fake_acd_nmrsdb_quercetin2D.NMRUDB`.
 
 fakeACD.py can process output files from KnapsackSearch.
+
+# Quick ACD DB with calculated experimental 13C NMR data
+
+The use of the related files requires the availability of ACD/Labs CNMR Predictor and DB.
+
+## Aim
+
+Transformation of a file containing SMILES chains and compound names (.smi file with 1 line per compound)
+into a database (ACD DB) with "experimental" 13C NMR chemical shifts determined by ACD-prediction.
+
+## Example
+
+The example file small.smi contains 2 lines, one for quercetin and the other one for resveratrol.
+The SMILES chains were copied from Wikipedia.
+
+Running the example requires an RDKit environment with access to `sdfrw.py` 
+
+1. `python smi2ACD.py small.smi fake_acd_small.sdf`
+2. Create DB `fake_acd_small.NMRUDB` and import `fake_acd_small.sdf`
+3. Calculate 13C NMR chemical shifts: Database->Tools->Check Chemical Shifts
+4. Export DB as `fake_acd_small_exported.sdf`
+5. `python CNMR_predict.py fake_acd_small_exported.sdf calc_acd_small.sdf` copies calculated data as if they were experimental.
+6. Create DB `calc_acd_small.NMRUDB` and import calc_acd_small.sdf
+7. Calculate again 13C NMR chemical shifts: Database->Tools->Check Chemical Shifts
+
+The last step is optional but shows that the "experimental" chemical shift values
+are the same as the calculated ones, obviously because they are calculated in the same way.
+
+Files in directory `Small_results` were created from `small.smi` in the following order:
+
+1. `fake_acd_small.sdf` (requires `smiACD.py`, step 1)
+2. `fake_acd_small.NMRUDB` (requires ACD software, steps 2 and 3)
+3. `fake_acd_small_exported.sdf` (requires ACD software, step 4)
+4. `calc_acd_small.sdf` (requires `CNMR_predict.py`, step 5)
+5. `calc_acd_small.NMRUDB` (requires ACD software, steps 6 and 7)
+
+The python scripts `smiACD.py` and `CNMR_predict.py` may be used independently for other purposes.
+Note that `smiACD.py` assigns `99.99` as the experimental chemical shift value of all carbon atoms.
+More realistic values, without using the ACD software, may be obtained by action of 'addnmrsdb.py'
+on an SD file.
+
+The combination of KnapsackSearch (`process.py`) and `fakeACD.py` produces SD files
+that can be processed by `CNMR_predict.py`. The resulting file contains 
+13C NMR chemical shifts from nmrshiftdb2 and ACD.
+
+
+
