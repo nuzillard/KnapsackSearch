@@ -116,7 +116,7 @@ fakeACD.py can process output files from KnapsackSearch.
 
 # Quick ACD DB with calculated experimental 13C NMR data
 
-The use of the related files requires the availability of ACD/Labs CNMR Predictor and DB.
+The use of the related files, in directory `CNMR_Predict` requires the availability of ACD/Labs CNMR Predictor and DB.
 
 ## Aim
 
@@ -155,8 +155,8 @@ More realistic values, without using the ACD software, may be obtained by action
 on an SD file.
 
 The combination of KnapsackSearch (`process.py`) and `fakeACD.py` produces SD files
-that can be processed by `CNMR_predict.py`. The resulting file contains 
-13C NMR chemical shifts from nmrshiftdb2 and ACD.
+that can be processed by `CNMR_predict.py`. The resulting files contains 
+13C NMR chemical shifts calculated by nmrshiftdb2 and by ACD.
 
 
 
