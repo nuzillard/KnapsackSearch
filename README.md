@@ -129,9 +129,9 @@ The python script `CNMR_predict.py` transforms a .sdf file with calculated chemi
 into another .sdf file in which the calculated values replace the supposedly experimental ones.
 
 The python scripts `smi2ACD.py` and `CNMR_predict.py` may be used independently for other purposes.
-Note that `smi2ACD.py` assigns `99.99` as the experimental chemical shift value of all carbon atoms.
+Note that `smi2ACD.py` assigns 99.99 as the experimental chemical shift value of all carbon atoms.
 More realistic values, from nmrshiftdb2, may be obtained by action of 'addnmrsdb.py'
-on an SD file.
+on a .sdf file.
 
 The combination of KnapsackSearch (`process.py`) and `fakeACD.py` produces .sdf files
 that can be processed by `CNMR_predict.py`. The resulting files contain
@@ -143,7 +143,7 @@ a [recent publication](https://dx.doi.org/10.1021/acs.analchem.0c00193).
 The action of `ACD_to_DerepCrude.py` on a .sdf file with 13C chemical shifts
 formatted for ACD produces a .sdf file suitable with a use by the
 [DerepCrude](http://eos.univ-reims.fr/LSD/JmnSoft/DerepCrude/) software, described in
-a [less recent publication](https://doi.org/10.1021/acs.jnatprod.6b01063).
+[another publication](https://doi.org/10.1021/acs.jnatprod.6b01063).
 
 
 ## Example
