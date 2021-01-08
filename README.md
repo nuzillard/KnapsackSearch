@@ -143,14 +143,14 @@ are the same as the calculated ones, obviously because they are calculated in th
 
 Files in directory `Small_results` were created from `small.smi` in the following order:
 
-1. `fake_acd_small.sdf` (requires `smiACD.py`, step 1)
+1. `fake_acd_small.sdf` (requires `smi2ACD.py`, step 1)
 2. `fake_acd_small.NMRUDB` (requires ACD software, steps 2 and 3)
 3. `fake_acd_small_exported.sdf` (requires ACD software, step 4)
 4. `calc_acd_small.sdf` (requires `CNMR_predict.py`, step 5)
 5. `calc_acd_small.NMRUDB` (requires ACD software, steps 6 and 7)
 
-The python scripts `smiACD.py` and `CNMR_predict.py` may be used independently for other purposes.
-Note that `smiACD.py` assigns `99.99` as the experimental chemical shift value of all carbon atoms.
+The python scripts `smi2ACD.py` and `CNMR_predict.py` may be used independently for other purposes.
+Note that `smi2ACD.py` assigns `99.99` as the experimental chemical shift value of all carbon atoms.
 More realistic values, without using the ACD software, may be obtained by action of 'addnmrsdb.py'
 on an SD file.
 
