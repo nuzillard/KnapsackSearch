@@ -124,12 +124,13 @@ Transformation of a .smi file containing SMILES chains and compound names (.smi 
 into a database (ACD DB) with "experimental" 13C NMR chemical shifts determined by ACD-prediction.
 
 The python script `smi2ACD.py` processes a .smi file to produre a minimal .sdf file
-in which the structures can be imported in an ACD Database. This script relies on the RDKit toolbox.
+in which the structures can be imported in an ACD Database.
 The python script `CNMR_predict.py` transforms a .sdf file with calculated chemical shift values from ACD/Lasbs DB
 into another .sdf file in which the calculated values replace the supposedly experimental ones.
+These scripts rely on the RDKit toolbox.
 
 The python scripts `smi2ACD.py` and `CNMR_predict.py` may be used independently for other purposes.
-Note that `smi2ACD.py` assigns 99.99 as the experimental chemical shift value of all carbon atoms.
+Note that `smi2ACD.py` assigns 99.99 as a placeholder for the experimental chemical shift value of all carbon atoms.
 More realistic values, from nmrshiftdb2, may be obtained by action of 'addnmrsdb.py'
 on a .sdf file.
 
@@ -139,11 +140,11 @@ that can be processed by `CNMR_predict.py`. The resulting files contain
 
 `CNMR_predict.py` produces a .sdf compound library file with tags compatible with its use by the
 [MixONat](https://sourceforge.net/projects/mixonat/) software, described in
-a [recent publication](https://dx.doi.org/10.1021/acs.analchem.0c00193).
+[this publication](https://dx.doi.org/10.1021/acs.analchem.0c00193).
 The action of `ACD_to_DerepCrude.py` on a .sdf file with 13C chemical shifts
 formatted for ACD produces a .sdf file suitable with a use by the
 [DerepCrude](http://eos.univ-reims.fr/LSD/JmnSoft/DerepCrude/) software, described in
-[another publication](https://doi.org/10.1021/acs.jnatprod.6b01063).
+[this publication](https://doi.org/10.1021/acs.jnatprod.6b01063).
 
 
 ## Example
@@ -169,5 +170,5 @@ Files in directory `Small_results` were created from `small.smi` in the followin
 1. `fake_acd_small.sdf` (requires RDKit and `smi2ACD.py`, step 1)
 2. `fake_acd_small.NMRUDB` (requires ACD software, steps 2 and 3)
 3. `fake_acd_small_exported.sdf` (requires ACD software, step 4)
-4. `calc_acd_small.sdf` (requires `CNMR_predict.py`, step 5)
+4. `calc_acd_small.sdf` (requires RDKit and `CNMR_predict.py`, step 5)
 5. `calc_acd_small.NMRUDB` (requires ACD software, steps 6 and 7)
