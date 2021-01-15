@@ -127,7 +127,7 @@ The python script `smi2ACD.py` processes a .smi file to produre a minimal .sdf f
 in which the structures can be imported in an ACD Database.
 The python script `CNMR_predict.py` transforms a .sdf file with calculated chemical shift values from ACD/Lasbs DB
 into another .sdf file in which the calculated values replace the supposedly experimental ones.
-These scripts rely on the RDKit toolbox.
+See section for Example 1, hereafter
 
 The python scripts `smi2ACD.py` and `CNMR_predict.py` may be used independently for other purposes.
 Note that `smi2ACD.py` assigns 99.99 as a placeholder for the experimental chemical shift value of all carbon atoms.
@@ -136,7 +136,7 @@ on a .sdf file.
 
 The combination of KnapsackSearch (`process.py`) and `fakeACD.py` produces .sdf files
 that can be processed by `CNMR_predict.py`. The resulting files contain
-13C NMR chemical shifts calculated by nmrshiftdb2 and by ACD.
+13C NMR chemical shifts calculated by nmrshiftdb2 and by ACD. See section for Example 2, hereafter.
 
 `CNMR_predict.py` produces a .sdf compound library file with tags compatible with its use by the
 [MixONat](https://sourceforge.net/projects/mixonat/) software, described in
@@ -147,7 +147,7 @@ formatted for ACD produces a .sdf file suitable with a use by the
 [this publication](https://doi.org/10.1021/acs.jnatprod.6b01063).
 
 
-## Example
+## Example 1
 
 The example file `small.smi` contains 2 lines, one for quercetin and the other one for resveratrol.
 Their SMILES chains were copied from Wikipedia.
@@ -172,3 +172,19 @@ Files in directory `Small_results` were created from `small.smi` in the followin
 3. `fake_acd_small_exported.sdf` (requires ACD software, step 4)
 4. `calc_acd_small.sdf` (requires RDKit and `CNMR_predict.py`, step 5)
 5. `calc_acd_small.NMRUDB` (requires ACD software, steps 6 and 7)
+
+## Example 2
+
+Starting for `papaver_knapsack.sdf` as obtained hereabove from `papaver_genera.txt`
+and copied in directory `CNMR_Predict`, an ACD database with 13C chemical shifts
+from ACD may be produced as follows:
+
+1. `python ..\fakeACD.py papaver_knapsack.sdf` creates `fake_acd_papaver_knapsack.sdf`
+2. Create DB `fake_acd_papaver_ks.NMRUDB` and import `fake_acd_papaver_knapsack.sdf`
+3. Calculate 13C NMR chemical shifts in ACD/Labs DB: Database->Tools->Check Chemical Shifts
+4. Export DB as `fake_acd_papaver_ks_exported.sdf`
+5. `python CNMR_predict.py fake_acd_papaver_ks_exported.sdf calc_acd_papaver_ks.sdf` copies calculated data as if they were experimental.
+6. Create DB `calc_acd_papaver_ks.NMRUDB` and import `calc_acd_papaver_ks.sdf`
+7. Calculate again 13C NMR chemical shifts: Database->Tools->Check Chemical Shifts
+
+The last created sdf file, `calc_acd_papaver_ks.sdf` is stored in directory `Papaver_result`.
