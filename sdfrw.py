@@ -37,7 +37,7 @@ def getMolFromText(text):
 	getMolFromText() transforms a text which is a section of an .sdf file relative to a molecule
 	into a dictionary that represents a molecule.
 	"""
-	lines = text.strip().split('\n')
+	lines = text.rstrip().split('\n')
 # lines from text without trailing '\n'
 	for i, line in enumerate(lines):
 		limit = i
