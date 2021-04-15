@@ -85,7 +85,7 @@ See [SDFrw](https://github.com/nuzillard/SDFrw) for sdfrw.py.
 
 creates `copied_quercetin2D.sdf`, a copy of `quercetin2D.sdf`.
 
-This test can skipped and is only there to ensure that the following ones will have a chance to succeed.
+This test can be skipped and is only there to ensure that the following ones will have a chance to succeed.
 
 ### addnmrsdb.py
 
@@ -121,7 +121,11 @@ fakeACD.py can process output files from KnapsackSearch.
 creates `filename_elec.sdf` from `filename.sdf`. This is necessary when .sdf files from RDKit are produced to be 
 read by ACD software. `novalence.py` corrects the description of electrically charged atom, for which RDKit
 issues a non-zero valence information field that is not correctly interpreted by ACD and inhibits
-the prediction of chemical shift values. `novalence.py` relies on `mySDWriter.py`
+the prediction of chemical shift values. `novalence.py` relies on `mySDWriter.py`.
+
+`python novalence.py filename.sdf`
+
+applies an in-place correction.
 
 Applying `novalence.py` to files from KnapsackSearch before importing them in ACD software
 is generally a good idea.
@@ -131,21 +135,20 @@ is generally a good idea.
 prints a simple demo of this module. It shows how RDKit writes a mol block for a molecule
 with electically charged atoms and how `mySDWriter.py` resets to 0 the valence information field.
 
-
 # Quick ACD DB with calculated experimental 13C NMR data
 
 The use of the related files, in directory `CNMR_Predict` requires the availability of ACD/Labs CNMR Predictor and DB.
 
 ## Aim
 
-Transformation of a .smi file containing SMILES chains and compound names (.smi file with 1 line per compound)
-into a database (ACD DB) with "experimental" 13C NMR chemical shifts determined by ACD-prediction.
+Transformation of a .smi file containing SMILES chains and compound names separated by a single space (.smi file with 1 line per compound)
+into a database (ACD DB) with "experimental" 13C NMR chemical shifts determined by ACD prediction.
 
 The python script `smi2ACD.py` processes a .smi file to produre a minimal .sdf file
 in which the structures can be imported in an ACD Database.
 The python script `CNMR_predict.py` transforms a .sdf file with calculated chemical shift values from ACD/Lasbs DB
 into another .sdf file in which the calculated values replace the supposedly experimental ones.
-See section for Example 1, hereafter
+See section for Example 1, hereafter.
 
 The python scripts `smi2ACD.py` and `CNMR_predict.py` may be used independently for other purposes.
 Note that `smi2ACD.py` assigns 99.99 as a placeholder for the experimental chemical shift value of all carbon atoms.

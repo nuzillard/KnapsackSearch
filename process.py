@@ -99,3 +99,11 @@ nmr_tags.py:
 	reads: familyname_2D_nmr_sorted.txt
 	writes: familyname_knapsack.sdf
 """
+
+command = "python novalence.py " + family + "_knapsack.sdf"
+run_command(command)
+"""
+novalence.py:
+	reads: familyname_knapsack.sdf
+	writes: familyname_knapsack.sdf
+"""
