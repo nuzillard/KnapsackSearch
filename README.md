@@ -79,13 +79,13 @@ The Fake_ACD_Results directory contains the files produced by the following test
 
 ### sdfrw.py
 
+See [SDFrw](https://github.com/nuzillard/SDFrw) for sdfrw.py. 
+
 `python sdfrw.py quercetin2D.sdf`
 
 creates `copied_quercetin2D.sdf`, a copy of `quercetin2D.sdf`.
 
 This test can skipped and is only there to ensure that the following ones will have a chance to succeed.
-
-See [SDFrw](https://github.com/nuzillard/SDFrw) for another version of sdfrw.py (but use this one!).  
 
 ### addnmrsdb.py
 
@@ -113,6 +113,24 @@ File `fake_acd_nmrsdb_quercetin2D.sdf` can be imported to an ACD DB to produce
 database file `fake_acd_nmrsdb_quercetin2D.NMRUDB`.
 
 fakeACD.py can process output files from KnapsackSearch.
+
+### novalence.py
+
+`python novalence.py filename.sdf filename_elec.sdf`
+
+creates `filename_elec.sdf` from `filename.sdf`. This is necessary when .sdf files from RDKit are produced to be 
+read by ACD software. `novalence.py` corrects the description of electrically charged atom, for which RDKit
+issues a non-zero valence information field that is not correctly interpreted by ACD and inhibits
+the prediction of chemical shift values. `novalence.py` relies on `mySDWriter.py`
+
+Applying `novalence.py` to files from KnapsackSearch before importing them in ACD software
+is generally a good idea.
+
+`python mySDWriter.py`
+
+prints a simple demo of this module. It shows how RDKit writes a mol block for a molecule
+with electically charged atoms and how `mySDWriter.py` resets to 0 the valence information field.
+
 
 # Quick ACD DB with calculated experimental 13C NMR data
 
@@ -151,6 +169,8 @@ formatted for ACD produces a .sdf file suitable with a use by the
 
 The example file `small.smi` contains 2 lines, one for quercetin and the other one for resveratrol.
 Their SMILES chains were copied from Wikipedia.
+
+See `tutorial_CNMR_Predict.pdf` for detailed explanations
 
 Running the example requires an RDKit environment.
 

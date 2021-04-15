@@ -100,9 +100,20 @@ if __name__ == '__main__':
 # write on standard output
 	wr = mySDWriter(fhOut)
 # get a writer for molecules ACD software can read
-	m = Chem.MolFromSmiles('[O-]C(=O)CC[NH3+]')
+	smi = '[O-]C(=O)CC[NH3+]'
+# SMILES for testing
+	print()
+	print('Testing with', smi)
+	print()
+# show SMILES string used for testing
+	m = Chem.MolFromSmiles(smi)
 # a simple aminoacid, with two electrically charged atoms
+	print('*** Before ***')
+	print(Chem.MolToMolBlock(m))
+# print RDKit mol block, as usual
+	print('**** After ***')
 	status = wr.write(m)
 # write an sdf file on standard output for this aminoacid
-	print ('Failed' if status else 'Done')
+	print()
+	print ('*** Failed ***' if status else '*** Done ***')
 # print status message
