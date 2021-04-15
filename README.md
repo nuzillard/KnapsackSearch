@@ -127,9 +127,6 @@ the prediction of chemical shift values. `novalence.py` relies on `mySDWriter.py
 
 applies an in-place correction.
 
-Applying `novalence.py` to files from KnapsackSearch before importing them in ACD software
-is generally a good idea.
-
 `python mySDWriter.py`
 
 prints a simple demo of this module. It shows how RDKit writes a mol block for a molecule
