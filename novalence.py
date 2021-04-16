@@ -26,7 +26,7 @@ def novalenceFromHandle(fhIn, fhOut):
 			if m:
 				writer.write(m)
 
-def novalenceFromPath(pathIn, pathOut=""):
+def novalence(pathIn, pathOut=""):
 	"""
 	novalenceFromHandle() reads through file path pathIn a .sdf file in V2000 format produced by RDKit
 	and writes through file path pathOut the same file but with atom valence set to 0
@@ -54,5 +54,5 @@ if __name__ == '__main__':
 # exit
 	pathIn = argv[1]
 	pathOut = argv[2] if argc == 3 else ""
-	novalenceFromPath(pathIn, pathOut)
+	novalence(pathIn, pathOut)
 # does the job
