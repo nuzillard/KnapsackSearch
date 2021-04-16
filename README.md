@@ -114,6 +114,17 @@ database file `fake_acd_nmrsdb_quercetin2D.NMRUDB`.
 
 fakeACD.py can process output files from KnapsackSearch.
 
+### fakefakeACD.py
+
+`python fakefakeACD.py quercetin2D.sdf`
+
+creates `fake_acd_quercetin2D.sdf`, a copy of `quercetin2D.sdf` with
+very fake (99.99) chemical shifts values in the style of `addnmrsdb.py`
+and reformatted under the CNMR_SHIFTS tag.
+
+File `fake_acd_quercetin2D.sdf` can be imported to an ACD DB to produce
+database file `fake_acd_quercetin2D.NMRUDB`.
+
 ### novalence.py
 
 `python novalence.py filename.sdf filename_elec.sdf`
@@ -130,7 +141,7 @@ applies an in-place correction.
 
 `python mySDWriter.py`
 
-prints a simple demo of this module. It shows how RDKit writes a mol block for a molecule
+prints a simple demo of the `mySDWriter.py` module. It shows how RDKit writes a mol block for a molecule
 with electrically charged atoms and how `mySDWriter.py` resets to 0 the valence information field.
 
 # Quick ACD DB with calculated experimental 13C NMR data

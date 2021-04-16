@@ -42,19 +42,21 @@ def transform(mol):
 	transform()
 	"""
 	global molid
-	nmrskey = "NMRSHIFTDB2_ASSIGNMENT"
 	acdkey = "CNMR_SHIFTS"
 	idkey = "ID"
 # sdf tag in use here	
-	if not sdfrw.sdfHasProp(mol, nmrskey):
-# is NMRSHIFTDB2_ASSIGNMENT missing in mol?
-		return mol
-# do not anything with mol if no NMRSHIFTDB2_ASSIGNMENT tag
-	nmrs_val = sdfrw.sdfGetProp(mol, nmrskey)
-# get nmrshiftdb assignment
-	nmrlines = [line[:-2] for line in nmrs_val.split('\n')]
-	nmrs_parts = [line.split(', ') for line in nmrlines]
-	fake = acd_string_format(';'.join([str(n)+':'+d[0]+'|'+d[1] for (n, d) in enumerate(nmrs_parts)]))
+
+	mb = sdfrw.sdfGetMolBlock(mol)
+# mol block
+	lines = mb.split('\n')
+# lines of the mol block
+	countline = lines[3]
+# line 4, indexed 3, contains number of atoms and bounds 
+	natoms = int(countline[0:3])
+# the line of counts starts with the number of atoms (3 characters)
+	idxs = [idx+1 for idx in range(natoms) if ('C' in lines[idx+4])]
+# indexes of the C atoms, start at 1
+	fake = acd_string_format(';'.join([str(n)+':'+str(idx)+'|'+'99.99' for (n, idx) in enumerate(idxs)]))
 # make fake CNMR_SHIFTS value from NMRSHIFTDB2_ASSIGNMENT value
 	idline = str(molid)
 	molid += 1
@@ -66,7 +68,7 @@ def transform(mol):
 	return mol
 # return new molecule
 
-def fakeACD(filenameIn):
+def fakefakeACD(filenameIn):
 	head, tail = os.path.split(filenameIn)
 # prepare the creation of the output file name
 	filenameOut = os.path.join(head, 'fake_acd_' + tail)
@@ -83,5 +85,5 @@ if __name__ == "__main__":
 		sys.exit(1)
 	filenameIn = sys.argv[1]
 # get input .sdf file name
-	fakeACD(filenameIn)
+	fakefakeACD(filenameIn)
 # just do it!
