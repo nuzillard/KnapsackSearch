@@ -121,7 +121,8 @@ fakeACD.py can process output files from KnapsackSearch.
 creates `filename_elec.sdf` from `filename.sdf`. This is necessary when .sdf files from RDKit are produced to be 
 read by ACD software. `novalence.py` corrects the description of electrically charged atom, for which RDKit
 issues a non-zero valence information field that is not correctly interpreted by ACD and inhibits
-the prediction of chemical shift values. `novalence.py` relies on `mySDWriter.py`.
+the prediction of chemical shift values. `novalence.py` is included in the script `process.py` of KnapsackSearch.
+`novalence.py` relies on `mySDWriter.py`.
 
 `python novalence.py filename.sdf`
 
@@ -130,7 +131,7 @@ applies an in-place correction.
 `python mySDWriter.py`
 
 prints a simple demo of this module. It shows how RDKit writes a mol block for a molecule
-with electically charged atoms and how `mySDWriter.py` resets to 0 the valence information field.
+with electrically charged atoms and how `mySDWriter.py` resets to 0 the valence information field.
 
 # Quick ACD DB with calculated experimental 13C NMR data
 
