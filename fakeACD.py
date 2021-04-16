@@ -69,6 +69,14 @@ def transform(mol):
 # create the tag-value pair in the list of tag-values for sequential molecule id
 	return mol
 # return new molecule
+
+def fakeACD(filenameIn):
+	head, tail = os.path.split(filenameIn)
+# prepare the creation of the output file name
+	filenameOut = os.path.join(head, 'fake_acd_' + tail)
+# prepend fake_acd_ to input file name to obtain the output file name
+	sdfrw.sdfTransform(filenameIn, filenameOut, transform)
+# simply call sdfTransform() from the sdfrw library, with the locally defined transform() function.
 		
 if __name__ == "__main__":
 	argc = len(sys.argv)
@@ -79,9 +87,5 @@ if __name__ == "__main__":
 		sys.exit(1)
 	filenameIn = sys.argv[1]
 # get input .sdf file name
-	head, tail = os.path.split(filenameIn)
-# prepare the creation of the output file name
-	filenameOut = os.path.join(head, 'fake_acd_' + tail)
-# prepend fake_acd_ to input file name to obtain the output file name
-	sdfrw.sdfTransform(filenameIn, filenameOut, transform)
-# simply call sdfTransform() from the sdfrw library, with the locally defined transform() function.
+	fakeACD(filenameIn)
+# just do it!

@@ -216,7 +216,7 @@ def transform(mol):
 	return mol
 # return the transformed molecule
 
-def run(inpufilename, outputfilename):
+def CNMR_predict(inpufilename, outputfilename):
 	"""
 	transform all molecules from input file and writes the result to output file
 	"""
@@ -244,6 +244,6 @@ if __name__ == "__main__":
 			inpufilename = sys.argv[1]
 			outputfilename = sys.argv[2]
 # get input and output file names from command line
-		run(inpufilename, outputfilename)
+		CNMR_predict(inpufilename, outputfilename)
 # transfer ACD-calculated chemical shifts from input file as experimental chemical shifts in output file
 
