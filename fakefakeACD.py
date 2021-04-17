@@ -54,7 +54,7 @@ def transform(mol):
 # line 4, indexed 3, contains number of atoms and bounds 
 	natoms = int(countline[0:3])
 # the line of counts starts with the number of atoms (3 characters)
-	idxs = [idx+1 for idx in range(natoms) if ('C' in lines[idx+4])]
+	idxs = [idx+1 for idx in range(natoms) if (lines[idx+4].find('C ') > -1)]
 # indexes of the C atoms, start at 1
 	fake = acd_string_format(';'.join([str(n)+':'+str(idx)+'|'+'99.99' for (n, idx) in enumerate(idxs)]))
 # make fake CNMR_SHIFTS value from NMRSHIFTDB2_ASSIGNMENT value
