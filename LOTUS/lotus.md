@@ -77,7 +77,7 @@ with dummy ^13^C NMR chemical shift values inside (99.99 for all carbon atoms).
 
 - Create a new ACD DB named `fake_acd_oryza.NMRUDB`
 
-- Import `fake_acd_oryza.sd`
+- Import `fake_acd_oryza.sdf`
 
 - In ACD software, run Database->Tools->Check Chemical Shifts
 
