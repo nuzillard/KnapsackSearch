@@ -220,3 +220,11 @@ from ACD may be produced as follows:
 7. Calculate again 13C NMR chemical shifts: Database->Tools->Check Chemical Shifts
 
 The last created sdf file, `calc_acd_papaver_ks.sdf` is stored in directory `Papaver_result`.
+
+# MyInstallation
+
+This directory reports the details of my computer installation relatively to python, nmrshiftdb and java.
+
+# LOTUS
+
+This directory is about LOTUS, a natural product knowledge base. LOTUS might well supersede KNApSAcK.
