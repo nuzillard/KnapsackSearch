@@ -1,0 +1,26 @@
+import addnmrsdb, fakeACD, CNMR_predict
+
+	base	***.NMRUDB
+	import	lotus_simple_search_result.sdf
+	export	***.sdf
+	close
+
+addnmrsdb.addnmrsdb('***.sdf')
+		--> nmrsdb_***.sdf
+fakeACD.fakeACD('nmrsdb_***.sdf')
+		--> fake_acd_nmrsdb_***.sdf
+
+	base	fake_acd_***.NMRUDB
+	import	fake_acd_nmrsdb_***.sdf
+		Check Chemical Shifts
+	export	fake_acd_***_exported.sdf
+	close
+	
+CNMR_predict.CNMR_predict('fake_acd_***_exported.sdf', 'true_acd_***.sdf')
+		--> true_acd_***.sdf
+
+	base	lotus_***.NMRUDB
+	import	true_acd_***.sdf
+		Check Chemical Shifts
+	export	lotus_***.sdf
+	close
