@@ -28,38 +28,33 @@ and all the occurences of the three-star strings replaced by *oryza*.
 The result looks like:
 
 ~~~
-import fakefakeACD, CNMR_predict
-
-	base	oryza.NMRUDB
+	new DB	oryza.NMRUDB
 	import	lotus_simple_search_result.sdf
 	export	oryza.sdf
 	close
 
-fakefakeACD.fakefakeACD('oryza.sdf')
+python -m fakefakeACD oryza.sdf
 		--> fake_acd_oryza.sdf
 
-	base	fake_acd_oryza.NMRUDB
+	new DB	fake_acd_oryza.NMRUDB
 	import	fake_acd_oryza.sdf
-		Check Chemical Shifts
+	Check Chemical Shifts
 	export	fake_acd_oryza_exported.sdf
 	close
 	
-CNMR_predict.CNMR_predict('fake_acd_oryza_exported.sdf', 'true_acd_oryza.sdf')
+python -m CNMR_predict fake_acd_oryza_exported.sdf true_acd_oryza.sdf
 		--> true_acd_oryza.sdf
 
-	base	lotus_oryza.NMRUDB
+	new DB	lotus_oryza.NMRUDB
 	import	true_acd_oryza.sdf
-		Check Chemical Shifts
+	Check Chemical Shifts
 	export	lotus_oryza.sdf
 	close
 ~~~
 
 This list of instructions translates in practice into:
 
-- Open a python interpreter with `Oryza_sativa` as current directory and
-with access to rdkit
-
-- Cut-and-paste `import fakefakeACD, CNMR_predict` to the python interpreter and validate this command
+- open a command line interpreter and switch to `Oryza_sativa` as current directory. See the MyInstallation directory for the installation of the required python scripts.
 
 - Launch ACD CNMR predictor (and DB).
 
@@ -72,7 +67,7 @@ Use the reminder file to document the changes you brought to the DB
 
 - Export the DB as `oryza.sdf` and close this DB. Exportation in SDF V2000 format.
 
-- Cut-and-paste `fakefakeACD.fakefakeACD('oryza.sdf')` to the python interpreter to create `fake_acd_oryza.sdf`
+- Cut-and-paste `python -m fakefakeACD oryza.sdf` to the command line interpreter to create `fake_acd_oryza.sdf`
 with dummy <sup>13</sup>C NMR chemical shift values inside (99.99 for all carbon atoms).
 
 - Create a new ACD DB named `fake_acd_oryza.NMRUDB`
@@ -83,7 +78,7 @@ with dummy <sup>13</sup>C NMR chemical shift values inside (99.99 for all carbon
 
 - Export DB as `fake_acd_oryza_exported.sdf` and close this DB
 
-- Cut-and-paste `CNMR_predict.CNMR_predict('fake_acd_oryza_exported.sdf', 'true_acd_oryza.sdf')` to the python interpreter to create `true_acd_oryza.sdf`
+- Cut-and-paste `python -m CNMR_predict fake_acd_oryza_exported.sdf true_acd_oryza.sdf` to the command line interpreter to create `true_acd_oryza.sdf`
 
 - Create a new ACD database named `lotus_oryza.NMRUDB`
 
@@ -97,5 +92,5 @@ The DB named `lotus_oryza.NMRUDB` is ready for compound search according to ACD-
 
 The file `lotus_oryza.sdf.zip`, a zipped archive file of `lotus_oryza.sdf`, is available for reloading in an ACD database
 
-Reminder file `templateB.txt` is almost identical to `templateA.txt` but uses <sup>13</sup>C NMR chemical shift
-prediction by nmrshiftdb2 instead of dummy values.
+Reminder file `templateB.txt` is almost identical to `templateA.txt` but uses initially <sup>13</sup>C NMR chemical shift
+values predicted by nmrshiftdb2 instead of dummy ones.
