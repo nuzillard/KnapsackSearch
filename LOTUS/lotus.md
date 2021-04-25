@@ -5,7 +5,7 @@ A simple search for a taxon returns a collection of molecular structures
 that can be downloaded as an SDF file in V3000 format.
 
 This text explains how to build an ACD database with these structures,
-supplemented by predicted ^13^C NMR chemical shift values with the help of a template file
+supplemented by predicted <sup>13</sup>C NMR chemical shift values with the help of a template file
 that can be used as a reminder.
 
 The reminder files are not intended to be run by
@@ -73,7 +73,7 @@ Use the reminder file to document the changes you brought to the DB
 - Export the DB as `oryza.sdf` and close this DB. Exportation in SDF V2000 format.
 
 - Cut-and-paste `fakefakeACD.fakefakeACD('oryza.sdf')` to the python interpreter to create `fake_acd_oryza.sdf`
-with dummy ^13^C NMR chemical shift values inside (99.99 for all carbon atoms).
+with dummy <sup>13</sup>C NMR chemical shift values inside (99.99 for all carbon atoms).
 
 - Create a new ACD DB named `fake_acd_oryza.NMRUDB`
 
@@ -93,9 +93,9 @@ with dummy ^13^C NMR chemical shift values inside (99.99 for all carbon atoms).
 
 - Export DB as `lotus_oryza.sdf` and close DB (or keep it open to start doing something with it)
 
-The DB named `lotus_oryza.NMRUDB` is ready for compound search according to ACD-predicted ^13^C NMR chemical shifts values.
+The DB named `lotus_oryza.NMRUDB` is ready for compound search according to ACD-predicted <sup>13</sup>C NMR chemical shifts values.
 
 The file `lotus_oryza.sdf.zip`, a zipped archive file of `lotus_oryza.sdf`, is available for reloading in an ACD database
 
-Reminder file `templateB.txt` is almost identical to `templateA.txt` but uses ^13^C NMR chemical shift
+Reminder file `templateB.txt` is almost identical to `templateA.txt` but uses <sup>13</sup>C NMR chemical shift
 prediction by nmrshiftdb2 instead of dummy values.
