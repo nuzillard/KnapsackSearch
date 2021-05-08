@@ -1,0 +1,158 @@
+Q5998215-1
+Mrv1568 12281606352D          
+
+ 22 24  0  0  0  0            999 V2000
+   -1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+  6 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 14 21  1  0  0  0  0
+  7 22  2  0  0  0  0
+  2 22  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=REFJWTPEDVJJIY-UHFFFAOYSA-N
+> <SMILES>
+OC1=CC(O)=C2C(OC(=C(O)C2=O)C2=CC(O)=C(O)C=C2)=C1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Phenylpropanoids and polyketides
+> <Class>
+Flavonoids
+> <Subclass>
+Flavones
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Flavonols
+> <Alternative Parents>
+3'-hydroxyflavonoids	3-hydroxyflavonoids	4'-hydroxyflavonoids	5-hydroxyflavonoids	7-hydroxyflavonoids	Chromones	Catechols	1-hydroxy-2-unsubstituted benzenoids	Pyranones and derivatives	1-hydroxy-4-unsubstituted benzenoids	Benzene and substituted derivatives	Vinylogous acids	Heteroaromatic compounds	Oxacyclic compounds	Polyols	Hydrocarbon derivatives	Organic oxides
+> <Molecular Framework>
+Aromatic heteropolycyclic compounds
+> <Substituents>
+3-hydroxyflavone	3'-hydroxyflavonoid	3-hydroxyflavonoid	4'-hydroxyflavonoid	5-hydroxyflavonoid	7-hydroxyflavonoid	Hydroxyflavonoid	Chromone	Benzopyran	1-benzopyran	Catechol	1-hydroxy-4-unsubstituted benzenoid	1-hydroxy-2-unsubstituted benzenoid	Phenol	Pyranone	Benzenoid	Monocyclic benzene moiety	Pyran	Heteroaromatic compound	Vinylogous acid	Oxacycle	Organoheterocyclic compound	Polyol	Organic oxide	Organic oxygen compound	Hydrocarbon derivative	Organooxygen compound	Aromatic heteropolycyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as flavonols. These are compounds that contain a flavone (2-phenyl-1-benzopyran-4-one) backbone carrying a hydroxyl group at the 3-position.
+> <Ancestors>
+1-benzopyrans	1-hydroxy-2-unsubstituted benzenoids	1-hydroxy-4-unsubstituted benzenoids	3'-hydroxyflavonoids	3-hydroxyflavonoids	4'-hydroxyflavonoids	5-hydroxyflavonoids	7-hydroxyflavonoids	Alcohols and polyols	Benzene and substituted derivatives	Benzenediols	Benzenoids	Benzopyrans	Catechols	Chemical entities	Chromones	Flavones	Flavonoids	Flavonols	Heteroaromatic compounds	Hydrocarbon derivatives	Hydroxyflavonoids	Organic acids and derivatives	Organic compounds	Organic oxides	Organic oxygen compounds	Organoheterocyclic compounds	Organooxygen compounds	Oxacyclic compounds	Phenols	Phenylpropanoids and polyketides	Polyols	Pyranones and derivatives	Pyrans	Vinylogous acids
+> <External Descriptors>
+pentahydroxyflavone (CHEBI, CHEBI:16243)	7-hydroxyflavonol (CHEBI, CHEBI:16243)	flavonols (KEGG, C00389)	Flavones and Flavonols (KEGG, C00389)	Flavones and Flavonols (LIPID MAPS, LMPK12110004)
+$$$$
+Q5998215-2
+Mrv1568 12281606402D          
+
+ 21 23  0  0  0  0            999 V2000
+   -2.1434   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 13 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+  8 21  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=IYRMWMYZSQPJKC-UHFFFAOYSA-N
+> <SMILES>
+OC1=CC=C(C=C1)C1=C(O)C(=O)C2=C(O)C=C(O)C=C2O1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Phenylpropanoids and polyketides
+> <Class>
+Flavonoids
+> <Subclass>
+Flavones
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Flavonols
+> <Alternative Parents>
+7-hydroxyflavonoids	5-hydroxyflavonoids	4'-hydroxyflavonoids	3-hydroxyflavonoids	Chromones	Pyranones and derivatives	1-hydroxy-4-unsubstituted benzenoids	1-hydroxy-2-unsubstituted benzenoids	Benzene and substituted derivatives	Vinylogous acids	Heteroaromatic compounds	Polyols	Oxacyclic compounds	Organic oxides	Hydrocarbon derivatives
+> <Molecular Framework>
+Aromatic heteropolycyclic compounds
+> <Substituents>
+3-hydroxyflavone	3-hydroxyflavonoid	4'-hydroxyflavonoid	5-hydroxyflavonoid	7-hydroxyflavonoid	Hydroxyflavonoid	Chromone	Benzopyran	1-benzopyran	1-hydroxy-4-unsubstituted benzenoid	1-hydroxy-2-unsubstituted benzenoid	Phenol	Pyranone	Monocyclic benzene moiety	Pyran	Benzenoid	Heteroaromatic compound	Vinylogous acid	Polyol	Organoheterocyclic compound	Oxacycle	Organic oxygen compound	Organooxygen compound	Hydrocarbon derivative	Organic oxide	Aromatic heteropolycyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as flavonols. These are compounds that contain a flavone (2-phenyl-1-benzopyran-4-one) backbone carrying a hydroxyl group at the 3-position.
+> <Ancestors>
+1-benzopyrans	1-hydroxy-2-unsubstituted benzenoids	1-hydroxy-4-unsubstituted benzenoids	3-hydroxyflavonoids	4'-hydroxyflavonoids	5-hydroxyflavonoids	7-hydroxyflavonoids	Alcohols and polyols	Benzene and substituted derivatives	Benzenoids	Benzopyrans	Chemical entities	Chromones	Flavones	Flavonoids	Flavonols	Heteroaromatic compounds	Hydrocarbon derivatives	Hydroxyflavonoids	Organic acids and derivatives	Organic compounds	Organic oxides	Organic oxygen compounds	Organoheterocyclic compounds	Organooxygen compounds	Oxacyclic compounds	Phenols	Phenylpropanoids and polyketides	Polyols	Pyranones and derivatives	Pyrans	Vinylogous acids
+> <External Descriptors>
+tetrahydroxyflavone (CHEBI, CHEBI:28499)	flavonols (CHEBI, CHEBI:28499)	7-hydroxyflavonol (CHEBI, CHEBI:28499)	flavonols (KEGG, C05903)	Flavones and Flavonols (KEGG, C05903)	Flavones and Flavonols (LIPID MAPS, LMPK12110003)
+$$$$

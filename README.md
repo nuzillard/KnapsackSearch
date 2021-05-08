@@ -228,3 +228,38 @@ This directory reports the details of my computer installation relatively to pyt
 # LOTUS
 
 This directory is about LOTUS, a natural product knowledge base. LOTUS might well supersede KNApSAcK.
+
+# ClassyFire
+
+KNApSAcK provides molecular structures selected according to biological taxonomy. These structures can be enriched with chemical taxonomy data
+from ClassyFire.
+
+[ClassyFire](http://classyfire.wishartlab.com/) provides a chemical classification of compounds from the description of their molecular stucture.
+A Python Classyfire API can be downloaded from [here](https://github.com/JamesJeffryes/pyclassyfire).
+From a RDKit envivronment run `python setup.py install` to install the *pyclassyfire* package.
+
+The `classyfy.py` module is a very simple wrapper around `pyclassyfire`.
+From directory Classyfire:
+
+`python -m classyfy flavonoids.sdf` (call with 1 argument)
+
+creates `flavonoids_classified.sdf` from `flavonoids.sdf` and
+
+`python -m classyfy flavonoids.sdf myfile.sdf` (call with 2 arguments)
+
+creates `myfile.sdf` from `flavonoids.sdf`.
+
+Be patient. The resulting files look like SDF files but are syntactically incorrect and cannot be used directly.
+
+`python -m importClassyf flavonoids.sdf flavonoids_classified.sdf flavonoids_classified_merged.sdf` (call with 3 arguments)
+
+creates `flavonoids_classified_merged.sdf`, a copy of `flavonoids.sdf` to which classification data from `flavonoids_classified.sdf` is appended.
+
+`python -m importClassyf flavonoids.sdf flavonoids_classified.sdf` (call with 2 arguments)
+
+supplements `flavonoids.sdf` with classification data from `flavonoids_classified.sdf`. The original content of `flavonoids.sdf` is overwritten.
+
+`classyfy.py` and `importClassyf.py` rely on SDFrw and not on RDKit for the handling of the SDF files.
+
+See also [pybatchclassyfire](https://pypi.org/project/pybatchclassyfire/).
+

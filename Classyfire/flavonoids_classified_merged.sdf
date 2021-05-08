@@ -1,0 +1,224 @@
+5280343
+  -OEChem-04062016542D
+
+ 32 34  0     0  0  0  0  0  0999 V2000
+    6.0682   -0.2704    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8003    1.7296    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3198    2.7642    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0682    2.7296    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5381   -0.2945    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6663   -2.7704    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3984   -1.7704    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2022    1.2296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2022    0.2296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9343    0.2296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8003   -0.2704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9343    1.2296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0682    1.7296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3083    1.7643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3083   -0.3051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4022    0.2088    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8003   -1.2704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4022    1.2504    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6663    0.2296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6663   -1.7704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5323   -0.2704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5323   -1.2704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3154   -0.9250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2634   -1.5804    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8665    1.5625    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6663    0.8496    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0693    0.0396    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8003    2.3496    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7865    3.0804    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.0134    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1294   -3.0804    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9353   -1.4604    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 28  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 29  1  0  0  0  0
+  4 13  2  0  0  0  0
+  5 16  1  0  0  0  0
+  5 30  1  0  0  0  0
+  6 20  1  0  0  0  0
+  6 31  1  0  0  0  0
+  7 22  1  0  0  0  0
+  7 32  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  2  0  0  0  0
+  9 15  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 17  2  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 23  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 20  1  0  0  0  0
+ 17 24  1  0  0  0  0
+ 18 25  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 19 26  1  0  0  0  0
+ 20 22  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 27  1  0  0  0  0
+M  END
+>  <ClassyFire_InChIKey>
+InChIKey=REFJWTPEDVJJIY-UHFFFAOYSA-N
+
+>  <ClassyFire_SMILES>
+OC1=CC(O)=C2C(OC(=C(O)C2=O)C2=CC(O)=C(O)C=C2)=C1
+
+>  <ClassyFire_Kingdom>
+Organic compounds
+
+>  <ClassyFire_Superclass>
+Phenylpropanoids and polyketides
+
+>  <ClassyFire_Class>
+Flavonoids
+
+>  <ClassyFire_Subclass>
+Flavones
+
+>  <ClassyFire_Intermediate Nodes>
+
+>  <ClassyFire_Direct Parent>
+Flavonols
+
+>  <ClassyFire_Alternative Parents>
+3'-hydroxyflavonoids | 3-hydroxyflavonoids | 4'-hydroxyflavonoids | 5-hydroxyflavonoids | 7-hydroxyflavonoids | Chromones | Catechols | 1-hydroxy-2-unsubstituted benzenoids | Pyranones and derivatives | 1-hydroxy-4-unsubstituted benzenoids | Benzene and substituted derivatives | Vinylogous acids | Heteroaromatic compounds | Oxacyclic compounds | Polyols | Hydrocarbon derivatives | Organic oxides
+
+>  <ClassyFire_Molecular Framework>
+Aromatic heteropolycyclic compounds
+
+>  <ClassyFire_Substituents>
+3-hydroxyflavone | 3'-hydroxyflavonoid | 3-hydroxyflavonoid | 4'-hydroxyflavonoid | 5-hydroxyflavonoid | 7-hydroxyflavonoid | Hydroxyflavonoid | Chromone | Benzopyran | 1-benzopyran | Catechol | 1-hydroxy-4-unsubstituted benzenoid | 1-hydroxy-2-unsubstituted benzenoid | Phenol | Pyranone | Benzenoid | Monocyclic benzene moiety | Pyran | Heteroaromatic compound | Vinylogous acid | Oxacycle | Organoheterocyclic compound | Polyol | Organic oxide | Organic oxygen compound | Hydrocarbon derivative | Organooxygen compound | Aromatic heteropolycyclic compound
+
+>  <ClassyFire_Structure-based description>
+This compound belongs to the class of organic compounds known as flavonols. These are compounds that contain a flavone (2-phenyl-1-benzopyran-4-one) backbone carrying a hydroxyl group at the 3-position.
+
+>  <ClassyFire_Ancestors>
+1-benzopyrans | 1-hydroxy-2-unsubstituted benzenoids | 1-hydroxy-4-unsubstituted benzenoids | 3'-hydroxyflavonoids | 3-hydroxyflavonoids | 4'-hydroxyflavonoids | 5-hydroxyflavonoids | 7-hydroxyflavonoids | Alcohols and polyols | Benzene and substituted derivatives | Benzenediols | Benzenoids | Benzopyrans | Catechols | Chemical entities | Chromones | Flavones | Flavonoids | Flavonols | Heteroaromatic compounds | Hydrocarbon derivatives | Hydroxyflavonoids | Organic acids and derivatives | Organic compounds | Organic oxides | Organic oxygen compounds | Organoheterocyclic compounds | Organooxygen compounds | Oxacyclic compounds | Phenols | Phenylpropanoids and polyketides | Polyols | Pyranones and derivatives | Pyrans | Vinylogous acids
+
+>  <ClassyFire_External Descriptors>
+pentahydroxyflavone (CHEBI, CHEBI:16243) | 7-hydroxyflavonol (CHEBI, CHEBI:16243) | flavonols (KEGG, C00389) | Flavones and Flavonols (KEGG, C00389) | Flavones and Flavonols (LIPID MAPS, LMPK12110004)
+
+$$$$
+5280863
+  -OEChem-04162017232D
+
+ 31 33  0     0  0  0  0  0  0999 V2000
+    6.0682   -0.6154    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8003    1.3846    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3198    2.4192    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0682    2.3846    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5381   -0.6395    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3984   -2.1154    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2022    0.8846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2022   -0.1154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9343   -0.1154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0682    1.3846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9343    0.8846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8003   -0.6154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3083    1.4193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3083   -0.6501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4022   -0.1362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4022    0.9054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6663   -0.1154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8003   -1.6154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5323   -0.6154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6663   -2.1154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5323   -1.6154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3154   -1.2700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8665    1.2175    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6663    0.5046    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2634   -1.9254    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0693   -0.3054    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6663   -2.7354    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8003    2.0046    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7865    2.7354    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.3316    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3984   -2.7354    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 28  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 29  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5 15  1  0  0  0  0
+  5 30  1  0  0  0  0
+  6 21  1  0  0  0  0
+  6 31  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8 14  2  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 17  2  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 22  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 23  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 24  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 25  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 19 26  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 27  1  0  0  0  0
+M  END
+>  <ClassyFire_InChIKey>
+InChIKey=IYRMWMYZSQPJKC-UHFFFAOYSA-N
+
+>  <ClassyFire_SMILES>
+OC1=CC=C(C=C1)C1=C(O)C(=O)C2=C(O)C=C(O)C=C2O1
+
+>  <ClassyFire_Kingdom>
+Organic compounds
+
+>  <ClassyFire_Superclass>
+Phenylpropanoids and polyketides
+
+>  <ClassyFire_Class>
+Flavonoids
+
+>  <ClassyFire_Subclass>
+Flavones
+
+>  <ClassyFire_Intermediate Nodes>
+
+>  <ClassyFire_Direct Parent>
+Flavonols
+
+>  <ClassyFire_Alternative Parents>
+7-hydroxyflavonoids | 5-hydroxyflavonoids | 4'-hydroxyflavonoids | 3-hydroxyflavonoids | Chromones | Pyranones and derivatives | 1-hydroxy-4-unsubstituted benzenoids | 1-hydroxy-2-unsubstituted benzenoids | Benzene and substituted derivatives | Vinylogous acids | Heteroaromatic compounds | Polyols | Oxacyclic compounds | Organic oxides | Hydrocarbon derivatives
+
+>  <ClassyFire_Molecular Framework>
+Aromatic heteropolycyclic compounds
+
+>  <ClassyFire_Substituents>
+3-hydroxyflavone | 3-hydroxyflavonoid | 4'-hydroxyflavonoid | 5-hydroxyflavonoid | 7-hydroxyflavonoid | Hydroxyflavonoid | Chromone | Benzopyran | 1-benzopyran | 1-hydroxy-4-unsubstituted benzenoid | 1-hydroxy-2-unsubstituted benzenoid | Phenol | Pyranone | Monocyclic benzene moiety | Pyran | Benzenoid | Heteroaromatic compound | Vinylogous acid | Polyol | Organoheterocyclic compound | Oxacycle | Organic oxygen compound | Organooxygen compound | Hydrocarbon derivative | Organic oxide | Aromatic heteropolycyclic compound
+
+>  <ClassyFire_Structure-based description>
+This compound belongs to the class of organic compounds known as flavonols. These are compounds that contain a flavone (2-phenyl-1-benzopyran-4-one) backbone carrying a hydroxyl group at the 3-position.
+
+>  <ClassyFire_Ancestors>
+1-benzopyrans | 1-hydroxy-2-unsubstituted benzenoids | 1-hydroxy-4-unsubstituted benzenoids | 3-hydroxyflavonoids | 4'-hydroxyflavonoids | 5-hydroxyflavonoids | 7-hydroxyflavonoids | Alcohols and polyols | Benzene and substituted derivatives | Benzenoids | Benzopyrans | Chemical entities | Chromones | Flavones | Flavonoids | Flavonols | Heteroaromatic compounds | Hydrocarbon derivatives | Hydroxyflavonoids | Organic acids and derivatives | Organic compounds | Organic oxides | Organic oxygen compounds | Organoheterocyclic compounds | Organooxygen compounds | Oxacyclic compounds | Phenols | Phenylpropanoids and polyketides | Polyols | Pyranones and derivatives | Pyrans | Vinylogous acids
+
+>  <ClassyFire_External Descriptors>
+tetrahydroxyflavone (CHEBI, CHEBI:28499) | flavonols (CHEBI, CHEBI:28499) | 7-hydroxyflavonol (CHEBI, CHEBI:28499) | flavonols (KEGG, C05903) | Flavones and Flavonols (KEGG, C05903) | Flavones and Flavonols (LIPID MAPS, LMPK12110003)
+
+$$$$
