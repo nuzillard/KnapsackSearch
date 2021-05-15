@@ -125,24 +125,40 @@ and reformatted under the CNMR_SHIFTS tag.
 File `fake_acd_quercetin2D.sdf` can be imported to an ACD DB to produce
 database file `fake_acd_quercetin2D.NMRUDB`.
 
-### novalence.py
+### rdcharge.py
 
-`python novalence.py filename.sdf filename_elec.sdf`
+`python rdcharge.py filename.sdf filename_elec.sdf`
 
 creates `filename_elec.sdf` from `filename.sdf`. This is necessary when .sdf files from RDKit are produced to be 
-read by ACD software. `novalence.py` corrects the description of electrically charged atom, for which RDKit
+read by ACD software. `rdcharge.py` corrects the description of electrically charged atom, for which RDKit
 issues a non-zero valence information field that is not correctly interpreted by ACD and inhibits
-the prediction of chemical shift values. `novalence.py` is included in the script `process.py` of KnapsackSearch.
-`novalence.py` relies on `mySDWriter.py`.
+the prediction of chemical shift values. `rdcharge.py` is included in the script `process.py` of KnapsackSearch.
 
-`python novalence.py filename.sdf`
+`python rdcharge.py filename.sdf`
 
 applies an in-place correction.
 
-`python mySDWriter.py`
+### uniqInChI.py
 
-prints a simple demo of the `mySDWriter.py` module. It shows how RDKit writes a mol block for a molecule
-with electrically charged atoms and how `mySDWriter.py` resets to 0 the valence information field.
+`python uniqInChI.py filename.sdf filename_uniq.sdf`
+
+creates `filename_uniq.sdf` from `filename.sdf`. This is necessary when .sdf files
+contain duplicate compounds, according to the corresponding InChI.
+
+`python uniqInChI.py filename.sdf`
+
+applies an in-place elimination of duplicates.
+
+### tautomer.py
+
+`python tautomer.py filename.sdf filename_tauto.sdf`
+
+creates `filename_tauto.sdf` from `filename.sdf` in which tautomer correction was applied.
+Among others aliphatic iminols are converted to amides.
+
+`python tautomer.py filename.sdf`
+
+applies an in-place conversion of tautomers.
 
 # Quick ACD DB with calculated experimental 13C NMR data
 

@@ -33,6 +33,9 @@ The result looks like:
 	export	oryza.sdf
 	close
 
+python -m uniqInChI oryza.sdf
+python -m tautomer oryza.sdf
+python -m rdcharge oryza.sdf
 python -m fakefakeACD oryza.sdf
 		--> fake_acd_oryza.sdf
 
@@ -48,7 +51,7 @@ python -m CNMR_predict fake_acd_oryza_exported.sdf true_acd_oryza.sdf
 	new DB	lotus_oryza.NMRUDB
 	import	true_acd_oryza.sdf
 	Check Chemical Shifts
-	export	lotus_oryza.sdf
+#	export	lotus_oryza.sdf
 	close
 ~~~
 
@@ -66,6 +69,12 @@ This list of instructions translates in practice into:
 Use the reminder file to document the changes you brought to the DB
 
 - Export the DB as `oryza.sdf` and close this DB. Exportation in SDF V2000 format.
+
+- Cut-and-paste `python -m uniqInChI oryza.sdf` to the command line interpreter to remove the duplicated compounds according to the InChI strings
+
+- Cut-and-paste `python -m tautomer oryza.sdf` to the command line interpreter to convert iminols to amides
+
+- Cut-and-paste `python -m rdcharge oryza.sdf` to the command line interpreter to allow the ACD software to correctly interprete compounds that contain electrically charged atoms.
 
 - Cut-and-paste `python -m fakefakeACD oryza.sdf` to the command line interpreter to create `fake_acd_oryza.sdf`
 with dummy <sup>13</sup>C NMR chemical shift values inside (99.99 for all carbon atoms).
@@ -86,11 +95,11 @@ with dummy <sup>13</sup>C NMR chemical shift values inside (99.99 for all carbon
 
 - In ACD software, run Database->Tools->Check Chemical Shifts
 
-- Export DB as `lotus_oryza.sdf` and close DB (or keep it open to start doing something with it)
+- Export DB as `lotus_oryza.sdf` (optional) and close DB (or keep it open to start doing something with it)
 
 The DB named `lotus_oryza.NMRUDB` is ready for compound search according to ACD-predicted <sup>13</sup>C NMR chemical shifts values.
 
-The file `lotus_oryza.sdf.zip`, a zipped archive file of `lotus_oryza.sdf`, is available for reloading in an ACD database
+The file `true_acd_oryza.sdf.zip`, a zipped archive file of `trueacd_oryza.sdf`, is available for reloading in an ACD database
 
 Reminder file `templateB.txt` is almost identical to `templateA.txt` but uses initially <sup>13</sup>C NMR chemical shift
 values predicted by nmrshiftdb2 instead of dummy ones.

@@ -100,7 +100,7 @@ nmr_tags.py:
 	writes: familyname_knapsack.sdf
 """
 
-command = "python novalence.py " + family + "_knapsack.sdf"
+command = "python rdcharge.py " + family + "_knapsack.sdf"
 run_command(command)
 """
 novalence.py:

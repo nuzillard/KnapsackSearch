@@ -1,8 +1,13 @@
+With nmrshiftdb2 chemical shift prediction
+
 	new DB	***.NMRUDB
 	import	lotus_simple_search_result.sdf
 	export	***.sdf
 	close
 
+python -m uniqInChI cannabis.sdf
+python -m tautomer cannabis.sdf
+python -m rdcharge cannabis.sdf
 python -m addnmrsdb ***.sdf
 		--> nmrsdb_***.sdf
 python -m fakeACD nmrsdb_***.sdf
@@ -20,5 +25,5 @@ python -m CNMR_predict fake_acd_***_exported.sdf true_acd_***.sdf
 	new DB	lotus_***.NMRUDB
 	import	true_acd_***.sdf
 		Check Chemical Shifts
-	export	lotus_***.sdf
+#	export	lotus_***.sdf
 	close
