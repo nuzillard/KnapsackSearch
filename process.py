@@ -1,16 +1,15 @@
 """
 process.py;
 	reads: familyname_genera.txt
-	writes: familyname.nmredata.sdf
+	writes: familyname_knapsack.sdf
 
 familyname_genera.txt: from wikipedia, interrogation by organism family. See example files and source code of family_from_web.py.
-familyname.nmredata.txt: for EdiSdf or any other SDF file reader. Includes MolBlock, InChI, SMILES, 
-	formula, Names, molecular mass, presence of nitrogen, organism binomial_name, and 13C NMR chemical shift prediction
-	in NMReDATA assignment format.
+familyname_knapsack.sdf: for EdiSdf or any other SDF file reader. Includes MolBlock, InChI, SMILES, 
+	formula, Names, molecular mass, presence of nitrogen, organism binomial_name, and 13C NMR chemical shift prediction.
 
-called by: python process.py familyname
+called by: python -m process familyname
 
-The file familyname_genera.txt is transformed into the file familyname.nmredata.txt
+The file familyname_genera.txt is transformed into the file familyname_knapsack.sdf
 using through-web requests to KNApSAcK, molecular data conversion and drawing by RDKit, and 13C NMR chemical shift calculation by nmrshiftdb2
 """
 
@@ -31,7 +30,7 @@ def run_command(command):
 family = sys.argv[1]
 # get family name from command line
 
-command = "python family_from_web.py " + family
+command = "python -m family_from_web " + family
 run_command(command)
 """
 family_from_web.py:
@@ -39,7 +38,7 @@ family_from_web.py:
 	writes: familyname_cid_species.txt
 """
 
-command = "python family_cids.py " + family
+command = "python -m family_cids " + family
 run_command(command)
 """
 family_cids.py:
@@ -48,7 +47,7 @@ family_cids.py:
 	writes: familyname_cid_all_species.txt
 """
 
-command = "python compounds.py " + family
+command = "python -m compounds " + family
 run_command(command)
 """
 compounds.py:
@@ -56,7 +55,7 @@ compounds.py:
 	writes: familyname_pickled
 """
 
-command = "python make_2D_sdf.py " + family
+command = "python -m make_2D_sdf " + family
 run_command(command)
 """
 make_2D_sdf.py:
@@ -64,7 +63,7 @@ make_2D_sdf.py:
 	writes: familyname_2D.sdf
 """
 
-command = "python basic_tags.py " + family
+command = "python -m basic_tags " + family
 run_command(command)
 """
 basic_tags.py:
@@ -83,7 +82,7 @@ predict_sdf.bat:
 	writes: standard error, redirected to errorlog.txt
 """
 
-command = "python molsort.py " + family
+command = "python -m molsort " + family
 run_command(command)
 """
 molsort.py:
@@ -91,7 +90,7 @@ molsort.py:
 	writes: familyname_2D_nmr_sorted.txt
 """
 
-command = "python nmr_tags.py " + family
+command = "python -m nmr_tags " + family
 run_command(command)
 """
 nmr_tags.py:
@@ -100,10 +99,10 @@ nmr_tags.py:
 	writes: familyname_knapsack.sdf
 """
 
-command = "python rdcharge.py " + family + "_knapsack.sdf"
+command = "python -m rdcharge " + family + "_knapsack.sdf"
 run_command(command)
 """
-novalence.py:
+rdcharge.py:
 	reads: familyname_knapsack.sdf
 	writes: familyname_knapsack.sdf
 """

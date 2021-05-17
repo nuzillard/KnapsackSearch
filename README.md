@@ -17,23 +17,29 @@ Data are then extracted from KNApSAcK for each compound, such as elemental formu
 
 The SMILES character strings are processed by [RDKit](https://www.rdkit.org/) to create a single SDF file that also contains 2D atomic coordinates.
 
-Each compound is associated to a list of carbon-13 NMR chemical shifts predicted by [nmrshiftdb2](https://nmrshiftdb.nmr.uni-koeln.de/) under the NMRSHIFTDB2_ASSIGNMENT SDF tag.
+Each compound is associated to a list of carbon-13 NMR chemical shifts predicted
+by [nmrshiftdb2](https://nmrshiftdb.nmr.uni-koeln.de/) under the NMRSHIFTDB2_ASSIGNMENT SDF tag.
 
-The whole KnapsackSearch process transforms the file *familyname*_genera.txt into the file *familyname*_knapsack.sdf. See file data_flow.txt and comments in the python scripts for the content of the eight intermediate files.
+The whole KnapsackSearch process transforms the file *familyname*_genera.txt into the file *familyname*_knapsack.sdf. 
+See file data_flow.txt and comments in the python scripts for the content of the eight intermediate files.
 
-The molecules built from SMILES strings are converted to InChI strings. The molecules for which this recalculated InChI string is different from the original one are discarded from the final result file. Discrepancies seem to arise from atom configuration differences.
+The molecules built from SMILES strings are converted to InChI strings.
+The molecules for which this recalculated InChI string is different from
+the original one are discarded from the final result file. Discrepancies seem to arise from atom configuration differences.
 
 ## Installation
 
-Install rdkit from [Anaconda](https://www.anaconda.com/distribution/) as recommended in https://www.rdkit.org/docs/Install.html, if not already done.
+Install rdkit from [Anaconda](https://www.anaconda.com/distribution/) as
+recommended in https://www.rdkit.org/docs/Install.html, if not already done.
 
 Install the python *requests* module from the rdkit environment (`conda install requests`)
 
 Install a [Java runtime environment](https://www.java.com/fr/download/) (jre) if not already done.
 
-Windows: Change the first part of the command in file predictSdf.bat, so that what is written between double quotes is the path to the java executable. It may be simply "java" if Java was installed by the default way. A non-default way can be to install first Java by the default way, copy the jre folder at the place you like and uninstall Java. This non-default Java installation may be desired to avoid being regularly warned by the messages sent by the Java updating service.
+See below section *MyInstallation* for updated installation instructions.
 
-Linux and Mac: Copy the files in the MacLinux folder to the main folder. Ensure that file predictSdf has execution permission.
+Linux and Mac: Replace process.py by MacLinux/process.py and predictSdf.bat by MacLinux/predictSdf.
+Ensure that the script file predictSdf has execution permission.
 
 [Notepad++](https://notepad-plus-plus.org/downloads/) is the recommended text editor for Windows.
 
@@ -47,7 +53,11 @@ The file *familyname*_genera.txt may contain lines of three kinds:
 2. Lines that start with a # sign, considered as a comment
 3. Lines with a single word, standing for a *genus* name, starting with an upper-case letter (A-Z)
 
-Enter command `python process.py familyname` from the rdkit environment. As an example run `python process.py papaver` to collect data about compounds reported in KNApSAcK from Papaveraceae, according to the list of genera written in file papaver_genera.txt. On April 9, 2020, the resulting papaver_knapsack.sdf file contained 458 molecules. Other examples can be found in the Examples directory.
+Enter command `python -m process familyname` from the rdkit environment.
+As an example run `python -m process papaver` to collect data about compounds reported in KNApSAcK from Papaveraceae,
+according to the list of genera written in file papaver_genera.txt.
+On April 9, 2020, the resulting papaver_knapsack.sdf file contained 458 molecules.
+Other examples can be found in the Examples directory.
 
 The list of genera that belong to a given family can be found by means of the [NCBI Taxonomy tool](https://www.ncbi.nlm.nih.gov/taxonomy).
 
@@ -81,7 +91,7 @@ The Fake_ACD_Results directory contains the files produced by the following test
 
 See [SDFrw](https://github.com/nuzillard/SDFrw) for sdfrw.py. 
 
-`python sdfrw.py quercetin2D.sdf`
+`python -m sdfrw quercetin2D.sdf`
 
 creates `copied_quercetin2D.sdf`, a copy of `quercetin2D.sdf`.
 
@@ -89,7 +99,7 @@ This test can be skipped and is only there to ensure that the following ones wil
 
 ### addnmrsdb.py
 
-`python addnmrsdb.py quercetin2D.sdf`
+`python -m addnmrsdb quercetin2D.sdf`
 
 creates `nmrsdb_quercetin2D.sdf`, a copy of `quercetin2D.sdf` with
 added chemical shifts values from nmrshiftdb2.
@@ -103,7 +113,7 @@ has an nmrshiftdb2-predicted chemical shift value of 105.34 ppm.
 
 ### fakeACD.py
 
-`python fakeACD.py nmrsdb_quercetin2D.sdf`
+`python -m fakeACD nmrsdb_quercetin2D.sdf`
 
 creates `fake_acd_nmrsdb_quercetin2D.sdf`, a copy of `nmrsdb_quercetin2D.sdf` with
 original chemical shifts values from nmrshiftdb2 formatted in the style of `addnmrsdb.py`
@@ -116,7 +126,7 @@ fakeACD.py can process output files from KnapsackSearch.
 
 ### fakefakeACD.py
 
-`python fakefakeACD.py quercetin2D.sdf`
+`python -m fakefakeACD quercetin2D.sdf`
 
 creates `fake_acd_quercetin2D.sdf`, a copy of `quercetin2D.sdf` with
 very fake (99.99) chemical shifts values in the style of `addnmrsdb.py`
@@ -127,36 +137,36 @@ database file `fake_acd_quercetin2D.NMRUDB`.
 
 ### rdcharge.py
 
-`python rdcharge.py filename.sdf filename_elec.sdf`
+`python -m rdcharge filename.sdf filename_elec.sdf`
 
 creates `filename_elec.sdf` from `filename.sdf`. This is necessary when .sdf files from RDKit are produced to be 
 read by ACD software. `rdcharge.py` corrects the description of electrically charged atom, for which RDKit
 issues a non-zero valence information field that is not correctly interpreted by ACD and inhibits
 the prediction of chemical shift values. `rdcharge.py` is included in the script `process.py` of KnapsackSearch.
 
-`python rdcharge.py filename.sdf`
+`python -m rdcharge filename.sdf`
 
 applies an in-place correction.
 
 ### uniqInChI.py
 
-`python uniqInChI.py filename.sdf filename_uniq.sdf`
+`python -m uniqInChI filename.sdf filename_uniq.sdf`
 
 creates `filename_uniq.sdf` from `filename.sdf`. This is necessary when .sdf files
 contain duplicate compounds, according to the corresponding InChI.
 
-`python uniqInChI.py filename.sdf`
+`python -m uniqInChI filename.sdf`
 
 applies an in-place elimination of duplicates.
 
 ### tautomer.py
 
-`python tautomer.py filename.sdf filename_tauto.sdf`
+`python -m tautomer filename.sdf filename_tauto.sdf`
 
 creates `filename_tauto.sdf` from `filename.sdf` in which tautomer correction was applied.
 Among others aliphatic iminols are converted to amides.
 
-`python tautomer.py filename.sdf`
+`python -m tautomer filename.sdf`
 
 applies an in-place conversion of tautomers.
 
@@ -198,15 +208,16 @@ formatted for ACD produces a .sdf file suitable with a use by the
 The example file `small.smi` contains 2 lines, one for quercetin and the other one for resveratrol.
 Their SMILES chains were copied from Wikipedia.
 
-See `tutorial_CNMR_Predict.pdf` for detailed explanations
+See `tutorial_CNMR_Predict.pdf` for detailed explanations.
+
 
 Running the example requires an RDKit environment.
 
-1. `python smi2ACD.py small.smi fake_acd_small.sdf`
+1. `python -m smi2ACD small.smi fake_acd_small.sdf`
 2. Create DB `fake_acd_small.NMRUDB` and import `fake_acd_small.sdf`
 3. Calculate 13C NMR chemical shifts in ACD/Labs DB: Database->Tools->Check Chemical Shifts
 4. Export DB as `fake_acd_small_exported.sdf`
-5. `python CNMR_predict.py fake_acd_small_exported.sdf calc_acd_small.sdf` copies calculated data as if they were experimental.
+5. `python -m CNMR_predict fake_acd_small_exported.sdf calc_acd_small.sdf` copies calculated data as if they were experimental.
 6. Create DB `calc_acd_small.NMRUDB` and import `calc_acd_small.sdf`
 7. Calculate again 13C NMR chemical shifts: Database->Tools->Check Chemical Shifts
 
@@ -224,14 +235,13 @@ Files in directory `Small_results` were created from `small.smi` in the followin
 ## Example 2
 
 Starting for `papaver_knapsack.sdf` as obtained hereabove from `papaver_genera.txt`
-and copied in directory `CNMR_Predict`, an ACD database with 13C chemical shifts
-from ACD may be produced as follows:
+an ACD database with 13C chemical shifts from ACD may be produced as follows:
 
-1. `python ..\fakeACD.py papaver_knapsack.sdf` creates `fake_acd_papaver_knapsack.sdf`
+1. `python -m fakeACD.py papaver_knapsack.sdf` creates `fake_acd_papaver_knapsack.sdf`
 2. Create DB `fake_acd_papaver_ks.NMRUDB` and import `fake_acd_papaver_knapsack.sdf`
 3. Calculate 13C NMR chemical shifts in ACD/Labs DB: Database->Tools->Check Chemical Shifts
 4. Export DB as `fake_acd_papaver_ks_exported.sdf`
-5. `python CNMR_predict.py fake_acd_papaver_ks_exported.sdf calc_acd_papaver_ks.sdf` copies calculated data as if they were experimental.
+5. `python -m CNMR_predict.py fake_acd_papaver_ks_exported.sdf calc_acd_papaver_ks.sdf` copies calculated data as if they were experimental.
 6. Create DB `calc_acd_papaver_ks.NMRUDB` and import `calc_acd_papaver_ks.sdf`
 7. Calculate again 13C NMR chemical shifts: Database->Tools->Check Chemical Shifts
 
@@ -247,7 +257,8 @@ This directory is about LOTUS, a natural product knowledge base. LOTUS might wel
 
 # ClassyFire
 
-KNApSAcK provides molecular structures selected according to biological taxonomy. These structures can be enriched with chemical taxonomy data
+KNApSAcK provides molecular structures selected according to biological taxonomy.
+These structures can be enriched with chemical taxonomy data
 from ClassyFire.
 
 [ClassyFire](http://classyfire.wishartlab.com/) provides a chemical classification of compounds from the description of their molecular stucture.
