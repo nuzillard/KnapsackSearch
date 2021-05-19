@@ -1,0 +1,27 @@
+Without nmrshiftdb2 chemical shift prediction
+
+	new DB	turnip.NMRUDB
+	import	lotus_simple_search_result.sdf
+	export	turnip.sdf
+	close
+
+python -m uniqInChI turnip.sdf
+python -m tautomer turnip.sdf
+python -m rdcharge turnip.sdf
+python -m fakefakeACD turnip.sdf
+		--> fake_acd_turnip.sdf
+
+	new DB	fake_acd_turnip.NMRUDB
+	import	fake_acd_turnip.sdf
+	Check Chemical Shifts
+	export	fake_acd_turnip_exported.sdf
+	close
+	
+python -m CNMR_predict fake_acd_turnip_exported.sdf true_acd_turnip.sdf
+		--> true_acd_turnip.sdf
+
+	new DB	lotus_turnip.NMRUDB
+	import	true_acd_turnip.sdf
+	Check Chemical Shifts
+#	export	lotus_turnip.sdf
+	close
