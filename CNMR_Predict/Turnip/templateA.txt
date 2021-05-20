@@ -1,4 +1,4 @@
-Without nmrshiftdb2 chemical shift prediction
+# Without nmrshiftdb2 chemical shift prediction
 
 	new DB	turnip.NMRUDB
 	import	lotus_simple_search_result.sdf
@@ -22,6 +22,6 @@ python -m CNMR_predict fake_acd_turnip_exported.sdf true_acd_turnip.sdf
 
 	new DB	lotus_turnip.NMRUDB
 	import	true_acd_turnip.sdf
-	Check Chemical Shifts
+#	Check Chemical Shifts
 #	export	lotus_turnip.sdf
 	close
