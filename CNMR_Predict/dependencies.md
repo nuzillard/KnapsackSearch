@@ -1,3 +1,5 @@
+- ACD/Labs C(+H) NMR Predictor + DB
+- a connexion to Internet
 - python3 (anaconda.org)
 - rdkit (rdkit.org)
 
