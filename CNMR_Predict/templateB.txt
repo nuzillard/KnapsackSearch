@@ -5,9 +5,9 @@
 	export	***.sdf
 	close
 
-python -m uniqInChI cannabis.sdf
-python -m tautomer cannabis.sdf
-python -m rdcharge cannabis.sdf
+python -m uniqInChI ***.sdf
+python -m tautomer ***.sdf
+python -m rdcharge ***.sdf
 python -m addnmrsdb ***.sdf
 		--> nmrsdb_***.sdf
 python -m fakeACD nmrsdb_***.sdf
