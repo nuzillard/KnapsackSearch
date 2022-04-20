@@ -110,7 +110,7 @@ def tautomer(pathIn, pathOut=""):
 			real = True
 			nb13 = len(ps.GetSubstructMatches(target13))
 			#print(nb13, "primary carbamate")
-			rxn11 = AllChem.ReactionFromSmarts('[C:1][O:2][CD3:3]([OH1:4])=[NH:5]>>[C:1][O:2][CD3:3](=[OH0D1:4])[NH2:5]')
+			rxn11 = AllChem.ReactionFromSmarts('[#6:1][O:2][CD3:3]([OH1:4])=[NH:5]>>[#6:1][O:2][CD3:3](=[OH0D1:4])[NH2:5]')
 			ps = rxn11.RunReactants((ps,))
 			ps = ps[0][0]
 			if nb13 != 1 :
