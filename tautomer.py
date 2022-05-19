@@ -33,7 +33,8 @@ smarts11 = "[NH1]=C([OH])([!O])" # primary iminol
 target11 = Chem.MolFromSmarts(smarts11)
 smarts12 = "[A&!H][NH0]=C([OH])O" # secondary carbamate
 target12 = Chem.MolFromSmarts(smarts12)
-smarts13 = "[NH]=C([OH])O" # primary carbamate
+# smarts13 = "[NH]=C([OH])O" # primary carbamate
+smarts13 = "[NH1]=C([OH])O" # primary carbamate
 target13 = Chem.MolFromSmarts(smarts13)
 smarts14 = "[CH]([OH])=N" # N-formyl
 target14 = Chem.MolFromSmarts(smarts14)
@@ -140,7 +141,8 @@ def tautomer(pathIn, pathOut=""):
 			real = True
 			nb11 = len(ps.GetSubstructMatches(target11))
 			#print(nb11, "primary iminol")
-			rxn11 = AllChem.ReactionFromSmarts('[CD3:1]([OH:2])=[NH:3]>>[CD3:1](=[OH0D1:2])[NH2:3]')
+#			rxn11 = AllChem.ReactionFromSmarts('[CD3:1]([OH:2])=[NH:3]>>[CD3:1](=[OH0D1:2])[NH2:3]')
+			rxn11 = AllChem.ReactionFromSmarts('[O:2][CD3:3]([OH1:4])=[NH1:5]>>[O:2][CD3:3](=[OH0D1:4])[NH2:5]')
 			ps = rxn11.RunReactants((ps,))
 			ps = ps[0][0]
 			if nb11 != 1 :
