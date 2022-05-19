@@ -111,7 +111,8 @@ def tautomer(pathIn, pathOut=""):
 			real = True
 			nb13 = len(ps.GetSubstructMatches(target13))
 			#print(nb13, "primary carbamate")
-			rxn11 = AllChem.ReactionFromSmarts('[#6:1][O:2][CD3:3]([OH1:4])=[NH:5]>>[#6:1][O:2][CD3:3](=[OH0D1:4])[NH2:5]')
+#			rxn11 = AllChem.ReactionFromSmarts('[#6:1][O:2][CD3:3]([OH1:4])=[NH:5]>>[#6:1][O:2][CD3:3](=[OH0D1:4])[NH2:5]')
+			rxn11 = AllChem.ReactionFromSmarts('[O:2][CD3:3]([OH1:4])=[NH1:5]>>[O:2][CD3:3](=[OH0D1:4])[NH2:5]')
 			ps = rxn11.RunReactants((ps,))
 			ps = ps[0][0]
 			if nb13 != 1 :
@@ -141,8 +142,7 @@ def tautomer(pathIn, pathOut=""):
 			real = True
 			nb11 = len(ps.GetSubstructMatches(target11))
 			#print(nb11, "primary iminol")
-#			rxn11 = AllChem.ReactionFromSmarts('[CD3:1]([OH:2])=[NH:3]>>[CD3:1](=[OH0D1:2])[NH2:3]')
-			rxn11 = AllChem.ReactionFromSmarts('[O:2][CD3:3]([OH1:4])=[NH1:5]>>[O:2][CD3:3](=[OH0D1:4])[NH2:5]')
+			rxn11 = AllChem.ReactionFromSmarts('[CD3:1]([OH:2])=[NH:3]>>[CD3:1](=[OH0D1:2])[NH2:3]')
 			ps = rxn11.RunReactants((ps,))
 			ps = ps[0][0]
 			if nb11 != 1 :
