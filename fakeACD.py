@@ -12,7 +12,7 @@ import os
 import sys
 import sdfrw
 
-molid = 1
+molid = 0
 # sorry for the global variable
 
 def acd_string_format(s):
@@ -44,8 +44,10 @@ def transform(mol):
 	global molid
 	nmrskey = "NMRSHIFTDB2_ASSIGNMENT"
 	acdkey = "CNMR_SHIFTS"
-	idkey = "ID"
-# sdf tag in use here	
+	idkey = "ID_fakeACD"
+# sdf tag in use here
+	molid += 1
+# prepare index for the current molecule	
 	if not sdfrw.sdfHasProp(mol, nmrskey):
 # is NMRSHIFTDB2_ASSIGNMENT missing in mol?
 		return mol
@@ -57,8 +59,7 @@ def transform(mol):
 	fake = acd_string_format(';'.join([str(n)+':'+d[0]+'|'+d[1] for (n, d) in enumerate(nmrs_parts)]))
 # make fake CNMR_SHIFTS value from NMRSHIFTDB2_ASSIGNMENT value
 	idline = str(molid)
-	molid += 1
-# build molecule index in file and prepare for the next one
+# build molecule index in file
 	ok, mol = sdfrw.sdfSetChangeProp(mol, acdkey, fake)
 # create the tag-value pair in the list of tag-values for ACD-style chemical shifts
 	ok, mol = sdfrw.sdfSetNoChangeProp(mol, idkey, idline)

@@ -58,8 +58,19 @@ def molsort(inputfilename, outputfilename):
 
 	with open(outputfilename, 'w') as fpOut:
 # open output file for writing
+		expected = 0
+# expected index for the current molecule, start at 0
 		for (molid, curmol) in sortedmols:
 # iterate through NMR data of molecules, molid is part one of the line in output
+			while expected != molid :
+# the expected molecule index is less than the one given by nmrshiftdb2
+# because there was a molecule without any carbon atom
+				fpOut.write('\n')
+# write a blank line instead of a line with atom and chemical shift data
+				expected += 1
+# increment expected so that it can reach molid, given by nmrshiftdb2
+			expected += 1
+# get expected ready for the next molecule
 			atomids = ' '.join([str(curatom[0]+1) for curatom in curmol])
 # collect atom indexes, atomids is part two of the line in output
 			chemshifts = ' '.join(["%.2f" % (curatom[1],) for curatom in curmol])
@@ -68,6 +79,7 @@ def molsort(inputfilename, outputfilename):
 # build line for output
 			fpOut.write(output_formatted)
 # write file to file named outputfilename
+
 
 def appendmol(curmolid, curmol, mols):
 	"""
@@ -84,3 +96,4 @@ if __name__ == "__main__":
 	outputfilename = "foobar_nmr_sorted.txt"
 	molsort(inputfilename, outputfilename)
 """
+
