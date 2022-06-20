@@ -38,10 +38,10 @@ was assigned to each carbon atom (99.99).
 The resulting chemical shift lists, one per compound, were formatted to be understood by the ACD/Labs software
 as if they were experimental chemical shifts. File fake_acd_lotusv7.sdf contains 201022 compounds.
 Action of scripts tautomer.py and rdcharge.py achieved in-place tautomer correction and charge/valence correction.
-Operations on structure files make use of the RDKit cheminformatics function library for SMILES chain interpretation, 2D structure diagram generation,
-tautomer correction and SDF structure file handling.
+Operations on structure files make use of the RDKit cheminformatics function library for SMILES chain interpretation,
+2D structure diagram generation, tautomer correction and SDF structure file handling.
 
-The splitter.py script applied to file fake_acd_lotusv7.sdf created 21 .sdf files in a dedicated sub-directory.
+The splitter.py script applied to file fake_acd_lotusv7.sdf created 21 .sdf files stored in a dedicated sub-directory.
 These pieces were named fake_acd_lotusv7_xx.sdf with xx ranging from 00 to 20, the 20 first ones contained 10,000 compounds each
 and the last one contained the remaining structures.
 Chemical shift prediction by ACD/Labs software using the validation algorithm was carried out on these sub-files.
