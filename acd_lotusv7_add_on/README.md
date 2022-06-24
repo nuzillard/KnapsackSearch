@@ -1,9 +1,3 @@
-Demo
-====
-
-Please have a look to the [video presentation](https://github.com/nuzillard/KnapsackSearch/tree/master/acd_lotusv7_add_on/acd_lotusv7.mp4).
-
-
 acd_lotus_v7.sdf
 ================
 
@@ -23,7 +17,6 @@ and others located in the parent directory:
 - ..\rdcharge.py
 - ..\CNMR_Predict\CNMR_predict.py
 - ..\sdfrw.py
-
 
 Recipe
 ======
