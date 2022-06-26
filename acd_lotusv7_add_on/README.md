@@ -3,6 +3,8 @@ acd_lotus_v7.sdf
 
 The acd_lotusv7 database is produced as an acd_lotus_v7.sdf file
 
+Web site https://nuzillard.github.io/acd_lotus/ gives access to publications related to acd_lotusv7.
+
 The production process involves the action of python scripts
 that include the ones in the current directory:
 
